@@ -1,0 +1,20 @@
+1) Divide o corpus em 
+    - Treino: 80% (de cada classe)
+    - Teste: 20%
+2) Processar e Anotar os textos (VISL, Cogroo, TreeTagger)
+    - Tokenizar (Segmentar em palavras)
+    - Normalizar (Lematizar: transforma, por exemplo, verbo flexionado em infinitivo)
+    - Anotar - POS (Part of Speech) (Classe Gramatical) Anota se a palavra é substantivo
+3) Pré_processamento: é sobre o arquivo treino
+    - Bag of Words: Lista de strings com as palavras mais relevantes (N campos da tabela)
+    a) n-gramas
+    * lista de n-gramas p/ classe
+    - Esporte (treino)
+    "O técnico errou na escalação"
+    n=1, lista de palavras: técnico, errar, escalação
+    n=2, lista de palavras: técnico errar, errar escalação
+    n=3, lista de palavras: técnico errar na, errar na escalação
+    b) escolher os termos (n-gramas) + relevantes
+    - n=1, lista geral(treino) das k termos + relevantes
+    - n=2, 
+    - n=3, 
