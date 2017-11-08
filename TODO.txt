@@ -18,3 +18,4 @@
     - n=1, lista geral(treino) das k termos + relevantes
     - n=2, 
     - n=3, 
+    
