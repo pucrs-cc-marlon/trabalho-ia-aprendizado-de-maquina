@@ -1,7 +1,3 @@
-[Comentários deste arquivo: Amostra com 74 textos do Diário Gaúcho On-line publicados
-em meses variados de 2013, assunto Seu Problema é nosso - relatos de problemas enfrentados pelos leitores como falta de infraestrutura e saúde pública]
-
-
 TEXTO 1
 <head> <edic><Diário Gaúcho 15 de maio 2013</edic>
 <autor>Amanda Munhoz, amanda.munhoz@diariogaucho.com.br</autor>

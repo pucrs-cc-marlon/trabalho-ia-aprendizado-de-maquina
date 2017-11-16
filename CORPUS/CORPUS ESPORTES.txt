@@ -1,6 +1,3 @@
-[Comentários deste arquivo: Amostra com 95 textos do Diário Gaúcho On-line publicados
-em meses variados de 2013, assunto ESPORTES com foco em Futebol]
-
 TEXTO 1
 <head> <edic><Diário Gaúcho 17/05/2013 | 07h32</edic>
 <autor>Kenny Braga, kenny.braga@diariogaucho.com.br</autor>

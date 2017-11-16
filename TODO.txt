@@ -5,7 +5,7 @@
     - Tokenizar (Segmentar em palavras)
     - Normalizar (Lematizar: transforma, por exemplo, verbo flexionado em infinitivo)
     - Anotar - POS (Part of Speech) (Classe Gramatical) Anota se a palavra é substantivo
-3) Pré_processamento: é sobre o arquivo treino
+3) Pré-processamento: é sobre o arquivo treino
     - Bag of Words: Lista de strings com as palavras mais relevantes (N campos da tabela)
     a) n-gramas
     * lista de n-gramas p/ classe
@@ -18,4 +18,3 @@
     - n=1, lista geral(treino) das k termos + relevantes
     - n=2, 
     - n=3, 
-    

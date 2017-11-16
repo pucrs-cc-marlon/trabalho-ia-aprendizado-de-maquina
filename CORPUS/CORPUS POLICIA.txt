@@ -1,7 +1,3 @@
-
-[Comentários deste arquivo: Amostra com 89 textos do Diário Gaúcho On-line publicados
-em meses variados de 2013, assunto Polícia]
-
 TEXTO 1
 <head> <edic><Diário Gaúcho 12/05/2013 | 11h31</edic>
 <autor></autor>
