@@ -20,9 +20,11 @@ class CriarWekaFiles:
         directory_bow_treino = os.path.join(BASE_DIR, 'CORPUS', 'TREINO', 'BoW', 'All')
         directory_bow_teste = os.path.join(BASE_DIR, 'CORPUS', 'TESTE', 'BoW', 'All')
         # glob("{}/*.txt".format(directory_bow_treino))
-        bow_treino_filenames = [os.path.join(directory_bow_treino, 'all_unigram.txt')]
+        # Modificar o nome do arquivo que deseja usar da Bag of Words
+        bow_treino_filenames = [os.path.join(directory_bow_treino, 'all_unigram_bigram_trigram.txt')]
         # glob("{}/*.txt".format(directory_bow_teste))
-        bow_teste_filenames = [os.path.join(directory_bow_teste, 'all_unigram.txt')]
+        # Modificar o nome do arquivo que deseja usar da Bag of Words
+        bow_teste_filenames = [os.path.join(directory_bow_teste, 'all_unigram_bigram_trigram.txt')]
 
         self.textos_teste = {}
         self.textos_treino = {}
@@ -67,12 +69,19 @@ class CriarWekaFiles:
         header = list()
         header.append("@relation {}\n".format(relation))
         for i in words:
-            header.append("@attribute {} integer\n".format(i))
+            header.append("@attribute {} integer\n".format(i.replace(' ', '_')))
         return header
 
     def criar_wekafiles_teste(self):
         words = list(self.bow_teste.keys())[0:K]
         lines = self.criar_header_wekafile(words, 'Arquivo')
+
+        tmp_string = '@attribute classe {'
+        for arq in self.textos_teste:
+            tmp_string += arq.lower().replace(" ", "_").replace(".txt", "") + ", "
+        tmp_string += '}\n'
+        lines.append(tmp_string)
+
         lines.append('@data\n')
         for arq in self.textos_teste:
             for texto in self.textos_teste[arq]:
@@ -83,16 +92,24 @@ class CriarWekaFiles:
                         tmp_string += "1, "
                     else:
                         tmp_string += "0, "
-                tmp_string += "{}\n".format(arq.lower().replace(" ", "_"))
+                tmp_string += "{}\n".format(arq.lower().replace(" ", "_").replace(".txt", ""))
                 lines.append(tmp_string)
 
-        with open("Wekafiles/teste.arff", 'w') as arq:
+        # Modificar o nome do arquivo que deseja salvar do .arff
+        with open("Wekafiles/uni_bi_tri_teste.arff", 'w') as arq:
             for line in lines:
                 arq.write(line)
 
     def criar_wekafiles_treino(self):
         words = list(self.bow_treino.keys())[0:K]
         lines = self.criar_header_wekafile(words, 'Arquivo')
+
+        tmp_string = '@attribute classe {'
+        for arq in self.textos_teste:
+            tmp_string += arq.lower().replace(" ", "_").replace(".txt", "") + ", "
+        tmp_string += '}\n'
+        lines.append(tmp_string)
+
         lines.append('@data\n')
         for arq in self.textos_treino:
             for texto in self.textos_treino[arq]:
@@ -103,10 +120,10 @@ class CriarWekaFiles:
                         tmp_string += "1, "
                     else:
                         tmp_string += "0, "
-                tmp_string += "{}\n".format(arq.lower().replace(" ", "_"))
+                tmp_string += "{}\n".format(arq.lower().replace(" ", "_").replace(".txt", ""))
                 lines.append(tmp_string)
-
-        with open("Wekafiles/treino.arff", 'w') as arq:
+        # Modificar o nome do arquivo que deseja salvar do .arff
+        with open("Wekafiles/uni_bi_tri_treino.arff", 'w') as arq:
             for line in lines:
                 arq.write(line)
 

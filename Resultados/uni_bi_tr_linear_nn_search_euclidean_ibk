@@ -1,0 +1,157 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.lazy.IBk -- -K 1 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\""
+Relation:     Arquivo
+Instances:    267
+Attributes:   51
+              ser
+              ano
+              ir
+              ter
+              estar
+              time
+              inter
+              rua
+              fazer
+              morador
+              casa
+              colorar
+              homicídio
+              prefeitura
+              grêmio
+              delegado
+              tráfico
+              tricolor
+              bairro
+              problema
+              local
+              kenny_braga
+              kenny
+              cacalo_silveira
+              cacalo
+              passar
+              categoria
+              silveira_martins
+              cacalo_silveira_martins
+              lixo
+              dia
+              postar
+              postar_por
+              vitória
+              água
+              brigar
+              esgoto
+              ficar
+              eduardo_torre
+              adolescente
+              em_bairro
+              brasileirão
+              haver
+              de_casa
+              tiro
+              militar
+              colocar
+              de_inter
+              clube
+              policial
+              classe
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+Attribute mappings:
+
+Model attributes                   	    Incoming attributes
+-----------------------------------	    ----------------
+(numeric) ser                      	--> 1 (numeric) ser
+(numeric) ano                      	--> 3 (numeric) ano
+(numeric) ir                       	--> 5 (numeric) ir
+(numeric) ter                      	--> 6 (numeric) ter
+(numeric) estar                    	--> 2 (numeric) estar
+(numeric) time                     	--> 4 (numeric) time
+(numeric) inter                    	--> 40 (numeric) inter
+(numeric) rua                      	--> 10 (numeric) rua
+(numeric) fazer                    	--> 7 (numeric) fazer
+(numeric) morador                  	--> 26 (numeric) morador
+(numeric) casa                     	--> 20 (numeric) casa
+(numeric) colorar                  	--> 38 (numeric) colorar
+(numeric) homicídio                	--> 36 (numeric) homicídio
+(numeric) prefeitura               	--> - missing (no match)
+(numeric) grêmio                   	--> 21 (numeric) grêmio
+(numeric) delegado                 	--> - missing (no match)
+(numeric) tráfico                  	--> 41 (numeric) tráfico
+(numeric) tricolor                 	--> - missing (no match)
+(numeric) bairro                   	--> 18 (numeric) bairro
+(numeric) problema                 	--> 31 (numeric) problema
+(numeric) local                    	--> 23 (numeric) local
+(numeric) kenny_braga              	--> 42 (numeric) kenny_braga
+(numeric) kenny                    	--> 37 (numeric) kenny
+(numeric) cacalo_silveira          	--> 49 (numeric) cacalo_silveira
+(numeric) cacalo                   	--> 46 (numeric) cacalo
+(numeric) passar                   	--> 44 (numeric) passar
+(numeric) categoria                	--> 35 (numeric) categoria
+(numeric) silveira_martins         	--> - missing (no match)
+(numeric) cacalo_silveira_martins  	--> - missing (no match)
+(numeric) lixo                     	--> - missing (no match)
+(numeric) dia                      	--> 13 (numeric) dia
+(numeric) postar                   	--> 45 (numeric) postar
+(numeric) postar_por               	--> - missing (no match)
+(numeric) vitória                  	--> - missing (no match)
+(numeric) água                     	--> - missing (no match)
+(numeric) brigar                   	--> - missing (no match)
+(numeric) esgoto                   	--> - missing (no match)
+(numeric) ficar                    	--> - missing (no match)
+(numeric) eduardo_torre            	--> 30 (numeric) eduardo_torre
+(numeric) adolescente              	--> - missing (no match)
+(numeric) em_bairro                	--> - missing (no match)
+(numeric) brasileirão              	--> - missing (no match)
+(numeric) haver                    	--> - missing (no match)
+(numeric) de_casa                  	--> - missing (no match)
+(numeric) tiro                     	--> - missing (no match)
+(numeric) militar                  	--> - missing (no match)
+(numeric) colocar                  	--> - missing (no match)
+(numeric) de_inter                 	--> - missing (no match)
+(numeric) clube                    	--> 9 (numeric) clube
+(numeric) policial                 	--> 17 (numeric) policial
+(nominal) classe                   	--> 51 (nominal) classe
+
+
+Time taken to build model: 0 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.02 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          61               89.7059 %
+Incorrectly Classified Instances         7               10.2941 %
+Kappa statistic                          0.8623
+Mean absolute error                      0.0588
+Root mean squared error                  0.206 
+Relative absolute error                 15.7203 %
+Root relative squared error             47.6517 %
+Total Number of Instances               68     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,875    0,019    0,933      0,875    0,903      0,875    0,978     0,933     corpus_espaco_do_trabalhador
+                 0,933    0,019    0,933      0,933    0,933      0,914    0,986     0,962     corpus_seu_problema_e_nosso
+                 1,000    0,060    0,857      1,000    0,923      0,898    0,991     0,956     corpus_policia
+                 0,789    0,041    0,882      0,789    0,833      0,776    0,968     0,914     corpus_esportes
+Weighted Avg.    0,897    0,036    0,899      0,897    0,896      0,862    0,981     0,940     
+
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+ 14  0  0  2 |  a = corpus_espaco_do_trabalhador
+  0 14  1  0 |  b = corpus_seu_problema_e_nosso
+  0  0 18  0 |  c = corpus_policia
+  1  1  2 15 |  d = corpus_esportes
+

@@ -1,0 +1,157 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.lazy.IBk -- -K 1 -W 0 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\""
+Relation:     Arquivo
+Instances:    267
+Attributes:   51
+              ser
+              ano
+              ir
+              ter
+              estar
+              time
+              inter
+              rua
+              fazer
+              morador
+              casa
+              colorar
+              homicídio
+              grêmio
+              prefeitura
+              delegado
+              tráfico
+              tricolor
+              bairro
+              problema
+              local
+              kenny
+              cacalo
+              passar
+              categoria
+              lixo
+              dia
+              postar
+              vitória
+              água
+              brigar
+              esgoto
+              ficar
+              adolescente
+              brasileirão
+              haver
+              tiro
+              colocar
+              militar
+              clube
+              policial
+              aqui
+              família
+              inscrição
+              copa
+              adversário
+              secretaria
+              mês
+              investigar
+              preso
+              classe
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+IB1 instance-based classifier
+using 1 nearest neighbour(s) for classification
+
+Attribute mappings:
+
+Model attributes       	    Incoming attributes
+-----------------------	    ----------------
+(numeric) ser          	--> 1 (numeric) ser
+(numeric) ano          	--> 3 (numeric) ano
+(numeric) ir           	--> 5 (numeric) ir
+(numeric) ter          	--> 6 (numeric) ter
+(numeric) estar        	--> 2 (numeric) estar
+(numeric) time         	--> 4 (numeric) time
+(numeric) inter        	--> 39 (numeric) inter
+(numeric) rua          	--> 10 (numeric) rua
+(numeric) fazer        	--> 7 (numeric) fazer
+(numeric) morador      	--> 24 (numeric) morador
+(numeric) casa         	--> 20 (numeric) casa
+(numeric) colorar      	--> 37 (numeric) colorar
+(numeric) homicídio    	--> 32 (numeric) homicídio
+(numeric) grêmio       	--> 21 (numeric) grêmio
+(numeric) prefeitura   	--> 46 (numeric) prefeitura
+(numeric) delegado     	--> - missing (no match)
+(numeric) tráfico      	--> 36 (numeric) tráfico
+(numeric) tricolor     	--> 48 (numeric) tricolor
+(numeric) bairro       	--> 18 (numeric) bairro
+(numeric) problema     	--> 31 (numeric) problema
+(numeric) local        	--> 22 (numeric) local
+(numeric) kenny        	--> 34 (numeric) kenny
+(numeric) cacalo       	--> 45 (numeric) cacalo
+(numeric) passar       	--> 42 (numeric) passar
+(numeric) categoria    	--> 35 (numeric) categoria
+(numeric) lixo         	--> - missing (no match)
+(numeric) dia          	--> 13 (numeric) dia
+(numeric) postar       	--> 43 (numeric) postar
+(numeric) vitória      	--> - missing (no match)
+(numeric) água         	--> - missing (no match)
+(numeric) brigar       	--> - missing (no match)
+(numeric) esgoto       	--> - missing (no match)
+(numeric) ficar        	--> 50 (numeric) ficar
+(numeric) adolescente  	--> - missing (no match)
+(numeric) brasileirão  	--> - missing (no match)
+(numeric) haver        	--> - missing (no match)
+(numeric) tiro         	--> - missing (no match)
+(numeric) colocar      	--> - missing (no match)
+(numeric) militar      	--> - missing (no match)
+(numeric) clube        	--> 9 (numeric) clube
+(numeric) policial     	--> 17 (numeric) policial
+(numeric) aqui         	--> - missing (no match)
+(numeric) família      	--> - missing (no match)
+(numeric) inscrição    	--> 38 (numeric) inscrição
+(numeric) copa         	--> 15 (numeric) copa
+(numeric) adversário   	--> - missing (no match)
+(numeric) secretaria   	--> - missing (no match)
+(numeric) mês          	--> - missing (no match)
+(numeric) investigar   	--> - missing (no match)
+(numeric) preso        	--> 29 (numeric) preso
+(nominal) classe       	--> 51 (nominal) classe
+
+
+Time taken to build model: 0 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.11 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          64               94.1176 %
+Incorrectly Classified Instances         4                5.8824 %
+Kappa statistic                          0.9213
+Mean absolute error                      0.0378
+Root mean squared error                  0.151 
+Relative absolute error                 10.1085 %
+Root relative squared error             34.9294 %
+Total Number of Instances               68     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,947    0,041    0,900      0,947    0,923      0,893    0,982     0,965     corpus_esportes
+                 0,933    0,000    1,000      0,933    0,966      0,957    0,982     0,957     corpus_seu_problema_e_nosso
+                 0,938    0,019    0,938      0,938    0,938      0,918    0,993     0,961     corpus_espaco_do_trabalhador
+                 0,944    0,020    0,944      0,944    0,944      0,924    0,993     0,967     corpus_policia
+Weighted Avg.    0,941    0,021    0,943      0,941    0,941      0,921    0,988     0,963     
+
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+ 18  0  1  0 |  a = corpus_esportes
+  0 14  0  1 |  b = corpus_seu_problema_e_nosso
+  1  0 15  0 |  c = corpus_espaco_do_trabalhador
+  1  0  0 17 |  d = corpus_policia
+

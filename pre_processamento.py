@@ -267,7 +267,7 @@ class EstruturarTextos:
             for i in textos[texto]['ngrams']['unigram']:
                 term = " ".join(i)
                 term = term.lower()
-                if term not in stopwords:
+                if term not in stopwords and term.isalnum():
                     if term in unigrams:
                         unigrams[term] += 1
                     else:

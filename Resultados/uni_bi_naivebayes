@@ -1,0 +1,461 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.bayes.NaiveBayes
+Relation:     Arquivo
+Instances:    267
+Attributes:   51
+              ser
+              ano
+              ir
+              ter
+              estar
+              time
+              inter
+              rua
+              fazer
+              morador
+              casa
+              colorar
+              homicídio
+              grêmio
+              prefeitura
+              delegado
+              tráfico
+              tricolor
+              bairro
+              problema
+              local
+              kenny
+              kenny_braga
+              cacalo
+              cacalo_silveira
+              passar
+              categoria
+              lixo
+              silveira_martins
+              dia
+              postar_por
+              postar
+              vitória
+              água
+              brigar
+              esgoto
+              ficar
+              eduardo_torre
+              adolescente
+              em_bairro
+              brasileirão
+              de_casa
+              haver
+              colocar
+              tiro
+              militar
+              de_inter
+              clube
+              policial
+              aqui
+              classe
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+Naive Bayes Classifier
+
+                                          Class
+Attribute          corpus_espaco_do_trabalhador  corpus_seu_problema_e_nosso               corpus_policia              corpus_esportes
+                                         (0.23)                       (0.22)                       (0.27)                       (0.28)
+=======================================================================================================================================
+ser
+  mean                                    0.9516                            1                       0.9577                         0.96
+  std. dev.                               0.2146                       0.1667                       0.2012                        0.196
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+ano
+  mean                                     0.629                            1                       0.9155                       0.4133
+  std. dev.                               0.4831                       0.1667                       0.2781                       0.4924
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+ir
+  mean                                    0.9194                            1                            1                            1
+  std. dev.                               0.2723                       0.1667                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+ter
+  mean                                    0.8871                       0.9831                       0.9155                            1
+  std. dev.                               0.3165                       0.1667                       0.2781                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+estar
+  mean                                    0.6613                       0.9661                       0.7042                       0.7467
+  std. dev.                               0.4733                        0.181                       0.4564                       0.4349
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+time
+  mean                                    0.0161                            0                            0                       0.8533
+  std. dev.                               0.1667                       0.1667                       0.1667                       0.3538
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+inter
+  mean                                    0.5161                       0.1864                       0.2113                       0.2267
+  std. dev.                               0.4997                       0.3895                       0.4082                       0.4187
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+rua
+  mean                                    0.0161                       0.4915                       0.2676                       0.0133
+  std. dev.                               0.1667                       0.4999                       0.4427                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+fazer
+  mean                                    0.3548                       0.8475                       0.4225                       0.6667
+  std. dev.                               0.4785                       0.3595                        0.494                       0.4714
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+morador
+  mean                                    0.0968                       0.7797                       0.2535                            0
+  std. dev.                               0.2957                       0.4145                        0.435                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+casa
+  mean                                    0.0323                       0.5932                       0.4789                          0.2
+  std. dev.                               0.1767                       0.4912                       0.4996                          0.4
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+colorar
+  mean                                    0.0161                            0                            0                       0.4933
+  std. dev.                               0.1667                       0.1667                       0.1667                          0.5
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+homicídio
+  mean                                         0                            0                       0.3803                            0
+  std. dev.                               0.1667                       0.1667                       0.4855                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+grêmio
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+prefeitura
+  mean                                    0.0484                        0.678                       0.0282                            0
+  std. dev.                               0.2146                       0.4673                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+delegado
+  mean                                    0.0161                            0                       0.4085                            0
+  std. dev.                               0.1667                       0.1667                       0.4915                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+tráfico
+  mean                                         0                            0                       0.3803                            0
+  std. dev.                               0.1667                       0.1667                       0.4855                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+tricolor
+  mean                                         0                            0                            0                       0.2133
+  std. dev.                               0.1667                       0.1667                       0.1667                       0.4097
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+bairro
+  mean                                    0.1774                       0.7797                       0.7183                            0
+  std. dev.                                0.382                       0.4145                       0.4498                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+problema
+  mean                                    0.0161                       0.7627                       0.0986                       0.1467
+  std. dev.                               0.1667                       0.4254                       0.2981                       0.3538
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+local
+  mean                                    0.1452                       0.7288                       0.4507                       0.0667
+  std. dev.                               0.3523                       0.4446                       0.4976                       0.2494
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+kenny
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+kenny_braga
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+cacalo
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+cacalo_silveira
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+passar
+  mean                                     0.129                       0.6271                       0.2676                         0.32
+  std. dev.                               0.3352                       0.4836                       0.4427                       0.4665
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+categoria
+  mean                                    0.9194                       0.9831                            0                       0.0133
+  std. dev.                               0.2723                       0.1667                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+lixo
+  mean                                         0                       0.3729                       0.0141                            0
+  std. dev.                               0.1667                       0.4836                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+silveira_martins
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+dia
+  mean                                    0.5645                       0.8136                       0.4366                          0.4
+  std. dev.                               0.4958                       0.3895                        0.496                       0.4899
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+postar_por
+  mean                                    0.9677                            1                            0                            0
+  std. dev.                               0.1767                       0.1667                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+postar
+  mean                                    0.9677                            1                            0                       0.0133
+  std. dev.                               0.1767                       0.1667                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+vitória
+  mean                                         0                            0                            0                       0.4933
+  std. dev.                               0.1667                       0.1667                       0.1667                          0.5
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+água
+  mean                                         0                        0.339                       0.0141                            0
+  std. dev.                               0.1667                       0.4734                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+brigar
+  mean                                    0.0161                       0.1356                       0.4507                       0.0667
+  std. dev.                               0.1667                       0.3424                       0.4976                       0.2494
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+esgoto
+  mean                                         0                        0.322                       0.0141                            0
+  std. dev.                               0.1667                       0.4673                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+ficar
+  mean                                    0.3226                       0.6102                        0.493                         0.44
+  std. dev.                               0.4675                       0.4877                          0.5                       0.4964
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+eduardo_torre
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+adolescente
+  mean                                         0                            0                       0.1831                            0
+  std. dev.                               0.1667                       0.1667                       0.3867                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+em_bairro
+  mean                                         0                       0.0169                            0                            0
+  std. dev.                               0.1667                       0.1667                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+brasileirão
+  mean                                         0                            0                            0                            0
+  std. dev.                               0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                  62                           59                           71                           75
+  precision                                 0.01                         0.01                         0.01                         0.01
+
+de_casa
+  mean                                         0                       0.3559                       0.1831                       0.0133
+  std. dev.                               0.1667                       0.4788                       0.3867                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+haver
+  mean                                    0.1129                       0.5085                       0.3944                       0.3067
+  std. dev.                               0.3165                       0.4999                       0.4887                       0.4611
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+colocar
+  mean                                    0.0484                       0.5424                        0.169                          0.2
+  std. dev.                               0.2146                       0.4982                       0.3748                          0.4
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+tiro
+  mean                                         0                            0                       0.3521                            0
+  std. dev.                               0.1667                       0.1667                       0.4776                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+militar
+  mean                                    0.0323                            0                       0.0563                       0.0133
+  std. dev.                               0.1767                       0.1667                       0.2306                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+de_inter
+  mean                                    0.0161                            0                       0.0282                       0.0133
+  std. dev.                               0.1667                       0.1667                       0.1667                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+clube
+  mean                                         0                            0                            0                       0.4267
+  std. dev.                               0.1667                       0.1667                       0.1667                       0.4946
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+policial
+  mean                                         0                            0                       0.4225                            0
+  std. dev.                               0.1667                       0.1667                        0.494                       0.1667
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+aqui
+  mean                                    0.0968                       0.5424                       0.1268                       0.0933
+  std. dev.                               0.2957                       0.4982                       0.3327                       0.2909
+  weight sum                                  62                           59                           71                           75
+  precision                                    1                            1                            1                            1
+
+
+Attribute mappings:
+
+Model attributes            	    Incoming attributes
+----------------------------	    ----------------
+(numeric) ser               	--> 1 (numeric) ser
+(numeric) ano               	--> 3 (numeric) ano
+(numeric) ir                	--> 5 (numeric) ir
+(numeric) ter               	--> 6 (numeric) ter
+(numeric) estar             	--> 2 (numeric) estar
+(numeric) time              	--> 4 (numeric) time
+(numeric) inter             	--> 42 (numeric) inter
+(numeric) rua               	--> 10 (numeric) rua
+(numeric) fazer             	--> 7 (numeric) fazer
+(numeric) morador           	--> 25 (numeric) morador
+(numeric) casa              	--> 20 (numeric) casa
+(numeric) colorar           	--> 38 (numeric) colorar
+(numeric) homicídio         	--> 34 (numeric) homicídio
+(numeric) grêmio            	--> 22 (numeric) grêmio
+(numeric) prefeitura        	--> - missing (no match)
+(numeric) delegado          	--> - missing (no match)
+(numeric) tráfico           	--> 40 (numeric) tráfico
+(numeric) tricolor          	--> - missing (no match)
+(numeric) bairro            	--> 18 (numeric) bairro
+(numeric) problema          	--> 31 (numeric) problema
+(numeric) local             	--> 23 (numeric) local
+(numeric) kenny             	--> 36 (numeric) kenny
+(numeric) kenny_braga       	--> 43 (numeric) kenny_braga
+(numeric) cacalo            	--> 48 (numeric) cacalo
+(numeric) cacalo_silveira   	--> 45 (numeric) cacalo_silveira
+(numeric) passar            	--> - missing (no match)
+(numeric) categoria         	--> 37 (numeric) categoria
+(numeric) lixo              	--> - missing (no match)
+(numeric) silveira_martins  	--> - missing (no match)
+(numeric) dia               	--> 13 (numeric) dia
+(numeric) postar_por        	--> - missing (no match)
+(numeric) postar            	--> 46 (numeric) postar
+(numeric) vitória           	--> - missing (no match)
+(numeric) água              	--> - missing (no match)
+(numeric) brigar            	--> - missing (no match)
+(numeric) esgoto            	--> - missing (no match)
+(numeric) ficar             	--> - missing (no match)
+(numeric) eduardo_torre     	--> 30 (numeric) eduardo_torre
+(numeric) adolescente       	--> - missing (no match)
+(numeric) em_bairro         	--> 49 (numeric) em_bairro
+(numeric) brasileirão       	--> - missing (no match)
+(numeric) de_casa           	--> - missing (no match)
+(numeric) haver             	--> - missing (no match)
+(numeric) colocar           	--> - missing (no match)
+(numeric) tiro              	--> - missing (no match)
+(numeric) militar           	--> - missing (no match)
+(numeric) de_inter          	--> - missing (no match)
+(numeric) clube             	--> 9 (numeric) clube
+(numeric) policial          	--> 17 (numeric) policial
+(numeric) aqui              	--> - missing (no match)
+(nominal) classe            	--> 51 (nominal) classe
+
+
+Time taken to build model: 0.01 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.01 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          61               89.7059 %
+Incorrectly Classified Instances         7               10.2941 %
+Kappa statistic                          0.8621
+Mean absolute error                      0.0603
+Root mean squared error                  0.2236
+Relative absolute error                 16.1283 %
+Root relative squared error             51.7142 %
+Total Number of Instances               68     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,750    0,000    1,000      0,750    0,857      0,835    0,971     0,928     corpus_espaco_do_trabalhador
+                 1,000    0,019    0,938      1,000    0,968      0,959    0,996     0,987     corpus_seu_problema_e_nosso
+                 0,944    0,040    0,895      0,944    0,919      0,889    0,991     0,980     corpus_policia
+                 0,895    0,082    0,810      0,895    0,850      0,790    0,982     0,960     corpus_esportes
+Weighted Avg.    0,897    0,038    0,905      0,897    0,896      0,864    0,985     0,964     
+
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+ 12  1  0  3 |  a = corpus_espaco_do_trabalhador
+  0 15  0  0 |  b = corpus_seu_problema_e_nosso
+  0  0 17  1 |  c = corpus_policia
+  0  0  2 17 |  d = corpus_esportes
+

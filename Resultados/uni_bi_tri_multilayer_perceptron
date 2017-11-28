@@ -1,0 +1,1718 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.functions.MultilayerPerceptron -- -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a
+Relation:     Arquivo
+Instances:    267
+Attributes:   51
+              ser
+              ano
+              ir
+              ter
+              estar
+              time
+              inter
+              rua
+              fazer
+              morador
+              casa
+              colorar
+              homicídio
+              prefeitura
+              grêmio
+              delegado
+              tráfico
+              tricolor
+              bairro
+              problema
+              local
+              kenny_braga
+              kenny
+              cacalo_silveira
+              cacalo
+              passar
+              categoria
+              silveira_martins
+              cacalo_silveira_martins
+              lixo
+              dia
+              postar
+              postar_por
+              vitória
+              água
+              brigar
+              esgoto
+              ficar
+              eduardo_torre
+              adolescente
+              em_bairro
+              brasileirão
+              haver
+              de_casa
+              tiro
+              militar
+              colocar
+              de_inter
+              clube
+              policial
+              classe
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -0.6704107967695363
+    Node 4    -1.4900120043697205
+    Node 5    -1.9829310577109622
+    Node 6    -0.9065139186342032
+    Node 7    1.4058096744704822
+    Node 8    -1.4973459786695411
+    Node 9    -1.6267369261107247
+    Node 10    -1.5262742816731532
+    Node 11    1.4034905008183856
+    Node 12    1.6158696027396606
+    Node 13    1.4972026029621277
+    Node 14    -1.5858854072079103
+    Node 15    -2.4447224188976553
+    Node 16    -1.3491619868271105
+    Node 17    0.8796992353895413
+    Node 18    -0.35263490753840243
+    Node 19    -2.6146711993129923
+    Node 20    1.2190791717428286
+    Node 21    0.7207119621745329
+    Node 22    1.1008085825892597
+    Node 23    -2.0437889820746076
+    Node 24    -1.4559933088801933
+    Node 25    0.4431573160617074
+    Node 26    -2.5007657690421583
+    Node 27    -0.352059733599931
+    Node 28    -1.1993518104630316
+    Node 29    -1.1749137137213383
+    Node 30    -2.0521340758822255
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -0.6457900348773526
+    Node 4    -0.4086601911506731
+    Node 5    -0.6102238103134102
+    Node 6    -0.7799563556793639
+    Node 7    -0.004858073856955216
+    Node 8    -0.38499834507102637
+    Node 9    -0.6882036814140567
+    Node 10    -0.5979308310063782
+    Node 11    -1.4270227420640966
+    Node 12    0.9410743397048797
+    Node 13    -1.123288565169265
+    Node 14    0.5487275174377527
+    Node 15    1.4592241184591659
+    Node 16    -0.8350155888038698
+    Node 17    -1.740428027200277
+    Node 18    -0.5348222699973615
+    Node 19    -1.2053746731905508
+    Node 20    -2.272578077503701
+    Node 21    -1.3888948664736378
+    Node 22    0.39551937960130834
+    Node 23    -1.3306835815437286
+    Node 24    -1.3805048582650408
+    Node 25    -1.7880011833482912
+    Node 26    1.4069897245315515
+    Node 27    0.503421072739185
+    Node 28    1.5535771014704103
+    Node 29    1.8998420329747971
+    Node 30    0.9998756560017575
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -0.6808349797050635
+    Node 4    2.129363228988048
+    Node 5    -0.46797843381506304
+    Node 6    1.5756331462045448
+    Node 7    0.4090946070881975
+    Node 8    -0.11658256032977635
+    Node 9    -1.5012046831065171
+    Node 10    -1.4653823321873034
+    Node 11    0.7973489182022719
+    Node 12    -1.7518377097431663
+    Node 13    -1.696078539027878
+    Node 14    -0.36730127136046625
+    Node 15    -0.12442061599778016
+    Node 16    1.619989480273978
+    Node 17    -0.6188739875269894
+    Node 18    -2.157490501425342
+    Node 19    0.7722668144189981
+    Node 20    0.22617132468469844
+    Node 21    -0.5711406248043871
+    Node 22    -2.0034243132088707
+    Node 23    1.6388522543954842
+    Node 24    0.4597919061642214
+    Node 25    0.37695823550694013
+    Node 26    1.0298773261983956
+    Node 27    -1.0441311437165375
+    Node 28    -1.1709438626576014
+    Node 29    -1.2002340057989385
+    Node 30    -0.34279546677255857
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -0.5229450006360842
+    Node 4    -1.5443613279821513
+    Node 5    1.2340287380374886
+    Node 6    -1.005806014553569
+    Node 7    -2.739803772901042
+    Node 8    0.39617395081675905
+    Node 9    2.1072795940610956
+    Node 10    1.9445486081994083
+    Node 11    -1.3163265102590087
+    Node 12    -1.402926253441051
+    Node 13    0.021273088902439917
+    Node 14    -0.177243824082646
+    Node 15    -0.5117391937615646
+    Node 16    -0.8144474644426901
+    Node 17    0.2836733317163023
+    Node 18    1.5633287256969333
+    Node 19    0.9535276649703157
+    Node 20    -0.19518887359070336
+    Node 21    0.06991954725695777
+    Node 22    -0.4817034751961469
+    Node 23    0.04789226744649238
+    Node 24    0.6957121662881801
+    Node 25    -0.29536355106160217
+    Node 26    -1.2961301565677577
+    Node 27    -0.28713583708595364
+    Node 28    -0.4529045981183508
+    Node 29    -0.7432573031933397
+    Node 30    -0.07361984704231873
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    0.044885054477498576
+    Attrib ser    -0.3468131133534775
+    Attrib ano    0.35556022260889963
+    Attrib ir    0.11126655718581152
+    Attrib ter    -0.15060825652389606
+    Attrib estar    -0.4187209522588085
+    Attrib time    -0.9937758659995335
+    Attrib inter    -0.10471065111875834
+    Attrib rua    0.49428817093457145
+    Attrib fazer    -0.4500541577130162
+    Attrib morador    0.13586474936780696
+    Attrib casa    -0.03171322621508809
+    Attrib colorar    -0.530837412740775
+    Attrib homicídio    0.30864777080063904
+    Attrib prefeitura    -0.12440533568721704
+    Attrib grêmio    -0.007749845357316057
+    Attrib delegado    0.6788341617818351
+    Attrib tráfico    0.5937855222218364
+    Attrib tricolor    -0.21602416352569911
+    Attrib bairro    0.5087431186594595
+    Attrib problema    0.051001097514389304
+    Attrib local    0.17233985842810912
+    Attrib kenny_braga    0.03195366664961033
+    Attrib kenny    0.0437850527617947
+    Attrib cacalo_silveira    0.029158604359352927
+    Attrib cacalo    -0.031079434672273278
+    Attrib passar    -0.2910908623782945
+    Attrib categoria    -0.39942318000254606
+    Attrib silveira_martins    -0.005101238017014731
+    Attrib cacalo_silveira_martins    0.018020574579960855
+    Attrib lixo    0.08426870715721767
+    Attrib dia    0.035666386652741446
+    Attrib postar    -0.7314838542504396
+    Attrib postar_por    -0.7199447806453416
+    Attrib vitória    -0.5131961352397186
+    Attrib água    0.22733065944268124
+    Attrib brigar    0.41743206934784977
+    Attrib esgoto    -0.03784467128708973
+    Attrib ficar    0.3114441795720809
+    Attrib eduardo_torre    -0.02191567005748364
+    Attrib adolescente    0.42063421608837065
+    Attrib em_bairro    -0.08194032431416105
+    Attrib brasileirão    0.0357672688073437
+    Attrib haver    0.10235787607842994
+    Attrib de_casa    -0.026957931722204835
+    Attrib tiro    0.3037656194681262
+    Attrib militar    -0.20574597116964713
+    Attrib colocar    -0.0692393985824974
+    Attrib de_inter    -0.056787160949000666
+    Attrib clube    -0.6257022802333656
+    Attrib policial    1.2631869219166452
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    0.1273618296375766
+    Attrib ser    -0.0299487705975393
+    Attrib ano    -0.39634342289221786
+    Attrib ir    0.21127663810919062
+    Attrib ter    0.24432433274437637
+    Attrib estar    -0.35282168489549937
+    Attrib time    0.8615486490330736
+    Attrib inter    0.047489779368819235
+    Attrib rua    -0.016516412445944463
+    Attrib fazer    -0.29030741019483375
+    Attrib morador    -0.05254279056178285
+    Attrib casa    0.17257061508796612
+    Attrib colorar    0.48037246130140193
+    Attrib homicídio    -0.18481565689009136
+    Attrib prefeitura    -0.05818630670281748
+    Attrib grêmio    -0.007678542290495749
+    Attrib delegado    0.05842164677810443
+    Attrib tráfico    0.13215564101739907
+    Attrib tricolor    0.11300066229890918
+    Attrib bairro    -0.1174110074303291
+    Attrib problema    0.15997295025616134
+    Attrib local    0.004112828727292668
+    Attrib kenny_braga    0.009015607072630508
+    Attrib kenny    0.0218667042638378
+    Attrib cacalo_silveira    0.02865991435453384
+    Attrib cacalo    -0.04099022341170623
+    Attrib passar    -0.020214626274087023
+    Attrib categoria    -0.4460851213340235
+    Attrib silveira_martins    -0.04956014312503709
+    Attrib cacalo_silveira_martins    -0.009162233098803298
+    Attrib lixo    0.030598305246608
+    Attrib dia    -0.07892128503506987
+    Attrib postar    -0.689648259638675
+    Attrib postar_por    -0.7653021189712405
+    Attrib vitória    0.6281525103101425
+    Attrib água    -0.24143959625739483
+    Attrib brigar    -0.0131704157598145
+    Attrib esgoto    -0.07184964763954303
+    Attrib ficar    0.2138479584727457
+    Attrib eduardo_torre    0.04983588366460276
+    Attrib adolescente    0.04873379069318075
+    Attrib em_bairro    -0.18782736415101484
+    Attrib brasileirão    -0.026259243376479148
+    Attrib haver    0.26620173419290877
+    Attrib de_casa    0.04804369040893495
+    Attrib tiro    -0.17686503809290663
+    Attrib militar    -0.03290757132862207
+    Attrib colocar    0.2629980886298986
+    Attrib de_inter    -0.15339760239287345
+    Attrib clube    0.6614037873735479
+    Attrib policial    -0.00769895165114786
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    0.026762385855737696
+    Attrib ser    -0.28399118591505074
+    Attrib ano    0.2444952227204469
+    Attrib ir    -0.001136605484302114
+    Attrib ter    -0.14962308568419086
+    Attrib estar    -0.2735928177133138
+    Attrib time    -0.60006933809247
+    Attrib inter    -0.02624431391507746
+    Attrib rua    0.2557090599530005
+    Attrib fazer    -0.37306600538526913
+    Attrib morador    0.12911761537408437
+    Attrib casa    0.02078001194430985
+    Attrib colorar    -0.3288898688620605
+    Attrib homicídio    0.2938030615456675
+    Attrib prefeitura    -0.15968402649054605
+    Attrib grêmio    -0.012579879900444214
+    Attrib delegado    0.5684891222411299
+    Attrib tráfico    0.4295017498343178
+    Attrib tricolor    -0.10880796892375079
+    Attrib bairro    0.4026549420038453
+    Attrib problema    -0.13541592927834264
+    Attrib local    0.16209960442997137
+    Attrib kenny_braga    -0.0064313350221092
+    Attrib kenny    -5.146097697238949E-4
+    Attrib cacalo_silveira    0.026160617594710583
+    Attrib cacalo    0.023659338911139624
+    Attrib passar    -0.2534019997352355
+    Attrib categoria    -0.4699158523761266
+    Attrib silveira_martins    -0.0377262828890079
+    Attrib cacalo_silveira_martins    -0.008077748986356971
+    Attrib lixo    -0.03618523647225834
+    Attrib dia    0.050603442677457935
+    Attrib postar    -0.5750742557214342
+    Attrib postar_por    -0.5656930610538462
+    Attrib vitória    -0.33719098457972746
+    Attrib água    0.14023246574630246
+    Attrib brigar    0.3242671886892835
+    Attrib esgoto    -0.03424147058231056
+    Attrib ficar    0.18150148403025662
+    Attrib eduardo_torre    0.04235794352126686
+    Attrib adolescente    0.3608284997622196
+    Attrib em_bairro    0.020480765175586176
+    Attrib brasileirão    0.006453721443118468
+    Attrib haver    0.06988430176517803
+    Attrib de_casa    -0.06413935298679858
+    Attrib tiro    0.28797472636082616
+    Attrib militar    -0.12331136524196429
+    Attrib colocar    -0.16912108545691126
+    Attrib de_inter    -0.027999983316106213
+    Attrib clube    -0.45406752421891755
+    Attrib policial    0.9303255278240083
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    0.023165201271075065
+    Attrib ser    0.006938368750758479
+    Attrib ano    0.5897760351971748
+    Attrib ir    -0.09890370667934306
+    Attrib ter    -0.22447026666527717
+    Attrib estar    0.4271530970007106
+    Attrib time    -1.2054257148820489
+    Attrib inter    -0.22063207529606355
+    Attrib rua    0.08214393080078496
+    Attrib fazer    0.10266990688617925
+    Attrib morador    0.16799715113210245
+    Attrib casa    -0.18993456179955065
+    Attrib colorar    -0.764017302260988
+    Attrib homicídio    0.2668702888693411
+    Attrib prefeitura    0.03911479621578089
+    Attrib grêmio    -0.03347705219599467
+    Attrib delegado    0.17322079977095284
+    Attrib tráfico    0.04045090895434404
+    Attrib tricolor    -0.30733438984974676
+    Attrib bairro    0.36755528594060527
+    Attrib problema    -0.08150069133214423
+    Attrib local    0.10489535679126774
+    Attrib kenny_braga    -0.039165487939524304
+    Attrib kenny    -0.036241657765149406
+    Attrib cacalo_silveira    0.0082309709440751
+    Attrib cacalo    0.020690565281952206
+    Attrib passar    -0.11486820795208057
+    Attrib categoria    0.5227205546001606
+    Attrib silveira_martins    -0.022764201888077575
+    Attrib cacalo_silveira_martins    0.045413070009902426
+    Attrib lixo    0.05711420504169535
+    Attrib dia    -0.09861540117101295
+    Attrib postar    0.6347881398749461
+    Attrib postar_por    0.6640811258449293
+    Attrib vitória    -0.889124008539839
+    Attrib água    0.11082168997579105
+    Attrib brigar    0.14901951960268975
+    Attrib esgoto    0.03490659100335996
+    Attrib ficar    -0.019813395543260816
+    Attrib eduardo_torre    0.012268264577289613
+    Attrib adolescente    0.0885521289441715
+    Attrib em_bairro    0.0015719951491800924
+    Attrib brasileirão    -0.04933592025603927
+    Attrib haver    -0.3058514643882629
+    Attrib de_casa    0.08952595477287201
+    Attrib tiro    0.3024090563824349
+    Attrib militar    -0.15813089730512708
+    Attrib colocar    -0.20808184495705007
+    Attrib de_inter    -0.07680367085213721
+    Attrib clube    -1.0264937128909102
+    Attrib policial    0.20564922859325835
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    0.19479308932237885
+    Attrib ser    0.00837941949779274
+    Attrib ano    -0.16125223236376873
+    Attrib ir    0.2634864407085847
+    Attrib ter    0.220143379438367
+    Attrib estar    -0.20755081379443016
+    Attrib time    0.3032177389565219
+    Attrib inter    -0.18613635342191784
+    Attrib rua    0.16509025721136047
+    Attrib fazer    -0.22196824339406135
+    Attrib morador    0.12447128940367183
+    Attrib casa    0.04161769026213388
+    Attrib colorar    0.22572005637592482
+    Attrib homicídio    -0.08887740241700115
+    Attrib prefeitura    0.04754759156375629
+    Attrib grêmio    0.028258415518080296
+    Attrib delegado    0.07567040497679821
+    Attrib tráfico    0.0494001775815902
+    Attrib tricolor    0.020226645031925217
+    Attrib bairro    -0.012993615879613089
+    Attrib problema    0.2761040969755897
+    Attrib local    0.23626325556764008
+    Attrib kenny_braga    0.008355186726490514
+    Attrib kenny    0.0020569911913307926
+    Attrib cacalo_silveira    0.0219572643451926
+    Attrib cacalo    0.045918224941375305
+    Attrib passar    0.13772552210452146
+    Attrib categoria    -0.13178762102798416
+    Attrib silveira_martins    -0.006195217621604944
+    Attrib cacalo_silveira_martins    -6.939102867823399E-4
+    Attrib lixo    -0.018336800100916508
+    Attrib dia    -0.148573548961889
+    Attrib postar    -0.5052479567767052
+    Attrib postar_por    -0.5518009796507115
+    Attrib vitória    0.2922089834235476
+    Attrib água    -0.18969131124442185
+    Attrib brigar    -0.04273606371414845
+    Attrib esgoto    -0.12399856564980444
+    Attrib ficar    0.22241370716854073
+    Attrib eduardo_torre    5.800882890343306E-4
+    Attrib adolescente    0.03626341926510121
+    Attrib em_bairro    -0.19299566135690777
+    Attrib brasileirão    0.017764267125924882
+    Attrib haver    0.15949815753665766
+    Attrib de_casa    0.021864224669645806
+    Attrib tiro    -0.14669200673916172
+    Attrib militar    -0.17341313930539845
+    Attrib colocar    0.24570473044645846
+    Attrib de_inter    -0.1782809860188457
+    Attrib clube    0.2940577906650632
+    Attrib policial    0.1909375457644033
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    -0.055643425322579855
+    Attrib ser    0.07472497479148073
+    Attrib ano    -0.6381700506087359
+    Attrib ir    -0.020902985613886413
+    Attrib ter    0.11574034781348758
+    Attrib estar    -0.32221471410479446
+    Attrib time    1.2412164257284142
+    Attrib inter    0.18371765359756456
+    Attrib rua    -0.22830053215542703
+    Attrib fazer    -0.0713125473156478
+    Attrib morador    -0.18420172565841172
+    Attrib casa    0.10922062544166189
+    Attrib colorar    0.8172931663201304
+    Attrib homicídio    -0.23529587732041535
+    Attrib prefeitura    -0.0917090301001498
+    Attrib grêmio    -0.03252916844326218
+    Attrib delegado    -0.14851144348544357
+    Attrib tráfico    -0.12241061378931366
+    Attrib tricolor    0.33921496324575395
+    Attrib bairro    -0.5011538136229421
+    Attrib problema    -0.0010579127300316068
+    Attrib local    -0.0998852514587981
+    Attrib kenny_braga    0.01636625180824655
+    Attrib kenny    0.03618834113204858
+    Attrib cacalo_silveira    0.005261847857598589
+    Attrib cacalo    0.02131769679759686
+    Attrib passar    0.10682131020943496
+    Attrib categoria    -0.42618421119606376
+    Attrib silveira_martins    -0.012660435925407013
+    Attrib cacalo_silveira_martins    0.03391464065987873
+    Attrib lixo    0.05278371616245347
+    Attrib dia    -0.03779630000550752
+    Attrib postar    -0.5415919751942351
+    Attrib postar_por    -0.5375298979970585
+    Attrib vitória    0.9147484603913217
+    Attrib água    -0.20076283021999966
+    Attrib brigar    -0.269251020526613
+    Attrib esgoto    -0.02224649477736253
+    Attrib ficar    -0.026124042544328374
+    Attrib eduardo_torre    0.037313600168598623
+    Attrib adolescente    -0.02631705984551226
+    Attrib em_bairro    0.08121886221560755
+    Attrib brasileirão    0.04377539031633915
+    Attrib haver    0.2937818213047951
+    Attrib de_casa    -0.06528047746104786
+    Attrib tiro    -0.2519948990876176
+    Attrib militar    0.2979874870705961
+    Attrib colocar    0.1580903798709957
+    Attrib de_inter    0.09229334643509753
+    Attrib clube    1.0219975073849512
+    Attrib policial    -0.4277763311583275
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    -0.06662239268783512
+    Attrib ser    0.055030166207977745
+    Attrib ano    -0.6212458904538303
+    Attrib ir    -0.06182686611081541
+    Attrib ter    0.14454668196239417
+    Attrib estar    -0.3041433061227863
+    Attrib time    1.2232086057376146
+    Attrib inter    0.17989021795084692
+    Attrib rua    -0.1607267318022422
+    Attrib fazer    -0.08357682355262606
+    Attrib morador    -0.16369629009014677
+    Attrib casa    0.10448987634187056
+    Attrib colorar    0.7749161385793171
+    Attrib homicídio    -0.2248293324354863
+    Attrib prefeitura    -0.048627444171346915
+    Attrib grêmio    -0.025979866607433524
+    Attrib delegado    -0.15236770894382048
+    Attrib tráfico    -0.05998947309433063
+    Attrib tricolor    0.279293144294061
+    Attrib bairro    -0.4054322438605164
+    Attrib problema    -0.00429767973101606
+    Attrib local    -0.12528270350865459
+    Attrib kenny_braga    0.005305145812787369
+    Attrib kenny    0.023005295423922045
+    Attrib cacalo_silveira    -0.027886625419233226
+    Attrib cacalo    0.02683806700143722
+    Attrib passar    0.13142718977170484
+    Attrib categoria    -0.4314250177835257
+    Attrib silveira_martins    0.04523460323689292
+    Attrib cacalo_silveira_martins    -0.010670768877813964
+    Attrib lixo    0.02348161150528054
+    Attrib dia    -0.07546461958210449
+    Attrib postar    -0.47178299434231546
+    Attrib postar_por    -0.5199038226894157
+    Attrib vitória    0.8737582654716852
+    Attrib água    -0.19220542699285792
+    Attrib brigar    -0.2720079207450387
+    Attrib esgoto    0.04461855324970851
+    Attrib ficar    -0.04108444302837976
+    Attrib eduardo_torre    -0.03278001557763491
+    Attrib adolescente    -0.06731477684697651
+    Attrib em_bairro    0.03914447332976137
+    Attrib brasileirão    -0.028595268129031293
+    Attrib haver    0.2515812117891212
+    Attrib de_casa    -0.09025601468788544
+    Attrib tiro    -0.25569787033672947
+    Attrib militar    0.25223516961505654
+    Attrib colocar    0.16028385367161654
+    Attrib de_inter    0.02887880794947403
+    Attrib clube    0.981096272078868
+    Attrib policial    -0.43435142776337315
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -0.20750868064505507
+    Attrib ser    -0.18715329457034027
+    Attrib ano    0.21296124238195918
+    Attrib ir    -0.2251525058080646
+    Attrib ter    -0.37128116898423763
+    Attrib estar    -0.08313087712801534
+    Attrib time    -0.7746711592140022
+    Attrib inter    0.4666592922997844
+    Attrib rua    -0.2507534731848614
+    Attrib fazer    -0.1733380080071617
+    Attrib morador    -0.058586338415380954
+    Attrib casa    -0.1465430842444274
+    Attrib colorar    -0.5669461528617579
+    Attrib homicídio    0.3348206289319049
+    Attrib prefeitura    -0.18389673226965894
+    Attrib grêmio    0.0018345762087415216
+    Attrib delegado    0.4261211081996046
+    Attrib tráfico    0.426004083254643
+    Attrib tricolor    -0.13843973203430515
+    Attrib bairro    0.23095473768480496
+    Attrib problema    -1.0205593324253732
+    Attrib local    -0.37396217406113225
+    Attrib kenny_braga    0.0033529472622731427
+    Attrib kenny    -0.04640103436073924
+    Attrib cacalo_silveira    -0.024443446392799606
+    Attrib cacalo    0.008574810624102591
+    Attrib passar    -0.48644877062244
+    Attrib categoria    -0.47407667362311434
+    Attrib silveira_martins    0.04405311950808133
+    Attrib cacalo_silveira_martins    -0.013172897413678157
+    Attrib lixo    -0.28389830859157983
+    Attrib dia    0.27700940785658307
+    Attrib postar    -0.006618577120910678
+    Attrib postar_por    0.059262060226025134
+    Attrib vitória    -0.6141674720285588
+    Attrib água    0.18014684444741516
+    Attrib brigar    0.2835241671031347
+    Attrib esgoto    0.03793439367646183
+    Attrib ficar    -0.15660445204159257
+    Attrib eduardo_torre    0.01219197620339453
+    Attrib adolescente    0.1763746761543177
+    Attrib em_bairro    0.13763938999527656
+    Attrib brasileirão    0.020929252747273808
+    Attrib haver    -0.33708169915991815
+    Attrib de_casa    -0.2642849730175106
+    Attrib tiro    0.5511849034947279
+    Attrib militar    0.10144755910411185
+    Attrib colocar    -0.4374908798069645
+    Attrib de_inter    0.13204022304205368
+    Attrib clube    -0.6385293950173292
+    Attrib policial    0.4516014175612446
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    -0.17117024408137615
+    Attrib ser    0.025480237778129435
+    Attrib ano    0.25038558043071363
+    Attrib ir    -0.20000303974489464
+    Attrib ter    -0.1773156183749474
+    Attrib estar    0.5851561051964089
+    Attrib time    -0.559162312662955
+    Attrib inter    0.06502587780932058
+    Attrib rua    -0.1689575429715654
+    Attrib fazer    0.4791400762567074
+    Attrib morador    0.009334446238969219
+    Attrib casa    -0.14474800765163778
+    Attrib colorar    -0.2519709811292386
+    Attrib homicídio    0.001188035340208559
+    Attrib prefeitura    0.42125501548328687
+    Attrib grêmio    -0.02626176063185505
+    Attrib delegado    -0.4164811091830793
+    Attrib tráfico    -0.33584922129040723
+    Attrib tricolor    -0.062444407151978826
+    Attrib bairro    -0.24096011382253688
+    Attrib problema    0.204999028974202
+    Attrib local    -0.10780874084117834
+    Attrib kenny_braga    0.019133860748761305
+    Attrib kenny    0.01341770519000099
+    Attrib cacalo_silveira    -0.04198912873052161
+    Attrib cacalo    -0.049002076912374626
+    Attrib passar    0.31514111258797045
+    Attrib categoria    0.8568416340243097
+    Attrib silveira_martins    -0.02759422472561255
+    Attrib cacalo_silveira_martins    -0.04348649525075652
+    Attrib lixo    0.25420545772927217
+    Attrib dia    -0.0663854005407361
+    Attrib postar    0.9990863939540781
+    Attrib postar_por    1.0614332935978947
+    Attrib vitória    -0.3202526734150998
+    Attrib água    0.06162311293005926
+    Attrib brigar    -0.17094190766696113
+    Attrib esgoto    0.24943696582165872
+    Attrib ficar    -0.43795916607539753
+    Attrib eduardo_torre    -5.414810744385767E-4
+    Attrib adolescente    -0.14441610253528822
+    Attrib em_bairro    0.21040172337253185
+    Attrib brasileirão    -0.0436370098525571
+    Attrib haver    -0.4287372416048436
+    Attrib de_casa    0.08977562000489794
+    Attrib tiro    -0.03190946598631036
+    Attrib militar    0.14742591110570044
+    Attrib colocar    0.022574474021722673
+    Attrib de_inter    0.1349015632056007
+    Attrib clube    -0.3246101731154596
+    Attrib policial    -0.6607698942314266
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    -0.3355780663932093
+    Attrib ser    0.10553752293784065
+    Attrib ano    -0.5006551797815424
+    Attrib ir    -0.3440269258929881
+    Attrib ter    -0.18564987331083932
+    Attrib estar    0.2809050565499867
+    Attrib time    0.7930975330938485
+    Attrib inter    0.4311815797975718
+    Attrib rua    -0.5675891059024568
+    Attrib fazer    0.29284465235369694
+    Attrib morador    -0.3539460079905802
+    Attrib casa    -0.21063438991189345
+    Attrib colorar    0.4616957074697216
+    Attrib homicídio    -0.06423696045015172
+    Attrib prefeitura    0.06347030114389558
+    Attrib grêmio    0.04704762108749398
+    Attrib delegado    -0.34859160851083537
+    Attrib tráfico    -0.3171154282692669
+    Attrib tricolor    0.3283486720881276
+    Attrib bairro    -0.2935229424442665
+    Attrib problema    -0.9016236080931689
+    Attrib local    -0.5824613287870309
+    Attrib kenny_braga    -0.01818353966697237
+    Attrib kenny    -0.013871953088568867
+    Attrib cacalo_silveira    -0.04136310202324098
+    Attrib cacalo    0.03796141451321321
+    Attrib passar    -0.29278519386662394
+    Attrib categoria    -0.1575040141169225
+    Attrib silveira_martins    -0.010141709240483895
+    Attrib cacalo_silveira_martins    -0.020005805160379
+    Attrib lixo    -0.1195415355186531
+    Attrib dia    0.02483703179721056
+    Attrib postar    0.517960297929873
+    Attrib postar_por    0.5779003561096189
+    Attrib vitória    0.2626848794815424
+    Attrib água    -0.024301478356256182
+    Attrib brigar    -0.22193535211993515
+    Attrib esgoto    0.17241705292913986
+    Attrib ficar    -0.5556282169517163
+    Attrib eduardo_torre    -0.01543229476465615
+    Attrib adolescente    -0.2313663065219164
+    Attrib em_bairro    0.32589724835209755
+    Attrib brasileirão    0.02551282510833333
+    Attrib haver    -0.28442650718614026
+    Attrib de_casa    -0.20236371886749535
+    Attrib tiro    0.05621487695738569
+    Attrib militar    0.31320858789409806
+    Attrib colocar    -0.19095879161782997
+    Attrib de_inter    0.3066487395981017
+    Attrib clube    0.37067875436945347
+    Attrib policial    -0.8464889452742712
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    0.10832405938615353
+    Attrib ser    0.1189479290640588
+    Attrib ano    0.07119193174490775
+    Attrib ir    0.1556222774993684
+    Attrib ter    0.16611534947485912
+    Attrib estar    0.060582610968564196
+    Attrib time    -0.2449622942112467
+    Attrib inter    -0.527658946645847
+    Attrib rua    0.45432261257006573
+    Attrib fazer    0.05945249063230895
+    Attrib morador    0.2812842112302996
+    Attrib casa    0.23981111793209542
+    Attrib colorar    0.03066248639692467
+    Attrib homicídio    -0.03805030910927656
+    Attrib prefeitura    0.2076127614381492
+    Attrib grêmio    -0.006981809482332915
+    Attrib delegado    -0.037721651739620804
+    Attrib tráfico    -0.07279706847763996
+    Attrib tricolor    0.04836449081977186
+    Attrib bairro    0.09300462396984464
+    Attrib problema    0.8055517005869168
+    Attrib local    0.5464452150762464
+    Attrib kenny_braga    -0.005903593006299598
+    Attrib kenny    -0.02805534682938489
+    Attrib cacalo_silveira    0.03757147752190171
+    Attrib cacalo    -0.003341108371491451
+    Attrib passar    0.5893031870518453
+    Attrib categoria    0.5030353199055302
+    Attrib silveira_martins    0.036349705754946685
+    Attrib cacalo_silveira_martins    -0.0390242682996462
+    Attrib lixo    0.21217755532244267
+    Attrib dia    -0.22821620380395571
+    Attrib postar    0.016607645522114495
+    Attrib postar_por    -0.011169206604902468
+    Attrib vitória    0.05926219443409036
+    Attrib água    0.022099583111228505
+    Attrib brigar    0.06472742517191586
+    Attrib esgoto    0.06150403748744501
+    Attrib ficar    0.2852783493119216
+    Attrib eduardo_torre    -0.01618038914049702
+    Attrib adolescente    -0.042489668268949364
+    Attrib em_bairro    -0.11677732923665164
+    Attrib brasileirão    0.0326122573233127
+    Attrib haver    0.3083351625957026
+    Attrib de_casa    0.3241615762773473
+    Attrib tiro    -0.06128047364658402
+    Attrib militar    -0.07896515311982208
+    Attrib colocar    0.3600450125624786
+    Attrib de_inter    -0.13506705904225844
+    Attrib clube    0.13212817700795182
+    Attrib policial    -0.028074097472537026
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    0.0981770703106882
+    Attrib ser    0.023818635287695164
+    Attrib ano    0.3632307389194791
+    Attrib ir    0.08485771769352915
+    Attrib ter    0.07684186784054618
+    Attrib estar    0.17320735716596938
+    Attrib time    -0.7566451205773891
+    Attrib inter    -0.9413060822106846
+    Attrib rua    0.8150742899295691
+    Attrib fazer    0.04803246472105533
+    Attrib morador    0.4568471412208421
+    Attrib casa    0.377568173692119
+    Attrib colorar    -0.16102253188496485
+    Attrib homicídio    0.002328248606503991
+    Attrib prefeitura    0.22701307131880505
+    Attrib grêmio    0.003301500366448565
+    Attrib delegado    -0.045983673018957935
+    Attrib tráfico    0.02306112361530375
+    Attrib tricolor    -0.10764765399213246
+    Attrib bairro    0.17518881588055724
+    Attrib problema    1.3794048909205803
+    Attrib local    0.7985117818579621
+    Attrib kenny_braga    -0.04880001251588976
+    Attrib kenny    -0.014018422470612489
+    Attrib cacalo_silveira    -0.03155080757696436
+    Attrib cacalo    0.0325112166534257
+    Attrib passar    0.8796409284078427
+    Attrib categoria    0.8465526032476856
+    Attrib silveira_martins    0.029148653230814878
+    Attrib cacalo_silveira_martins    0.014597285379643471
+    Attrib lixo    0.42612481944386876
+    Attrib dia    -0.2521786571049033
+    Attrib postar    0.08678694250882922
+    Attrib postar_por    0.0949939611479284
+    Attrib vitória    -0.13863223985591686
+    Attrib água    0.06795438937061149
+    Attrib brigar    0.24305300615989656
+    Attrib esgoto    0.137964076734583
+    Attrib ficar    0.3442844656107917
+    Attrib eduardo_torre    0.016921954771297154
+    Attrib adolescente    -0.012424790738730283
+    Attrib em_bairro    -0.05927695889204469
+    Attrib brasileirão    0.01351700297810797
+    Attrib haver    0.4759666328072193
+    Attrib de_casa    0.5980779311243749
+    Attrib tiro    0.03514804179689494
+    Attrib militar    -0.1334984867400118
+    Attrib colocar    0.4146618661842204
+    Attrib de_inter    -0.09567957289391606
+    Attrib clube    -0.15128934675032465
+    Attrib policial    0.08437031295158166
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    0.05098264262667392
+    Attrib ser    -0.24418853108699065
+    Attrib ano    0.21266743791401752
+    Attrib ir    0.027763367292517938
+    Attrib ter    -0.0633671697379917
+    Attrib estar    -0.35383819023503676
+    Attrib time    -0.5431684582466265
+    Attrib inter    -0.03536759568462566
+    Attrib rua    0.29723646408667126
+    Attrib fazer    -0.4269242220054582
+    Attrib morador    0.08394668549431872
+    Attrib casa    0.05139247045668184
+    Attrib colorar    -0.3024001172622296
+    Attrib homicídio    0.22677627644254622
+    Attrib prefeitura    -0.14618637750553676
+    Attrib grêmio    0.03368598144873622
+    Attrib delegado    0.5897678873079863
+    Attrib tráfico    0.4685684493275612
+    Attrib tricolor    -0.10848383990149704
+    Attrib bairro    0.44567468953489864
+    Attrib problema    -0.09192846762656577
+    Attrib local    0.1432640489971168
+    Attrib kenny_braga    -0.048733383856156956
+    Attrib kenny    -0.0044547345144647504
+    Attrib cacalo_silveira    0.016674817176684634
+    Attrib cacalo    0.030998878385978465
+    Attrib passar    -0.3025948891762146
+    Attrib categoria    -0.5072414156681424
+    Attrib silveira_martins    -0.02190442831470605
+    Attrib cacalo_silveira_martins    0.023281705826528803
+    Attrib lixo    -0.06267410375280905
+    Attrib dia    0.06209593657551357
+    Attrib postar    -0.7101013044587511
+    Attrib postar_por    -0.7202085501596374
+    Attrib vitória    -0.28398538392279377
+    Attrib água    0.197089723659293
+    Attrib brigar    0.3594153795166305
+    Attrib esgoto    -0.07313153577704853
+    Attrib ficar    0.25667928295431014
+    Attrib eduardo_torre    0.03194000980772875
+    Attrib adolescente    0.37805176408999946
+    Attrib em_bairro    -0.007580125829491727
+    Attrib brasileirão    0.041863026124028105
+    Attrib haver    0.09120390385841753
+    Attrib de_casa    -3.4648428464189316E-4
+    Attrib tiro    0.22098929207059684
+    Attrib militar    -0.18124688441774908
+    Attrib colocar    -0.09977150023563204
+    Attrib de_inter    -0.05852860240431135
+    Attrib clube    -0.3293635622334643
+    Attrib policial    1.0471094401125152
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    -0.08708280859413088
+    Attrib ser    -0.06589758827488326
+    Attrib ano    -0.29529811474802775
+    Attrib ir    -0.10758047968274478
+    Attrib ter    -0.03526480150990732
+    Attrib estar    -0.1923416761569837
+    Attrib time    0.7090244287813859
+    Attrib inter    0.7532478822194915
+    Attrib rua    -0.6440877152163598
+    Attrib fazer    0.028085032587781705
+    Attrib morador    -0.3311752367956083
+    Attrib casa    -0.31152236821176155
+    Attrib colorar    0.31325233676476205
+    Attrib homicídio    -0.026619419718036795
+    Attrib prefeitura    -0.1162605410974419
+    Attrib grêmio    -0.0406982579673446
+    Attrib delegado    -0.09200036760144414
+    Attrib tráfico    -0.06712183124915873
+    Attrib tricolor    0.16108333620225515
+    Attrib bairro    -0.2567099239180319
+    Attrib problema    -0.9492225993284372
+    Attrib local    -0.5184462747848114
+    Attrib kenny_braga    0.01978937214859662
+    Attrib kenny    0.04084882966696547
+    Attrib cacalo_silveira    0.021596230245821954
+    Attrib cacalo    0.0028210059037050844
+    Attrib passar    -0.45276239192942047
+    Attrib categoria    -0.4198992018818368
+    Attrib silveira_martins    -6.212719676687573E-4
+    Attrib cacalo_silveira_martins    -0.021379657360566295
+    Attrib lixo    -0.30228279240330996
+    Attrib dia    0.28328739237479195
+    Attrib postar    -0.021033336121944066
+    Attrib postar_por    -0.054531624643214
+    Attrib vitória    0.17668950787852616
+    Attrib água    -0.15928564362853118
+    Attrib brigar    -0.17398676844717742
+    Attrib esgoto    -0.02508900206017412
+    Attrib ficar    -0.23680230816199782
+    Attrib eduardo_torre    -0.045686661446595556
+    Attrib adolescente    -0.06374734823899758
+    Attrib em_bairro    0.04147589524947931
+    Attrib brasileirão    0.009568283577889025
+    Attrib haver    -0.3887460146861872
+    Attrib de_casa    -0.3627150088883423
+    Attrib tiro    -0.08315631713617325
+    Attrib militar    0.0936102374757714
+    Attrib colocar    -0.19504253088780146
+    Attrib de_inter    0.0748525668561986
+    Attrib clube    0.19368013710230048
+    Attrib policial    -0.08256866266856058
+Sigmoid Node 18
+    Inputs    Weights
+    Threshold    -0.07560383126632507
+    Attrib ser    0.11923770424419687
+    Attrib ano    -0.4647442852578563
+    Attrib ir    -0.04779320788508309
+    Attrib ter    0.18041253737828342
+    Attrib estar    0.06666163231003062
+    Attrib time    1.0779494426790752
+    Attrib inter    0.12050408675485476
+    Attrib rua    -0.3133850121703707
+    Attrib fazer    0.21060303396428592
+    Attrib morador    -0.14553839203566676
+    Attrib casa    0.0695850287685867
+    Attrib colorar    0.6864469703054521
+    Attrib homicídio    -0.28959840961098177
+    Attrib prefeitura    0.09864381579368234
+    Attrib grêmio    -0.037129389349679943
+    Attrib delegado    -0.35471932160443026
+    Attrib tráfico    -0.29941948179074585
+    Attrib tricolor    0.2362928307049494
+    Attrib bairro    -0.48510463473971954
+    Attrib problema    0.08513453279746354
+    Attrib local    -0.10763800393853556
+    Attrib kenny_braga    0.04072591510407991
+    Attrib kenny    0.032927926420219675
+    Attrib cacalo_silveira    -0.015130128887934212
+    Attrib cacalo    0.017385885094022266
+    Attrib passar    0.23774903323534402
+    Attrib categoria    -0.019068506341290915
+    Attrib silveira_martins    -0.01499598808830157
+    Attrib cacalo_silveira_martins    -0.03486370850065092
+    Attrib lixo    0.04793643628773508
+    Attrib dia    -0.12090296841898579
+    Attrib postar    -0.09200693225806104
+    Attrib postar_por    -0.08687388292485372
+    Attrib vitória    0.7128366645136314
+    Attrib água    -0.19941184466787876
+    Attrib brigar    -0.38398926081062923
+    Attrib esgoto    0.08564779237939217
+    Attrib ficar    -0.16096732458668234
+    Attrib eduardo_torre    -0.010256805021807577
+    Attrib adolescente    -0.2568488144900447
+    Attrib em_bairro    0.05202983379290024
+    Attrib brasileirão    -0.04187525049218236
+    Attrib haver    0.009137972591916855
+    Attrib de_casa    -0.012819477606385505
+    Attrib tiro    -0.2844773070912752
+    Attrib militar    0.2189820244972665
+    Attrib colocar    0.20202866781312606
+    Attrib de_inter    0.10579779575416008
+    Attrib clube    0.8096125980689703
+    Attrib policial    -0.7666138345362905
+Sigmoid Node 19
+    Inputs    Weights
+    Threshold    0.23959689951614152
+    Attrib ser    -0.03289224759271236
+    Attrib ano    -0.31400122552683146
+    Attrib ir    0.3453666061219107
+    Attrib ter    0.23055665579248114
+    Attrib estar    -0.629816871844958
+    Attrib time    0.7754448319944641
+    Attrib inter    -0.06585620386340695
+    Attrib rua    0.08398409057894234
+    Attrib fazer    -0.5881991393205991
+    Attrib morador    -0.03590565508417525
+    Attrib casa    0.1385925170636697
+    Attrib colorar    0.3052221924351851
+    Attrib homicídio    0.016762259306774066
+    Attrib prefeitura    -0.35960981322185853
+    Attrib grêmio    0.010115783377458484
+    Attrib delegado    0.4012117449304221
+    Attrib tráfico    0.37624290898979523
+    Attrib tricolor    0.04795618532030196
+    Attrib bairro    0.19040360474621965
+    Attrib problema    -0.10097537238463265
+    Attrib local    0.048058147011681714
+    Attrib kenny_braga    0.043216987792061054
+    Attrib kenny    0.018585983745398563
+    Attrib cacalo_silveira    0.04178630944420331
+    Attrib cacalo    0.009042787362984327
+    Attrib passar    -0.28952102825011966
+    Attrib categoria    -0.7326387163158297
+    Attrib silveira_martins    -0.009996762133407298
+    Attrib cacalo_silveira_martins    0.020876507516438686
+    Attrib lixo    -0.21558855775561941
+    Attrib dia    -0.02421607110109183
+    Attrib postar    -1.0774168249646496
+    Attrib postar_por    -1.1186175877030529
+    Attrib vitória    0.41592954751199995
+    Attrib água    -0.2198417464671994
+    Attrib brigar    0.16112779552310427
+    Attrib esgoto    -0.19573883066113484
+    Attrib ficar    0.466435443750634
+    Attrib eduardo_torre    0.023399381449103196
+    Attrib adolescente    0.1564037484374278
+    Attrib em_bairro    -0.23350341028762003
+    Attrib brasileirão    0.04035917822536479
+    Attrib haver    0.4124311326471465
+    Attrib de_casa    -0.16263837865017494
+    Attrib tiro    -0.09519381607575497
+    Attrib militar    -0.17716055748526946
+    Attrib colocar    0.06865513262688169
+    Attrib de_inter    -0.1926887365669472
+    Attrib clube    0.4798936981680918
+    Attrib policial    0.7036220532411366
+Sigmoid Node 20
+    Inputs    Weights
+    Threshold    0.11980826028940536
+    Attrib ser    0.05871196926600853
+    Attrib ano    -0.14323540181427485
+    Attrib ir    0.07616483523174157
+    Attrib ter    -0.014028126344952782
+    Attrib estar    -0.06962758788555018
+    Attrib time    0.3608357632875134
+    Attrib inter    0.569602754679417
+    Attrib rua    -0.48113938583102606
+    Attrib fazer    -0.11419801649598685
+    Attrib morador    -0.2440930373083838
+    Attrib casa    -0.2047732486579445
+    Attrib colorar    -0.08445245989643306
+    Attrib homicídio    0.0782115069649882
+    Attrib prefeitura    -0.37740071798025443
+    Attrib grêmio    -0.048248997151494825
+    Attrib delegado    0.1693970990301794
+    Attrib tráfico    0.2494819922054861
+    Attrib tricolor    -0.1526205821250391
+    Attrib bairro    -0.020611886995479646
+    Attrib problema    -1.1294985208825388
+    Attrib local    -0.5038730801126249
+    Attrib kenny_braga    -0.041946717431806516
+    Attrib kenny    -0.047067916586423765
+    Attrib cacalo_silveira    -0.021145687957051143
+    Attrib cacalo    -0.010957640776199276
+    Attrib passar    -0.8263043770137071
+    Attrib categoria    -1.076751803067202
+    Attrib silveira_martins    0.026964393082829982
+    Attrib cacalo_silveira_martins    -0.038895690527150355
+    Attrib lixo    -0.5071964768929919
+    Attrib dia    0.2296383575066042
+    Attrib postar    -0.5842388242102348
+    Attrib postar_por    -0.5890282010887715
+    Attrib vitória    -0.0932883743529836
+    Attrib água    -0.2474195216014258
+    Attrib brigar    0.1259087759689738
+    Attrib esgoto    -0.19665324951680666
+    Attrib ficar    -0.13276071101770967
+    Attrib eduardo_torre    0.041120521954729386
+    Attrib adolescente    -0.07377744893429139
+    Attrib em_bairro    -0.15196709299424976
+    Attrib brasileirão    -0.03531169285457857
+    Attrib haver    -0.49876688214811293
+    Attrib de_casa    -0.4063976765334905
+    Attrib tiro    0.2032734196706047
+    Attrib militar    -0.04505893573227636
+    Attrib colocar    -0.4476726098081393
+    Attrib de_inter    -0.08628196010168641
+    Attrib clube    -0.12299638426816548
+    Attrib policial    0.16138449845568512
+Sigmoid Node 21
+    Inputs    Weights
+    Threshold    -0.11796393970734854
+    Attrib ser    -0.06470373985156028
+    Attrib ano    -0.251275744628184
+    Attrib ir    -0.14733189048230766
+    Attrib ter    -0.08657176010974757
+    Attrib estar    -0.0759507653209742
+    Attrib time    0.5619420773767132
+    Attrib inter    0.5538219238860617
+    Attrib rua    -0.507571765137424
+    Attrib fazer    0.021077371923097856
+    Attrib morador    -0.35022312208461315
+    Attrib casa    -0.2583378485383222
+    Attrib colorar    0.2236832973271997
+    Attrib homicídio    0.018640597638820467
+    Attrib prefeitura    -0.08494153082505865
+    Attrib grêmio    -0.009803569748721354
+    Attrib delegado    -0.08122922554614638
+    Attrib tráfico    -0.026503376461544874
+    Attrib tricolor    0.14646168187552994
+    Attrib bairro    -0.211387051928064
+    Attrib problema    -0.8356207080741317
+    Attrib local    -0.46200297708196475
+    Attrib kenny_braga    -0.040103823960143295
+    Attrib kenny    -0.010318397094324715
+    Attrib cacalo_silveira    -0.04998950027846349
+    Attrib cacalo    -0.03549939974566525
+    Attrib passar    -0.4092970900130348
+    Attrib categoria    -0.32485359370633266
+    Attrib silveira_martins    0.03220868529280965
+    Attrib cacalo_silveira_martins    0.0315410452237002
+    Attrib lixo    -0.22330339542858507
+    Attrib dia    0.1925051910797758
+    Attrib postar    0.006200758251494478
+    Attrib postar_por    0.061533303140606344
+    Attrib vitória    0.1542390556636445
+    Attrib água    -0.1818394230207201
+    Attrib brigar    -0.1568364159553369
+    Attrib esgoto    -0.016463440867067712
+    Attrib ficar    -0.23984631306860654
+    Attrib eduardo_torre    -0.047365147088682294
+    Attrib adolescente    -0.021919767015907383
+    Attrib em_bairro    0.04953532778417553
+    Attrib brasileirão    0.01381517032213049
+    Attrib haver    -0.3402190328504428
+    Attrib de_casa    -0.3460872388163879
+    Attrib tiro    -7.288519001573706E-4
+    Attrib militar    0.07211586460902478
+    Attrib colocar    -0.1854447885328546
+    Attrib de_inter    0.04156975559294428
+    Attrib clube    0.17985660995598737
+    Attrib policial    -0.13805125089619377
+Sigmoid Node 22
+    Inputs    Weights
+    Threshold    -0.14824568824533618
+    Attrib ser    0.15297399023205455
+    Attrib ano    0.003574500422902846
+    Attrib ir    -0.15568395457275125
+    Attrib ter    -0.07218263425397865
+    Attrib estar    0.450604477844078
+    Attrib time    0.04616803729151074
+    Attrib inter    0.026002068764755564
+    Attrib rua    -0.25056969381259697
+    Attrib fazer    0.3895279250650903
+    Attrib morador    -0.026582440448328783
+    Attrib casa    -0.07595206886890843
+    Attrib colorar    0.09184886843959904
+    Attrib homicídio    -0.1503825314633571
+    Attrib prefeitura    0.24202072249724402
+    Attrib grêmio    -0.008553626759952693
+    Attrib delegado    -0.5232930951317554
+    Attrib tráfico    -0.4105668954147665
+    Attrib tricolor    0.058926986430286064
+    Attrib bairro    -0.3757131973232514
+    Attrib problema    0.09667729065361784
+    Attrib local    -0.1015397356746255
+    Attrib kenny_braga    -0.009758878458929754
+    Attrib kenny    0.03593540983101949
+    Attrib cacalo_silveira    -0.028907570906327642
+    Attrib cacalo    0.03691676807580688
+    Attrib passar    0.33258477621942545
+    Attrib categoria    0.6510014493769334
+    Attrib silveira_martins    0.013496893311561148
+    Attrib cacalo_silveira_martins    0.01415868011953289
+    Attrib lixo    0.10771197163976323
+    Attrib dia    -0.16159437979579705
+    Attrib postar    0.8539394138829702
+    Attrib postar_por    0.872869467621937
+    Attrib vitória    -0.06805821666124416
+    Attrib água    -0.143368766881991
+    Attrib brigar    -0.2688372628751719
+    Attrib esgoto    0.14453149713755042
+    Attrib ficar    -0.28449839999808063
+    Attrib eduardo_torre    -0.017574224690279854
+    Attrib adolescente    -0.22872636988182496
+    Attrib em_bairro    0.07844666318312508
+    Attrib brasileirão    0.028396618333276655
+    Attrib haver    -0.2186856584201528
+    Attrib de_casa    0.05103057794893141
+    Attrib tiro    -0.09130208361927035
+    Attrib militar    0.11570208190864749
+    Attrib colocar    0.037578878419619384
+    Attrib de_inter    0.09256316069780979
+    Attrib clube    0.0060625575916351876
+    Attrib policial    -0.8011129325613909
+Sigmoid Node 23
+    Inputs    Weights
+    Threshold    0.13646914958436446
+    Attrib ser    -0.19437817973197175
+    Attrib ano    -0.15428902323976768
+    Attrib ir    0.23184497758289335
+    Attrib ter    0.03251998103703933
+    Attrib estar    -0.47951840039376126
+    Attrib time    0.18756009033201862
+    Attrib inter    -0.015620911089433517
+    Attrib rua    0.25364289302798604
+    Attrib fazer    -0.527430439349941
+    Attrib morador    0.09109606389014809
+    Attrib casa    0.09458246238282657
+    Attrib colorar    0.08279238570702344
+    Attrib homicídio    0.15051411657369898
+    Attrib prefeitura    -0.37353248532539884
+    Attrib grêmio    0.0030271106694655173
+    Attrib delegado    0.5833597559485375
+    Attrib tráfico    0.4738597915317943
+    Attrib tricolor    -0.05790811979660289
+    Attrib bairro    0.3904915410974808
+    Attrib problema    -0.1883985138231182
+    Attrib local    0.08830971744785188
+    Attrib kenny_braga    0.03078189070945768
+    Attrib kenny    0.021711192571663956
+    Attrib cacalo_silveira    -0.016519757646494514
+    Attrib cacalo    -0.03913569541312587
+    Attrib passar    -0.4697770053970849
+    Attrib categoria    -0.8149784321704671
+    Attrib silveira_martins    0.034356382902088256
+    Attrib cacalo_silveira_martins    -0.018334571597442298
+    Attrib lixo    -0.18354491668304268
+    Attrib dia    0.09707940787839589
+    Attrib postar    -0.8980138513628826
+    Attrib postar_por    -0.9894016580262052
+    Attrib vitória    0.10888825015614824
+    Attrib água    0.051790206727003754
+    Attrib brigar    0.28970831500149785
+    Attrib esgoto    -0.2168943594961245
+    Attrib ficar    0.30795214066394044
+    Attrib eduardo_torre    0.019606556787604507
+    Attrib adolescente    0.2032970587438645
+    Attrib em_bairro    -0.18787476557522403
+    Attrib brasileirão    -0.04445658034712065
+    Attrib haver    0.18399310906248192
+    Attrib de_casa    -0.127865423226325
+    Attrib tiro    0.07191700661104604
+    Attrib militar    -0.2584994846499213
+    Attrib colocar    -0.04340429831446736
+    Attrib de_inter    -0.06656587053687611
+    Attrib clube    0.0158433613177358
+    Attrib policial    0.991237405714056
+Sigmoid Node 24
+    Inputs    Weights
+    Threshold    0.10227840188364687
+    Attrib ser    -0.022460610848495276
+    Attrib ano    -0.2334756011147356
+    Attrib ir    0.09599582204461021
+    Attrib ter    0.13259809576692075
+    Attrib estar    -0.3386029182075286
+    Attrib time    0.4903182286169535
+    Attrib inter    0.021516282483766642
+    Attrib rua    0.07615515762542883
+    Attrib fazer    -0.3249967925449193
+    Attrib morador    0.04197781310222172
+    Attrib casa    0.10197916043321212
+    Attrib colorar    0.23928640979645593
+    Attrib homicídio    0.029128228142773216
+    Attrib prefeitura    -0.298498274437943
+    Attrib grêmio    -0.00958709368469305
+    Attrib delegado    0.2693424751754823
+    Attrib tráfico    0.2913526330933289
+    Attrib tricolor    0.06031001509591111
+    Attrib bairro    0.10273857455147971
+    Attrib problema    -0.2027923382981617
+    Attrib local    0.08316152415891284
+    Attrib kenny_braga    -0.04974918884942099
+    Attrib kenny    5.151666095433369E-4
+    Attrib cacalo_silveira    0.014112348110067854
+    Attrib cacalo    -0.018826913055542627
+    Attrib passar    -0.20452617176181204
+    Attrib categoria    -0.6209339914772417
+    Attrib silveira_martins    -0.018699835658448252
+    Attrib cacalo_silveira_martins    -0.04957900982336956
+    Attrib lixo    -0.21123010512425688
+    Attrib dia    0.0769728559980982
+    Attrib postar    -0.7550436951492566
+    Attrib postar_por    -0.8147737266894731
+    Attrib vitória    0.253850595756046
+    Attrib água    -0.17130525669724048
+    Attrib brigar    0.20927548665729426
+    Attrib esgoto    -0.09991273898844738
+    Attrib ficar    0.30498393453035644
+    Attrib eduardo_torre    -5.70267218352391E-5
+    Attrib adolescente    0.01875491343788436
+    Attrib em_bairro    -0.08163948036956709
+    Attrib brasileirão    -0.010824972027645006
+    Attrib haver    0.19901814263763393
+    Attrib de_casa    -0.07147083684191802
+    Attrib tiro    0.03719638016053058
+    Attrib militar    -0.10227103388766133
+    Attrib colocar    -0.010307414777750478
+    Attrib de_inter    -0.08704096588628579
+    Attrib clube    0.31314309806101814
+    Attrib policial    0.37069757281642723
+Sigmoid Node 25
+    Inputs    Weights
+    Threshold    0.08667082279767112
+    Attrib ser    0.06130482406075817
+    Attrib ano    -0.017647722420796562
+    Attrib ir    0.014911993774438304
+    Attrib ter    -0.054709921966833074
+    Attrib estar    -0.055219475026103575
+    Attrib time    0.004828209301158358
+    Attrib inter    0.37484058664560216
+    Attrib rua    -0.27546875644799707
+    Attrib fazer    -0.07758993193989501
+    Attrib morador    -0.14623469461003158
+    Attrib casa    -0.10254484275277863
+    Attrib colorar    -0.08358033755224702
+    Attrib homicídio    0.12489352894881132
+    Attrib prefeitura    -0.27927130746665646
+    Attrib grêmio    0.024499075726554548
+    Attrib delegado    0.1862649557561351
+    Attrib tráfico    0.19970016727045184
+    Attrib tricolor    -0.13873433383919834
+    Attrib bairro    0.013574055205018268
+    Attrib problema    -0.7703950199474069
+    Attrib local    -0.31543584848385375
+    Attrib kenny_braga    0.03837544536887755
+    Attrib kenny    -0.014470193100880414
+    Attrib cacalo_silveira    -0.015760143147675675
+    Attrib cacalo    0.044474141546809065
+    Attrib passar    -0.590004143209068
+    Attrib categoria    -0.7195375791909231
+    Attrib silveira_martins    0.03929553473983251
+    Attrib cacalo_silveira_martins    0.019841789160052054
+    Attrib lixo    -0.32654638441723555
+    Attrib dia    0.1706865819709332
+    Attrib postar    -0.4312998193326066
+    Attrib postar_por    -0.4751574557730147
+    Attrib vitória    -0.15609629990112425
+    Attrib água    -0.1532996962024865
+    Attrib brigar    0.09100307928074569
+    Attrib esgoto    -0.0803863760569878
+    Attrib ficar    -0.05743819827359889
+    Attrib eduardo_torre    -0.018550795920105133
+    Attrib adolescente    -0.039018567431059185
+    Attrib em_bairro    -0.07963866094380018
+    Attrib brasileirão    0.04697015286403798
+    Attrib haver    -0.3741123947952655
+    Attrib de_casa    -0.2985065389047936
+    Attrib tiro    0.19318344239575888
+    Attrib militar    -0.04543056344135383
+    Attrib colocar    -0.3586057145970062
+    Attrib de_inter    -0.052634402011996075
+    Attrib clube    -0.19292170314282964
+    Attrib policial    0.18486650864679602
+Sigmoid Node 26
+    Inputs    Weights
+    Threshold    0.23529779681458152
+    Attrib ser    0.021747593452781974
+    Attrib ano    0.5411769207619473
+    Attrib ir    0.3513875842912779
+    Attrib ter    0.14566026359122194
+    Attrib estar    0.0015768944379892672
+    Attrib time    -1.352624292555588
+    Attrib inter    -0.8715111404893937
+    Attrib rua    0.7391575558910539
+    Attrib fazer    -0.14151247274144033
+    Attrib morador    0.45318657202553153
+    Attrib casa    0.36075134801041736
+    Attrib colorar    -0.6015103355584417
+    Attrib homicídio    0.2546769651319587
+    Attrib prefeitura    0.02838621147279675
+    Attrib grêmio    0.001826263468886001
+    Attrib delegado    0.5144173046073177
+    Attrib tráfico    0.5303111775076005
+    Attrib tricolor    -0.3568663030738542
+    Attrib bairro    0.38998064811076655
+    Attrib problema    1.1886618451853286
+    Attrib local    0.671799944010992
+    Attrib kenny_braga    0.006495624542687373
+    Attrib kenny    0.04639171058720404
+    Attrib cacalo_silveira    0.027783246171309617
+    Attrib cacalo    0.04396981771996654
+    Attrib passar    0.2620556825126145
+    Attrib categoria    0.43453833295877076
+    Attrib silveira_martins    0.024773420592453715
+    Attrib cacalo_silveira_martins    0.0039055497047639914
+    Attrib lixo    0.20977881764328618
+    Attrib dia    -0.4543250278429949
+    Attrib postar    -0.4056181070195882
+    Attrib postar_por    -0.39120866247466235
+    Attrib vitória    -0.4813457170658323
+    Attrib água    0.007259898771811173
+    Attrib brigar    0.48319867223027374
+    Attrib esgoto    -0.06481930670249923
+    Attrib ficar    0.46710987264969595
+    Attrib eduardo_torre    -0.007160796500500277
+    Attrib adolescente    0.05409489532453659
+    Attrib em_bairro    -0.29515789979053236
+    Attrib brasileirão    -0.04075081594721656
+    Attrib haver    0.17467725054470412
+    Attrib de_casa    0.509846149415255
+    Attrib tiro    0.08433878124321276
+    Attrib militar    -0.41082386385384123
+    Attrib colocar    0.18882300949998174
+    Attrib de_inter    -0.28539523497537367
+    Attrib clube    -0.6125890299327243
+    Attrib policial    0.8194062101066529
+Sigmoid Node 27
+    Inputs    Weights
+    Threshold    -0.01199623074327761
+    Attrib ser    0.07098996350723764
+    Attrib ano    -0.08008635627242908
+    Attrib ir    -0.013409441768394327
+    Attrib ter    0.07181965357343174
+    Attrib estar    0.02371457626096772
+    Attrib time    0.1307044949524002
+    Attrib inter    -0.14794156503761563
+    Attrib rua    -0.02383347098515106
+    Attrib fazer    0.011885058326637925
+    Attrib morador    0.009413411685658056
+    Attrib casa    -0.04891351124528201
+    Attrib colorar    0.06123792653352341
+    Attrib homicídio    -0.1100671173841446
+    Attrib prefeitura    0.050612688750493795
+    Attrib grêmio    0.027849429217918623
+    Attrib delegado    -0.23532714433567822
+    Attrib tráfico    -0.20015999555387437
+    Attrib tricolor    0.05947167160509265
+    Attrib bairro    -0.10211009570760256
+    Attrib problema    0.32564618539703033
+    Attrib local    0.07665398766089077
+    Attrib kenny_braga    -0.04857634362890473
+    Attrib kenny    -0.03715475166711181
+    Attrib cacalo_silveira    -0.03616482308235534
+    Attrib cacalo    -0.01134608123301354
+    Attrib passar    0.18606845129153884
+    Attrib categoria    0.441982497426511
+    Attrib silveira_martins    0.042864409058024744
+    Attrib cacalo_silveira_martins    -0.01238809410098407
+    Attrib lixo    0.08983171646872176
+    Attrib dia    -0.1253741460803821
+    Attrib postar    0.31011217703379085
+    Attrib postar_por    0.38730622798635667
+    Attrib vitória    0.11807416070285494
+    Attrib água    -0.021500432241606974
+    Attrib brigar    -0.1400564730741309
+    Attrib esgoto    0.04180792796865454
+    Attrib ficar    -0.03306248548677365
+    Attrib eduardo_torre    0.03221771246908066
+    Attrib adolescente    -0.1266223055111432
+    Attrib em_bairro    0.0011968338445512584
+    Attrib brasileirão    -0.034999957133584114
+    Attrib haver    0.04270552111585536
+    Attrib de_casa    0.14117454544053634
+    Attrib tiro    -0.16801936552375232
+    Attrib militar    -0.018913168332667936
+    Attrib colocar    0.15037112727194488
+    Attrib de_inter    -0.07071477907923025
+    Attrib clube    0.1423784219577708
+    Attrib policial    -0.24615861582865628
+Sigmoid Node 28
+    Inputs    Weights
+    Threshold    -0.05372045013426637
+    Attrib ser    -0.11462741218010235
+    Attrib ano    0.06219377020245301
+    Attrib ir    -0.09463636499421488
+    Attrib ter    -0.03488749485010958
+    Attrib estar    0.00995674571094027
+    Attrib time    -0.26548567196569905
+    Attrib inter    -0.45190206962876045
+    Attrib rua    0.3765988265722089
+    Attrib fazer    0.08950701318345614
+    Attrib morador    0.2550651925873267
+    Attrib casa    0.2002941673165645
+    Attrib colorar    0.08667329120180967
+    Attrib homicídio    -0.020179682007602492
+    Attrib prefeitura    0.3029455738741685
+    Attrib grêmio    -0.0050612242270706015
+    Attrib delegado    -0.19101475553631816
+    Attrib tráfico    -0.2261137701755458
+    Attrib tricolor    0.08456148900376842
+    Attrib bairro    0.03135409218749651
+    Attrib problema    0.9221665758693076
+    Attrib local    0.4268292642290878
+    Attrib kenny_braga    0.047288304850824775
+    Attrib kenny    -0.03895388642823973
+    Attrib cacalo_silveira    -0.014397719746659043
+    Attrib cacalo    -0.033775039928434086
+    Attrib passar    0.6293619350061723
+    Attrib categoria    0.9217724366519049
+    Attrib silveira_martins    0.002272243895683368
+    Attrib cacalo_silveira_martins    -0.010126113811275303
+    Attrib lixo    0.416331386052047
+    Attrib dia    -0.1153516527628238
+    Attrib postar    0.6429482922786894
+    Attrib postar_por    0.6194152894176893
+    Attrib vitória    0.0735812661358711
+    Attrib água    0.18601588255579013
+    Attrib brigar    -0.05363163726546957
+    Attrib esgoto    0.139059501086731
+    Attrib ficar    0.10407952653750048
+    Attrib eduardo_torre    0.019374628407130043
+    Attrib adolescente    0.06842372561009101
+    Attrib em_bairro    0.1014026290867528
+    Attrib brasileirão    0.03785238493730092
+    Attrib haver    0.3465112011463612
+    Attrib de_casa    0.43001271185600515
+    Attrib tiro    -0.16009602589068675
+    Attrib militar    0.06919083330404298
+    Attrib colocar    0.36845535163470156
+    Attrib de_inter    0.02160917682068243
+    Attrib clube    0.1562425933824444
+    Attrib policial    -0.14498217332638738
+Sigmoid Node 29
+    Inputs    Weights
+    Threshold    -0.12420123407813047
+    Attrib ser    -0.11173683790464355
+    Attrib ano    0.10581012948861267
+    Attrib ir    -0.11518954871076438
+    Attrib ter    -0.08405230706986239
+    Attrib estar    0.023931291326326924
+    Attrib time    -0.4163495074723711
+    Attrib inter    -0.48924378017834186
+    Attrib rua    0.4542465668234112
+    Attrib fazer    0.004554254028765402
+    Attrib morador    0.29430558423018977
+    Attrib casa    0.2062440795905413
+    Attrib colorar    -0.019622819335198344
+    Attrib homicídio    0.0067987230962405715
+    Attrib prefeitura    0.28653311997274417
+    Attrib grêmio    -0.039421041290541636
+    Attrib delegado    -0.14228241215918028
+    Attrib tráfico    -0.20239631514710543
+    Attrib tricolor    0.08365077199556883
+    Attrib bairro    0.05252873015800634
+    Attrib problema    0.9778840435587413
+    Attrib local    0.4263514798594124
+    Attrib kenny_braga    0.004902729853361529
+    Attrib kenny    0.00462621819892782
+    Attrib cacalo_silveira    0.013255692524572205
+    Attrib cacalo    -0.0020693374578005935
+    Attrib passar    0.6392835727617137
+    Attrib categoria    1.0346733960901857
+    Attrib silveira_martins    0.027137651020276196
+    Attrib cacalo_silveira_martins    -0.009000354994177208
+    Attrib lixo    0.44442983450204615
+    Attrib dia    -0.08609577402539262
+    Attrib postar    0.75457379987464
+    Attrib postar_por    0.792660733145136
+    Attrib vitória    0.021573469380458305
+    Attrib água    0.24248822937649137
+    Attrib brigar    -0.02756717573490872
+    Attrib esgoto    0.20987034597608561
+    Attrib ficar    0.0938290587571069
+    Attrib eduardo_torre    3.392246797173648E-5
+    Attrib adolescente    0.0961602853596218
+    Attrib em_bairro    0.18264004751674587
+    Attrib brasileirão    0.03549466449323872
+    Attrib haver    0.36345963839098094
+    Attrib de_casa    0.4149351970510679
+    Attrib tiro    -0.17152572534881283
+    Attrib militar    0.12646135660530813
+    Attrib colocar    0.34258939559935475
+    Attrib de_inter    0.1270472529890391
+    Attrib clube    0.05465650938313845
+    Attrib policial    -0.1347777708115669
+Sigmoid Node 30
+    Inputs    Weights
+    Threshold    0.06951095568327292
+    Attrib ser    0.06244764401775957
+    Attrib ano    0.20522530735490702
+    Attrib ir    0.14581473904421585
+    Attrib ter    0.15199883487573818
+    Attrib estar    0.10329441451662177
+    Attrib time    -0.3351857532008184
+    Attrib inter    -0.7281852308463407
+    Attrib rua    0.6395208580791982
+    Attrib fazer    0.08353131606443248
+    Attrib morador    0.3486210069611533
+    Attrib casa    0.3186341326055022
+    Attrib colorar    -0.04072366413200712
+    Attrib homicídio    -0.07487700056832862
+    Attrib prefeitura    0.2126474641161159
+    Attrib grêmio    -0.01297483405272374
+    Attrib delegado    -0.10445553394226051
+    Attrib tráfico    -0.06896846111181525
+    Attrib tricolor    -0.02342306929284369
+    Attrib bairro    0.12840879525204807
+    Attrib problema    1.121390418819122
+    Attrib local    0.6917280961227971
+    Attrib kenny_braga    -0.01152955472687911
+    Attrib kenny    0.0358050568545695
+    Attrib cacalo_silveira    0.014160379776803594
+    Attrib cacalo    0.03951218745795829
+    Attrib passar    0.8565984073833757
+    Attrib categoria    0.6982616854522319
+    Attrib silveira_martins    1.467448488392739E-4
+    Attrib cacalo_silveira_martins    0.031587330809892414
+    Attrib lixo    0.3949385031161015
+    Attrib dia    -0.2625606852627853
+    Attrib postar    0.056607559803215766
+    Attrib postar_por    -0.03549512861882679
+    Attrib vitória    0.05823338428094434
+    Attrib água    0.02508648083277731
+    Attrib brigar    0.12055980490760969
+    Attrib esgoto    0.05740350014962274
+    Attrib ficar    0.30256361719356256
+    Attrib eduardo_torre    -0.023716649858923668
+    Attrib adolescente    -0.09700938571939767
+    Attrib em_bairro    -0.07552814916120144
+    Attrib brasileirão    -0.03685421453021596
+    Attrib haver    0.4963824322895711
+    Attrib de_casa    0.4137101559498675
+    Attrib tiro    -0.05697851901069732
+    Attrib militar    -0.1531476060952041
+    Attrib colocar    0.41189841783426495
+    Attrib de_inter    -0.14724480006011065
+    Attrib clube    0.15462372549929027
+    Attrib policial    -0.07943378670939748
+Class corpus_espaco_do_trabalhador
+    Input
+    Node 0
+Class corpus_seu_problema_e_nosso
+    Input
+    Node 1
+Class corpus_policia
+    Input
+    Node 2
+Class corpus_esportes
+    Input
+    Node 3
+
+Attribute mappings:
+
+Model attributes                   	    Incoming attributes
+-----------------------------------	    ----------------
+(numeric) ser                      	--> 1 (numeric) ser
+(numeric) ano                      	--> 3 (numeric) ano
+(numeric) ir                       	--> 5 (numeric) ir
+(numeric) ter                      	--> 6 (numeric) ter
+(numeric) estar                    	--> 2 (numeric) estar
+(numeric) time                     	--> 4 (numeric) time
+(numeric) inter                    	--> 40 (numeric) inter
+(numeric) rua                      	--> 10 (numeric) rua
+(numeric) fazer                    	--> 7 (numeric) fazer
+(numeric) morador                  	--> 26 (numeric) morador
+(numeric) casa                     	--> 20 (numeric) casa
+(numeric) colorar                  	--> 38 (numeric) colorar
+(numeric) homicídio                	--> 36 (numeric) homicídio
+(numeric) prefeitura               	--> - missing (no match)
+(numeric) grêmio                   	--> 21 (numeric) grêmio
+(numeric) delegado                 	--> - missing (no match)
+(numeric) tráfico                  	--> 41 (numeric) tráfico
+(numeric) tricolor                 	--> - missing (no match)
+(numeric) bairro                   	--> 18 (numeric) bairro
+(numeric) problema                 	--> 31 (numeric) problema
+(numeric) local                    	--> 23 (numeric) local
+(numeric) kenny_braga              	--> 42 (numeric) kenny_braga
+(numeric) kenny                    	--> 37 (numeric) kenny
+(numeric) cacalo_silveira          	--> 49 (numeric) cacalo_silveira
+(numeric) cacalo                   	--> 46 (numeric) cacalo
+(numeric) passar                   	--> 44 (numeric) passar
+(numeric) categoria                	--> 35 (numeric) categoria
+(numeric) silveira_martins         	--> - missing (no match)
+(numeric) cacalo_silveira_martins  	--> - missing (no match)
+(numeric) lixo                     	--> - missing (no match)
+(numeric) dia                      	--> 13 (numeric) dia
+(numeric) postar                   	--> 45 (numeric) postar
+(numeric) postar_por               	--> - missing (no match)
+(numeric) vitória                  	--> - missing (no match)
+(numeric) água                     	--> - missing (no match)
+(numeric) brigar                   	--> - missing (no match)
+(numeric) esgoto                   	--> - missing (no match)
+(numeric) ficar                    	--> - missing (no match)
+(numeric) eduardo_torre            	--> 30 (numeric) eduardo_torre
+(numeric) adolescente              	--> - missing (no match)
+(numeric) em_bairro                	--> - missing (no match)
+(numeric) brasileirão              	--> - missing (no match)
+(numeric) haver                    	--> - missing (no match)
+(numeric) de_casa                  	--> - missing (no match)
+(numeric) tiro                     	--> - missing (no match)
+(numeric) militar                  	--> - missing (no match)
+(numeric) colocar                  	--> - missing (no match)
+(numeric) de_inter                 	--> - missing (no match)
+(numeric) clube                    	--> 9 (numeric) clube
+(numeric) policial                 	--> 17 (numeric) policial
+(nominal) classe                   	--> 51 (nominal) classe
+
+
+Time taken to build model: 3.79 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          61               89.7059 %
+Incorrectly Classified Instances         7               10.2941 %
+Kappa statistic                          0.8627
+Mean absolute error                      0.0726
+Root mean squared error                  0.2134
+Relative absolute error                 19.4219 %
+Root relative squared error             49.353  %
+Total Number of Instances               68     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,058    0,842      1,000    0,914      0,891    0,989     0,959     corpus_espaco_do_trabalhador
+                 0,933    0,019    0,933      0,933    0,933      0,914    0,994     0,983     corpus_seu_problema_e_nosso
+                 0,889    0,060    0,842      0,889    0,865      0,815    0,982     0,955     corpus_policia
+                 0,789    0,000    1,000      0,789    0,882      0,854    0,971     0,944     corpus_esportes
+Weighted Avg.    0,897    0,034    0,906      0,897    0,896      0,866    0,983     0,959     
+
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+ 16  0  0  0 |  a = corpus_espaco_do_trabalhador
+  0 14  1  0 |  b = corpus_seu_problema_e_nosso
+  1  1 16  0 |  c = corpus_policia
+  2  0  2 15 |  d = corpus_esportes
+
