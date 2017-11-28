@@ -2,9 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cb835f7-a1be-4469-a0c1-0391ae40aa80" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TESTE/ESPORTE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TREINO/ESPORTE.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/criar_weka_files.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS ESPACO DO TRABALHADOR.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS ESPORTES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS POLICIA.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/CORPUS ESPACO DO TRABALHADOR.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/CORPUS ESPORTES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/CORPUS POLICIA.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPACO DO TRABALHADOR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPORTES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS POLICIA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS SEU PROBLEMA E NOSSO.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPACO DO TRABALHADOR.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPORTES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS POLICIA.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS SEU PROBLEMA E NOSSO.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pre_processamento.py" afterPath="$PROJECT_DIR$/pre_processamento.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,44 +30,64 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Trabalho_III$pre_processamento.coverage" NAME="pre_processamento Coverage Results" MODIFIED="1511301567588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Trabalho_III$pre_processamento.coverage" NAME="pre_processamento Coverage Results" MODIFIED="1511825282141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Trabalho_III$criar_weka_files.coverage" NAME="criar_weka_files Coverage Results" MODIFIED="1511828123133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pre_processamento.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pre_processamento.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="168" column="37" lean-forward="true" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
+            <state relative-caret-position="149">
+              <caret line="100" column="56" lean-forward="true" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
               <folding>
                 <element signature="e#27#36#0" expanded="true" />
-                <element signature="e#4334#4625#0" expanded="false" />
+                <element signature="e#11008#11299#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CORPUS ESPACO DO TRABALHADOR.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS ESPACO DO TRABALHADOR.txt">
+      <file leaf-file-name="criar_weka_files.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/criar_weka_files.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="4" />
+            <state relative-caret-position="212">
+              <caret line="63" column="34" lean-forward="false" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treino.arff" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Wekafiles/treino.arff">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CORPUS ESPACO DO TRABALHADOR.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/BoW/CORPUS ESPACO DO TRABALHADOR.txt">
+      <file leaf-file-name="teste.arff" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Wekafiles/teste.arff">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="224">
+              <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -63,6 +98,7 @@
       <find>nltk</find>
       <find>R$</find>
       <find>nltk.word_tokenize</find>
+      <find>teste</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -71,8 +107,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pre_processamento.py" />
         <option value="$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS ESPACO DO TRABALHADOR.txt" />
+        <option value="$PROJECT_DIR$/pre_processamento.py" />
+        <option value="$PROJECT_DIR$/criar_weka_files.py" />
       </list>
     </option>
   </component>
@@ -87,6 +124,9 @@
     <option name="y" value="-11" />
     <option name="width" value="1368" />
     <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -104,6 +144,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,31 +155,24 @@
             <path>
               <item name="Trabalho III" type="b2602c69:ProjectViewProjectNode" />
               <item name="Trabalho III" type="462c0819:PsiDirectoryNode" />
-              <item name="CORPUS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trabalho III" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trabalho III" type="462c0819:PsiDirectoryNode" />
-              <item name="CORPUS" type="462c0819:PsiDirectoryNode" />
-              <item name="TESTE" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Trabalho III" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Trabalho III" type="462c0819:PsiDirectoryNode" />
-              <item name="CORPUS" type="462c0819:PsiDirectoryNode" />
-              <item name="TREINO" type="462c0819:PsiDirectoryNode" />
+              <item name="Wekafiles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/.virtualenvs/nltk/bin/python3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CORPUS/TREINO/BoW/All" />
+      <recent name="$PROJECT_DIR$/CORPUS/TESTE/BoW/All" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -152,7 +186,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pre_processamento">
+  <component name="RunManager" selected="Python.criar_weka_files">
+    <configuration name="criar_weka_files" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Trabalho III" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/criar_weka_files.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <configuration name="pre_processamento" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,9 +223,14 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python.pre_processamento" />
+      <item index="1" class="java.lang.String" itemvalue="Python.criar_weka_files" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python.pre_processamento" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.criar_weka_files" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pre_processamento" />
       </list>
     </recent_temporary>
   </component>
@@ -200,10 +257,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968652" sideWeight="0.50455236" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.4969651" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.4969651" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19347496" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19650987" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -227,18 +284,45 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="24" />
+      <option name="time" value="26" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pre_processamento.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2560">
+          <caret line="168" column="37" lean-forward="false" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
+          <folding>
+            <element signature="e#27#36#0" expanded="true" />
+            <element signature="e#11008#11299#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/BoW/CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pre_processamento.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#27#36#0" expanded="true" />
-            <element signature="e#4334#4625#0" expanded="false" />
+            <element signature="e#11008#11299#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -255,7 +339,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="331" column="0" lean-forward="false" selection-start-line="331" selection-start-column="0" selection-end-line="331" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -267,27 +350,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/ESPORTE.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TODO.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/ESPORTE.txt" />
     <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPORTES.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -295,7 +362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -303,15 +369,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPACO DO TRABALHADOR.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="991">
-          <caret line="39649" column="4" lean-forward="true" selection-start-line="39649" selection-start-column="4" selection-end-line="39649" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -319,7 +376,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -327,7 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="42" column="8" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -335,15 +390,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="45" lean-forward="false" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPACO DO TRABALHADOR.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1744">
-          <caret line="57679" column="8" lean-forward="false" selection-start-line="57679" selection-start-column="8" selection-end-line="57682" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -355,21 +401,135 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3408">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TODO.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS ESPORTES.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram_bigram_trigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1632">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram_bigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="true" selection-start-line="0" selection-start-column="8" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/BoW/All/all_unigram.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPACO DO TRABALHADOR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pre_processamento.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="168" column="37" lean-forward="true" selection-start-line="168" selection-start-column="37" selection-end-line="168" selection-end-column="37" />
+        <state relative-caret-position="149">
+          <caret line="100" column="56" lean-forward="true" selection-start-line="100" selection-start-column="56" selection-end-line="100" selection-end-column="56" />
           <folding>
             <element signature="e#27#36#0" expanded="true" />
-            <element signature="e#4334#4625#0" expanded="false" />
+            <element signature="e#11008#11299#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CORPUS/TESTE/BoW/CORPUS ESPACO DO TRABALHADOR.txt">
+    <entry file="file://$PROJECT_DIR$/criar_weka_files.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="4" />
+        <state relative-caret-position="212">
+          <caret line="63" column="34" lean-forward="false" selection-start-line="63" selection-start-column="34" selection-end-line="63" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wekafiles/treino.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Wekafiles/teste.arff">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
           <folding />
         </state>
       </provider>

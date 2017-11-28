@@ -1,0 +1,5195 @@
+ir - 101
+ser - 87
+ano - 70
+ter - 51
+estar - 46
+bairro - 41
+de ano - 30
+em bairro - 27
+pms - 26
+`` - 26
+capital - 25
+viatura - 24
+crime - 24
+polícia - 24
+policial - 23
+rua - 23
+dizer - 21
+zona - 20
+casa - 19
+encontrar - 19
+vila - 18
+feira - 18
+homem - 18
+alegre - 18
+porto alegre - 17
+fazer - 17
+porto - 17
+de capital - 17
+arma - 16
+tráfico - 16
+ainda - 16
+dia - 16
+haver - 15
+morador - 15
+região - 15
+família - 15
+bala - 14
+droga - 14
+estar em - 14
+pé - 14
+apreender - 14
+delegado - 14
+morto - 14
+jovem - 14
+homicídio - 13
+eduardo - 13
+quarta - 13
+ficar - 13
+de quarta - 13
+passar - 13
+pessoa - 12
+carolina rocha - 12
+aqui - 12
+carolina - 12
+em rua - 12
+filho - 12
+investigar - 12
+eduardo torre - 12
+avenida - 12
+levar - 12
+rocha - 12
+adolescente - 12
+ver - 12
+torre - 12
+sul - 11
+estado - 11
+tarde - 11
+de droga - 11
+vítima - 11
+preso - 11
+isabel - 11
+canoa - 11
+local - 11
+cara - 11
+ser de - 11
+brigar - 11
+norte - 11
+operação - 11
+carro - 11
+policiar - 11
+de crime - 10
+ano ir - 10
+ferir - 10
+veículo - 10
+em região - 10
+em zona - 10
+chegar - 10
+parte - 10
+saber - 10
+novo - 10
+bala em - 10
+de porto - 9
+pistola - 9
+em cara - 9
+assalto - 9
+viamão - 9
+vez - 9
+em vila - 9
+matar - 9
+parte de - 9
+em casa - 9
+presídio - 9
+receber - 9
+conhecer - 9
+noite - 8
+principal - 8
+revólver - 8
+onde - 8
+manhã de - 8
+jardim - 8
+de arma - 8
+dp - 8
+de bala - 8
+de casa - 8
+antes - 8
+não ir - 8
+em de - 8
+tarde de - 8
+identificar - 8
+zona sul - 8
+pm - 8
+delegacia - 8
+manhã - 8
+hora - 8
+domingo - 8
+de tráfico - 8
+central - 8
+sábado - 8
+corpo - 8
+telefone - 8
+zona norte - 8
+criminoso - 8
+ir morto - 7
+volta - 7
+ocorrer - 7
+moto - 7
+por volta - 7
+presídio central - 7
+duplo - 7
+quintana - 7
+assaltar - 7
+dia de - 7
+comerciante - 7
+de acordo - 7
+contar - 7
+volta de - 7
+soldado - 7
+norte de - 7
+gente - 7
+ordem - 7
+nunca - 7
+militar - 7
+bom - 7
+acordo com - 7
+cumprir - 7
+casa de - 7
+maio - 7
+quarta feira - 7
+tatiane - 7
+cruzeiro - 7
+munir - 7
+ir encontrar - 7
+acordo - 7
+escola - 7
+em capital - 7
+mario quintana - 7
+mario - 7
+ano em - 7
+irmão - 7
+noite de - 7
+mudar - 7
+em manhã - 6
+bpm - 6
+delegacia de - 6
+morrer - 6
+em dia - 6
+entregar - 6
+cabeça - 6
+em canoa - 6
+via - 6
+imagem - 6
+segurança - 6
+em tarde - 6
+crack - 6
+velho - 6
+ano passar - 6
+responsável - 6
+tiro - 6
+brasil - 6
+fase - 6
+suspeita - 6
+civil - 6
+santos - 6
+agente - 6
+vila cruzeiro - 6
+bairro mario - 6
+detento - 6
+em avenida - 6
+semana - 6
+caso - 6
+oliveira - 6
+dun - 6
+sul de - 6
+de bairro - 6
+casa em - 6
+cidade - 6
+dhpp - 6
+poder - 6
+facção - 6
+polícia civil - 6
+atingir - 6
+ir preso - 6
+responsável por - 6
+menino - 6
+segunda - 6
+último - 6
+morador de - 6
+antes de - 6
+fuzis - 5
+viver - 5
+mathias - 5
+antônio - 5
+dp de - 5
+aparecer - 5
+achar - 5
+julho - 5
+manter - 5
+leste - 5
+trabalhar - 5
+presença de - 5
+frente - 5
+tráfico em - 5
+marido - 5
+ir apreender - 5
+chamar - 5
+de canoa - 5
+região metropolitana - 5
+deixar - 5
+depois de - 5
+gabriel - 5
+de julho - 5
+de polícia - 5
+dever - 5
+levar a - 5
+sexta - 5
+de silva - 5
+de santos - 5
+metropolitana - 5
+material - 5
+em local - 5
+suspeita de - 5
+traficante - 5
+exemplo - 5
+ano estar - 5
+de fuzis - 5
+rua de - 5
+homem ir - 5
+ontem - 5
+presença - 5
+de policial - 5
+apenas - 5
+primeiro - 5
+sair - 5
+além de - 5
+braço - 5
+assinar - 5
+alvorar - 5
+começar - 5
+ter ser - 5
+policiar em - 5
+de rua - 5
+joão - 5
+encontrar morto - 5
+prisão - 5
+voltar - 5
+quadrilha - 5
+silveira - 5
+em noite - 5
+busca - 5
+silva - 5
+carlos - 5
+de investigar - 4
+4ª dhpp - 4
+ir atingir - 4
+de 4ª - 4
+porém - 4
+dentro de - 4
+de de - 4
+cocaína - 4
+de veículo - 4
+estrada - 4
+maconha - 4
+de família - 4
+assis brasil - 4
+unidade - 4
+em final - 4
+agora - 4
+dar - 4
+ligar - 4
+localizar - 4
+procurar - 4
+de assalto - 4
+lomba - 4
+ligação - 4
+velho em - 4
+funcionário - 4
+ocorrer em - 4
+em alvorar - 4
+gaúcho - 4
+morto em - 4
+amorim - 4
+preso em - 4
+ordem de - 4
+querer - 4
+meio - 4
+disparo - 4
+ferreira - 4
+aluno - 4
+de crack - 4
+abaixo assinar - 4
+foto - 4
+dentro - 4
+confirmar - 4
+mathias velho - 4
+ação - 4
+zona leste - 4
+começo de - 4
+brigar militar - 4
+pm pé - 4
+agosto - 4
+americano - 4
+ministério - 4
+final - 4
+pinheiro - 4
+prado - 4
+vargas - 4
+patrulhar - 4
+vt - 4
+2ª - 4
+em viamão - 4
+garante - 4
+droga em - 4
+acontecer - 4
+assis - 4
+antônio de - 4
+chegar em - 4
+lomba de - 4
+encontrar em - 4
+4ª - 4
+de maio - 4
+medo - 4
+arma de - 4
+em porto - 4
+ainda não - 4
+gol - 4
+de vila - 4
+tráfico de - 4
+com família - 4
+diverso - 4
+ir ferir - 4
+de policiar - 4
+berta - 4
+violência - 4
+de viamão - 4
+abaixo - 4
+guri - 4
+informar - 4
+mês - 4
+líder - 4
+final de - 4
+de zona - 4
+começo - 4
+1ª - 4
+em cabeça - 4
+batalhão - 4
+morar - 4
+de pinheiro - 4
+córrego - 4
+estado de - 4
+mail - 4
+fechar - 4
+pedir - 4
+próximo - 4
+conta - 4
+maior - 4
+separar - 4
+eduarda - 4
+dificuldade - 4
+feira em - 4
+revólver calibre - 4
+não ser - 3
+completar - 3
+facada - 3
+rebelião - 3
+de assinatura - 3
+novembro - 3
+dizer delegado - 3
+jovem ser - 3
+de ontem - 3
+porte - 3
+abordagem - 3
+de criminoso - 3
+mandar - 3
+cometer - 3
+filho de - 3
+assinatura - 3
+pms de - 3
+luis - 3
+calibre 9mm - 3
+guns - 3
+bento - 3
+área - 3
+corpo de - 3
+exclusivo de - 3
+quinta feira - 3
+morto com - 3
+cumprir ordem - 3
+i - 3
+ala de - 3
+enquanto - 3
+marco - 3
+gabriel bicca - 3
+retorno - 3
+de brigar - 3
+acontecer em - 3
+bandido - 3
+com delegado - 3
+de filho - 3
+de domingo - 3
+de sexta - 3
+de batalhão - 3
+assassinato - 3
+cavalo - 3
+roubo de - 3
+roda - 3
+getúlio - 3
+bom jesus - 3
+ir levar - 3
+suspeitar - 3
+presos - 3
+chamar atenção - 3
+silva ano - 3
+itamaraty - 3
+pedras branco - 3
+divulgar - 3
+homem de - 3
+prestígio - 3
+característica de - 3
+investigar de - 3
+urubatã - 3
+em cidade - 3
+de silveira - 3
+ibaré - 3
+em crime - 3
+assim - 3
+homicídio em - 3
+ficar ferir - 3
+quintana em - 3
+por de - 3
+estado unidos - 3
+quantidade - 3
+getúlio vargas - 3
+residência - 3
+roubo - 3
+sempre - 3
+matador - 3
+de homicídio - 3
+nome - 3
+atirar - 3
+de moto - 3
+anônimo - 3
+abordar - 3
+de novembro - 3
+característica - 3
+por homicídio - 3
+de delegacia - 3
+comando - 3
+ir em - 3
+alvo - 3
+rocha por - 3
+retirar - 3
+fagundes - 3
+viver em - 3
+apreensão - 3
+unidos - 3
+denúncia - 3
+segunda feira - 3
+9mm - 3
+atenção - 3
+ficar em - 3
+restinga - 3
+haver ser - 3
+jesus - 3
+douglas - 3
+aposentado - 3
+de calibre - 3
+em último - 3
+bairro mathias - 3
+visto - 3
+em começo - 3
+santos ano - 3
+vir - 3
+teixeira - 3
+diferente - 3
+municipal - 3
+762 - 3
+executar - 3
+em moto - 3
+mãe - 3
+pms viatura - 3
+adolescente ir - 3
+pagar - 3
+em estado - 3
+2kg - 3
+atacar - 3
+de fase - 3
+de imagem - 3
+de ter - 3
+falar - 3
+de homem - 3
+enterrar em - 3
+população - 3
+também ir - 3
+integrar - 3
+nunca ver - 3
+em pátio - 3
+civil ser - 3
+melhor - 3
+frente a - 3
+guri de - 3
+segundo - 3
+a escola - 3
+material estar - 3
+com 2kg - 3
+em presídio - 3
+quinta - 3
+roubar - 3
+lembrar - 3
+pego - 3
+gonçalves - 3
+trio - 3
+cena de - 3
+cena - 3
+calibre munir - 3
+já haver - 3
+branco - 3
+esquina - 3
+pátio - 3
+rubem - 3
+ano com - 3
+pedras - 3
+quadra - 3
+enterrar - 3
+sangue - 3
+não ter - 3
+consulado - 3
+dinheiro - 3
+acesso a - 3
+2kg de - 3
+celular - 3
+socorro - 3
+ala - 3
+circular - 3
+há ano - 3
+facebook - 3
+tornar - 3
+missão - 3
+dun dun - 3
+com filho - 3
+imbé - 3
+interno - 3
+sumir - 3
+pai - 3
+mato - 3
+brigadiano - 3
+atender - 3
+bicca - 3
+de prisão - 3
+acionar - 3
+por telefone - 3
+coronel - 3
+estar com - 3
+16h - 3
+ajudar - 3
+casal - 3
+usar - 3
+quantidade de - 3
+poa - 3
+em segunda - 3
+passional - 3
+de ser - 3
+diário - 3
+lotear - 3
+ali - 3
+poa i - 3
+capital em - 3
+resumir - 3
+estabelecer - 3
+sexta feira - 3
+grupo - 3
+acesso - 3
+de cocaína - 3
+prender - 3
+só ir - 3
+apreender em - 3
+jardim urubatã - 3
+policial em - 3
+maicon - 3
+leste de - 3
+adolescente de - 3
+em frente - 3
+turma - 3
+vizinho - 3
+ouvido - 3
+método - 3
+forma - 3
+de facção - 3
+em agosto - 3
+imprensa - 3
+de mais - 3
+2013 - 3
+papelaria - 3
+bento gonçalves - 3
+morrer em - 3
+pms vt - 3
+ataque - 3
+pátio de - 3
+de assassinato - 3
+pé em - 3
+seriar - 3
+de hora - 3
+comprar - 3
+explicar - 3
+exclusivo - 3
+enviar - 2
+hora após - 2
+preventivo - 2
+em cena - 2
+dr - 2
+adolescentes - 2
+crime ocorrer - 2
+melhorou - 2
+pereira - 2
+rapaz de - 2
+apreensão de - 2
+por assaltar - 2
+crime munir - 2
+autor - 2
+sangue em - 2
+custódio - 2
+de terreno - 2
+ser executar - 2
+ex - 2
+ir presos - 2
+duplo de - 2
+a delegacia - 2
+família ir - 2
+contato - 2
+de 1ª - 2
+em homicídio - 2
+petecas - 2
+avenida assis - 2
+ilegal - 2
+liberdade condicional - 2
+relações - 2
+fazer patrulhar - 2
+bairro espigão - 2
+quintana zona - 2
+terminal - 2
+policial militar - 2
+logo depois - 2
+banco - 2
+unidade de - 2
+montagem - 2
+anísio - 2
+espigão - 2
+falta de - 2
+uso - 2
+renato - 2
+celular em - 2
+pequeno - 2
+orfanotrófio - 2
+ir a - 2
+tempo - 2
+comandante - 2
+extremo sul - 2
+com ir - 2
+inglês - 2
+presos em - 2
+viver com - 2
+ir capturar - 2
+fase em - 2
+movimento - 2
+fagundes ano - 2
+félix - 2
+ser repassar - 2
+de cadeia - 2
+repassar - 2
+viatura joão - 2
+em via - 2
+desde ano - 2
+capturar - 2
+operação em - 2
+viatura viatura - 2
+assassinar - 2
+com arma - 2
+2007 - 2
+cela - 2
+de matar - 2
+capital jovem - 2
+fogo - 2
+anísio teixeira - 2
+esquina de - 2
+denúncia anônimo - 2
+em abril - 2
+conversar - 2
+em apartar - 2
+latrocínio - 2
+bom estado - 2
+de eduarda - 2
+ir visto - 2
+em bolso - 2
+briga - 2
+fundo de - 2
+comandar - 2
+com rua - 2
+recorrer - 2
+aline - 2
+assessoria de - 2
+de busca - 2
+imagem de - 2
+aline custódio - 2
+comunidade - 2
+cliente - 2
+de isabel - 2
+crime acontecer - 2
+possibilidade de - 2
+ter em - 2
+ir atacar - 2
+primeiro dia - 2
+crime fazer - 2
+de presídio - 2
+tentar - 2
+guerra - 2
+de peça - 2
+safira - 2
+bpm encontrar - 2
+vídeo polícia - 2
+agressor - 2
+facada em - 2
+para montagem - 2
+apontar - 2
+como estar - 2
+bairro rubem - 2
+funcionário de - 2
+adquirir - 2
+2ª dp - 2
+feira ir - 2
+governo - 2
+chave - 2
+moab caldas - 2
+chegada - 2
+bando responsável - 2
+santa - 2
+em inglês - 2
+chegar ser - 2
+bater - 2
+metralhador - 2
+chocar - 2
+posição - 2
+de pms - 2
+delegado gabriel - 2
+temor - 2
+precisar - 2
+pouco - 2
+pm viatura - 2
+bancário - 2
+iniciar - 2
+de braço - 2
+posição de - 2
+ontem em - 2
+crime passional - 2
+6ª dp - 2
+metralhador pistola - 2
+atrás - 2
+martim - 2
+tratar - 2
+jovem com - 2
+em maior - 2
+16h de - 2
+encontrar sem - 2
+deus - 2
+em isabel - 2
+apreender revólver - 2
+próximo o - 2
+mais de - 2
+de cruz - 2
+mistério - 2
+de jardim - 2
+original para - 2
+por tráfico - 2
+anteceder - 2
+notar - 2
+cachoeirinha - 2
+novembro em - 2
+deflagrar de - 2
+2011 - 2
+cruzeiro estar - 2
+realizar - 2
+dizer policial - 2
+alerta - 2
+de gangues - 2
+fazer com - 2
+somar - 2
+assessoria - 2
+de oliveira - 2
+desesperar - 2
+ouvir - 2
+policiar ostensivo - 2
+petecas de - 2
+i de - 2
+ganhar - 2
+não saber - 2
+repassar a - 2
+retomar - 2
+fogo em - 2
+ser levar - 2
+deflagrar - 2
+participação de - 2
+civis - 2
+onde viver - 2
+virar - 2
+de mês - 2
+483 - 2
+brigadiano pé - 2
+comercial - 2
+agiota - 2
+dificuldade de - 2
+terça feira - 2
+por vítima - 2
+utilizar - 2
+golpe em - 2
+localização de - 2
+homem morrer - 2
+investigação - 2
+conseguir - 2
+ser utilizar - 2
+namorado de - 2
+gava - 2
+antigo - 2
+urubatã em - 2
+case - 2
+a tráfico - 2
+a ano - 2
+esperar - 2
+em beco - 2
+nem conhecer - 2
+safira em - 2
+condicional - 2
+ter ver - 2
+atendar - 2
+ano trabalhar - 2
+moab - 2
+semana passar - 2
+relações exterior - 2
+de texas - 2
+gerente - 2
+original - 2
+renato gava - 2
+dono de - 2
+peça diferente - 2
+de soldado - 2
+a irmão - 2
+ter assassinar - 2
+mora - 2
+prazer vila - 2
+sair de - 2
+pavilhão d - 2
+cometer crime - 2
+mostrar metralhador - 2
+objeto - 2
+cela em - 2
+de frente - 2
+registro - 2
+a telefone - 2
+rapaz - 2
+novo pms - 2
+592 de - 2
+violência de - 2
+atingir marca - 2
+alívio - 2
+de decomposição - 2
+madrugada de - 2
+morar em - 2
+forma de - 2
+informar sobre - 2
+com exemplo - 2
+desaparecer - 2
+gate - 2
+ser gabriel - 2
+pessoa com - 2
+de pavilhão - 2
+de escola - 2
+latrocínio aparecer - 2
+possível - 2
+especializar em - 2
+brasileiro - 2
+texas - 2
+em 762 - 2
+córrego em - 2
+morro de - 2
+silveira amorim - 2
+entrar - 2
+vila safira - 2
+atingir em - 2
+de menino - 2
+dezembro - 2
+detento confirmar - 2
+ser encontrar - 2
+bando - 2
+prazer - 2
+lado - 2
+em unidade - 2
+estabelecer comercial - 2
+tiro em - 2
+patrão - 2
+pedra de - 2
+com diverso - 2
+bernardino silveira - 2
+dizer ter - 2
+em posição - 2
+especializar - 2
+quando estar - 2
+em 2013 - 2
+início de - 2
+porte ilegal - 2
+ingresso - 2
+atrás de - 2
+familiares - 2
+a facebook - 2
+de unidade - 2
+realista - 2
+ainda estar - 2
+ostensivo - 2
+encaminhar - 2
+soldado oliveira - 2
+estar desesperar - 2
+funcionar - 2
+jamais - 2
+em cela - 2
+desde entrar - 2
+por celular - 2
+logo - 2
+em primeiro - 2
+divulgar imagem - 2
+em ala - 2
+perito - 2
+imbé em - 2
+case poa - 2
+delegado de - 2
+minuto - 2
+cavalo em - 2
+delegado marco - 2
+segundo morador - 2
+de sábado - 2
+guaíba - 2
+bem - 2
+decomposição - 2
+rede - 2
+senhor de - 2
+colocar - 2
+copiar - 2
+autor de - 2
+21º - 2
+d - 2
+base - 2
+em extremo - 2
+menino de - 2
+de terça - 2
+resistir - 2
+passar guarda - 2
+de uso - 2
+ser identificar - 2
+agir - 2
+diferente de - 2
+ter ingressar - 2
+em bom - 2
+pavilhão - 2
+lado de - 2
+exterior - 2
+atenção de - 2
+munir deflagrar - 2
+gangues - 2
+com homem - 2
+litoral - 2
+cobertor - 2
+de córrego - 2
+centro - 2
+foto de - 2
+senhor - 2
+ilegal de - 2
+ano jovem - 2
+imagem detento - 2
+montagem de - 2
+pessoa ir - 2
+houston - 2
+rua ser - 2
+extremo - 2
+vanderson - 2
+de novo - 2
+momento - 2
+cabeça em - 2
+hora em - 2
+de semana - 2
+bernardino - 2
+polícia não - 2
+apresentar - 2
+1070 - 2
+local em - 2
+conta comerciante - 2
+2h - 2
+de meio - 2
+de comando - 2
+setembro - 2
+facebook por - 2
+ministério de - 2
+ressaltar - 2
+21º bpm - 2
+bairro hípica - 2
+possibilidade - 2
+cruz - 2
+ferir ir - 2
+marli - 2
+principal via - 2
+abrir - 2
+quando ter - 2
+bairro bom - 2
+em houston - 2
+ir ouvido - 2
+perguntar - 2
+intensificar - 2
+localização - 2
+assassinato em - 2
+vítima de - 2
+de segunda - 2
+terreno - 2
+tratar de - 2
+em morro - 2
+de original - 2
+cabeça braço - 2
+confirmar acesso - 2
+marca - 2
+ser muito - 2
+em viatura - 2
+capturar em - 2
+grade - 2
+a lado - 2
+avançar estado - 2
+em terminal - 2
+a tarde - 2
+em brigar - 2
+em ano - 2
+de estado - 2
+escola municipal - 2
+bairro lomba - 2
+de tarde - 2
+exemplo marido - 2
+corrêa - 2
+de tratar - 2
+direito - 2
+conhecer em - 2
+dono - 2
+fossar - 2
+forçar - 2
+objeto retirar - 2
+mandados - 2
+invadir - 2
+cruz em - 2
+rebelar - 2
+rubem berta - 2
+refém - 2
+braço em - 2
+adelino - 2
+socorrer - 2
+estar bem - 2
+de vez - 2
+relato - 2
+com tiro - 2
+com ter - 2
+posar - 2
+em banco - 2
+falta - 2
+canoa ser - 2
+ely - 2
+11º bpm - 2
+polícia divulgar - 2
+pessoa refém - 2
+fazer posar - 2
+de 11º - 2
+a família - 2
+beco - 2
+martim félix - 2
+apartar em - 2
+relato de - 2
+592 - 2
+detento cumprir - 2
+grávido - 2
+via de - 2
+de maconha - 2
+munir de - 2
+augusta - 2
+madeira - 2
+ligar a - 2
+vídeo - 2
+matar para - 2
+envolver - 2
+pms em - 2
+turma de - 2
+problema - 2
+ir localizar - 2
+manter pessoa - 2
+em gol - 2
+pena por - 2
+jacuí - 2
+garoto - 2
+levantar - 2
+vir de - 2
+agiota de - 2
+garantir - 2
+dia depois - 2
+principal em - 2
+sarandi - 2
+para ser - 2
+não haver - 2
+vez em - 2
+santos fagundes - 2
+ex morador - 2
+`` de - 2
+marco guns - 2
+forçar mudar - 2
+canoa com - 2
+folha - 2
+ligação entre - 2
+região de - 2
+pego com - 2
+em litoral - 2
+entregar a - 2
+circular em - 2
+revelar - 2
+luis carlos - 2
+permitir - 2
+de revólver - 2
+mostrar - 2
+liberdade - 2
+após compra - 2
+vila augusta - 2
+curto - 2
+igor - 2
+6ª - 2
+alencar - 2
+tiroteio - 2
+posar em - 2
+de região - 2
+otto - 2
+com americano - 2
+crescer - 2
+banco de - 2
+ser pego - 2
+atuar - 2
+vila de - 2
+agente ir - 2
+sem cabeça - 2
+marca de - 2
+apartar - 2
+abril de - 2
+provavelmente - 2
+pedra - 2
+hípica - 2
+arma chamar - 2
+em fundo - 2
+a ministério - 2
+golpe - 2
+de local - 2
+como dun - 2
+em duplo - 2
+avenida de - 2
+sofrer - 2
+não resistir - 2
+de carro - 2
+vila jardim - 2
+suspeitos - 2
+762 ser - 2
+em imbé - 2
+policial civis - 2
+abril - 2
+por fechar - 2
+último contato - 2
+de prazer - 2
+fundo - 2
+capital ir - 2
+de vítima - 2
+caldas - 2
+maicon douglas - 2
+correspondente bancário - 2
+perto de - 2
+andar - 2
+investigar por - 2
+pena - 2
+policial principal - 2
+em flagrante - 2
+quadrilha especializar - 2
+joão antônio - 2
+viamão em - 2
+de 483 - 2
+conhecer como - 2
+perfil - 2
+guarda - 2
+mandados de - 2
+visível - 2
+ingressar - 2
+de execução - 2
+liberar - 2
+comprar droga - 2
+roda velho - 2
+ir enfático - 2
+por integrar - 2
+eldorado - 2
+ingressar em - 2
+mando de - 2
+o córrego - 2
+levar por - 2
+marlon - 2
+em jardim - 2
+cumprir pena - 2
+de 16h - 2
+integrar bando - 2
+execução - 2
+conforme - 2
+madrugada - 2
+saber como - 2
+guilherme - 2
+em segundo - 2
+de imprensa - 2
+imagem mostrar - 2
+de 21º - 2
+início - 2
+professor - 2
+a gate - 2
+cadeia - 2
+ely corrêa - 2
+fernando - 2
+ladrão - 2
+maior parte - 2
+utilizar de - 2
+alvo de - 2
+adelino ferreira - 2
+aparecer fazer - 2
+compra - 2
+morte - 2
+corrêa prado - 2
+em quinta - 2
+mexer - 2
+municipal anísio - 2
+morro - 2
+emprego - 2
+terça - 2
+boca - 2
+ser morto - 2
+de lotear - 2
+busca apreensão - 2
+de cumprir - 2
+por ter - 2
+matar de - 2
+frente de - 2
+ângelo - 2
+em operação - 2
+avançar - 2
+por latrocínio - 2
+crime `` - 2
+> - 2
+bater em - 2
+com de - 2
+por porte - 2
+estar envolver - 2
+diretor - 2
+chegada de - 2
+soldado de - 2
+reportagem - 2
+cocaína 1070 - 2
+entre ano - 2
+em sexta - 2
+ano não - 2
+1ª dhpp - 2
+de relações - 2
+em esquina - 2
+morrer ficar - 2
+diário gaúcho - 2
+de madeira - 2
+primeira - 2
+chocar morador - 2
+homicídio de - 2
+bolso - 2
+retirar de - 2
+flagrante - 2
+namorado - 2
+em maio - 2
+em carro - 2
+em avançar - 2
+litoral norte - 2
+fuzis enterrar - 2
+483 novo - 2
+jovem de - 2
+maconha 592 - 2
+enfático - 2
+félix berta - 2
+11º - 2
+em rede - 2
+temor de - 2
+ir fazer - 2
+isabel ter - 2
+peça - 2
+de manhã - 2
+correspondente - 2
+7h - 2
+participação - 2
+ferreira jardim - 2
+ser realista - 2
+família em - 2
+agente de - 2
+sair para - 2
+incluir - 2
+ir entregar - 2
+a polícia - 2
+domínio - 2
+suspeitos de - 2
+de ataque - 2
+com revólver - 2
+ser traficante - 1
+ir até - 1
+resolver mexer - 1
+geral - 1
+tiroteio com - 1
+colar com - 1
+conhecer direito - 1
+viatura josé - 1
+polícia americano - 1
+começar em - 1
+armar para - 1
+caldas silvério - 1
+fase por - 1
+alegre circular - 1
+morador a - 1
+cachaça - 1
+com matar - 1
+para pagar - 1
+por segunda - 1
+ter ocorrer - 1
+ir manter - 1
+caixa - 1
+otto niemeyer - 1
+1ª dp - 1
+adolescente marlon - 1
+recordar - 1
+reunir mais - 1
+ligação anônimo - 1
+venda - 1
+lucro para - 1
+mistério homem - 1
+torre polícia - 1
+carro polícia - 1
+deus nunca - 1
+dar parte - 1
+dppa - 1
+pau detento - 1
+articular - 1
+haver entregar - 1
+entre principal - 1
+filho menino - 1
+explicar delegado - 1
+de localização - 1
+fontoura ir - 1
+partenon detento - 1
+`` policial - 1
+pms pms - 1
+destacar - 1
+jacuí capivari - 1
+criminalidade - 1
+dia getúlio - 1
+identificação - 1
+tiaraju orfanotrófio - 1
+já embalar - 1
+discussão - 1
+permanecer em - 1
+vontade - 1
+roberto - 1
+rebelião de - 1
+vez proprietário - 1
+droga exclusivo - 1
+novo turma - 1
+em contatou - 1
+inquérito policial - 1
+bairro lindoia - 1
+apontar marco - 1
+depois acionar - 1
+matadores - 1
+crack já - 1
+como entrada - 1
+resgatar material - 1
+delegacia ligação - 1
+de fundação - 1
+de sangue - 1
+carro haver - 1
+pedaço de - 1
+vara de - 1
+alívio né - 1
+busca por - 1
+calibrar quantidade - 1
+receber relato - 1
+contar tatiane - 1
+quando saber - 1
+desde semana - 1
+motorista - 1
+para ibaré - 1
+bitencourt ano - 1
+de chegada - 1
+cabeça morrer - 1
+ponta de - 1
+gonçalves de - 1
+notar diferença - 1
+mesmo de - 1
+alçar - 1
+só há - 1
+entre vizinho - 1
+ver morrer - 1
+homem ser - 1
+wendt comandar - 1
+capacete - 1
+reconhecer cometer - 1
+126km - 1
+aqui rebelião - 1
+jacques - 1
+coordenador de - 1
+ostensivo em - 1
+rua abaeté - 1
+facção estar - 1
+local sempre - 1
+alex - 1
+de armeiro - 1
+idade - 1
+pessoa ter - 1
+homem ter - 1
+realizar por - 1
+mandado de - 1
+facção em - 1
+ver movimento - 1
+julho eduardo - 1
+tiaraju - 1
+colocá - 1
+padre jacuí - 1
+ano garante - 1
+pms apreender - 1
+metropolitana ser - 1
+em lembrar - 1
+debruçar - 1
+atear - 1
+assalto carolina - 1
+carlos estar - 1
+pms fazer - 1
+alencar carraro - 1
+cliente já - 1
+receber durante - 1
+confirmar modelo - 1
+pessoa a - 1
+ser divulgar - 1
+projeto de - 1
+por itamaraty - 1
+método empresarial - 1
+oliveira ano - 1
+novo soldado - 1
+durar apenas - 1
+joão diniz - 1
+adjunto - 1
+ação começar - 1
+gerente de - 1
+tempo para - 1
+importante - 1
+possuir - 1
+giovani - 1
+em ligação - 1
+visto pé - 1
+para pessoa - 1
+investigador - 1
+avenida como - 1
+celular a - 1
+alegre entre - 1
+ainda ter - 1
+mais importante - 1
+já ser - 1
+brigadiano aqui - 1
+conversar com - 1
+a vítima - 1
+safra de - 1
+recado - 1
+registrado - 1
+partir - 1
+irmão ainda - 1
+revirar então - 1
+bpm tenente - 1
+`` em - 1
+a investigar - 1
+beira mar - 1
+braga - 1
+ator - 1
+primeiro filho - 1
+movimentar de - 1
+corporal grave - 1
+beco de - 1
+exemplo cunhar - 1
+homicídio aposentado - 1
+já conseguir - 1
+segurança getúlio - 1
+cromar - 1
+consulado brasileiro - 1
+poder de - 1
+alegre isabel - 1
+evento - 1
+dml - 1
+falhar - 1
+arma artesanal - 1
+fossar caso - 1
+aparentar - 1
+droga decadente - 1
+pm portela - 1
+até momento - 1
+áurea - 1
+bomba - 1
+portão dizer - 1
+morador aceitar - 1
+abertura - 1
+decomposição próximo - 1
+uso restrito - 1
+com eficiência - 1
+simão professor - 1
+ferragem - 1
+reaver - 1
+envio - 1
+montar cavalo - 1
+ser para - 1
+horário de - 1
+haver por - 1
+pai de - 1
+bocaccio bairro - 1
+garante mudar - 1
+estratégia de - 1
+persistir - 1
+fazer parte - 1
+motivação - 1
+vec de - 1
+brigas - 1
+olhar para - 1
+encaminhar para - 1
+cristina de - 1
+ir identificar - 1
+adolescentes ser - 1
+fase matador - 1
+saída de - 1
+capital para - 1
+debruçar sobre - 1
+conflagrar - 1
+proteus ano - 1
+alternativa não - 1
+passar aluno - 1
+ainda quente - 1
+desespero em - 1
+havia - 1
+poder ver - 1
+santa tereza - 1
+canoa polícia - 1
+a camelódromo - 1
+onde mandar - 1
+antônio guns - 1
+briga em - 1
+muito conta - 1
+comerciante de - 1
+em guaíba - 1
+pires de - 1
+haver acontecer - 1
+de grupo - 1
+ferir interno - 1
+acontecimento `` - 1
+destacar atendente - 1
+de perito - 1
+levar poder - 1
+inquérito - 1
+feira caso - 1
+decadente - 1
+deixar telefone - 1
+capacete objeto - 1
+melhorar destacar - 1
+rodrigo - 1
+de exército - 1
+curto voltar - 1
+ressaltar estar - 1
+haver confronto - 1
+fazer maior - 1
+berta cabeleireiro - 1
+em pescoço - 1
+crime ser - 1
+falar mais - 1
+principal veículo - 1
+assaltar levar - 1
+querer ficar - 1
+de dar - 1
+forma possível - 1
+novo ir - 1
+levar preso - 1
+prender por - 1
+pequeno traficante - 1
+evento pms - 1
+clima - 1
+unidade poa - 1
+ir intensificar - 1
+matar antes - 1
+conte - 1
+capivari flagraram - 1
+dênis antônio - 1
+de gangue - 1
+companheiro homem - 1
+por disparo - 1
+unidos familiares - 1
+tela - 1
+segundo estudo - 1
+houve melhora - 1
+ir mais - 1
+registrado agressão - 1
+rocha sem - 1
+de organização - 1
+dever desafeto - 1
+rayka luna - 1
+telefone ouvir - 1
+sarandi ser - 1
+conta lojista - 1
+carta - 1
+sem ser - 1
+estética em - 1
+de caixa - 1
+finalizar - 1
+cinza - 1
+empresarial - 1
+cercar por - 1
+ano admitir - 1
+orçar conta - 1
+para novo - 1
+tráfico sair - 1
+de converso - 1
+valdir - 1
+ser autor - 1
+tatiane ir - 1
+em duplicação - 1
+com hora - 1
+morte ter - 1
+agredir por - 1
+ter cancelar - 1
+ter dado - 1
+sobretudo em - 1
+em prática - 1
+trabalhar há - 1
+contatos - 1
+apenas cercar - 1
+narcotráfico din - 1
+samba para - 1
+de diário - 1
+de interno - 1
+mês morador - 1
+ligar cair - 1
+depoimento prestar - 1
+para patrulhar - 1
+alto - 1
+em safra - 1
+maria eva - 1
+houston cidade - 1
+policial encontrar - 1
+caderno com - 1
+eua onde - 1
+viatura 6pms - 1
+jovem conhecer - 1
+união de - 1
+de força - 1
+converso entre - 1
+cracco - 1
+roupa usar - 1
+castro viatura - 1
+pms dizer - 1
+ser possível - 1
+em colchão - 1
+trio de - 1
+faz parte - 1
+fazer cidade - 1
+com homicídio - 1
+ainda bater - 1
+santo ângelo - 1
+garcia maurício - 1
+batalhão operação - 1
+flagrante com - 1
+viatura entre - 1
+resistir a - 1
+de bom - 1
+dinheiro de - 1
+lotérica - 1
+marcar - 1
+ouvir população - 1
+desencadear em - 1
+posta - 1
+pegar - 1
+explicar soldado - 1
+local de - 1
+trio em - 1
+roberto fontoura - 1
+já conhecer - 1
+realista fazer - 1
+policial casebre - 1
+de iphone - 1
+assinar reunir - 1
+justo ficar - 1
+rua jacques - 1
+deixar presídio - 1
+filho sempre - 1
+carro por - 1
+madeira virar - 1
+assaltar não - 1
+pms antônio - 1
+de castro - 1
+tentativa de - 1
+contabilidade de - 1
+cartucho intacto - 1
+sábado em - 1
+mistério ex - 1
+encontrar pistola - 1
+de aluguel - 1
+gosto ser - 1
+de alto - 1
+mesmo com - 1
+carlos wendt - 1
+sexta alertar - 1
+prestígio dentro - 1
+mentir - 1
+até tarde - 1
+esclarecer - 1
+auxiliar de - 1
+pej presídio - 1
+brincar com - 1
+de cara - 1
+com eduarda - 1
+preso de - 1
+papelaria funcionar - 1
+bancário local - 1
+restar alternativa - 1
+prisão em - 1
+portela ir - 1
+de dezembro - 1
+perigo - 1
+acionar por - 1
+15h de - 1
+falso - 1
+apreender com - 1
+delegado luis - 1
+minimercado de - 1
+dhpp investigar - 1
+prestar - 1
+jorge - 1
+adolescente ficar - 1
+voltar ocorrer - 1
+filho estar - 1
+policiar para - 1
+ano ficar - 1
+gente ter - 1
+cama - 1
+ter sangue - 1
+construir - 1
+bazar - 1
+só não - 1
+com perfil - 1
+moto tráfico - 1
+de imbé - 1
+policiar gente - 1
+assalto residência - 1
+envio de - 1
+por duplo - 1
+para pedir - 1
+de operação - 1
+a ferir - 1
+decomposição passar - 1
+polícia em - 1
+hoje com - 1
+cá - 1
+garcia - 1
+aberta de - 1
+dia em - 1
+cristo redentor - 1
+alex chave - 1
+dias - 1
+também bala - 1
+sertão santana - 1
+sargentos local - 1
+entre cocaína - 1
+resolver - 1
+moto também - 1
+rodrigues - 1
+viatura sepé - 1
+crime desde - 1
+de hábito - 1
+coronel otto - 1
+susepe de - 1
+guerra de - 1
+valdir fraga - 1
+ir deixar - 1
+ramos - 1
+alegre por - 1
+fazer saque - 1
+lojista - 1
+motivo - 1
+mexer para - 1
+apenas conhecer - 1
+vargas pms - 1
+supor mail - 1
+estalone bele - 1
+vez anterior - 1
+formação - 1
+cárcere privado - 1
+por delegado - 1
+caminhadas só - 1
+brasil com - 1
+eua - 1
+veículo carlos - 1
+após pms - 1
+já somar - 1
+dun ter - 1
+seguir carro - 1
+personagem - 1
+para apurar - 1
+soldado estrela - 1
+em quando - 1
+entre rua - 1
+dada por - 1
+foto a - 1
+ter contar - 1
+ter bater - 1
+por suspeitar - 1
+perito vítima - 1
+para caminhadas - 1
+centro em - 1
+comerciante contente - 1
+para aposentado - 1
+francisco pms - 1
+furto - 1
+durante madrugada - 1
+ter antecedente - 1
+gonçalves pms - 1
+postagem de - 1
+em peito - 1
+ligação informar - 1
+pessoa conhecer - 1
+nze dia - 1
+lotear em - 1
+usar por - 1
+bala dizer - 1
+prestígio suspeita - 1
+mensagem - 1
+bevilacqua - 1
+arma ameaça - 1
+pogorelski - 1
+afonso - 1
+ir abordar - 1
+clóvis - 1
+seriar ponta - 1
+custódio mistério - 1
+ladrão carolina - 1
+de serviço - 1
+esqueleto vila - 1
+separar tatiane - 1
+balança - 1
+partenon - 1
+porém matar - 1
+onde bala - 1
+conhecer por - 1
+bairro belém - 1
+ressaltar dificuldade - 1
+vargas marques - 1
+falhar vez - 1
+em sábado - 1
+passar isabel - 1
+franco - 1
+de crescer - 1
+declínio - 1
+gol ir - 1
+empresa de - 1
+droga ser - 1
+jovem ligar - 1
+de cobertor - 1
+por mato - 1
+ter mandado - 1
+dado - 1
+intenso em - 1
+encarar como - 1
+agir bala - 1
+menino deus - 1
+década de - 1
+parecer - 1
+alçar desde - 1
+desgraça - 1
+estado ser - 1
+acompanhar movimentar - 1
+de participante - 1
+brasileiros - 1
+bairro restinga - 1
+roubar em - 1
+não poder - 1
+pensar - 1
+mandado - 1
+esposa em - 1
+icaraí - 1
+reconhecer - 1
+sólido - 1
+ainda apresentar - 1
+de taquara - 1
+negar ser - 1
+arrombar pouco - 1
+trio dizer - 1
+eduardo prado - 1
+viamão cachoeirinha - 1
+alegre pms - 1
+duplo fazer - 1
+azenha pms - 1
+13h de - 1
+policial de - 1
+lembrar local - 1
+seriar forma - 1
+seligman - 1
+fato de - 1
+estar abrir - 1
+ser apreender - 1
+droga de - 1
+fio condutor - 1
+assaltantes não - 1
+pedir socorro - 1
+din - 1
+metropolitana `` - 1
+possível dizer - 1
+operação pedras - 1
+semana em - 1
+grito de - 1
+jackson - 1
+local homem - 1
+de cadáver - 1
+cara de - 1
+atacar em - 1
+geriátrica de - 1
+colar - 1
+residência lutar - 1
+restrito ter - 1
+estar mentir - 1
+ingresso em - 1
+condicional para - 1
+guarda municipal - 1
+fazer busca - 1
+torre cara - 1
+vanderson manter - 1
+melhorou porém - 1
+execução dizer - 1
+criminoso levar - 1
+cipó - 1
+em coração - 1
+rainha - 1
+levar dinheiro - 1
+usar tornozeleira - 1
+brasil trazer - 1
+apresentar perfurar - 1
+entravar em - 1
+tráfico depois - 1
+diante de - 1
+segundo assalto - 1
+espingarda calibre - 1
+dizer estar - 1
+boca matar - 1
+jardim baltazar - 1
+de dmae - 1
+cipó dentro - 1
+dever preocupar - 1
+cunhar - 1
+conflagrar de - 1
+estrada joão - 1
+morto enquanto - 1
+de 13h - 1
+ficar condicionar - 1
+recém integrar - 1
+dna - 1
+bem passar - 1
+james bocaccio - 1
+craniano - 1
+hora crime - 1
+autoridade - 1
+7h veículo - 1
+junho - 1
+para confirmar - 1
+clínica geriátrica - 1
+pagar conta - 1
+menino ser - 1
+contrato de - 1
+de case - 1
+em trabalhar - 1
+reaver carro - 1
+chegar depois - 1
+em lugar - 1
+divulgação agente - 1
+faz - 1
+policial guri - 1
+por filho - 1
+rocha crime - 1
+guilherme teixeira - 1
+mato vagabundo - 1
+bairro de - 1
+morto sobre - 1
+avenida adelino - 1
+pensar em - 1
+em poder - 1
+núcleo de - 1
+somar mais - 1
+solicitar - 1
+mira - 1
+sequer - 1
+pego funcionar - 1
+ser nome - 1
+ter homicídio - 1
+umberto - 1
+pms estar - 1
+policial achar - 1
+brasil em - 1
+alternativa - 1
+até ponto - 1
+contatar - 1
+viatura diário - 1
+18h26 - 1
+ano mora - 1
+suspeitar não - 1
+dhpp ainda - 1
+com falta - 1
+boca de - 1
+prévia ir - 1
+farrapos - 1
+instrumento agrícola - 1
+em época - 1
+identidade - 1
+fugir sem - 1
+receber supor - 1
+líder garante - 1
+casal de - 1
+encontrar por - 1
+brigar muito - 1
+apreender durante - 1
+alvorar eduarda - 1
+refém por - 1
+passar situação - 1
+começar brigar - 1
+acreditar - 1
+de líder - 1
+pegar susepe - 1
+vts pm - 1
+ser retomar - 1
+copiar nome - 1
+aluno por - 1
+maio reportagem - 1
+escapar de - 1
+segundo irmão - 1
+de verdadeiro - 1
+de flanelinha - 1
+nevrálgico de - 1
+de jovem - 1
+morador fazer - 1
+guerra por - 1
+amar dizer - 1
+transferência ainda - 1
+mais visto - 1
+domingo 2h - 1
+cavalhada - 1
+hípica mudar - 1
+cecílio monza - 1
+embora conta - 1
+haver receber - 1
+não confirmar - 1
+ficar longe - 1
+tatiane não - 1
+com pedra - 1
+armados - 1
+fazer abaixo - 1
+meio sumir - 1
+gabriel bairro - 1
+corpo ser - 1
+preso para - 1
+balear - 1
+de fonte - 1
+estratégia - 1
+durante assalto - 1
+ir embora - 1
+rodar por - 1
+de governo - 1
+bevilacqua brigadiano - 1
+sinval - 1
+em reunião - 1
+cenário - 1
+por exame - 1
+desencadear - 1
+situação mudar - 1
+livrar - 1
+torre violência - 1
+bem a - 1
+atingir por - 1
+polícia estar - 1
+aqui depois - 1
+cinza adquirir - 1
+abertura de - 1
+informar policial - 1
+de morador - 1
+parte dizer - 1
+cunhar vez - 1
+de liderança - 1
+ir finalizar - 1
+colocá em - 1
+policial jovem - 1
+moto viatura - 1
+vir vizinho - 1
+apreensão contra - 1
+não localizar - 1
+com muito - 1
+rua santo - 1
+sofrer traumatismo - 1
+sul não - 1
+vestígio de - 1
+ir assaltar - 1
+duplo estar - 1
+via com - 1
+polegada municiado - 1
+com efetivo - 1
+exame de - 1
+conseguir construir - 1
+dias ano - 1
+de armar - 1
+permitir ser - 1
+assistência - 1
+violência garoto - 1
+unidade case - 1
+supor - 1
+especiais - 1
+adolescentes matar - 1
+adolescente em - 1
+ano ser - 1
+tornozeleira eletrônico - 1
+ação policial - 1
+conhecer ser - 1
+crime de - 1
+armeiro em - 1
+com ano - 1
+veículo não - 1
+entravar - 1
+cobertor ainda - 1
+pedro paulo - 1
+perigo dizer - 1
+acompanhar - 1
+1ª delegacia - 1
+pedido - 1
+identificar como - 1
+operação especiais - 1
+pistola alegar - 1
+seriar líder - 1
+de recordista - 1
+estar alegre - 1
+por roda - 1
+transferência - 1
+crescer de - 1
+nilo - 1
+encontrar corpo - 1
+meio dia - 1
+andar meio - 1
+morto logo - 1
+criminoso resumir - 1
+aberta - 1
+batista pm - 1
+série - 1
+caso ser - 1
+durante briga - 1
+intenso - 1
+pms `` - 1
+levantar em - 1
+viatura de - 1
+gabar - 1
+testemunha - 1
+de participação - 1
+história - 1
+borba - 1
+suspeitar de - 1
+estado contar - 1
+executar pequeno - 1
+com investir - 1
+vargas ano - 1
+em lembrança - 1
+espancar provavelmente - 1
+saldanha - 1
+chave de - 1
+de brasil - 1
+paulo - 1
+envolver em - 1
+fio - 1
+achar ser - 1
+nonoai - 1
+ontem estado - 1
+com passagem - 1
+criminalidade a - 1
+hora de - 1
+marcar cliente - 1
+r que - 1
+municipal ficar - 1
+execução criminais - 1
+petrópolis - 1
+condutor para - 1
+adaptação - 1
+rubem pereira - 1
+em hospital - 1
+ir assalto - 1
+sequer viatura - 1
+paloma de - 1
+vec - 1
+r - 1
+prestar a - 1
+fato - 1
+fuzil m - 1
+cair - 1
+quintana vila - 1
+com roda - 1
+afirmar não - 1
+nunca assaltar - 1
+viatura ipiranga - 1
+dna para - 1
+de pessoa - 1
+norte material - 1
+polícia abordar - 1
+converso - 1
+irmão em - 1
+divulgação - 1
+ser chamar - 1
+por aqui - 1
+polícia também - 1
+promessa ir - 1
+fundação - 1
+portão - 1
+surpreender - 1
+colégio - 1
+patrão em - 1
+vida - 1
+gangues garoto - 1
+em escola - 1
+de restinga - 1
+murtinho alfredo - 1
+1h20min liberdade - 1
+vítima desde - 1
+soldadinho dizer - 1
+pé cavalhada - 1
+alegre dever - 1
+veículo em - 1
+mandar em - 1
+central ir - 1
+corpo ter - 1
+base mais - 1
+cruzeiro não - 1
+maurício seligman - 1
+filho hoje - 1
+ficar até - 1
+perguntar via - 1
+de traficante - 1
+sinval saldanha - 1
+então casa - 1
+garante população - 1
+joão de - 1
+janela de - 1
+americano para - 1
+bazar em - 1
+colchão - 1
+selister pereira - 1
+residência de - 1
+avenida delegado - 1
+civil cumprir - 1
+por prestígio - 1
+traumatismo - 1
+sexta em - 1
+estar trabalhar - 1
+de abordagem - 1
+a chegar - 1
+pinheiro gaúcho - 1
+desaparecer porém - 1
+dizer voltar - 1
+personagem como - 1
+balneário - 1
+municiado com - 1
+familiar responsável - 1
+abordar pessoa - 1
+mar ir - 1
+não fossar - 1
+ir espancar - 1
+peso permitir - 1
+pagar fiança - 1
+fraga - 1
+estrada de - 1
+crime ter - 1
+dia ir - 1
+ir liberar - 1
+coordenador - 1
+rua luiz - 1
+restar - 1
+brasil pms - 1
+ir distribuir - 1
+grávido de - 1
+pacote - 1
+total de - 1
+passar grupo - 1
+ainda ser - 1
+parceria de - 1
+não em - 1
+passional carolina - 1
+em roubo - 1
+julgar ser - 1
+segurança aqui - 1
+giovani proteus - 1
+mail telefone - 1
+cancelar contrato - 1
+rodrigo pohlmann - 1
+familiares de - 1
+com grade - 1
+sem roda - 1
+mais polícia - 1
+ter `` - 1
+a postão - 1
+novo vizinho - 1
+devido - 1
+melhora - 1
+funcionar correspondente - 1
+com quantidade - 1
+apenas minuto - 1
+em olho - 1
+invadir estética - 1
+de semiaberto - 1
+homicídio ocorrer - 1
+cabeleireiro - 1
+mais policiar - 1
+gente circular - 1
+deixar em - 1
+comunidade resolver - 1
+nome não - 1
+assaltantes - 1
+campo abrir - 1
+há agente - 1
+bairro cidade - 1
+preso preventivo - 1
+desde ingresso - 1
+medo morador - 1
+a tiro - 1
+registrou série - 1
+completar ano - 1
+recém - 1
+por polícia - 1
+`` investigação - 1
+de manter - 1
+luis fernando - 1
+annamaria cracco - 1
+parar - 1
+viatura 2pms - 1
+m de - 1
+área suspeitar - 1
+crack em - 1
+desesperar por - 1
+jackson silvester - 1
+para namorado - 1
+fontoura - 1
+patrulhar cavalo - 1
+smed escola - 1
+participante - 1
+criminoso ligar - 1
+de mandados - 1
+lourenço - 1
+com problema - 1
+foice - 1
+conjunto com - 1
+rede social - 1
+só aparecer - 1
+de alcântara - 1
+dizer de - 1
+abordagem principal - 1
+comparsa de - 1
+para estado - 1
+edgar pires - 1
+também não - 1
+sempre identificar - 1
+dppa liberar - 1
+conjunto - 1
+pobre - 1
+piorar - 1
+crime ir - 1
+vizinhança - 1
+anterior revelar - 1
+| - 1
+roubar hora - 1
+trabalhador - 1
+confusão começar - 1
+ir roubar - 1
+precisar livrar - 1
+território de - 1
+feira detento - 1
+lugar - 1
+investir - 1
+chegar ajudar - 1
+isabel viver - 1
+olhar - 1
+patrulha - 1
+atirar ser - 1
+wendt - 1
+.. - 1
+lá - 1
+viatura ignês - 1
+último ano - 1
+ferir sem - 1
+contabiliza - 1
+vista - 1
+veículo com - 1
+ano apreender - 1
+de movimento - 1
+cavalhada viatura - 1
+achar só - 1
+ibaré iniciar - 1
+matar chegar - 1
+insegurança em - 1
+em saída - 1
+entregar abaixo - 1
+vez filho - 1
+havia ainda - 1
+berta sarandi - 1
+perigoso - 1
+desde pm - 1
+para entender - 1
+a 2ª - 1
+cerca de - 1
+pista - 1
+paz de - 1
+dar ter - 1
+malvina viatura - 1
+assistência brasileiros - 1
+umberto conte - 1
+entre viamão - 1
+levar para - 1
+ir lá - 1
+casal estar - 1
+interno render - 1
+de peso - 1
+atacar novo - 1
+época brigar - 1
+negar - 1
+família entravar - 1
+berta adelino - 1
+modelo - 1
+joel - 1
+contatos com - 1
+destruir - 1
+ser perigoso - 1
+fuzil - 1
+novembro morar - 1
+edgar - 1
+só ver - 1
+em veículo - 1
+maio de - 1
+vts - 1
+relatar diverso - 1
+perdeu - 1
+de limpeza - 1
+de farmácia - 1
+de pau - 1
+emprego ter - 1
+condutor - 1
+cristiano - 1
+há guerra - 1
+ruben de - 1
+bala errar - 1
+dhpp estar - 1
+estar william - 1
+cara vira - 1
+central bala - 1
+próximo de - 1
+em liberdade - 1
+trabalhar mora - 1
+matagal atrás - 1
+cá piorar - 1
+brutal chocar - 1
+americano conhecer - 1
+ir realizar - 1
+pessoal - 1
+cara ter - 1
+colchão munir - 1
+semiaberto usar - 1
+porém só - 1
+eletrônico seriar - 1
+juca - 1
+sábado 1h20min - 1
+taquara - 1
+hoppel em - 1
+feira explosivo - 1
+escorrer de - 1
+fumo chave - 1
+mudar mesmo - 1
+contrato - 1
+custódio ex - 1
+castro - 1
+cidade tentar - 1
+jardim leopoldina - 1
+para criminalidade - 1
+frequente querer - 1
+incluir droga - 1
+ter dar - 1
+pé eduardo - 1
+proteger por - 1
+de marido - 1
+ir procurar - 1
+melhorar - 1
+tranquilidade saber - 1
+assalto ir - 1
+pé por - 1
+delegado ely - 1
+domingo 7h - 1
+preso por - 1
+gente trabalhar - 1
+onde haver - 1
+eva de - 1
+sarandi ter - 1
+grande - 1
+brigar montar - 1
+petrópolis manter - 1
+silvester - 1
+contra quadrilha - 1
+galeria - 1
+histórico de - 1
+vida criminoso - 1
+polícia acreditar - 1
+comemorar - 1
+para colocá - 1
+`` aparecer - 1
+reforço em - 1
+de foice - 1
+veículo de - 1
+inglês jamais - 1
+ter olhar - 1
+domingo 16h - 1
+estar separar - 1
+simão - 1
+caminhadas - 1
+de alvorar - 1
+dever ter - 1
+lopes - 1
+consulado geral - 1
+novo policial - 1
+sábado 17h - 1
+a já - 1
+desde início - 1
+de matador - 1
+dizer estratégia - 1
+alertar - 1
+em preso - 1
+direito região - 1
+retomar ideia - 1
+alerta operação - 1
+sábado ocorrer - 1
+participar de - 1
+hospital - 1
+silvério - 1
+sobre corpo - 1
+contabilidade - 1
+atacar quando - 1
+área `` - 1
+portela - 1
+sítio - 1
+quando sair - 1
+deslocar - 1
+interromper operação - 1
+de ali - 1
+reunir - 1
+de morte - 1
+pobre de - 1
+de caso - 1
+manifestação interno - 1
+mapa vila - 1
+prender rapaz - 1
+boe - 1
+medo de - 1
+agredir - 1
+dispensar arma - 1
+17h - 1
+grade instalar - 1
+local criminoso - 1
+quadrilha estar - 1
+carnaval - 1
+imprensa de - 1
+apurar - 1
+beira - 1
+população de - 1
+em instrumento - 1
+atender determinar - 1
+por comando - 1
+polícia desencadear - 1
+homicídio porte - 1
+mensal - 1
+falar a - 1
+assaltar em - 1
+tatiane receber - 1
+comércio - 1
+foto em - 1
+operação contundência - 1
+contato de - 1
+07 2013 - 1
+diferenciar - 1
+de pasc - 1
+souza coordenador - 1
+ladrão em - 1
+amar - 1
+santos lerner - 1
+com grupo - 1
+enxergar - 1
+ter acesso - 1
+ano de - 1
+para austin - 1
+bom aqui - 1
+galeria de - 1
+patrulhar bairro - 1
+ter motivação - 1
+contar irmão - 1
+troca receber - 1
+por pms - 1
+achar não - 1
+imprensa informar - 1
+ajudar pai - 1
+passar por - 1
+em troca - 1
+lutar - 1
+documento - 1
+liberar após - 1
+verdadeiro - 1
+negro aparentar - 1
+ir pego - 1
+jamais comunicar - 1
+mar - 1
+panamá - 1
+por segurança - 1
+agosto de - 1
+samba - 1
+ser mais - 1
+urbano de - 1
+bairro atender - 1
+depoimento - 1
+mudar clima - 1
+formação de - 1
+pedido ser - 1
+magro - 1
+pms pm - 1
+branco bomba - 1
+antes mesmo - 1
+vestígio - 1
+horário - 1
+documento passar - 1
+ruben - 1
+visto enxergar - 1
+rocha até - 1
+súbito - 1
+recusar - 1
+delegado adjunto - 1
+metzler viatura - 1
+dinheiro levar - 1
+3ªdp - 1
+ir informar - 1
+de instituição - 1
+com pedaço - 1
+primeira análise - 1
+policial guarnecer - 1
+estar acompanhar - 1
+receber muro - 1
+encarar - 1
+descrever - 1
+tráfico com - 1
+vt farrapos - 1
+suficiente - 1
+enfático estar - 1
+força - 1
+ser alvo - 1
+criminoso em - 1
+ter dificuldade - 1
+de narcotráfico - 1
+procurar casa - 1
+ibaré franco - 1
+esposa - 1
+iapi - 1
+por policiar - 1
+assim ir - 1
+abílio - 1
+cristo - 1
+autuado - 1
+em quadrilha - 1
+brasileiros vincular - 1
+ser perigo - 1
+fora de - 1
+comando em - 1
+mora em - 1
+de apontar - 1
+virar mochila - 1
+gangue - 1
+menor - 1
+oliveira braga - 1
+matador ir - 1
+começar com - 1
+bairro petrópolis - 1
+além - 1
+ir atrás - 1
+cara comprar - 1
+firma de - 1
+saber ter - 1
+de morros - 1
+ano vítima - 1
+metro de - 1
+em telefone - 1
+espancar - 1
+quadrilha ligar - 1
+pedir segurança - 1
+metralhadora - 1
+relatar - 1
+polícia ser - 1
+ir para - 1
+por lesão - 1
+sob estátua - 1
+`` acontecimento - 1
+vítima ainda - 1
+liderança - 1
+de retomar - 1
+luiz - 1
+fischer ângelo - 1
+presente - 1
+ser entregar - 1
+jacuí moab - 1
+bandido ainda - 1
+pequeno magro - 1
+saber mais - 1
+exterior afirmar - 1
+ter ferir - 1
+calibre além - 1
+olho gabar - 1
+de fogo - 1
+fiança ir - 1
+cometer por - 1
+revólver também - 1
+ano corroer - 1
+assassinato com - 1
+conferir presença - 1
+prático - 1
+frase - 1
+como já - 1
+wenceslau escobar - 1
+bala comprar - 1
+avenida bernardino - 1
+sim - 1
+marlon fernando - 1
+isabel marido - 1
+assinar com - 1
+casa rosimeri - 1
+rua panamericana - 1
+comerciante já - 1
+principal articular - 1
+ainda suficiente - 1
+para fase - 1
+porém último - 1
+de dp - 1
+texas eua - 1
+panamá dr - 1
+atribuição - 1
+agora ir - 1
+encontrar fuzil - 1
+em lomba - 1
+condenar - 1
+atirar contra - 1
+atender aluno - 1
+viamão vítima - 1
+ano conseguir - 1
+mapa - 1
+safra - 1
+restrito - 1
+estado carro - 1
+momento homem - 1
+importância - 1
+pagar para - 1
+perguntar como - 1
+enfrentar - 1
+roupa - 1
+rosimeri - 1
+prado pm - 1
+permanecer - 1
+militar prender - 1
+descartar - 1
+abaeté bairro - 1
+estética - 1
+porte de - 1
+de minuto - 1
+com imagem - 1
+de mandar - 1
+cancelar - 1
+contundência apreender - 1
+identificação prévia - 1
+canoa em - 1
+realizar busca - 1
+assim coronel - 1
+caminho - 1
+patagônia panamá - 1
+droga estar - 1
+acionar itamaraty - 1
+tráfico `` - 1
+ingresso de - 1
+visível conhecer - 1
+instituição - 1
+estadual ser - 1
+ficar tranquilo - 1
+farrapos pms - 1
+smed - 1
+a importância - 1
+unidos desde - 1
+deslocar guarnição - 1
+homem negro - 1
+6pms - 1
+gente chamar - 1
+pé ficar - 1
+comercial em - 1
+com a - 1
+até rua - 1
+alegre jovem - 1
+centro nunca - 1
+2011 a - 1
+anteceder por - 1
+caso haver - 1
+de boca - 1
+maio setembro - 1
+1070 de - 1
+em dormitório - 1
+metro - 1
+calibre cromar - 1
+silveira ano - 1
+cruzar área - 1
+recorrer em - 1
+de ator - 1
+viamão ser - 1
+mais sólido - 1
+2013 | - 1
+como acontecer - 1
+`` contratante - 1
+mochila com - 1
+mudança - 1
+por enquanto - 1
+leste norte - 1
+querer ressaltar - 1
+apresentar a - 1
+privado - 1
+ter condenar - 1
+de parada - 1
+ainda petecas - 1
+isabel ir - 1
+por governo - 1
+arma homem - 1
+cruzeiro ir - 1
+especiais boe - 1
+contataria - 1
+localizá - 1
+suporte - 1
+furto roubo - 1
+só deixar - 1
+dhpp rodrigo - 1
+presídio de - 1
+a pai - 1
+emprego já - 1
+vez por - 1
+em dezembro - 1
+avenida moab - 1
+funcionar como - 1
+william selister - 1
+receber arma - 1
+em estabelecer - 1
+viatura ir - 1
+garante delegado - 1
+desde outubro - 1
+mariante - 1
+quarta policiar - 1
+exército de - 1
+menino a - 1
+cpc - 1
+possuir menor - 1
+possível morte - 1
+interromper - 1
+por 2ª - 1
+receber retorno - 1
+fuzis de - 1
+cerca - 1
+grande dificuldade - 1
+com lembrar - 1
+murtinho - 1
+posta foto - 1
+ferir de - 1
+continuar coisa - 1
+vila esqueleto - 1
+a facada - 1
+cabeleireiro marli - 1
+panamericana - 1
+completo - 1
+população ter - 1
+após de - 1
+que ter - 1
+ano enquanto - 1
+gangues violência - 1
+tema - 1
+carro em - 1
+maior apreensão - 1
+alegre onde - 1
+carraro - 1
+morador há - 1
+veículo homem - 1
+não descartar - 1
+isabel dizer - 1
+carvalho viatura - 1
+viatura não - 1
+fazer disparo - 1
+ser status - 1
+crack além - 1
+adaptação marido - 1
+de lucro - 1
+trazer alívio - 1
+telefone quando - 1
+veículo pms - 1
+de denúncia - 1
+livrar de - 1
+lucro - 1
+diverso briga - 1
+negócio - 1
+junto com - 1
+entre maio - 1
+tornar agiota - 1
+hospital cristo - 1
+dun suspeitar - 1
+limpar área - 1
+nome de - 1
+de assistência - 1
+de eldorado - 1
+caso de - 1
+testemunha ser - 1
+funcionário adolescente - 1
+escobar otto - 1
+contente - 1
+dizer a - 1
+aluguel facção - 1
+precisar colocar - 1
+2h adolescente - 1
+torelly - 1
+provocar - 1
+nervoso - 1
+sempre ir - 1
+residência estabelecer - 1
+`` falha - 1
+perspectiva - 1
+de gente - 1
+michael douglas - 1
+policial antigo - 1
+iapi em - 1
+atendimento - 1
+dizer diretor - 1
+prender maicon - 1
+investigação de - 1
+matadores ficar - 1
+juca batista - 1
+assaltar nunca - 1
+ideal seriam5 - 1
+policial pé - 1
+caso ficar - 1
+passar recado - 1
+página - 1
+prates godói - 1
+família pobre - 1
+vara - 1
+casa para - 1
+boeira - 1
+cumprimento - 1
+diniz - 1
+de fumo - 1
+instrumento - 1
+maconha crack - 1
+contra por - 1
+família contra - 1
+cara estar - 1
+alegre ter - 1
+gente em - 1
+medo ainda - 1
+de janela - 1
+remião - 1
+reportagem não - 1
+apurar possibilidade - 1
+declínio com - 1
+alvorar com - 1
+esclarecer motivo - 1
+abílio azambuja - 1
+vila mapa - 1
+ameaça - 1
+de em - 1
+só escapar - 1
+registro de - 1
+proteus - 1
+ser vítima - 1
+com pessoa - 1
+cruzar - 1
+central eduardo - 1
+pacote de - 1
+indicava - 1
+quando identificar - 1
+só dizer - 1
+ganhar prestígio - 1
+de inquérito - 1
+falha - 1
+droga entre - 1
+intacto - 1
+indiciar por - 1
+arma munir - 1
+maior quantidade - 1
+amorim separar - 1
+caderno - 1
+tornar atribuição - 1
+reunião com - 1
+assassinar adolescente - 1
+policiar de - 1
+em cachoeirinha - 1
+descrever `` - 1
+região pé - 1
+segundo fase - 1
+estar grávido - 1
+patrulhar em - 1
+de cruzeiro - 1
+15h - 1
+ser curto - 1
+lesão - 1
+roda estepe - 1
+hábito - 1
+estrela - 1
+monza quando - 1
+suspeita corpo - 1
+20ºbpm - 1
+também com - 1
+surpreender com - 1
+operação beira - 1
+agente investigar - 1
+paz - 1
+estadual - 1
+adjunto de - 1
+prática método - 1
+a ordem - 1
+trocar - 1
+ir investigar - 1
+limpeza - 1
+de ferragem - 1
+por pessoa - 1
+bocaccio - 1
+homem conversar - 1
+por rua - 1
+preventivo em - 1
+ordem ser - 1
+alvorar eduardo - 1
+bele - 1
+para missão - 1
+tempo não - 1
+social - 1
+desde de - 1
+homem fazer - 1
+gangue de - 1
+formar com - 1
+diverso facada - 1
+inglês com - 1
+virar tema - 1
+balear em - 1
+coleta - 1
+sobreviver - 1
+apenas família - 1
+facção com - 1
+então - 1
+família ter - 1
+3ªdp de - 1
+libertar dia - 1
+leopoldina bairro - 1
+ministério público - 1
+07 - 1
+importante em - 1
+francisco - 1
+avenida bento - 1
+com contabilidade - 1
+depois com - 1
+ter tirar - 1
+em central - 1
+com soldado - 1
+como descrever - 1
+explosivo - 1
+ano casal - 1
+ser alívio - 1
+perigoso aqui - 1
+apenas em - 1
+estacionar garantir - 1
+ano como - 1
+arma interromper - 1
+invisibilidade - 1
+aposentado luis - 1
+austin - 1
+comerciante valdir - 1
+crime brutal - 1
+reflexo - 1
+ocorrer festa - 1
+contar a - 1
+duplicação - 1
+método de - 1
+com medo - 1
+apreender incluir - 1
+motivação passional - 1
+entre vítima - 1
+ir familiar - 1
+antecedente policial - 1
+fraga ano - 1
+torre alerta - 1
+ângelo crivelaro - 1
+conversar em - 1
+sábado estar - 1
+para delegacia - 1
+ver policial - 1
+socorro de - 1
+entre zona - 1
+tiro a - 1
+em setembro - 1
+problema ser - 1
+como gerente - 1
+paulo `` - 1
+próximo a - 1
+ser apenas - 1
+conferir - 1
+recordista em - 1
+bairro nonoai - 1
+pms porto - 1
+com suspeitos - 1
+nze - 1
+condicional de - 1
+bpm comerciante - 1
+completo em - 1
+morar parte - 1
+facebook entregar - 1
+para cá - 1
+descobrir - 1
+bicca ainda - 1
+não dar - 1
+agrícola - 1
+facada receber - 1
+ipiranga pms - 1
+diverso calibrar - 1
+soldado cão - 1
+malote - 1
+filho contar - 1
+camelódromo - 1
+quente escorrer - 1
+filho em - 1
+lá mato - 1
+direção de - 1
+mandar cometer - 1
+ação por - 1
+segurança morador - 1
+contato com - 1
+corpo sumir - 1
+de senhor - 1
+ferir socorrer - 1
+boa vista - 1
+seguir - 1
+para atuar - 1
+diretor annamaria - 1
+agora estar - 1
+ir balear - 1
+querer ver - 1
+ir agredir - 1
+desaparecer desde - 1
+santo - 1
+ser preso - 1
+por indicar - 1
+16h luis - 1
+vinha - 1
+branco em - 1
+corporal - 1
+cara saber - 1
+decidir mudar - 1
+viamão investigar - 1
+18h26 golpe - 1
+por encontrar - 1
+umbu - 1
+capital duplo - 1
+escola haver - 1
+joice dias - 1
+casebre onde - 1
+de 7h - 1
+susepe - 1
+com intuito - 1
+militar só - 1
+irmão tatiane - 1
+festa perto - 1
+informar por - 1
+marlon só - 1
+bitencourt - 1
+coisa - 1
+espigão corpo - 1
+jardim marli - 1
+em matagal - 1
+maria - 1
+itamaraty para - 1
+pohlmann - 1
+deixar samba - 1
+considerar de - 1
+ir libertar - 1
+transformar - 1
+lesão corporal - 1
+agir em - 1
+ano enfrentar - 1
+em faculdade - 1
+imprensa ala - 1
+mato resumir - 1
+com marlon - 1
+antigo pé - 1
+haver rebelião - 1
+encravar em - 1
+6pms vt - 1
+quadra tornar - 1
+criminoso fugir - 1
+em papelaria - 1
+assalto professor - 1
+decidir - 1
+último com - 1
+segunda agressor - 1
+região segurança - 1
+pires - 1
+abordar em - 1
+em junho - 1
+alegre garantia - 1
+com responsável - 1
+condicionar comprar - 1
+pedir a - 1
+trunfo de - 1
+investigar quadrilha - 1
+controlar - 1
+joão pessoa - 1
+assinatura desde - 1
+josé - 1
+geriátrica - 1
+procurar isabel - 1
+de 13h30min - 1
+lembrar comerciante - 1
+embalar para - 1
+telefone ainda - 1
+também foto - 1
+né - 1
+sítio residência - 1
+por ladrão - 1
+traficante endividar - 1
+troca - 1
+retorno ter - 1
+contabiliza em - 1
+projeto - 1
+melhor forma - 1
+dormitório ceder - 1
+cabeça por - 1
+resultado - 1
+depois descobrir - 1
+tanauí - 1
+saber também - 1
+efetivo - 1
+ter reaver - 1
+em conjunto - 1
+destinatário - 1
+com suporte - 1
+receber de - 1
+segundo `` - 1
+orfanotrófio dona - 1
+gava violência - 1
+intuito de - 1
+azenha - 1
+assinatura haver - 1
+ser deslocar - 1
+ser escrito - 1
+preso cipó - 1
+encontrar projetil - 1
+cocaína ir - 1
+pé nunca - 1
+polícia localizar - 1
+restinga zona - 1
+dia a - 1
+ser pessoa - 1
+prisão contra - 1
+jovem encontrar - 1
+morrer antes - 1
+interior - 1
+refém criança - 1
+trabalhar em - 1
+policial melhorar - 1
+garantir já - 1
+droga objeto - 1
+público - 1
+lindoia por - 1
+motim - 1
+ali em - 1
+para localizá - 1
+proprietário - 1
+de guri - 1
+agressor invadir - 1
+a separar - 1
+estar até - 1
+quarta operação - 1
+enviar de - 1
+criatório de - 1
+cruzeiro possuir - 1
+com investigar - 1
+condenar por - 1
+brigadianos - 1
+copiar de - 1
+ameaça também - 1
+americano estudante - 1
+godói chegada - 1
+pm joão - 1
+patrão de - 1
+ser jorge - 1
+ouvir grito - 1
+campo - 1
+niemeyer vts - 1
+adolescente agente - 1
+não querer - 1
+franco de - 1
+esconderijo - 1
+jovem rebelar - 1
+julho de - 1
+feira resultar - 1
+para polícia - 1
+feira polícia - 1
+uso exclusivo - 1
+época - 1
+comandar ação - 1
+erguer antigo - 1
+como matador - 1
+perfurar em - 1
+missão exclusivo - 1
+operação alerta - 1
+anônimo culminar - 1
+rocha pedras - 1
+pms pé - 1
+de comunidade - 1
+`` trunfo - 1
+indicava ter - 1
+conjugal - 1
+espingarda - 1
+deslanchou - 1
+resgatar - 1
+patagônia - 1
+dhpp gabriel - 1
+rotina por - 1
+perfurar - 1
+rebelar entregar - 1
+gate material - 1
+menino sem - 1
+considerar - 1
+direito viver - 1
+vt protásio - 1
+gosto - 1
+de abaixo - 1
+social de - 1
+mais urbano - 1
+annamaria - 1
+frase perguntar - 1
+cadáver - 1
+colocar em - 1
+morador pedir - 1
+fazer tempo - 1
+douglas ir - 1
+região eduardo - 1
+em galeria - 1
+limpeza para - 1
+esconderijo de - 1
+viatura afonso - 1
+boa - 1
+abordagem com - 1
+jovem exemplo - 1
+família levar - 1
+douglas vargas - 1
+firma - 1
+revirar - 1
+fugir - 1
+cidade sábado - 1
+1070 pedra - 1
+assaltar hora - 1
+de reconhecer - 1
+determinar - 1
+turma reforçar - 1
+em estar - 1
+assaltar agir - 1
+rebelião segundo - 1
+falha `` - 1
+isabel cristina - 1
+em bpm - 1
+ir calmo - 1
+torre ação - 1
+escapar - 1
+não mexer - 1
+autuado em - 1
+apontar como - 1
+intensificar abordagem - 1
+.. avenida - 1
+tiro por - 1
+1kg - 1
+de presença - 1
+organização - 1
+compra ser - 1
+em roubar - 1
+medo nunca - 1
+cpc coronel - 1
+din desde - 1
+com principal - 1
+lerner ano - 1
+peso - 1
+tentar erguer - 1
+`` limpar - 1
+onde morar - 1
+perito não - 1
+saber de - 1
+variar explicar - 1
+frequência - 1
+central detento - 1
+financeiro - 1
+sair em - 1
+bairro sarandi - 1
+ter mais - 1
+ligar para - 1
+com naturalidade - 1
+niemeyer - 1
+investir em - 1
+rainha de - 1
+aposentado djalma - 1
+instalar alarme - 1
+dun ir - 1
+julgar - 1
+sumir ser - 1
+aparecer garante - 1
+14h - 1
+torre diante - 1
+procurar proteger - 1
+formar - 1
+com cachorro - 1
+mais conflagrar - 1
+libertar - 1
+rebelião em - 1
+notícia - 1
+rua rubem - 1
+faculdade de - 1
+encerrar - 1
+1h20min - 1
+em lista - 1
+transformar em - 1
+crivelaro ser - 1
+ocasião funcionário - 1
+sepé tiaraju - 1
+liderança em - 1
+yves - 1
+de território - 1
+ontem não - 1
+lopes de - 1
+marques - 1
+crack balança - 1
+ano há - 1
+`` ser - 1
+de patrulhar - 1
+estar caminho - 1
+fevereiro - 1
+lojista de - 1
+até ontem - 1
+companheiro - 1
+já ter - 1
+ficar com - 1
+por dml - 1
+tereza - 1
+oliveira remião - 1
+indiciar - 1
+socioeducativo - 1
+escobar - 1
+em chácara - 1
+conhecer trabalhador - 1
+também estar - 1
+efetivar - 1
+2012 haver - 1
+pudera - 1
+ajudar em - 1
+operação policial - 1
+viatura pm - 1
+pai em - 1
+ficar para - 1
+rocha ir - 1
+contratante - 1
+marido decidir - 1
+professor aluno - 1
+ser responsável - 1
+norte tornar - 1
+de borba - 1
+encaminhar a - 1
+após registro - 1
+interno de - 1
+nome falso - 1
+por ir - 1
+gabriel sem - 1
+condicionar - 1
+de quadrilha - 1
+adquirir em - 1
+polícia de - 1
+manter página - 1
+mandar ir - 1
+nunca precisar - 1
+trabalho - 1
+traficante em - 1
+de correspondente - 1
+brigar real - 1
+feira quando - 1
+via padre - 1
+matador entre - 1
+com anteceder - 1
+guarnição para - 1
+de roubo - 1
+empresarial de - 1
+motorizar por - 1
+união - 1
+muito tranquilidade - 1
+ir encaminhar - 1
+verdadeiro criatório - 1
+escorrer - 1
+alfredo ferreira - 1
+lotérica próximo - 1
+aqui andar - 1
+durante levantar - 1
+agora só - 1
+coleta ainda - 1
+ali sob - 1
+entregar antes - 1
+maicon jackson - 1
+para fora - 1
+para poder - 1
+entrada - 1
+de sargentos - 1
+polícia saber - 1
+nuca adolescente - 1
+contundência - 1
+quadra depois - 1
+guarnição - 1
+james - 1
+primeiro ir - 1
+oliveira garcia - 1
+caso consulado - 1
+peito - 1
+obedecer a - 1
+alves pm - 1
+icaraí cristiano - 1
+como esconderijo - 1
+investigar ação - 1
+preocupar com - 1
+em até - 1
+alegar - 1
+plano - 1
+vincular a - 1
+william - 1
+sobre homicídio - 1
+custo em - 1
+papelaria bazar - 1
+de capacete - 1
+eletrônico - 1
+garantia de - 1
+`` invisibilidade - 1
+ano morador - 1
+14h ligação - 1
+comércio sítio - 1
+austin capital - 1
+cárcere - 1
+militar soldado - 1
+7h homem - 1
+embalar - 1
+prisão de - 1
+atendimento socioeducativo - 1
+prático guerra - 1
+ator michael - 1
+para traficante - 1
+depois trio - 1
+publicar também - 1
+tiroteio em - 1
+colocar grade - 1
+parada - 1
+lindoia - 1
+de 19º - 1
+dificuldade ser - 1
+bandido revirar - 1
+núcleo - 1
+em tiroteio - 1
+balança caderno - 1
+delegado mário - 1
+armeiro - 1
+contra vontade - 1
+por mail - 1
+recordista - 1
+pasc pej - 1
+a presídio - 1
+de corpo - 1
+em parte - 1
+dmae - 1
+brigar só - 1
+jovem vir - 1
+ir apresentar - 1
+encontrar vestígio - 1
+familiar - 1
+de internet - 1
+criminais - 1
+ano durar - 1
+aparecer aqui - 1
+motim em - 1
+abordar por - 1
+guilherme chegar - 1
+somar em - 1
+em depoimento - 1
+missão em - 1
+investigador de - 1
+efetivar em - 1
+balneário albatroz - 1
+de vanderson - 1
+participar - 1
+outubro de - 1
+ferir após - 1
+de diverso - 1
+dalcin - 1
+bom exemplo - 1
+gava duplo - 1
+ir casar - 1
+fase de - 1
+como fio - 1
+vontade assinar - 1
+rotina - 1
+antes saber - 1
+de domínio - 1
+identificar assaltar - 1
+contratante `` - 1
+diferença - 1
+muito bom - 1
+criminoso investigar - 1
+vítima preso - 1
+carvalho - 1
+de carvalho - 1
+súbito morrer - 1
+antecedente - 1
+perdeu emprego - 1
+estacionar - 1
+ir arrombar - 1
+de patrão - 1
+proprietário já - 1
+estepe carro - 1
+viatura nilo - 1
+droga por - 1
+familiares relatar - 1
+manter perfil - 1
+de tiro - 1
+saber pessoal - 1
+cara polícia - 1
+ceder - 1
+movimento intenso - 1
+tirar funcionário - 1
+com 6ª - 1
+maio em - 1
+série de - 1
+para viver - 1
+principal presídio - 1
+houston ir - 1
+morelli - 1
+ir parar - 1
+até agora - 1
+ter filho - 1
+serviço - 1
+jorge policial - 1
+de foto - 1
+viatura wenceslau - 1
+de primeiro - 1
+azambuja santa - 1
+corpo estar - 1
+montado pé - 1
+2h ir - 1
+incapaz de - 1
+conseguir ver - 1
+de campo - 1
+capital porto - 1
+luna ramos - 1
+justo - 1
+postão - 1
+problema conjugal - 1
+real - 1
+em portão - 1
+bairro aberta - 1
+teixeira casal - 1
+aparecer polícia - 1
+carraro material - 1
+garantia - 1
+ver policiar - 1
+`` colar - 1
+por temor - 1
+segundo 2ª - 1
+chácara - 1
+tirar - 1
+bairro partenon - 1
+apreender adolescente - 1
+proteger - 1
+duplo pé - 1
+deic - 1
+corroer por - 1
+em eldorado - 1
+em 2011 - 1
+ser horário - 1
+arrombar - 1
+por petecas - 1
+de dever - 1
+ano aqui - 1
+grave - 1
+bpm funcionário - 1
+solicitar abertura - 1
+completar hora - 1
+reforço - 1
+onde ir - 1
+interno em - 1
+origem de - 1
+bpm atirar - 1
+desespero - 1
+de plano - 1
+dever ser - 1
+errar alvo - 1
+enquanto caso - 1
+arma em - 1
+abraçar - 1
+de deic - 1
+policial adolescentes - 1
+contar história - 1
+morto dentro - 1
+em mathias - 1
+com comando - 1
+homicídio tráfico - 1
+recado a - 1
+quente - 1
+a lotear - 1
+detento ir - 1
+cruzeiro polícia - 1
+ano tatiane - 1
+coração de - 1
+pouco antes - 1
+farmácia - 1
+grávido depois - 1
+facção querer - 1
+quando família - 1
+a consulado - 1
+não encontrar - 1
+de adaptação - 1
+homem encontrar - 1
+dever receber - 1
+de dia - 1
+cadáver em - 1
+lembrança cena - 1
+enfrentar vez - 1
+tornozeleira - 1
+ir autor - 1
+negro - 1
+acreditar igor - 1
+municiado - 1
+manifestação - 1
+domínio de - 1
+aluguel - 1
+rua clóvis - 1
+ver vez - 1
+amorim cairu - 1
+de formação - 1
+quando chegar - 1
+olho - 1
+torelly ir - 1
+sobreviver a - 1
+exército - 1
+admitir postagem - 1
+já matar - 1
+dp prender - 1
+revólver durante - 1
+de sair - 1
+provavelmente estabelecer - 1
+ver dispensar - 1
+cavalo dizer - 1
+encontrar com - 1
+cidade atingir - 1
+ficar visível - 1
+repetir - 1
+idade entre - 1
+até esquina - 1
+estrela já - 1
+matagal - 1
+batista - 1
+em prisão - 1
+ferreira rodrigues - 1
+lembrança - 1
+a localização - 1
+por tentativa - 1
+coração - 1
+21h homem - 1
+entrada para - 1
+agressor ir - 1
+pudera vir - 1
+de aline - 1
+tarde a - 1
+motivo rebelar - 1
+passagem por - 1
+em família - 1
+quando confusão - 1
+poder atender - 1
+armados criminoso - 1
+com último - 1
+resultar - 1
+com foto - 1
+criminoso ficar - 1
+escrito por - 1
+alegre em - 1
+itamaraty dizer - 1
+prévia - 1
+primeira pista - 1
+já adquirir - 1
+corsa - 1
+cercar - 1
+ferragem comerciante - 1
+de 1kg - 1
+dívida - 1
+projetil encravar - 1
+destruir carolina - 1
+| 18h26 - 1
+revólver jovem - 1
+godói - 1
+pej - 1
+terra - 1
+minuto sábado - 1
+ser encarar - 1
+ainda persistir - 1
+em prático - 1
+ainda assim - 1
+folga em - 1
+2012 - 1
+rosimeri morelli - 1
+nevrálgico - 1
+acontecer ataque - 1
+de 2012 - 1
+separar bairro - 1
+gabar guri - 1
+ataque em - 1
+imagine caso - 1
+alto custo - 1
+tranquilo - 1
+orfanotrófio bairro - 1
+montado - 1
+prisão preventivo - 1
+briga entre - 1
+funcionário ir - 1
+segundo assessoria - 1
+projetil - 1
+ramos ano - 1
+nonoai quando - 1
+de carnaval - 1
+viatura em - 1
+morto facada - 1
+chácara em - 1
+padre - 1
+grupo de - 1
+lotear ir - 1
+de atendimento - 1
+19º bpm - 1
+irmão ser - 1
+em 6ª - 1
+erguer - 1
+ter registrado - 1
+abrir em - 1
+marli santos - 1
+muito com - 1
+por adolescente - 1
+receber carta - 1
+apreender por - 1
+eduarda menino - 1
+para brasil - 1
+em facebook - 1
+executar com - 1
+por bairro - 1
+também em - 1
+artesanal - 1
+até chegar - 1
+julho tatiane - 1
+ônibus em - 1
+ganhar pistola - 1
+militar além - 1
+dp para - 1
+contente com - 1
+sepé - 1
+ano guri - 1
+região com - 1
+pneu novo - 1
+bandido em - 1
+fernando de - 1
+clóvis bevilacqua - 1
+só mato - 1
+gerente recorrer - 1
+com recusar - 1
+postagem - 1
+motorizar - 1
+cara alçar - 1
+tentar matar - 1
+segunda operação - 1
+vt moto - 1
+matam - 1
+brasileiro sumir - 1
+mariante viatura - 1
+endividar - 1
+capivari - 1
+invisibilidade `` - 1
+folga - 1
+teixeira diretor - 1
+dizer aposentado - 1
+ver viatura - 1
+tatiane ressaltar - 1
+pms 1º - 1
+registrou - 1
+em quadra - 1
+santana entre - 1
+guarda de - 1
+durante operação - 1
+> jovem - 1
+rodar - 1
+em total - 1
+ministério dizer - 1
+colégio atender - 1
+para brigar - 1
+haver semana - 1
+enquanto esperar - 1
+esperar missão - 1
+a 2h - 1
+festa - 1
+novo veículo - 1
+a vara - 1
+silveira pms - 1
+sempre dizer - 1
+para conferir - 1
+cenário de - 1
+até dia - 1
+aposentado joice - 1
+passagem - 1
+local para - 1
+ser diferenciar - 1
+19º - 1
+incluir exemplo - 1
+vítima identificar - 1
+pms edgar - 1
+falso maicon - 1
+saque de - 1
+confusão - 1
+prática - 1
+marco antônio - 1
+aliado - 1
+de sul - 1
+para dp - 1
+polícia quando - 1
+cairu - 1
+resumir delegado - 1
+comunicar com - 1
+wulff viatura - 1
+passar chegar - 1
+escola sofrer - 1
+muito melhor - 1
+ser mensal - 1
+grito - 1
+de folha - 1
+importância de - 1
+pohlmann vítima - 1
+principal comandar - 1
+ceder por - 1
+pé motorizar - 1
+de fornecedor - 1
+fagundes viatura - 1
+de completar - 1
+trocar por - 1
+nem quando - 1
+de assaltar - 1
+cruzeiro zona - 1
+descartar possibilidade - 1
+procurar emprego - 1
+voltar contatar - 1
+de via - 1
+último turma - 1
+morador ir - 1
+ir retirar - 1
+comemorar garante - 1
+distribuir folha - 1
+tentativa - 1
+viatura assis - 1
+teixeira de - 1
+baixar - 1
+bronca - 1
+segunda vez - 1
+cartucho - 1
+ser auxiliar - 1
+ter trair - 1
+sul centro - 1
+sábado 21h - 1
+simples - 1
+militar em - 1
+falar de - 1
+segundo investigador - 1
+anônimo agente - 1
+ser soldadinho - 1
+eficiência - 1
+com frequência - 1
+tenente - 1
+ser simão - 1
+com gente - 1
+há em - 1
+13h30min - 1
+estar junto - 1
+provocar segurança - 1
+de direito - 1
+remião pm - 1
+contra carro - 1
+canil de - 1
+djalma de - 1
+gol não - 1
+motorista receber - 1
+hora marcar - 1
+minimercado - 1
+análise - 1
+carro além - 1
+ir efetivar - 1
+morros - 1
+acionar núcleo - 1
+a imprensa - 1
+cobertor curto - 1
+trunfo - 1
+pé juca - 1
+enviar mail - 1
+dizer dever - 1
+prestígio de - 1
+de quinta - 1
+ser reflexo - 1
+operação investigar - 1
+para venda - 1
+crime suspeitos - 1
+ver aqui - 1
+calmo - 1
+de manifestação - 1
+rua cobertor - 1
+delegado carlos - 1
+gurizada de - 1
+deixar mais - 1
+revelar `` - 1
+trair - 1
+em histórico - 1
+pinheiro em - 1
+junto - 1
+como bento - 1
+rayka - 1
+anterior - 1
+status - 1
+viatura estrada - 1
+com diferente - 1
+fonte dr - 1
+voltar a - 1
+de ribeiro - 1
+unidos amar - 1
+pereira torelly - 1
+quarta ser - 1
+de pistola - 1
+em nuca - 1
+duplicação de - 1
+suposto mandar - 1
+casar - 1
+frequente - 1
+resultar em - 1
+sangue ainda - 1
+ônibus - 1
+reservatório - 1
+ser sempre - 1
+parar em - 1
+grupo permanecer - 1
+bairro considerar - 1
+de dentro - 1
+operação resgatar - 1
+assinar documento - 1
+357 - 1
+luna - 1
+saber ordem - 1
+como por - 1
+autoridade surpreender - 1
+interior transferência - 1
+julho publicar - 1
+ser encaminhar - 1
+em momento - 1
+soldado em - 1
+a 20ºbpm - 1
+de ver - 1
+eduarda paloma - 1
+separar haver - 1
+atendar apenas - 1
+com 2ª - 1
+gravidade - 1
+de 10h30min - 1
+muro - 1
+pogorelski em - 1
+dinheiro carro - 1
+aceitar contar - 1
+em vez - 1
+nervoso contar - 1
+de 15h - 1
+agressão - 1
+por simples - 1
+762 de - 1
+capital chegar - 1
+com gurizada - 1
+contatar família - 1
+torre pms - 1
+longe - 1
+conforme relato - 1
+mensal por - 1
+com brigar - 1
+tranquilidade - 1
+esquina com - 1
+enfático cavalo - 1
+pasc - 1
+pé pms - 1
+promessa - 1
+jesus como - 1
+augusta em - 1
+ver sangue - 1
+ponto - 1
+ação de - 1
+para realizar - 1
+sábado passar - 1
+de melhor - 1
+gate em - 1
+atribuição de - 1
+socioeducativo fase - 1
+identificar atirar - 1
+1º dia - 1
+dar por - 1
+dormitório - 1
+querer crescer - 1
+em lotérica - 1
+desafeto há - 1
+de ir - 1
+corsa cinza - 1
+eduarda morar - 1
+estar próximo - 1
+matador em - 1
+em permitir - 1
+`` pedro - 1
+duplo homicídio - 1
+filho grávido - 1
+último semana - 1
+feira mandados - 1
+de desaparecer - 1
+dia dia - 1
+caso > - 1
+ser parte - 1
+falei com - 1
+eldorado de - 1
+ainda ligar - 1
+movimentar - 1
+com cano - 1
+fischer - 1
+corpo ir - 1
+faculdade - 1
+onde estar - 1
+brutal - 1
+rocha violência - 1
+sem perspectiva - 1
+canoa ter - 1
+dmae em - 1
+ibaré morrer - 1
+só ter - 1
+brincar - 1
+de centro - 1
+de 3ªdp - 1
+mudar para - 1
+guri em - 1
+vila apontar - 1
+também de - 1
+muito apegar - 1
+domingo em - 1
+simples fato - 1
+enquanto brincar - 1
+10h30min de - 1
+belém - 1
+porta - 1
+assalto cárcere - 1
+acontecimento - 1
+dizer garantir - 1
+ser socorrer - 1
+sem esclarecer - 1
+criminoso atacar - 1
+coronel joão - 1
+delegado áurea - 1
+localizar veículo - 1
+metropolitana em - 1
+patrulha região - 1
+sem ferir - 1
+entrar para - 1
+socorrer em - 1
+identificar policial - 1
+fonte - 1
+entregar celular - 1
+duplo conforme - 1
+de roupa - 1
+silvério icaraí - 1
+caminho de - 1
+material apreender - 1
+região virar - 1
+mundo de - 1
+polegada - 1
+apreender agente - 1
+seriam5 - 1
+trabalho de - 1
+azambuja - 1
+de parecer - 1
+recordar mãe - 1
+conta fazer - 1
+ir resultado - 1
+protásio alves - 1
+fevereiro de - 1
+reunião - 1
+126km entre - 1
+abrir com - 1
+civil divulgação - 1
+comandar para - 1
+permitir abordar - 1
+costeau também - 1
+separar ocorrer - 1
+flagrante por - 1
+alertar delegado - 1
+polícia ir - 1
+oferecer para - 1
+também encontrar - 1
+hoppel - 1
+região achar - 1
+começar fazer - 1
+estado líder - 1
+isabel em - 1
+guarnecer região - 1
+partir de - 1
+quando de - 1
+brigar levar - 1
+mudar rotina - 1
+arma quando - 1
+em negócio - 1
+presente em - 1
+sem anteceder - 1
+traumatismo craniano - 1
+manter sob - 1
+guarnecer - 1
+garoto conhecer - 1
+facção de - 1
+mais nervoso - 1
+carta com - 1
+atear fogo - 1
+polícia suspeita - 1
+reservatório boa - 1
+mail para - 1
+garantir segurança - 1
+diferente destinatário - 1
+consulado contataria - 1
+dada - 1
+ano conversar - 1
+armar - 1
+perfil procurar - 1
+crime vídeo - 1
+encerrar rebelião - 1
+roubar comércio - 1
+estar morar - 1
+de surpresa - 1
+continuar - 1
+cristina - 1
+alívio a - 1
+sob mira - 1
+flagraram - 1
+20ºbpm atuar - 1
+aqui ir - 1
+de patrulha - 1
+contataria polícia - 1
+prisão depois - 1
+ter melhor - 1
+culminar - 1
+ano ainda - 1
+brigadianos seguir - 1
+por crack - 1
+com pistola - 1
+morte arma - 1
+crivelaro - 1
+mês acionar - 1
+cadeia posta - 1
+mais onde - 1
+vinha até - 1
+usar de - 1
+com canil - 1
+por tela - 1
+batalhão ser - 1
+itamaraty de - 1
+canoa por - 1
+ter sofrer - 1
+preocupar - 1
+brasil não - 1
+anteceder criminal - 1
+alegre característica - 1
+naturalidade - 1
+de tempo - 1
+sertão - 1
+ouvido disparo - 1
+fuzis em - 1
+torre além - 1
+moto estacionar - 1
+exemplo companheiro - 1
+em domingo - 1
+de material - 1
+preso com - 1
+curto falta - 1
+agosto registrou - 1
+mudar de - 1
+vincular - 1
+como seriar - 1
+de polegada - 1
+cumprir em - 1
+afirmar - 1
+família por - 1
+trazer - 1
+malvina - 1
+haver ano - 1
+eldorado barra - 1
+vez gente - 1
+apegar a - 1
+passageiro - 1
+bala já - 1
+casa onde - 1
+tráfico homicídio - 1
+tatiane de - 1
+ter usar - 1
+momento de - 1
+matar traficante - 1
+barra de - 1
+discussão com - 1
+garoto de - 1
+policial para - 1
+voltar para - 1
+militar pistola - 1
+hípica zona - 1
+em `` - 1
+flagraram jovem - 1
+descobrir estar - 1
+quando contar - 1
+envolver também - 1
+achar dever - 1
+em ocasião - 1
+saque - 1
+não voltar - 1
+revólver 357 - 1
+fornecedor - 1
+tráfico eduardo - 1
+grade fechar - 1
+cachorro - 1
+via transformar - 1
+sob ordem - 1
+desde começo - 1
+circular de - 1
+2ª dppa - 1
+a noite - 1
+visível `` - 1
+realista `` - 1
+reforçar - 1
+gaúcho somar - 1
+de interior - 1
+pedir nome - 1
+2pms - 1
+segundo trio - 1
+só atendar - 1
+de invadir - 1
+droga dinheiro - 1
+ser presos - 1
+exemplo não - 1
+quando ser - 1
+ordem parte - 1
+tórax - 1
+fundação de - 1
+de reservatório - 1
+haver dizer - 1
+borba padilha - 1
+crack cachaça - 1
+de principal - 1
+brasil chamar - 1
+del - 1
+modificar policiar - 1
+estar desaparecer - 1
+entender - 1
+gente modificar - 1
+albatroz em - 1
+batalhão de - 1
+melhorou bastante - 1
+região sem - 1
+de paz - 1
+em declínio - 1
+junho pedir - 1
+ser senhor - 1
+haver mês - 1
+homicídio até - 1
+ter primeira - 1
+viatura azenha - 1
+saída - 1
+mário souza - 1
+17h guilherme - 1
+munir cerca - 1
+vt bento - 1
+ser gerente - 1
+aqui nunca - 1
+carro ajudar - 1
+bronca `` - 1
+protásio - 1
+resultado de - 1
+conforme delegado - 1
+localizar sequer - 1
+sobre busca - 1
+abordagem intensificar - 1
+ser justo - 1
+mal - 1
+estudo ideal - 1
+dívida de - 1
+até procurar - 1
+ser nunca - 1
+homicídio estar - 1
+bastante - 1
+comerciante morador - 1
+ano isabel - 1
+bairro fátima - 1
+revelar método - 1
+por notícia - 1
+piorar muito - 1
+djalma - 1
+arma maicon - 1
+fechar aqui - 1
+apegar - 1
+boe por - 1
+para facção - 1
+assinatura coleta - 1
+policiar montado - 1
+com adolescente - 1
+ideia - 1
+de namorado - 1
+persistir haver - 1
+rua tanauí - 1
+farmácia em - 1
+braço próximo - 1
+rocha apenas - 1
+efetivo de - 1
+notar mudança - 1
+soldadinho - 1
+ser indiciar - 1
+não repetir - 1
+agente a - 1
+entre 2007 - 1
+não ver - 1
+crack maconha - 1
+torre carolina - 1
+assaltar completar - 1
+isabel deixar - 1
+em 1ª - 1
+criatório - 1
+ser francisco - 1
+com ingresso - 1
+socorro patrão - 1
+casar com - 1
+por boca - 1
+batalhão ter - 1
+atender crime - 1
+viamão responsável - 1
+de vizinhança - 1
+iniciar motim - 1
+mês estar - 1
+como agir - 1
+histórico - 1
+até noite - 1
+prado segurança - 1
+escrito - 1
+narcotráfico - 1
+prado ano - 1
+estudo - 1
+> menino - 1
+apreender vídeo - 1
+camelódromo de - 1
+comunicar - 1
+wolfram metzler - 1
+flanelinha ver - 1
+receber maior - 1
+fiança - 1
+diniz prates - 1
+local onde - 1
+meirelles - 1
+tornado - 1
+diverso tiro - 1
+fátima - 1
+barra - 1
+endividar tentar - 1
+em tráfico - 1
+coronel comemorar - 1
+garante dono - 1
+de iapi - 1
+de balneário - 1
+capital agora - 1
+mexer com - 1
+santa isabel - 1
+perto - 1
+confronto - 1
+novo papelaria - 1
+entre jovem - 1
+área aliado - 1
+escola união - 1
+devido característica - 1
+em terra - 1
+de deixar - 1
+carlos lopes - 1
+segundo recém - 1
+carro roubar - 1
+rede autoridade - 1
+estrada martim - 1
+dúvida - 1
+em trabalho - 1
+ir cumprir - 1
+entrar novo - 1
+marido começar - 1
+pessoa estar - 1
+apreender arma - 1
+de parceria - 1
+caixa malote - 1
+souza - 1
+modelo ir - 1
+ser pouco - 1
+taquara haver - 1
+gente poder - 1
+líder de - 1
+como arma - 1
+morto por - 1
+em 2007 - 1
+por líder - 1
+mentir copiar - 1
+ipiranga - 1
+por 126km - 1
+cão - 1
+irmão jamais - 1
+cromar com - 1
+para cumprimento - 1
+eduarda deixar - 1
+estudante - 1
+enxergar muito - 1
+chegar a - 1
+ter participação - 1
+maio investigação - 1
+metzler - 1
+movimento de - 1
+mail só - 1
+rua orfanotrófio - 1
+para `` - 1
+retomar de - 1
+confirmar identidade - 1
+mochila - 1
+`` firma - 1
+por irmão - 1
+canoa revelar - 1
+terminal antes - 1
+belém novo - 1
+jamais enviar - 1
+tranquilo receber - 1
+matam segundo - 1
+cadeia ir - 1
+governo estadual - 1
+não sobreviver - 1
+montar - 1
+cano de - 1
+pé policial - 1
+cidade em - 1
+detalhe - 1
+viatura wolfram - 1
+pessoa viatura - 1
+torre empresa - 1
+ser criminoso - 1
+vizinho aqui - 1
+iphone - 1
+assim como - 1
+ano pequeno - 1
+com falar - 1
+ser estável - 1
+recusar cliente - 1
+vista de - 1
+direção - 1
+cocaína maconha - 1
+criança - 1
+atuar em - 1
+ferreira de - 1
+escola ir - 1
+wagner - 1
+arma ir - 1
+matar comparsa - 1
+saldanha patagônia - 1
+adquirir prestígio - 1
+moto carro - 1
+quando gente - 1
+10h30min - 1
+contatou - 1
+admitir - 1
+crescer antes - 1
+crime domingo - 1
+segundo policial - 1
+nunca ter - 1
+invadir residência - 1
+telefone em - 1
+morador em - 1
+dúvida aqui - 1
+detalhe estar - 1
+contar morador - 1
+gurizada - 1
+chegar pms - 1
+a direção - 1
+com umberto - 1
+atuar com - 1
+otto amorim - 1
+capital `` - 1
+monza - 1
+perspectiva ganhar - 1
+alegre operação - 1
+ver brigadiano - 1
+meio noite - 1
+construir base - 1
+nunca mais - 1
+viamão corpo - 1
+assassinar com - 1
+já prender - 1
+em início - 1
+tanauí de - 1
+yves costeau - 1
+estar procurar - 1
+de ladrão - 1
+pessoal vinha - 1
+braga formar - 1
+família passar - 1
+aceitar - 1
+imagine - 1
+pertencente a - 1
+cumprimento de - 1
+adolescente iniciar - 1
+homicídio sobretudo - 1
+pedro - 1
+poder variar - 1
+de ajudar - 1
+gonçalves assis - 1
+seriam5 policial - 1
+rebelar atear - 1
+a comerciante - 1
+ir forçar - 1
+pereira também - 1
+mais em - 1
+bomba apreender - 1
+determinar evento - 1
+suposto - 1
+investigar ligação - 1
+criminais vec - 1
+depois voltar - 1
+ter mudar - 1
+frequência pms - 1
+selister - 1
+de atirar - 1
+entregar gol - 1
+contra tráfico - 1
+surpresa - 1
+pertencente - 1
+pneu - 1
+a desde - 1
+investigar como - 1
+casa carlos - 1
+parada dada - 1
+embora - 1
+levantar suspeita - 1
+análise de - 1
+cracco lembrar - 1
+sem gravidade - 1
+em madrugada - 1
+bairro menino - 1
+variar - 1
+dizer pé - 1
+sobretudo - 1
+tráfico assalto - 1
+estabelecer aqui - 1
+assalto começar - 1
+capital de - 1
+em década - 1
+líder colocar - 1
+fazer partir - 1
+mail ter - 1
+chamar aparecer - 1
+de metralhadora - 1
+ter receber - 1
+marido mail - 1
+torre adolescente - 1
+em turma - 1
+ter tornado - 1
+estátua de - 1
+reforçar policiar - 1
+também ano - 1
+de segundo - 1
+dar folga - 1
+por mês - 1
+página em - 1
+parceria - 1
+empresa - 1
+trabalhar com - 1
+passar ser - 1
+de com - 1
+rocha morador - 1
+notícia de - 1
+cão ser - 1
+geral de - 1
+morelli ano - 1
+ir de - 1
+explosivo apreender - 1
+quadra onde - 1
+busca brasileiro - 1
+distribuir - 1
+ter retorno - 1
+pau - 1
+de apreender - 1
+beco cecílio - 1
+silva boeira - 1
+força militar - 1
+folha completo - 1
+executar em - 1
+alencar viatura - 1
+base esperar - 1
+leopoldina - 1
+estar metro - 1
+capital cpc - 1
+preso arma - 1
+gol com - 1
+para identificar - 1
+cano - 1
+urbano - 1
+ir solicitar - 1
+estar ali - 1
+década - 1
+fossar acionar - 1
+modificar - 1
+poder dizer - 1
+em andar - 1
+quando precisar - 1
+conte ano - 1
+durar - 1
+alegre encerrar - 1
+com idade - 1
+por medo - 1
+ideia de - 1
+sim poder - 1
+cliente homem - 1
+segurança em - 1
+falei - 1
+haver oferecer - 1
+amorim dizer - 1
+em aluno - 1
+em meio - 1
+jovem por - 1
+achar estar - 1
+tema de - 1
+passar comunidade - 1
+dezembro de - 1
+rodrigues del - 1
+ser frequente - 1
+brasileiro em - 1
+carnaval de - 1
+ser principal - 1
+governo americano - 1
+isabel começar - 1
+carlos bitencourt - 1
+antigo domínio - 1
+em fechar - 1
+de furto - 1
+luiz pogorelski - 1
+dhpp wagner - 1
+alegre atingir - 1
+sobre cama - 1
+albatroz - 1
+casa sob - 1
+gaúcho ouvir - 1
+história pedir - 1
+cristiano fischer - 1
+disparo de - 1
+americano em - 1
+desafeto - 1
+tiro quando - 1
+dia vir - 1
+rua james - 1
+melhor explicar - 1
+ir executar - 1
+silva prado - 1
+de fevereiro - 1
+bairro santa - 1
+por crime - 1
+ter recorrer - 1
+domingo 14h - 1
+a local - 1
+igor ser - 1
+a base - 1
+357 calibre - 1
+entre criminoso - 1
+capital mando - 1
+desde 2011 - 1
+lourenço mariante - 1
+vanderson ferreira - 1
+errar - 1
+alvorar contra - 1
+joice - 1
+com primeira - 1
+só chegar - 1
+`` abraçar - 1
+encravar - 1
+auxiliar - 1
+ser enviar - 1
+mathias cumprir - 1
+civis de - 1
+baltazar de - 1
+semiaberto - 1
+publicar - 1
+alvorar > - 1
+corroer - 1
+primeiro assalto - 1
+assalto 762 - 1
+alves - 1
+metralhadora pistola - 1
+não falar - 1
+deus ser - 1
+trabalhador também - 1
+marido recordar - 1
+abaeté - 1
+padilha ano - 1
+mudar método - 1
+`` nze - 1
+lista - 1
+casa ir - 1
+telefone assessoria - 1
+postão de - 1
+dizer comandante - 1
+aqui resumir - 1
+calibrar - 1
+reportagem de - 1
+de avenida - 1
+atendar com - 1
+lotear quando - 1
+perfil em - 1
+bairro ter - 1
+ouvido por - 1
+alegre pegar - 1
+ali encontrar - 1
+vítima em - 1
+morto ser - 1
+traficante ter - 1
+de papelaria - 1
+de dizer - 1
+flanelinha - 1
+graças deus - 1
+fechar porta - 1
+mário - 1
+civis para - 1
+de projeto - 1
+2ª delegacia - 1
+mundo - 1
+ter frase - 1
+presídio gaúcho - 1
+isabel de - 1
+pescoço - 1
+pinheiro homem - 1
+em principal - 1
+gol como - 1
+vítima não - 1
+atenção soldado - 1
+estepe - 1
+ter obedecer - 1
+pista de - 1
+ribeiro guaíba - 1
+patrulhar provocar - 1
+de pacote - 1
+cidade baixar - 1
+afonso lourenço - 1
+hoje - 1
+alugar - 1
+fuzis levantar - 1
+ponta - 1
+torre ir - 1
+marli ir - 1
+exterior itamaraty - 1
+ser incapaz - 1
+levar r - 1
+calibre calibre - 1
+em restar - 1
+ser agiota - 1
+espigão em - 1
+capital população - 1
+compra quando - 1
+casal já - 1
+entender como - 1
+total - 1
+como roberto - 1
+hora rodar - 1
+mãe maria - 1
+lugar trocar - 1
+intensificar comandante - 1
+dênis - 1
+m - 1
+ano polícia - 1
+escola ser - 1
+conhecer de - 1
+incapaz - 1
+homem atendar - 1
+morador brigar - 1
+ignês fagundes - 1
+plano de - 1
+ser mundo - 1
+oferecer - 1
+seligman bernardino - 1
+já pensar - 1
+dispensar - 1
+santana - 1
+ter novo - 1
+maio já - 1
+ser cometer - 1
+ponto promessa - 1
+aluno de - 1
+família de - 1
+estalone - 1
+baltazar - 1
+dizer tatiane - 1
+ter cruzar - 1
+comerciante em - 1
+ribeiro - 1
+socorrer não - 1
+socorro assaltantes - 1
+de passageiro - 1
+prado martim - 1
+pms sair - 1
+semana desde - 1
+ontem tatiane - 1
+custo - 1
+já não - 1
+trair `` - 1
+estar presente - 1
+limpar - 1
+ocorrer ali - 1
+dificuldade financeiro - 1
+fechar `` - 1
+para ganhar - 1
+apreender pistola - 1
+com missão - 1
+orçar - 1
+por veículo - 1
+iniciar vida - 1
+fumo - 1
+wenceslau - 1
+de alencar - 1
+material ainda - 1
+alegar copiar - 1
+homicídio chocar - 1
+terreno encontrar - 1
+alcântara - 1
+ideal - 1
+norte suspeita - 1
+bele joel - 1
+de ministério - 1
+atendente - 1
+costeau - 1
+norte em - 1
+intuito - 1
+dona - 1
+sul leste - 1
+janela - 1
+2pms viatura - 1
+chave meirelles - 1
+leste crime - 1
+eva - 1
+bairro pedras - 1
+magro falar - 1
+porém medo - 1
+com cartucho - 1
+cecílio - 1
+nilo wulff - 1
+nuca - 1
+instalar - 1
+violência em - 1
+agora não - 1
+comando de - 1
+mira de - 1
+em braço - 1
+avenida getúlio - 1
+de bandido - 1
+ouvido em - 1
+origem - 1
+estar controlar - 1
+anônimo para - 1
+terra explicar - 1
+feira homem - 1
+articular em - 1
+ano haver - 1
+a smed - 1
+de mãe - 1
+tornar bom - 1
+ajudar esposa - 1
+carlos oliveira - 1
+alfredo - 1
+saber suposto - 1
+situação - 1
+porta de - 1
+para levar - 1
+entre bala - 1
+jacques yves - 1
+quarta reportagem - 1
+longe de - 1
+ocasião - 1
+fase ação - 1
+alerta entre - 1
+de reforço - 1
+caldas morador - 1
+gaúcho completar - 1
+de disparo - 1
+wolfram - 1
+mora há - 1
+rua ruben - 1
+clínica - 1
+de dna - 1
+outubro - 1
+haver tiroteio - 1
+silveira por - 1
+segundo delegado - 1
+adolescente entre - 1
+lutar com - 1
+estátua - 1
+paloma - 1
+folha de - 1
+território - 1
+estar debruçar - 1
+20ª - 1
+brigas levar - 1
+josé de - 1
+carro até - 1
+via nevrálgico - 1
+real de - 1
+obedecer - 1
+comando policiar - 1
+tenente coronel - 1
+guaíba sertão - 1
+civil fazer - 1
+não notar - 1
+áurea hoppel - 1
+parecer ter - 1
+investigar também - 1
+ordem voltar - 1
+meirelles ano - 1
+1kg de - 1
+mal súbito - 1
+por trio - 1
+suporte de - 1
+ver dizer - 1
+culminar em - 1
+fazer orçar - 1
+até hora - 1
+silvester estalone - 1
+pistola calibre - 1
+vira - 1
+de mensagem - 1
+igor giovani - 1
+de lomba - 1
+criminal - 1
+para pai - 1
+ter desgraça - 1
+em tórax - 1
+assalto fazer - 1
+detento vanderson - 1
+wulff - 1
+estrada ser - 1
+20ª dp - 1
+vez dificuldade - 1
+não identificar - 1
+ano dever - 1
+indicar - 1
+peito em - 1
+de 20ª - 1
+tornado socorro - 1
+em semana - 1
+de motorista - 1
+internet - 1
+instituição `` - 1
+bairro umbu - 1
+jesus mario - 1
+ferir em - 1
+carro ir - 1
+delegado alencar - 1
+1º - 1
+setembro pessoa - 1
+semana notar - 1
+comprar dívida - 1
+completar amorim - 1
+por tiro - 1
+sofrer mal - 1
+fernando oliveira - 1
+estar destruir - 1
+vargas por - 1
+tela receber - 1
+maurício - 1
+denúncia de - 1
+em clínica - 1
+fazer porto - 1
+ataque perto - 1
+aparentar ano - 1
+redentor - 1
+em cenário - 1
+domingo funcionário - 1
+melhora em - 1
+vira `` - 1
+córrego a - 1
+21h - 1
+exame - 1
+arma apreender - 1
+encontrar revólver - 1
+suspeitar julgar - 1
+lerner - 1
+render - 1
+investigação deslanchou - 1
+atirar falhar - 1
+sargentos - 1
+marido ser - 1
+lista a - 1
+bairro diário - 1
+pedaço - 1
+rocha eduardo - 1
+comparsa - 1
+dado retorno - 1
+alarme - 1
+esqueleto - 1
+prates - 1
+grupo ir - 1
+2013 carolina - 1
+padilha - 1
+estar ontem - 1
+passageiro estar - 1
+destinatário incluir - 1
+13h - 1
+branco de - 1
+status entre - 1
+até mathias - 1
+em estrada - 1
+vila mando - 1
+dona malvina - 1
+contar ir - 1
+ignês - 1
+visto pms - 1
+pistola em - 1
+abraçar bronca - 1
+canil - 1
+michael - 1
+comandante de - 1
+semana antes - 1
+rua jacuí - 1
+insegurança - 1
+esperar ônibus - 1
+além manter - 1
+em restinga - 1
+para alugar - 1
+identificar por - 1
+provavelmente com - 1
+local assaltar - 1
+aqui ser - 1
+wagner dalcin - 1
+em área - 1
+jardim renato - 1
+operação de - 1
+`` forçar - 1
+estável - 1

@@ -1,0 +1,7409 @@
+ser - 93
+ir - 38
+rua - 38
+ano - 37
+ter - 32
+fazer - 29
+– - 27
+estar - 26
+prefeitura - 21
+problema - 20
+morador - 19
+categoria - 19
+passar - 19
+de rua - 17
+água - 16
+lixo - 16
+esgoto - 16
+postar por - 15
+postar - 15
+bairro - 13
+ficar - 13
+local - 13
+dia - 13
+em bairro - 12
+via - 11
+munhoz - 11
+avenida - 11
+por tiago rech - 10
+tiago rech - 10
+amanda munhoz - 10
+rech - 10
+tiago - 10
+em rua - 10
+postar por tiago - 10
+viamão - 10
+colocar - 10
+amanda - 10
+a categoria - 10
+poste - 10
+informar - 10
+por tiago - 10
+pessoa - 9
+de esgoto - 9
+rede - 9
+parada - 9
+rech a - 9
+tiago rech a - 9
+não ser - 9
+poder - 9
+de ano - 9
+dizer - 9
+receber - 9
+vila - 8
+resolver - 8
+aqui - 8
+frente - 8
+casa - 8
+parte - 8
+município - 8
+capital - 8
+afirmar - 8
+de água - 8
+haver - 7
+resposta - 7
+assim - 7
+meio - 7
+dever - 7
+maria - 7
+obra - 7
+calçada - 7
+dono - 7
+prefeitura de - 7
+rech a categoria - 7
+alvorar - 7
+vera - 7
+chuva - 7
+situação - 7
+reclamar - 7
+porto alegre - 6
+veículo - 6
+dar - 6
+trabalhar - 6
+dep - 6
+mais de - 6
+de rede - 6
+estar em - 6
+dia de - 6
+trânsito - 6
+de lixo - 6
+trecho - 6
+limpeza - 6
+rede de - 6
+final - 6
+dono de - 6
+ser de - 6
+garante - 6
+trabalho - 6
+porto - 6
+esquina - 6
+alegre - 6
+roberta - 6
+diário - 6
+aguardar - 6
+chover - 6
+carro - 6
+em frente - 6
+ainda - 6
+conta - 6
+estrutura - 5
+mara - 5
+comunidade - 5
+zona - 5
+solicitar - 5
+usuário - 5
+gaúcho - 5
+paulo - 5
+realizar - 5
+chegar - 5
+montepio - 5
+de casa - 5
+enfrentar - 5
+em local - 5
+regina - 5
+em vila - 5
+depositar - 5
+órgão - 5
+endereço - 5
+apresentar - 5
+departamento - 5
+de acordo - 5
+saber - 5
+semana - 5
+vez - 5
+acordo com - 5
+falta - 5
+de viamão - 5
+não ter - 5
+apenas - 5
+eptc - 5
+parte de - 5
+há ano - 5
+ônibus - 5
+mara regina - 5
+ponto - 5
+mês - 5
+providência - 5
+pedestres - 5
+de acordo com - 5
+ali - 5
+central - 5
+acordo - 5
+morar - 5
+poste de - 5
+próximo - 5
+tomar - 5
+sujeira - 5
+barro - 5
+família - 5
+nacir - 4
+glacir - 4
+dono de casa - 4
+entanto - 4
+área - 4
+ir a - 4
+tempo - 4
+vila montepio - 4
+melhoria - 4
+cecília - 4
+em alvorar - 4
+pouco - 4
+pedido - 4
+eduardo - 4
+placa - 4
+assessoria - 4
+caminhão - 4
+lugar - 4
+praça - 4
+filho - 4
+esperar - 4
+passar por - 4
+ser mais - 4
+de chuva - 4
+cheiro - 4
+de vera cruz - 4
+buraco - 4
+podre - 4
+lado - 4
+vergonha - 4
+vera cruz - 4
+encaminhar - 4
+não ir - 4
+bem - 4
+coisa - 4
+gente - 4
+troca - 4
+atolar - 4
+em dia de - 4
+cruz - 4
+em viamão - 4
+lembrar - 4
+preciso - 4
+acontecer - 4
+serviço - 4
+teresa - 4
+falta de - 4
+prazo - 4
+vala - 4
+de ônibus - 4
+de via - 4
+avaliar - 4
+de município - 4
+usar - 4
+de rede de - 4
+além de - 4
+queli - 4
+dor - 4
+mais de ano - 4
+de vera - 4
+técnico - 4
+em entanto - 4
+colocar de - 4
+de capital - 4
+em dia - 4
+de prefeitura - 4
+limpeza de - 4
+diário gaúcho - 4
+perceber - 4
+ir fazer - 4
+explicar - 4
+aterro - 3
+ter de - 3
+enviar - 3
+acabar - 3
+forte - 3
+tratar de - 3
+sul - 3
+de veículo - 3
+contato - 3
+visita - 3
+postar por michele - 3
+michele vaz - 3
+ser para - 3
+de obra - 3
+canteiro central - 3
+longo de - 3
+árvore - 3
+de família - 3
+esclarecer - 3
+ligar - 3
+final de - 3
+entulho - 3
+não poder - 3
+em esquina - 3
+ceee - 3
+vicente - 3
+erro - 3
+santa - 3
+complicar - 3
+saibro - 3
+precisar - 3
+caminhão de - 3
+de poste de - 3
+ruim - 3
+tratar - 3
+intenso - 3
+de porto - 3
+ação - 3
+único - 3
+de pessoa - 3
+deixar - 3
+lima - 3
+jardim - 3
+em avenida - 3
+água potável - 3
+alagar - 3
+lá - 3
+prefeitura de viamão - 3
+pé - 3
+em zona - 3
+vaz - 3
+virar - 3
+de mês - 3
+acessível - 3
+utilizar - 3
+por calçada - 3
+de lima - 3
+michele - 3
+sempre - 3
+por falta - 3
+canteiro - 3
+nível - 3
+ano de - 3
+ser preciso - 3
+menor - 3
+relatar - 3
+luiz - 3
+de pedestres - 3
+descartar - 3
+caminho - 3
+entrar - 3
+estar ser - 3
+sistema - 3
+ficar em - 3
+de parada - 3
+cerca - 3
+responsável - 3
+nelson - 3
+departamento de - 3
+de assessoria - 3
+antes - 3
+contar - 3
+vir - 3
+pradella - 3
+ano passar - 3
+luiz paulo - 3
+problema ser - 3
+adão - 3
+frente de - 3
+pradella a - 3
+santo - 3
+por michele - 3
+d - 3
+travessia - 3
+exemplo - 3
+instalação - 3
+em frente de - 3
+há poste - 3
+tênis - 3
+por falta de - 3
+morar em - 3
+frente a - 3
+arrastar - 3
+escorrer - 3
+abrir - 3
+nunca - 3
+entrada - 3
+até local - 3
+solução - 3
+obra de - 3
+prever - 3
+pradella a categoria - 3
+de drenagem - 3
+categoria sem - 3
+dever ser - 3
+ser ruim - 3
+por michele vaz - 3
+instalação de - 3
+por roberta - 3
+calçar - 3
+2012 - 3
+de 2012 - 3
+fazer parte - 3
+michele vaz pradella - 3
+chão - 3
+norte - 3
+inclusive - 3
+longo - 3
+para ser - 3
+potável - 3
+estação - 3
+prioridade - 3
+revelar - 3
+em frente a - 3
+quando chover - 3
+região - 3
+caminhão de lixo - 3
+ter como - 3
+vera lúcia - 3
+rua em - 3
+já estar - 3
+sair - 3
+continuar - 3
+domingo - 3
+zona sul - 3
+de local - 3
+em vila montepio - 3
+até final - 3
+braço - 3
+impedir - 3
+meio de - 3
+munhoz ser - 3
+estudo - 3
+novo - 3
+drenagem - 3
+desabafar - 3
+culpa - 3
+antigo - 3
+criança - 3
+afastar - 3
+execução - 3
+secretaria - 3
+telefone - 3
+a longo de - 3
+de porto alegre - 3
+em meio - 3
+até final de - 3
+amanda munhoz ser - 3
+auxiliar - 3
+responder - 3
+lúcia - 3
+em capital - 3
+para prefeitura - 3
+de avenida - 3
+fechar - 3
+só em - 3
+santo alfredo - 3
+pedir - 3
+hoje - 3
+correr - 3
+por exemplo - 3
+caliça - 3
+dirigir - 3
+alfredo - 3
+vaz pradella a - 3
+vaz pradella - 3
+abrigo - 3
+caroline - 3
+multa - 3
+morador de - 3
+a longo - 3
+mudar - 3
+de poste - 3
+programar - 2
+ir até - 2
+geral - 2
+morador de rua - 2
+em bairro sarandi - 2
+de coleta - 2
+de terra - 2
+pluvial - 2
+moradia - 2
+porém - 2
+destacar - 2
+ir até local - 2
+– observar - 2
+motorista - 2
+assessoria jurídico - 2
+estrutura de - 2
+sentir - 2
+sentido - 2
+denise - 2
+rua ir - 2
+município de - 2
+cecília em - 2
+prefeitura de vera - 2
+valão - 2
+meio fio - 2
+substituir de - 2
+erro de - 2
+em zona sul - 2
+enfrentar em - 2
+de outubro - 2
+receber retorno de - 2
+letra - 2
+esgoto correr - 2
+havia - 2
+para execução - 2
+pequeno - 2
+de arroios vala - 2
+di - 2
+céu - 2
+culpa ser - 2
+de obras - 2
+edição - 2
+autorizar de - 2
+localizar em frente - 2
+espaço - 2
+de regulação - 2
+em canteiro central - 2
+em região - 2
+esquerdo - 2
+zona sul de - 2
+para fazer - 2
+bairro hípica - 2
+caçamba - 2
+animal - 2
+juliana mello - 2
+lobo - 2
+dia de chuva - 2
+b - 2
+esgoto pluviais - 2
+tanto - 2
+reclamar de - 2
+auxiliar de - 2
+santa cecília em - 2
+de acesso em - 2
+a prefeitura - 2
+jorge - 2
+tomada - 2
+há mais - 2
+por prefeitura - 2
+altura de - 2
+deixar sujeira - 2
+cheio - 2
+rodrigues - 2
+a categoria lixo - 2
+visitar - 2
+motivo - 2
+julho - 2
+márcia - 2
+de manutenção - 2
+retorno - 2
+localizar - 2
+sem prioridade - 2
+erro de terceiros - 2
+paixão - 2
+em nível - 2
+imaginar - 2
+declarar - 2
+juliana mello a - 2
+de edição - 2
+conviver com - 2
+partenon - 2
+rua pedro - 2
+cadeirantes - 2
+de imprensa - 2
+franco - 2
+cobrar - 2
+para dono - 2
+quanto - 2
+santo alfredo ser - 2
+em hora - 2
+por parte - 2
+saúde de - 2
+em canteiro - 2
+” - 2
+00hs - 2
+em lugar - 2
+assessoria de imprensa - 2
+descartar de - 2
+equipar - 2
+bater - 2
+só receber retorno - 2
+aline - 2
+faca - 2
+boca de - 2
+para ir - 2
+consumo - 2
+praça joão b - 2
+por parte de - 2
+patrolamento - 2
+cavalhada - 2
+estar ser depositar - 2
+em reunião - 2
+idoso - 2
+sem categoria - 2
+rua santo - 2
+substituir de poste - 2
+não resolver - 2
+marido - 2
+em sentido - 2
+descer de ônibus - 2
+entrada de rua - 2
+prejuízo - 2
+fio - 2
+nonoai - 2
+ficar cheia - 2
+prometer - 2
+receber retorno - 2
+entrada de - 2
+de saúde de - 2
+usuário de - 2
+visita de - 2
+desviar de - 2
+de arroios - 2
+conscientizar - 2
+final de mês - 2
+américo - 2
+rua ter - 2
+secretaria municipal de - 2
+já ser - 2
+cheia de - 2
+cnh - 2
+passo - 2
+municipal de - 2
+momento não - 2
+ponto de rua - 2
+céu abrir - 2
+parar - 2
+energia elétrico - 2
+não saber - 2
+agravar - 2
+sinaleira - 2
+cáren - 2
+decisão de - 2
+de esgoto correr - 2
+querer - 2
+de meio fio - 2
+proceder - 2
+cerca de - 2
+quantidade - 2
+em bairro partenon - 2
+sul de capital - 2
+00hs categoria - 2
+mello - 2
+jornal - 2
+pessoal - 2
+infração - 2
+ser utilizar - 2
+joão b - 2
+pluviais - 2
+em início - 2
+residência - 2
+de concreto - 2
+março - 2
+de esgoto pluviais - 2
+só receber - 2
+rede de drenagem - 2
+lima franco - 2
+lixo passar - 2
+semana passar - 2
+desviar - 2
+de conservar - 2
+terceiros - 2
+documento - 2
+poste com - 2
+via telefone - 2
+notificar - 2
+resolver em - 2
+assessoria de - 2
+suficiente - 2
+enfermagem - 2
+cáren cecília - 2
+além - 2
+cerca de família - 2
+cobertura - 2
+categoria lixo - 2
+de energia - 2
+problema de - 2
+finalizar - 2
+em barro - 2
+retirar - 2
+estragar - 2
+ser para ser - 2
+por ali - 2
+altura - 2
+manutenção - 2
+hora de - 2
+parada de ônibus - 2
+estar de - 2
+por amanda munhoz - 2
+vez em - 2
+regulação - 2
+– não - 2
+de praça - 2
+de poça - 2
+cheiro podre - 2
+de iluminar - 2
+em início de - 2
+gaúcho em - 2
+de quadra - 2
+de departamento - 2
+então - 2
+juliana - 2
+número - 2
+aposentado - 2
+de rua em - 2
+trecho de - 2
+central de - 2
+material - 2
+goulart - 2
+de transporte - 2
+acesso em - 2
+piscina - 2
+sempre ir - 2
+quebrar - 2
+multa de - 2
+trabalho de conscientização - 2
+início de - 2
+retorno de - 2
+brasil - 2
+fazer contato - 2
+cruzar - 2
+responder a - 2
+dinorá - 2
+rampa - 2
+quase - 2
+em meio de - 2
+trocar - 2
+paralelo - 2
+trecho entre - 2
+coleta - 2
+de fazer - 2
+contrário - 2
+descer - 2
+de terceiros - 2
+verificar - 2
+fazer mais - 2
+bastante - 2
+– não ser - 2
+instalação de rede - 2
+edição não - 2
+municipal - 2
+condição - 2
+ir assim - 2
+cansar de esperar - 2
+contato com - 2
+amigo - 2
+norte de - 2
+senhor de - 2
+u - 2
+por juliana mello - 2
+por juliana - 2
+ir perceber - 2
+auxiliar de enfermagem - 2
+base - 2
+ponto de - 2
+boca de lobo - 2
+projeto - 2
+ano a - 2
+comprometer - 2
+trabalhar em - 2
+público - 2
+cruzar via - 2
+“ - 2
+lado de - 2
+por não - 2
+tarde - 2
+época - 2
+senhor - 2
+tomar providência - 2
+rua ser - 2
+juiz - 2
+companhia - 2
+de edição não - 2
+momento - 2
+bairro sarandi - 2
+agendar - 2
+de amigo - 2
+pessoa ficar - 2
+formar - 2
+nova - 2
+de meio - 2
+de alvorar - 2
+setembro - 2
+comerciante - 2
+lixeira - 2
+dmae - 2
+– destacar - 2
+terceiros arrastar - 2
+recolher - 2
+poste com base - 2
+de arroio - 2
+aguentar - 2
+saúde - 2
+escorrer em - 2
+dever aguardar - 2
+de vereador - 2
+de semana - 2
+rede de água - 2
+em parte - 2
+rua antão - 2
+há poste com - 2
+cansar - 2
+categoria sem categoria - 2
+passar – - 2
+diário gaúcho em - 2
+assim – - 2
+de conviver com - 2
+de empresa - 2
+poste de energia - 2
+tirar - 2
+bairro partenon - 2
+de saibro - 2
+por eduardo - 2
+deixar sujeira em - 2
+direito - 2
+alfredo ser - 2
+categoria esgoto - 2
+branco - 2
+ficar sem - 2
+de dia - 2
+rua antão de - 2
+pouco mais - 2
+necessitar - 2
+vereador - 2
+secretaria municipal - 2
+de esperar - 2
+a categoria esgoto - 2
+de terceiros arrastar - 2
+com problema - 2
+op - 2
+bueiro - 2
+em parada - 2
+de vez - 2
+caso - 2
+transbordar - 2
+corsa - 2
+terra - 2
+questionar - 2
+lixo de - 2
+de rua antão - 2
+cansar de - 2
+quadra - 2
+em trecho - 2
+sempre ir assim - 2
+ônibus em - 2
+conscientização - 2
+cheia - 2
+não ter como - 2
+madeira - 2
+vila santa - 2
+detran - 2
+de avenida nonoai - 2
+médico - 2
+elétrico - 2
+rua u - 2
+depender de - 2
+de lobo - 2
+confusão - 2
+concreto - 2
+ofício - 2
+ser complicar - 2
+parada de - 2
+arroios vala - 2
+paciente - 2
+sul de - 2
+em endereço - 2
+sarandi - 2
+ser por - 2
+há mais de - 2
+poça - 2
+circular - 2
+tênis branco - 2
+por departamento de - 2
+tornar - 2
+claudionor - 2
+energia - 2
+anterior - 2
+arroio - 2
+antão de - 2
+obras - 2
+decisão - 2
+barreira - 2
+cnh categoria - 2
+hora - 2
+rua santo alfredo - 2
+jurídico - 2
+possível - 2
+longe - 2
+vergonha de - 2
+promessa - 2
+de aterro - 2
+avenida nonoai - 2
+por departamento - 2
+arroios - 2
+por amanda - 2
+de água potável - 2
+transporte - 2
+antão - 2
+movimentar - 2
+depender - 2
+santa cecília - 2
+mudar para - 2
+porta - 2
+de conscientização - 2
+longo de avenida - 2
+trabalho de - 2
+antão de lima - 2
+reunião - 2
+ter problema - 2
+dor de - 2
+de juiz - 2
+aí - 2
+pedra - 2
+hípica - 2
+resíduo - 2
+de tempo - 2
+em domingo - 2
+postar por juliana - 2
+em altura de - 2
+atender - 2
+autorizar - 2
+pior - 2
+lauro - 2
+cidade - 2
+em bairro hípica - 2
+de lima franco - 2
+iluminar - 2
+abril - 2
+atravessar - 2
+– desabafar - 2
+pé de - 2
+de árvore - 2
+desossa - 2
+próximo de - 2
+pedro américo - 2
+para não - 2
+ir realizar - 2
+perto de - 2
+ser depositar - 2
+rampa de - 2
+água podre - 2
+assinar - 2
+cecília em viamão - 2
+antes ser - 2
+localizar em - 2
+viamão em - 2
+em altura - 2
+chão bater - 2
+gerar - 2
+jeito - 2
+de área - 2
+pé de amigo - 2
+trânsito intenso - 2
+encaminhar para - 2
+equipe - 2
+sujeira em - 2
+sandra - 2
+janeiro - 2
+vila santa cecília - 2
+em hora de - 2
+ser fechar - 2
+quantidade de - 2
+de vala - 2
+de conviver - 2
+de lixo passar - 2
+com base - 2
+acesso - 2
+escola - 2
+pedro - 2
+começar - 2
+receber visita - 2
+segundo morador - 2
+empresa - 2
+início - 2
+em calçada - 2
+sistema de - 2
+década - 2
+equipar de - 2
+durar - 2
+de acesso - 2
+joão - 2
+descer de - 2
+dado - 2
+mau - 2
+mau cheiro - 2
+afastar de - 2
+boca - 2
+rede de esgoto - 2
+programar de - 2
+há mês - 2
+acesso em canteiro - 2
+em haver - 2
+zona norte - 2
+eduardo rodrigues - 2
+ficar cheia de - 2
+departamento de esgoto - 2
+imprensa - 2
+execução de - 2
+desistir - 2
+de assessoria jurídico - 2
+de acessível - 2
+lazer - 2
+caçamba de - 2
+vergonha em - 2
+limpar - 2
+problema como - 2
+observar - 2
+maior - 2
+de energia elétrico - 2
+porta de - 2
+de madeira - 2
+recuo - 2
+outubro - 2
+de saúde - 2
+último - 2
+cirurgia - 2
+maria dinorá - 2
+conviver - 2
+mello a - 2
+de enfermagem - 2
+indignar - 2
+culpa ser de - 2
+escolar - 2
+colocar de saibro - 2
+indicar - 2
+maria ficar - 2
+gaudério - 2
+praça joão - 2
+reparo - 2
+de prazo - 2
+de viamão em - 2
+necessitar de - 2
+rua pedro américo - 2
+entrar em - 2
+estação de - 2
+substituir - 2
+conservar - 2
+em espaço - 1
+causa de tempo - 1
+cloacal pluvial - 1
+ir atravessar - 1
+dezena de pessoa - 1
+alfredo em - 1
+cuidado - 1
+até para - 1
+proteger teresa - 1
+abril de 2012 - 1
+via importante em - 1
+ter tipo - 1
+categoria asfalto - 1
+correr céu - 1
+multado por - 1
+estar afastar - 1
+informar como - 1
+armar para - 1
+menor explicação virar - 1
+aqui há vida - 1
+como endereço - 1
+de município de - 1
+árvore barro pedaço - 1
+novo em - 1
+dar maior - 1
+haver limpeza de - 1
+ano ir - 1
+proceder geral - 1
+tomada por departamento - 1
+ser estrutura abrigar - 1
+de local ser - 1
+arame - 1
+fora de gradil - 1
+suspensão de - 1
+pluviais ser - 1
+específico - 1
+comprar para - 1
+ser semelhante - 1
+de bueiro não - 1
+rua chegar - 1
+cano não estar - 1
+reclamar por - 1
+dorival castilhos - 1
+lobo poço - 1
+coletor - 1
+trecho de rua - 1
+de chuva muito - 1
+caso para atendente - 1
+de marido de - 1
+assessoria jurídico de - 1
+pereira - 1
+não ser para - 1
+capital parecer trecho - 1
+apreensão de - 1
+carro ligar - 1
+minuto ponto de - 1
+alto petrópolis em - 1
+chapista - 1
+fazer ir pedido - 1
+ser construir - 1
+bom fim - 1
+proposta de órgão - 1
+informar já - 1
+problema relatar dever - 1
+estar agendar - 1
+esquina com vicente - 1
+sistema de recolher - 1
+complicar muito - 1
+município dispor - 1
+até 441 em - 1
+quadra de - 1
+de localização - 1
+wind - 1
+atravessar avenida com - 1
+tendinite tomar - 1
+aparência - 1
+ver morar - 1
+solicitar reparo de - 1
+estar em camisa - 1
+vala transbordar em - 1
+carro já atolar - 1
+– lastimar vera - 1
+silveira amorim com - 1
+ir ali levantar - 1
+prazo prever - 1
+para acontecer - 1
+roberta com pedido - 1
+programa consumo - 1
+sinaleira para - 1
+acordo com dado - 1
+ter ser retirada - 1
+chuva há mês - 1
+de condição adequar - 1
+a descobrir não - 1
+chover esgoto - 1
+sinaleira ser - 1
+colocar de esgoto - 1
+ser viver - 1
+água quente gelo - 1
+fazer limpeza deixar - 1
+vontade - 1
+não só - 1
+via em esquina - 1
+espalhar - 1
+troca realizar - 1
+intervenção impedir instalação - 1
+frustração - 1
+de futebol também - 1
+para central - 1
+aproveitar areia - 1
+de problema - 1
+para sala - 1
+custódio - 1
+saúde de município - 1
+de terreno - 1
+para dar - 1
+pedaço de - 1
+passo por ali - 1
+a frente costureiro - 1
+de árvore aparente - 1
+não ser seguro - 1
+órgão de saúde - 1
+plácido - 1
+agosto setembro problema - 1
+relatar dever - 1
+de tênis branco - 1
+colocar apenas placa - 1
+perceber deteriorização - 1
+mostrar situação - 1
+de edifício - 1
+contrário dor - 1
+promessa ser - 1
+morador ambulância de - 1
+instalar rede - 1
+de paixão - 1
+já ser de - 1
+reclamar por telefone - 1
+rua inclusive - 1
+tanto mesmo quando - 1
+madeira há - 1
+capacete - 1
+perceber motivo de - 1
+sair ir ali - 1
+longe voltar afirmar - 1
+ocorrer - 1
+de coleta caminhão - 1
+enviar por departamento - 1
+antes ser estrutura - 1
+fazer mais explicar - 1
+rezar - 1
+dizer a pessoa - 1
+cheiro podre garante - 1
+haver situação - 1
+maria helena - 1
+acumular em esquina - 1
+jacques - 1
+regular com - 1
+fétido - 1
+estabelecer por - 1
+causar quase pânico - 1
+cirúrgico - 1
+mais de vez - 1
+coisa simples - 1
+chover rua - 1
+de árvore barro - 1
+por diário gaúcho - 1
+de almoço - 1
+idade - 1
+solução não problema - 1
+básico - 1
+aneel para - 1
+comerciante nelson bratz - 1
+desde carro - 1
+munhoz faca de - 1
+acabar atolar - 1
+impregnar - 1
+coisa só - 1
+realizar por - 1
+encaminhar mail - 1
+paliativo executar até - 1
+desde então - 1
+canteiro central a - 1
+valos - 1
+para endereço morador - 1
+colocar apenas - 1
+travessia enquanto paulo - 1
+melhoria caminho prefeitura - 1
+ilegal - 1
+próximo de via - 1
+munhoz ser entulho - 1
+de cabeça para - 1
+permanecer empoçada - 1
+depósito de animal - 1
+cecília tarde de - 1
+prazo dado - 1
+cruz informar em - 1
+roberta com - 1
+mais caminhão - 1
+seguro - 1
+salso passar - 1
+manejo - 1
+porte - 1
+sujeira dar vergonha - 1
+dar vazão - 1
+estragar suspensão - 1
+de de - 1
+ser realizar - 1
+morador ambulância - 1
+não responder a - 1
+arroio feijó - 1
+porcalhão - 1
+passageiro de - 1
+condomínio residencial - 1
+com assis brasil - 1
+entrar para sala - 1
+cidade enfrentar - 1
+sujeira em rua - 1
+por estrutura - 1
+sem estragar - 1
+maquiar - 1
+em portão sequer - 1
+00hs categoria alagamnetos - 1
+projeto de - 1
+janeiro situação repetir - 1
+parceiro com - 1
+avenida professor oscar - 1
+tipo - 1
+paixão por - 1
+informar material - 1
+com dado - 1
+água regularizar - 1
+para verificar - 1
+compartilhar - 1
+habitar - 1
+inclinar com - 1
+usuário em entanto - 1
+passar em região - 1
+viver - 1
+número 331 - 1
+sentido centro bairro - 1
+em caso específico - 1
+de casa eliane - 1
+importante - 1
+esgoto correr céu - 1
+capital ter - 1
+rodrigues – rua - 1
+por denise - 1
+dar pra trabalhar - 1
+de chão bater - 1
+chegada de inverno - 1
+para pessoa - 1
+contar apenas com - 1
+básico também - 1
+otto niemeyer - 1
+ir tomada após - 1
+despejar - 1
+bairro campo novo - 1
+ainda ter - 1
+de aposentado - 1
+rech a 02 - 1
+situação já desviar - 1
+dono teresa - 1
+quando abrir ofício - 1
+de magistrado - 1
+com ação - 1
+obra em - 1
+seriar encaminhar - 1
+de poda lixo - 1
+” por - 1
+aneel para execução - 1
+como fossar resolver - 1
+não despejar resíduo - 1
+em telecomunicação paulo - 1
+mandar - 1
+lixo tomar conta - 1
+ainda por causa - 1
+em fase de - 1
+de souza - 1
+– com trânsito - 1
+prefeitura ir realizar - 1
+imprensa também estar - 1
+geladeira sofá - 1
+agora precisar - 1
+– observar operador - 1
+cometer - 1
+de espaço - 1
+estrutura constar em - 1
+reclamar em começo - 1
+ser prefeitura tomar - 1
+onde prefeitura plantar - 1
+reivindicar - 1
+eptc vir - 1
+plano para - 1
+chinelo - 1
+importante em zona - 1
+parar em garagem - 1
+garante luiz paulo - 1
+em verdade - 1
+ser entulho - 1
+sanear - 1
+filho de - 1
+manobra - 1
+de maria luciane - 1
+principal de - 1
+a pessoa ficar - 1
+calçado - 1
+pedestres também não - 1
+como resposta o - 1
+porcalhão insistir - 1
+em caminho - 1
+ficar em promessa - 1
+prefeitura tomar - 1
+segundo morador em - 1
+perícia - 1
+ficar sem saída - 1
+estar pronto para - 1
+merecer - 1
+mais a - 1
+também em área - 1
+resposta saltar - 1
+noite - 1
+por conduzir veículo - 1
+quando receber visita - 1
+ir tomada - 1
+veiga leal ano - 1
+reter em blitz - 1
+estragar suspensão de - 1
+haver situação em - 1
+fazer ainda - 1
+de melhoria de - 1
+ecografia - 1
+implantar novo poste - 1
+– declarar - 1
+importante em - 1
+há mês sem - 1
+enfermagem vera lúcia - 1
+dizer para - 1
+monteggia - 1
+rua santos beco - 1
+ir desde - 1
+com desossa - 1
+envio - 1
+timbrar de prefeitura - 1
+saber dizer - 1
+querer ser contemplar - 1
+faltar pouco mais - 1
+08 00hs categoria - 1
+intervenção - 1
+moto - 1
+expresso - 1
+há sistema - 1
+sujar por aline - 1
+coletivo - 1
+já entrar - 1
+parada ficar a - 1
+cas para pessoa - 1
+falta acessível - 1
+alternativa acabar - 1
+de esgoto cloacal - 1
+visitar parente - 1
+nonoai cavalhada - 1
+bairro jardim - 1
+escorrer em frente - 1
+inclusive muito - 1
+como cadeirantes idoso - 1
+moradia aguardar definição - 1
+sem estragar suspensão - 1
+gaúcho em julho - 1
+dar resposta para - 1
+botar brita sugerir - 1
+conseguir anular - 1
+banheiro - 1
+esquina de rua - 1
+barro pedaço de - 1
+lá há - 1
+geral adulto já - 1
+ano a longo - 1
+para endereço - 1
+uso - 1
+a categoria parada - 1
+tomar conhecer de - 1
+quebrar braço - 1
+forte por minuto - 1
+bairro campo - 1
+em momento não - 1
+mandar carta - 1
+contar problema - 1
+de contratar de - 1
+ter veículo - 1
+convencer - 1
+absurdo nacir ingressar - 1
+souza ano - 1
+luciane - 1
+suportar - 1
+mara regina de - 1
+pessoa por - 1
+não com - 1
+ser estrutura - 1
+ir encaminhar a - 1
+merecer trabalho de - 1
+local resposta saltar - 1
+em lugar agora - 1
+para pedestres também - 1
+manter expectativa de - 1
+pires de - 1
+006 - 1
+perda por vazar - 1
+de troca - 1
+cardoso ano de - 1
+raul cohen - 1
+não ser brincadeira - 1
+não estar dar - 1
+não problema como - 1
+até ausência - 1
+de falta - 1
+pequeno comércio vender - 1
+aí bastar - 1
+a matéria - 1
+secretário de acessível - 1
+constante de - 1
+realizar até - 1
+“ j ” - 1
+igreja - 1
+atrás ser - 1
+em reunião de - 1
+– com - 1
+pedir protocolo ter - 1
+franco posterior colocar - 1
+pessoa precisar - 1
+nelson dizer carro - 1
+ser limpeza de - 1
+ser entulho para - 1
+prometer colocar - 1
+temor ser por - 1
+serviço dever ser - 1
+ter escolha - 1
+em trecho corresponder - 1
+de água ramal - 1
+perturbar - 1
+sem prática - 1
+entanto até - 1
+município fazer parte - 1
+só em pista - 1
+esgotar - 1
+residencial - 1
+cachorrada fazer festa - 1
+brita sugerir adão - 1
+história com final - 1
+usar chinelo - 1
+visita entrada - 1
+por roberta morador - 1
+dejeto de vala - 1
+ano achar - 1
+fazer coisa simples - 1
+morador esperar santo - 1
+de bico para - 1
+erley - 1
+a 04 categoria - 1
+dar maior durabilidade - 1
+em caso - 1
+munhoz faca - 1
+com detran - 1
+dar aparência horrível - 1
+sair ir - 1
+rua mara regina - 1
+obrigar - 1
+pôr de saúde - 1
+por dano - 1
+v - 1
+local colocar - 1
+informar área - 1
+a casa - 1
+arrastar desde ano - 1
+problema perturbar comunidade - 1
+a pedestres cadeirantes - 1
+juiz de - 1
+pneu folhagem - 1
+ano deslocar por - 1
+estranhar reagir indignar - 1
+de água sujar - 1
+quando inundar passar - 1
+eduardo sair - 1
+deslocar por - 1
+galhos - 1
+depositar próximo - 1
+em pista de - 1
+carta - 1
+rua em dia - 1
+juiz para - 1
+reunião de orçamento - 1
+comprar para ir - 1
+ser implantar - 1
+escape para não - 1
+feijó estação - 1
+estar assim - 1
+transporte escolar - 1
+carta dizer lembrar - 1
+em rua ir - 1
+feijó - 1
+a proceder - 1
+prometer colocar de - 1
+2012 troca - 1
+com fazer - 1
+luiz paulo lembrar - 1
+problema perturbar - 1
+como ficar sentir - 1
+eptc ir - 1
+manobra tornar - 1
+taxista nacir - 1
+vender - 1
+lembrar chapista - 1
+em depositar - 1
+após obra - 1
+março de 2012 - 1
+em sentido centro - 1
+circular de pedestres - 1
+exposto a - 1
+otto niemeyer ser - 1
+a tempo quando - 1
+expectativa de dia - 1
+melhoria em - 1
+motivo eptc acionar - 1
+atolar ali - 1
+conscientização dmlu - 1
+de noticiar por - 1
+pena de ter - 1
+lá pessoal - 1
+órgão de - 1
+lado de canteiro - 1
+ano imaginar - 1
+arroios vala de - 1
+veiga leal - 1
+ser enfrentar - 1
+contatos - 1
+trabalho com - 1
+impedir instalação de - 1
+misturar - 1
+municipal de obras - 1
+ano revelar - 1
+repassar - 1
+de diário - 1
+ter passar retroescavadeira - 1
+problema de mara - 1
+decorrer de - 1
+costa - 1
+de lama separar - 1
+conscientização dmlu informar - 1
+de assessoria de - 1
+calçada pedra estar - 1
+problema ser trânsito - 1
+situação em - 1
+cabelo lavar - 1
+voltar afirmar - 1
+alto - 1
+fétido exalar - 1
+momento não ter - 1
+com técnico - 1
+dificuldade em - 1
+03 categoria - 1
+pluvial de local - 1
+patrola dar maior - 1
+em via - 1
+de letra - 1
+setorizadas - 1
+via virar lixão - 1
+rachaduras contar apenas - 1
+explicar não convencer - 1
+também precisar - 1
+decorrência - 1
+eduardo quando abrir - 1
+dificuldade em travessia - 1
+exposto a tempo - 1
+de força - 1
+com pedido expresso - 1
+possível fazer - 1
+a categoria lamaçal - 1
+exame ir fazer - 1
+processo de contratar - 1
+viação smov - 1
+morador estar fazer - 1
+rma já - 1
+ano por cabeleireiro - 1
+pior de - 1
+ser possível - 1
+por roberta com - 1
+adulto - 1
+chover somar barreira - 1
+ir desistir de - 1
+também trabalhar com - 1
+de máquina - 1
+idoso necessitar de - 1
+lixo de valão - 1
+brita sugerir - 1
+de imprensa também - 1
+bastante movimentar - 1
+solução via - 1
+bairro hípica por - 1
+local ser hidráulico - 1
+enviar equipe - 1
+em nova - 1
+ajuda de - 1
+não convencer - 1
+ser de município - 1
+bater raiz de - 1
+recuo em viamão - 1
+fim - 1
+brita - 1
+de cota em - 1
+bem recolher - 1
+maquiagem colocar - 1
+paladino em bairro - 1
+leal ano deslocar - 1
+poda - 1
+esquina ainda - 1
+bairro mario - 1
+armadilha até para - 1
+ser inúmero - 1
+órgão responsável - 1
+cirúrgico aguardar - 1
+pegar - 1
+revitalizar de - 1
+precisar conscientizar não - 1
+rua trafegável por - 1
+esquina de - 1
+como também - 1
+dizer há - 1
+ir confirmar - 1
+domingo em hora - 1
+paulo saber primeiro - 1
+para só passo - 1
+de obra como - 1
+tirar coisa estar - 1
+árvore em - 1
+em abril - 1
+por aneel - 1
+antes ser enfrentar - 1
+rua dorival castilhos - 1
+roberta sujeira dar - 1
+de falta de - 1
+morador cerca com - 1
+de local ter - 1
+esgotar sanitário rubem - 1
+endereço para avaliar - 1
+com dia contar - 1
+nem poder - 1
+letra – “ - 1
+gesseiro lauro - 1
+insistir em - 1
+também trabalhar - 1
+de capital por - 1
+domiciliar - 1
+mato crescer - 1
+carro por - 1
+ser difícil - 1
+garante manicure - 1
+escapa de poça - 1
+berta depender - 1
+efeito garante manicure - 1
+de castro - 1
+nunca ter - 1
+lugar agora precisar - 1
+1º de - 1
+acostumar ficar exposto - 1
+mesmo quando - 1
+ser dever aguardar - 1
+assis brasil - 1
+sarandi por roberta - 1
+central a - 1
+por moradia ser - 1
+comércio vender - 1
+responsável ter - 1
+poda lixo doméstico - 1
+de diário gaúcho - 1
+lixo irregularmente - 1
+smov informar - 1
+lixo passar por - 1
+impossível em - 1
+reunião com - 1
+churrasqueira - 1
+cobrar multa - 1
+árvore aparente - 1
+automático afirmar - 1
+endereço morador - 1
+saibro com - 1
+amorim com - 1
+ramal domiciliar beneficiar - 1
+rua ficar - 1
+efetuar melhoria devido - 1
+ruptura total de - 1
+de manutenção não - 1
+em montepio ir - 1
+estar de bico - 1
+– desabafar filho - 1
+sujeira dar - 1
+passear com família - 1
+complicar mesmo para - 1
+alvorar afirmar - 1
+afastar de abrigo - 1
+morar há ano - 1
+de resposta de - 1
+água quando - 1
+perigo - 1
+avaliar junto - 1
+de corsa - 1
+área de - 1
+barro – relatar - 1
+03 - 1
+rma já ir - 1
+frente a prefeitura - 1
+também alagar ter - 1
+niemeyer ser - 1
+de sinaleira - 1
+enfrentar apenas por - 1
+regularidade de - 1
+primeiro passo para - 1
+construir em região - 1
+por ser - 1
+recorrer - 1
+dizer ceee ceee - 1
+a casa reclamar - 1
+esclarecer estrutura - 1
+agora - 1
+viamão fazer ir - 1
+nem passar por - 1
+construir - 1
+iluminar ser fechar - 1
+em parada em - 1
+bach de - 1
+há dia - 1
+vistoria em - 1
+caber em apenas - 1
+vera cruz informar - 1
+poça atolar em - 1
+tomar providência quanto - 1
+envio de - 1
+calçar também - 1
+achar - 1
+posterior colocar - 1
+não conseguir anular - 1
+terra depositar próximo - 1
+de ricardo - 1
+entre lado de - 1
+braço em altura - 1
+alagar – - 1
+ocupar - 1
+churrasco - 1
+implantar - 1
+depositar a lado - 1
+de mara regina - 1
+categoria buraco - 1
+jacques munhoz cardoso - 1
+enviar equipe até - 1
+de ônibus em - 1
+com secretaria - 1
+de água quando - 1
+placa de - 1
+principal - 1
+ricardo em - 1
+esgoto cloacal - 1
+bico para - 1
+aline custódio - 1
+horrível - 1
+usuário afastar de - 1
+dirigir escola - 1
+ter paciência - 1
+já ir - 1
+bastar - 1
+considerar média - 1
+companheiro márcia scola - 1
+ser retirada - 1
+maquiagem - 1
+nem poder ir - 1
+tornar impossível em - 1
+chegar ir verificar - 1
+de escape para - 1
+exalar de resíduo - 1
+definição judicial de - 1
+ofício timbrar - 1
+em local há - 1
+estar para - 1
+velocidade alternativa - 1
+por teresa - 1
+de ponto - 1
+marcação de - 1
+local já estar - 1
+retroescavadeiras - 1
+quando descer - 1
+ficarem - 1
+de caliça - 1
+rodrigues – - 1
+resposta saltar a - 1
+ação ir - 1
+com desossa com - 1
+em ponto - 1
+dorival - 1
+fazer efeito garante - 1
+medo ser chegar - 1
+virar placa - 1
+operador de - 1
+troca calçado - 1
+grande depósito - 1
+morador ter assinar - 1
+possibilidade de - 1
+não aguentar - 1
+básico também ficar - 1
+maria ficar indignar - 1
+também avaliar possibilidade - 1
+manobra tornar impossível - 1
+acontecer com - 1
+fazer parte já - 1
+cometer infração nacir - 1
+pedido não - 1
+fila encontrar - 1
+por risco de - 1
+típico de - 1
+troca de - 1
+em justiça contra - 1
+nivelar cheio - 1
+número 1557 - 1
+02 categoria buraco - 1
+manutenção não - 1
+patologia crônica - 1
+de valão ficar - 1
+ser pessoa habitar - 1
+formar barreira - 1
+como móvel por - 1
+passear - 1
+adequar - 1
+de circular - 1
+de calçada - 1
+09 - 1
+gaudério de - 1
+a tempo - 1
+de saibro com - 1
+acontecer em - 1
+manter - 1
+risco de acidente - 1
+de utilizar de - 1
+de poça atolar - 1
+serviço a - 1
+tempo ir - 1
+entre rua - 1
+vereador poder - 1
+garante glacir - 1
+insistir - 1
+troca de letra - 1
+contemplar - 1
+– temor - 1
+jus a - 1
+lastimar - 1
+bombear estação - 1
+como restaurar de - 1
+ipê - 1
+com trânsito intenso - 1
+paixão por profissão - 1
+também reclamar de - 1
+vistoria em endereço - 1
+compartilhar com - 1
+de enfermagem vera - 1
+dano - 1
+sem saída – - 1
+detran órgão - 1
+de filho - 1
+cabeleireiro caroline - 1
+ano trabalhar bem - 1
+bem antes de - 1
+por não saber - 1
+alternativa acabar ser - 1
+alfredo ser logo - 1
+em placa jardim - 1
+inclusão social de - 1
+ser último morrer - 1
+família fazer coisa - 1
+de poça d - 1
+deteriorar - 1
+lúcia conta haver - 1
+dmlu - 1
+luiz paulo saber - 1
+fazer espécie - 1
+bach - 1
+sul haver - 1
+jogar - 1
+prefeitura mara regina - 1
+inclusive por - 1
+rezar não - 1
+de tempo ir - 1
+américo em - 1
+tênis branco comprar - 1
+leal ano - 1
+auxílio - 1
+contemplar não ser - 1
+dispor de - 1
+lembrança de aposentado - 1
+de cabeça - 1
+de iluminar ser - 1
+de manguito - 1
+veículo ser semelhante - 1
+afirmar sempre - 1
+indicar ruptura - 1
+malcuidada - 1
+cultam travessia - 1
+área estar em - 1
+valos ser - 1
+vir realizar - 1
+faca de - 1
+receber visita de - 1
+rua valos - 1
+carro por exemplo - 1
+reagir - 1
+longa - 1
+dispor de cota - 1
+patologia - 1
+dizer carro - 1
+márcia scola - 1
+onde - 1
+morar em local - 1
+frequência também reclamar - 1
+de casa queli - 1
+laje - 1
+de rede público - 1
+trabalho com desossa - 1
+chuva permanecer empoçada - 1
+munhoz água podre - 1
+podre escorrer em - 1
+obstruir - 1
+remover - 1
+atrás - 1
+ano de marido - 1
+não ter cometer - 1
+vontade de - 1
+em jardim - 1
+continuar escorrer - 1
+acidente - 1
+dia poder trafegar - 1
+durar mais - 1
+fazer preciso - 1
+de abrigo - 1
+tarde eptc ir - 1
+bairro restinga - 1
+começar bem - 1
+perceber ir quase - 1
+anular notificar - 1
+já deixar aqui - 1
+chuva chegar - 1
+chuva alagar rua - 1
+a igreja - 1
+antenor de - 1
+de ano claudionor - 1
+irregularmente em local - 1
+trazer tristeza para - 1
+machado em bairro - 1
+roberta problema - 1
+com auxiliar - 1
+lauro cristiano witter - 1
+prejuízo ser - 1
+mês para - 1
+local ter começar - 1
+caminho prefeitura de - 1
+gaudério de exercer - 1
+problema antes - 1
+bach de assessoria - 1
+sentir cheiro - 1
+absurdo - 1
+aposentado informar como - 1
+hoje manobra - 1
+regulação ambulatorial informar - 1
+máquina claudiomiro - 1
+endereço ser - 1
+reunião de - 1
+de rua com - 1
+de perda por - 1
+com classificação - 1
+em abril mostrar - 1
+regulação em de - 1
+vera cruz revelar - 1
+santa maria - 1
+ir verificar rebaixar - 1
+de diversão para - 1
+tomar conhecer - 1
+ocupar por - 1
+como estar - 1
+em viamão estar - 1
+cadeirantes idoso - 1
+veículo menor dirigir - 1
+infração gerar - 1
+helena dorneles - 1
+agravar de - 1
+veículo nunca - 1
+estar dar vazão - 1
+tanto lixo entrada - 1
+pedir socorro - 1
+indignar morador ter - 1
+tendinite tomar lugar - 1
+estrutura abrigar passageiro - 1
+barral transformar em - 1
+ser construir em - 1
+ônibus em lugar - 1
+doméstico até - 1
+enfrentar apenas - 1
+de vento - 1
+região como - 1
+bairro sarandi em - 1
+gerar multa - 1
+proceder geral de - 1
+veículo reter em - 1
+trânsito intenso em - 1
+social de - 1
+melhoria de acesso - 1
+fornecer de água - 1
+documento solicitar - 1
+dia de janeiro - 1
+impregnar casa - 1
+estar aqui há - 1
+liberar para - 1
+imposto querer - 1
+castro em - 1
+ano de rua - 1
+êxito - 1
+preciso de trabalho - 1
+com fala - 1
+tentativa de resgatar - 1
+em decorrência - 1
+em calçar - 1
+tampa - 1
+jardim protásio - 1
+sequer poder - 1
+sandra bach - 1
+futebol também há - 1
+indicar por médico - 1
+encontro - 1
+fechar receber cobertura - 1
+colocar em - 1
+efetuar - 1
+rebaixar de meio - 1
+velasquez souto - 1
+número 331 até - 1
+com estrutura de - 1
+telefone para - 1
+jeito ser - 1
+desde março de - 1
+local há mais - 1
+roupa já - 1
+cloacal - 1
+não fazer - 1
+desossa com faca - 1
+segunda quinzena de - 1
+funcionário - 1
+ano passar glacir - 1
+lixo entrada - 1
+dejeto de - 1
+de ecografia - 1
+de gaudério - 1
+formoza em alvorar - 1
+2012 nacir - 1
+conserto em equipar - 1
+lugar de paixão - 1
+entre avenida bento - 1
+secar equipe de - 1
+responsável por confusão - 1
+não recorrer - 1
+ser tanto mesmo - 1
+em região animar - 1
+verificar regularidade - 1
+dor tirar pouco - 1
+possível fazer mais - 1
+lixo doméstico - 1
+pavão - 1
+ir realizar estudo - 1
+chegada - 1
+esperar por - 1
+durar sempre - 1
+ainda não poder - 1
+água atolar pé - 1
+via paralelo aposentado - 1
+desossa chaira - 1
+ir impregnar - 1
+limpeza de vala - 1
+esgoto formar - 1
+troca mails com - 1
+guarda roupa - 1
+pena de - 1
+maio - 1
+ter cobrar multa - 1
+vizinhança porcalhão - 1
+dono de corsa - 1
+imaginar usar - 1
+roda - 1
+alegre pedir - 1
+apenas por cerca - 1
+para surpresa documento - 1
+local ser - 1
+entulho para lixeira - 1
+localização prever instalação - 1
+de patrola - 1
+apenas lixeira - 1
+pedido de - 1
+recuo ser utilizar - 1
+já desviar - 1
+procura escapar - 1
+franco em bairro - 1
+de troca realizar - 1
+witter ano - 1
+aguardar despacho - 1
+ir alagar - 1
+filho menor de - 1
+munhoz dor impedir - 1
+passar por ali - 1
+inundar passar – - 1
+brasil quando - 1
+reclamar líder - 1
+alegre postar - 1
+egídio piccoli em - 1
+basta tempo - 1
+mato crescer a - 1
+veículo nunca ter - 1
+o antigo - 1
+limpeza de arroio - 1
+esclarecer estrutura constar - 1
+prática de parceiro - 1
+por baixo - 1
+de laje - 1
+em avenida plácido - 1
+depois de estar - 1
+em não - 1
+bem pior - 1
+sequer - 1
+odor - 1
+supermercado visitar - 1
+categoria sem capacete - 1
+tentativa - 1
+com arame farpar - 1
+reclamar líder comunitário - 1
+ser seguro para - 1
+de porta de - 1
+afastar não ter - 1
+coisa só acontecer - 1
+seção - 1
+quinzena de - 1
+fazer vistoria em - 1
+vez em fila - 1
+sair por - 1
+ir protocolado - 1
+avenida cavalhada - 1
+impressionante - 1
+alternativa - 1
+lobo poço de - 1
+físico - 1
+ter gente - 1
+a redor - 1
+rotina exigir cuidado - 1
+rampa de acesso - 1
+escorrer de rua - 1
+de capital parecer - 1
+de visita - 1
+perceber deteriorização de - 1
+técnico até endereço - 1
+claudionor de costa - 1
+resposta automático afirmar - 1
+em dizer - 1
+nivelar - 1
+dia de gesso - 1
+sujeira dejeto - 1
+magistrado ir - 1
+cobrar com - 1
+notificar em - 1
+estar em rua - 1
+em época - 1
+de 2012 com - 1
+enfrentar em agosto - 1
+a categoria trânsito - 1
+comércio vender autônomo - 1
+marcação - 1
+cheia de criança - 1
+jurídico de - 1
+de notificar - 1
+estrutura constar - 1
+casa em bairro - 1
+quintana - 1
+exemplo há - 1
+ser preciso então - 1
+local licenciar - 1
+drenagem boca de - 1
+enviar técnico - 1
+de capital enviar - 1
+intenso em - 1
+lixeira só - 1
+de samu - 1
+serviço só - 1
+parar pouco - 1
+consumo responsável ter - 1
+poste de companhia - 1
+branco comprar para - 1
+de ônibus morro - 1
+ano claudionor - 1
+via apenas - 1
+haver década - 1
+com pedido - 1
+amanda munhoz faca - 1
+cadeira de - 1
+pânico em - 1
+posição - 1
+eliane lucas ano - 1
+garante calçada apresentar - 1
+racional - 1
+interligar a - 1
+já durar mais - 1
+após envio de - 1
+magistrado - 1
+conferente - 1
+de costa - 1
+diante de - 1
+de inss estar - 1
+inundar - 1
+lixeira só amanda - 1
+conservar limpar rede - 1
+quase pânico - 1
+alaga - 1
+direita em sentido - 1
+santos beco paladino - 1
+parceria de diário - 1
+casa mara - 1
+em região retroescavadeiras - 1
+sabor - 1
+temor - 1
+esgoto correr por - 1
+programar de porte - 1
+subespecialidade ortopedia - 1
+nem viamão - 1
+autorizar de morador - 1
+rua ter buraco - 1
+paulo erley - 1
+documento solicitar autorizar - 1
+valão ficar em - 1
+fazer abaixo - 1
+ruptura total - 1
+mello a 04 - 1
+revoltar - 1
+há mês jorge - 1
+placa jardim - 1
+d ’ - 1
+jeito ser continuar - 1
+assim barro - 1
+em fila encontrar - 1
+lama separar - 1
+levantar tampa estar - 1
+responder a solicitação - 1
+de terreno plano - 1
+goiás em - 1
+redor - 1
+de esquina - 1
+motorista mora trabalhar - 1
+ser provocar - 1
+taxista nacir antenor - 1
+chuva alagar - 1
+perícia médico com - 1
+juiz para tomar - 1
+não saber mais - 1
+acumular - 1
+guerreiro em avenida - 1
+ceee ceee - 1
+estar em estudo - 1
+entrar em espaço - 1
+poste inclinar com - 1
+de proprietário - 1
+atolar pé - 1
+vez agradar não - 1
+ir para - 1
+como fossar - 1
+capital enviar - 1
+de diversão - 1
+conta além - 1
+como ficar - 1
+edição não manifestar - 1
+empresa fazer manejo - 1
+de guerreiro em - 1
+vazão – - 1
+com pé de - 1
+em idade escolar - 1
+reclamar de falta - 1
+leandro de - 1
+trecho corresponder a - 1
+desistir nunca - 1
+agradar não ser - 1
+glacir a domingo - 1
+de detran informar - 1
+de morador - 1
+conforto de movimentar - 1
+existente - 1
+depositar lixo irregularmente - 1
+avaliar possibilidade de - 1
+participativo op - 1
+endereço morador reclamar - 1
+perda por - 1
+passar já estar - 1
+potável redução de - 1
+redor formar barreira - 1
+a redor formar - 1
+farpar caçamba - 1
+chaira já - 1
+informar em dia - 1
+resposta receber - 1
+agravar de problema - 1
+vinha coletivo - 1
+sábado aqui - 1
+quando chover somar - 1
+ser complicar gente - 1
+helena - 1
+atender só - 1
+nova estrutura - 1
+luiz paulo santana - 1
+intenso de veículo - 1
+avaliar de - 1
+cível de - 1
+sagrar churrasco de - 1
+a domingo em - 1
+geladeira - 1
+a 09 00hs - 1
+cometer infração - 1
+por diário - 1
+rua com caliça - 1
+geral de revitalizar - 1
+trabalho garante glacir - 1
+inúmero ir - 1
+caroline velasquez souto - 1
+saltar a - 1
+zona sul haver - 1
+solicitar autorizar de - 1
+ano cansar - 1
+barro pedaço - 1
+casa maria - 1
+chuva muito forte - 1
+de animal - 1
+sob pena de - 1
+fala - 1
+cível de foro - 1
+como móvel - 1
+problema morador esperar - 1
+em julho passar - 1
+para dar resposta - 1
+pires de castro - 1
+para consertar - 1
+com rampa de - 1
+de receber - 1
+estar ser implantar - 1
+até fechar - 1
+cadeirante - 1
+terçar quinta sábado - 1
+ali quando vinha - 1
+arar - 1
+usar cadeira de - 1
+ser caber em - 1
+devido a - 1
+existir - 1
+witter - 1
+de obras viação - 1
+” – gerar - 1
+de orçamento participativo - 1
+de conscientização por - 1
+desde janeiro situação - 1
+passo para - 1
+roberta schuler - 1
+pavimentar - 1
+impotente - 1
+deslocar por avenida - 1
+américo em parada - 1
+remover de arroios - 1
+surpresa documento - 1
+em porto alegre - 1
+vala após - 1
+ônibus morro - 1
+em alvorar por - 1
+dep informar - 1
+escola em - 1
+direito também ter - 1
+souza ano achar - 1
+reagir indignar - 1
+– relatar - 1
+ser continuar esperar - 1
+tratar de via - 1
+último morrer ser - 1
+de contratar - 1
+em parte de - 1
+capital por roberta - 1
+ser de não - 1
+ortopedia - 1
+segundo avaliar de - 1
+departamento de conservar - 1
+de estar em - 1
+frente costureiro - 1
+residência em - 1
+campo novo em - 1
+próximo o - 1
+história - 1
+compressa com - 1
+passar parar - 1
+em sentido contrário - 1
+de almoço típico - 1
+de aí - 1
+acostumar - 1
+de amigo para - 1
+mail para câmara - 1
+pé em barro - 1
+em direção a - 1
+usuário não aguentar - 1
+informar como endereço - 1
+de foro - 1
+janeiro de 2012 - 1
+em lembrança - 1
+terra depositar - 1
+moradia ser pessoa - 1
+em cidade - 1
+exercício - 1
+proximidade - 1
+por minuto ponto - 1
+manicure - 1
+medo ser - 1
+quinta sábado - 1
+em bairro mario - 1
+john ano - 1
+levar sujeira - 1
+ter de ano - 1
+quantidade de esgoto - 1
+abrigo ser - 1
+mais de mês - 1
+de sabor de - 1
+dever merecer trabalho - 1
+empoçada em - 1
+só explicar - 1
+até geladeira - 1
+cabelo - 1
+tornar impossível - 1
+de ano passar - 1
+irregularmente - 1
+dinorá estranhar reagir - 1
+montepio piscina - 1
+petrópolis - 1
+preocupar com agravar - 1
+de ricardo em - 1
+acessível inclusão social - 1
+solicitar obra - 1
+r 191 ponto - 1
+de amar - 1
+recorrer de notificar - 1
+assegurar - 1
+cristina jacques munhoz - 1
+problema fazer foto - 1
+jurídico de município - 1
+viamão até - 1
+amorim com assis - 1
+amorim - 1
+diversão - 1
+frente de residência - 1
+ser limpeza - 1
+r - 1
+recolher não - 1
+anterior não - 1
+sem menor explicação - 1
+móvel - 1
+cair - 1
+assim barro secar - 1
+prioridade em - 1
+sair lixo - 1
+ser preciso morador - 1
+expectativa - 1
+ambulatorial informar município - 1
+tempo ir perceber - 1
+pergunta maria - 1
+não saber dizer - 1
+temo - 1
+jardim fazer com - 1
+locomoção como cadeirantes - 1
+poste de iluminar - 1
+lamentar - 1
+obras viação smov - 1
+com frequência também - 1
+precisar ajudar glacir - 1
+ser só - 1
+nelson bratz ano - 1
+não aguentar mais - 1
+estar cansar - 1
+semelhante troca de - 1
+por aqui - 1
+consertar erro de - 1
+consertar - 1
+parecer trecho - 1
+esperança ser último - 1
+viamão amanda munhoz - 1
+com solução - 1
+de número 1557 - 1
+viamão válvula de - 1
+fazer para - 1
+melhoria de - 1
+patrolamento colocar de - 1
+portão - 1
+ter rampa de - 1
+criança passar - 1
+agradar não - 1
+água de chuva - 1
+continuar escorrer em - 1
+vida - 1
+denise waskow aqui - 1
+impotente – - 1
+com secretaria de - 1
+escolha senão - 1
+de ajuda de - 1
+relatar chover durante - 1
+de julho ser - 1
+tamanho de quadra - 1
+ter veículo reter - 1
+regina em - 1
+parada pedir - 1
+responsabilidade - 1
+noticiar por - 1
+prazo dado por - 1
+próximo de esquina - 1
+afinal resolver - 1
+de madeira por - 1
+de casa em - 1
+levantar tampa - 1
+de residência em - 1
+não conta - 1
+em vila ipê - 1
+desde carro estragar - 1
+para capital - 1
+terreno plano para - 1
+rua santos - 1
+contra prefeitura - 1
+jurídico não ter - 1
+pergunta - 1
+salientar porém rede - 1
+de corte - 1
+adiantar virar - 1
+circular com - 1
+de ação - 1
+rede pluvial - 1
+imprensa esclarecer seção - 1
+dano moral - 1
+programa - 1
+tapar buraco - 1
+desabafar filho de - 1
+para avaliar - 1
+sufoco já durar - 1
+mais usar com - 1
+amanda munhoz quando - 1
+por companhia - 1
+mobilidade - 1
+final patologia - 1
+de foro alto - 1
+motocross - 1
+trabalhar em capital - 1
+programar de substituir - 1
+providência quanto a - 1
+arrastar segundo - 1
+rua em vila - 1
+trecho corresponder - 1
+de prejuízo ser - 1
+roberta dar - 1
+assim pm - 1
+em cronograma - 1
+em camisa - 1
+ir quase resposta - 1
+andreoni pavão - 1
+a chegar - 1
+fazer vistoria - 1
+ir atravessar fora - 1
+enchente cidade enfrentar - 1
+animal peçonhentos ser - 1
+como boa parte - 1
+rua sanear básico - 1
+remover de - 1
+ano afirmar - 1
+não ser possível - 1
+ser conscientizar - 1
+em entanto ficar - 1
+roda idoso necessitar - 1
+cobertura vegetal - 1
+estar em portão - 1
+acertar - 1
+setorizadas de água - 1
+conserto - 1
+auxílio doença - 1
+lucas ano revelar - 1
+de veículo circular - 1
+maior durabilidade a - 1
+vez caminho até - 1
+paulo erley veiga - 1
+em dever - 1
+331 até 441 - 1
+ser de esgoto - 1
+descobrir não - 1
+de cotovelo - 1
+areia remover - 1
+de ibge brasileiro - 1
+projeto de melhoria - 1
+órgão estadual de - 1
+ir liberar - 1
+aparência horrível - 1
+tarde de de - 1
+final água podre - 1
+implantar novo - 1
+via op dep - 1
+rma - 1
+dever solicitar obra - 1
+movimentar braço - 1
+em programar de - 1
+aterro como - 1
+tripular moto cnh - 1
+ainda ser - 1
+obrigar usuário afastar - 1
+parceria de - 1
+dmae informar - 1
+em apenas - 1
+morro de vergonha - 1
+crosta de - 1
+de mês para - 1
+frente de edifício - 1
+de obras ser - 1
+moral em - 1
+apenas ter rampa - 1
+pessoal estar - 1
+em montepio - 1
+barral transformar - 1
+santana ano - 1
+residencial repouso - 1
+complicar gente - 1
+passar retroescavadeira botar - 1
+recorrer de - 1
+conseguir anular notificar - 1
+veiga - 1
+fazer com - 1
+mobilidade a - 1
+criar problema - 1
+somar - 1
+de rua único - 1
+esforço não - 1
+devido - 1
+responsável ter como - 1
+não entrar - 1
+necessitar de terreno - 1
+situação já - 1
+buraco de rua - 1
+telecomunicação paulo - 1
+processo de - 1
+para garantir - 1
+glacir a - 1
+rua egídio piccoli - 1
+a categoria entulho - 1
+em de abril - 1
+de número - 1
+avisou - 1
+cabeleireiro - 1
+gaúcho comerciante - 1
+limite entre - 1
+ambulância de - 1
+uso de - 1
+ilegal abrigo - 1
+retroescavadeira botar - 1
+estar assim – - 1
+poça d - 1
+afirmar sempre ir - 1
+pedra estar - 1
+prazo estabelecer por - 1
+lá receber seguinte - 1
+último morrer - 1
+cnh categoria d - 1
+liberar para trabalho - 1
+declarar claudionor de - 1
+lúcia conta - 1
+ter cometer infração - 1
+despacho de - 1
+troca realizar por - 1
+por porta de - 1
+sentar impotente - 1
+carro já - 1
+“ v - 1
+só acontecer - 1
+pôr de - 1
+tapar - 1
+dorneles ano - 1
+filho além de - 1
+gradil sinaleira ser - 1
+estar afastar de - 1
+vergonha em descer - 1
+parada localizar - 1
+conscientizar não - 1
+pouco mais de - 1
+alfredo em bairro - 1
+real - 1
+alvorar por cáren - 1
+eptc acionar secretaria - 1
+ter problema resolver - 1
+aguentar mais caminhão - 1
+professor oscar - 1
+de ano ir - 1
+bateria já - 1
+ganhar - 1
+fazer sagrar - 1
+de abril - 1
+de r - 1
+esclarecer seção norte - 1
+problema de acordo - 1
+proceder cirúrgico aguardar - 1
+explicar novo - 1
+exigência técnica de - 1
+referir - 1
+ser fechar para - 1
+final de edição - 1
+esgoto problema ser - 1
+enganchar tênis - 1
+cardoso ano - 1
+troca mails - 1
+boa parte - 1
+emitir multa - 1
+estar dar - 1
+de estudo secretário - 1
+trazer tristeza - 1
+vara cível de - 1
+de pé - 1
+geral de - 1
+de janeiro - 1
+não por - 1
+sujeira conforme - 1
+barro secar equipe - 1
+de lazer - 1
+protocolo ter explicar - 1
+novo caso para - 1
+levar sujeira dejeto - 1
+órgão responsável para - 1
+de roda idoso - 1
+ocasião responder - 1
+temor ser - 1
+gesseiro - 1
+só trazer tristeza - 1
+quintana em - 1
+central apresentar piso - 1
+por aline - 1
+infração nacir - 1
+situação em haver - 1
+441 - 1
+rede para - 1
+edgar pires - 1
+drenagem boca - 1
+indignar a - 1
+cruzar via em - 1
+ter tipo de - 1
+sequer poder calçar - 1
+resposta para jornal - 1
+rua sem estragar - 1
+de frente usar - 1
+local em não - 1
+rosto - 1
+aguardar definição judicial - 1
+munhoz água - 1
+com parceria - 1
+via em - 1
+eptc responder enviar - 1
+municipal de urbanismo - 1
+vizinhança - 1
+queli enganchar tênis - 1
+como haver substituir - 1
+vida inteiro não - 1
+parte de prefeitura - 1
+morador obra - 1
+água potável esgoto - 1
+guerreiro - 1
+ser hidráulico suficiente - 1
+de patrola dar - 1
+prática de - 1
+blitz - 1
+sugerir - 1
+rua santa - 1
+buracos - 1
+de acessível inclusão - 1
+não poder escovar - 1
+de colocar - 1
+informar responsabilidade - 1
+eventual - 1
+de castro em - 1
+afirmar fazer vistoria - 1
+após obra em - 1
+quebrar braço em - 1
+de lá receber - 1
+menino andar - 1
+em entanto em - 1
+ano deslocar - 1
+.. - 1
+em cano não - 1
+de residência - 1
+fazer foto - 1
+viamão amanda - 1
+quando descer de - 1
+depois de - 1
+caso para - 1
+munhoz dor - 1
+atravessar fora de - 1
+absurdo nacir - 1
+aguardar seriar - 1
+ponto barral transformar - 1
+assegurar depois - 1
+formoza - 1
+cultam - 1
+apresentar de - 1
+maquiagem colocar aterro - 1
+início de ano - 1
+porte trabalho - 1
+2012 com - 1
+endereço para - 1
+técnica de - 1
+em justiça - 1
+via virar - 1
+saber primeiro - 1
+comunidade de rua - 1
+aqui trocar de - 1
+de transporte adão - 1
+verdade transbordar - 1
+de maria - 1
+dever merecer - 1
+de prazo dado - 1
+08 - 1
+já ser mais - 1
+esgoto escorrer - 1
+virar só - 1
+dono de bar - 1
+.. história com - 1
+menor de ano - 1
+dano moral em - 1
+apresentar de ecografia - 1
+perigoso - 1
+rua em bairro - 1
+saltar - 1
+de porte - 1
+esgoto formar em - 1
+relatar dever merecer - 1
+esgoto ser problema - 1
+animar comunidade - 1
+arrastar segundo avaliar - 1
+corte desossa - 1
+pista - 1
+gaúcho contar - 1
+muito rápida – - 1
+zona norte de - 1
+órgão afirmar só - 1
+vazão – atestar - 1
+ver morar aqui - 1
+também precisar ajudar - 1
+de via importante - 1
+aneel - 1
+ir lá - 1
+com direito - 1
+lixo por - 1
+próximo estação - 1
+apreensão de comunidade - 1
+passar já - 1
+nonoai em - 1
+de obra de - 1
+moradia ser - 1
+parar em - 1
+execução de rede - 1
+lugar assim – - 1
+trânsito repassar - 1
+jorge assegurar depois - 1
+realizar trecho também - 1
+de companhia - 1
+roberta sujeira - 1
+limpeza deixar - 1
+dinorá vicente - 1
+trabalhar bem perto - 1
+vila montepio fazer - 1
+vistoriar prometer ação - 1
+prefeitura de capital - 1
+serviço de - 1
+assinar documento maria - 1
+colocar em nível - 1
+de bar de - 1
+como aguentar - 1
+edgar - 1
+só passo por - 1
+prefeitura tomar providência - 1
+aposentado informar - 1
+pessoa cruzar via - 1
+ser ocupar - 1
+prejuízo já ser - 1
+ir desistir - 1
+cronograma de - 1
+há poste inclinar - 1
+há vida inteiro - 1
+viamão inserir paciente - 1
+local prefeitura - 1
+já atolar ali - 1
+para jornal declarar - 1
+acessível mobilidade a - 1
+ano ganhar - 1
+frente usar - 1
+chaira já não - 1
+de julho - 1
+enganchar - 1
+restaurar de - 1
+cristiano - 1
+feliz - 1
+para acontecer ser - 1
+bombear - 1
+de paixão por - 1
+a apresentar de - 1
+aqui para - 1
+mottin vila santa - 1
+tornar ainda maior - 1
+partenon por - 1
+em ocasião responder - 1
+de erro - 1
+imaginar receber solução - 1
+diário ser - 1
+resíduo remexer em - 1
+doença de - 1
+recuo ser - 1
+preciso morador - 1
+documento maria dinorá - 1
+endereço há mês - 1
+avaliar junto a - 1
+só depois de - 1
+manguito rotar - 1
+começo de semana - 1
+por local resposta - 1
+reter em - 1
+conserto em - 1
+deter jogar - 1
+quase pânico em - 1
+conseguir - 1
+chuva há - 1
+encaminhar para cirurgia - 1
+rebaixar de - 1
+função - 1
+escorrer de - 1
+nacir antenor de - 1
+reunião com secretaria - 1
+morador reclamar - 1
+senão de conviver - 1
+castro - 1
+terceiros arrastar segundo - 1
+conta haver - 1
+destinar - 1
+comum como móvel - 1
+complemento de rua - 1
+ortopedia geral adulto - 1
+de maquiagem colocar - 1
+em camisa de - 1
+explicar não - 1
+corte - 1
+potável esgoto - 1
+com pé - 1
+crônica - 1
+em nova perícia - 1
+de nova - 1
+de rua santo - 1
+de vara - 1
+em 2010 - 1
+por dia - 1
+podre continuar escorrer - 1
+paliativo - 1
+melhorar - 1
+água sujar - 1
+por minuto - 1
+o mercado por - 1
+jurídico não - 1
+por “ - 1
+calçamento - 1
+poça d água - 1
+gaúcho comerciante nelson - 1
+afirmar fazer - 1
+viamão alvorar - 1
+fazer jus - 1
+mês prefeitura - 1
+apresentar piso - 1
+saibro secretaria municipal - 1
+a direita em - 1
+ir ilegal - 1
+em calçada obrigar - 1
+mesmo para - 1
+conscientização por parte - 1
+ponto barral - 1
+potável esgoto formar - 1
+crosta - 1
+pavão ano - 1
+em nível de - 1
+gente ser porco - 1
+condição de acessível - 1
+buracos decorrer de - 1
+morador cerca - 1
+coleta caminhão de - 1
+afirmar funcionário público - 1
+de bicicleta - 1
+cair por - 1
+intenso de - 1
+não ser mais - 1
+morador reclamar via - 1
+não há - 1
+encaminhar mail para - 1
+de vento forte - 1
+objetivo - 1
+caliça resto de - 1
+despacho - 1
+começar após obra - 1
+” por “ - 1
+de trabalho - 1
+chegar causar - 1
+de problema fazer - 1
+circular com carro - 1
+com problema como - 1
+orçamento participativo - 1
+explicar novo caso - 1
+água quando chover - 1
+melhoria em fase - 1
+ação ir enviar - 1
+ser paralelo - 1
+conhecer de - 1
+seguro para dono - 1
+a enchente - 1
+vida inteiro - 1
+rezar não ser - 1
+gaúcho contar problema - 1
+coletivo em - 1
+compressa com água - 1
+arrastar há - 1
+reparo de erro - 1
+em rua u - 1
+nal de semana - 1
+estar de jeito - 1
+folhagem - 1
+cra referir município - 1
+smov - 1
+ter como objetivo - 1
+de esquina coibir - 1
+braço esquerdo - 1
+filho de maria - 1
+salgado - 1
+de locomoção como - 1
+urbano ir - 1
+geral adulto - 1
+ser trecho de - 1
+resolver desabafar - 1
+conduzir - 1
+ecografia indicar - 1
+capital enviar por - 1
+multado - 1
+praça estar malcuidada - 1
+goulart como - 1
+categoria calçar - 1
+viamão por - 1
+realizar estudo - 1
+eventual nível ser - 1
+de lado - 1
+escolha senão de - 1
+ser mais usar - 1
+agendar patrolamento - 1
+de enfrentar em - 1
+subespecialidade - 1
+op dep - 1
+morador comerciante - 1
+de resolver em - 1
+a 02 categoria - 1
+manhã - 1
+jacques munhoz - 1
+usuário de parada - 1
+médico atender - 1
+porta de entrada - 1
+cumprir rotina exigir - 1
+não desistir nunca - 1
+em rua de - 1
+berta depender de - 1
+antigo crônico - 1
+até próximo chuva - 1
+pouco descartar de - 1
+aline piscina misturar - 1
+aluno - 1
+jardim protásio alves - 1
+arroio de - 1
+como haver - 1
+ponto melhorar - 1
+de ponto de - 1
+ali levantar - 1
+boato de shopping - 1
+impedir motorista - 1
+u antigo goiás - 1
+trânsito ser intenso - 1
+desistir de usar - 1
+passar por local - 1
+observar operador - 1
+estar cheio d - 1
+entretenimento terminar em - 1
+ônibus problema ser - 1
+gonçalves rua - 1
+gerar multa de - 1
+quanto a - 1
+dar pra - 1
+com caroline passar - 1
+comunitário sirlei leandro - 1
+por cáren - 1
+prefeitura para menino - 1
+ir verificar - 1
+ser bastante movimentar - 1
+ação paliativo executar - 1
+ali imaginar - 1
+ficar indignar - 1
+depositar caçamba de - 1
+vazar consumo - 1
+foto de - 1
+regulação em - 1
+ano pessoal - 1
+alagamnetos esgoto - 1
+em verdade transbordar - 1
+ainda maior em - 1
+avenida bento gonçalves - 1
+lixo tomar - 1
+de samu acabar - 1
+já bastante - 1
+carro sob pena - 1
+não passar lá - 1
+por causa de - 1
+de rua ter - 1
+claudiomiro andreoni - 1
+chover forte por - 1
+de drenagem em - 1
+não ser suficiente - 1
+profissão de açougueiro - 1
+metro de rede - 1
+ter cometer - 1
+urbanismo smurb para - 1
+tapar buraco de - 1
+por pequeno comércio - 1
+comércio - 1
+atrás ser mais - 1
+morador obra de - 1
+sob pena - 1
+pedestres a - 1
+areia remover de - 1
+reportagem estar - 1
+magistrado ir tomada - 1
+ter explicar novo - 1
+impotente – observar - 1
+ônibus morador inclusive - 1
+obra como coletor - 1
+amar - 1
+abaixo assinar - 1
+quanto esquerdo - 1
+entre avenida - 1
+trafegar - 1
+parte de avenida - 1
+cheio de - 1
+camisa de força - 1
+de gesso - 1
+para família de - 1
+informou contatos - 1
+de madeira há - 1
+mora - 1
+fluxo - 1
+até longe - 1
+desde ano - 1
+avenida diário - 1
+utilizar por - 1
+ofício por amanda - 1
+de melhoria - 1
+capital parecer - 1
+secar equipe - 1
+depois reportagem estar - 1
+de aproveitar areia - 1
+edifício - 1
+britto - 1
+contemplar não - 1
+cano não - 1
+contaminar - 1
+região animar comunidade - 1
+de usar - 1
+população dever - 1
+obstáculo assim - 1
+bento - 1
+por avenida diário - 1
+assinar documento - 1
+retirada - 1
+aguentar mais - 1
+coisa para dar - 1
+de vontade - 1
+lixo não - 1
+pior ser - 1
+categoria parada de - 1
+adulto já poder - 1
+de lixo não - 1
+só em lembrança - 1
+montepio ir - 1
+ser intenso - 1
+car obstruir - 1
+ponto melhorar visível - 1
+setembro de - 1
+quantidade de vez - 1
+passar terçar - 1
+região retroescavadeiras - 1
+hidráulico suficiente - 1
+ricardo - 1
+constar - 1
+tempo quando - 1
+vera cruz para - 1
+recolher sacola - 1
+durar sempre até - 1
+espécie de maquiagem - 1
+mora trabalhar em - 1
+enquanto paulo só - 1
+sala de cirurgia - 1
+buraco calçamento - 1
+problema para prefeitura - 1
+poder instalar rede - 1
+não conseguir - 1
+ser contemplar não - 1
+semana água de - 1
+mais longe - 1
+teresa usuário - 1
+ainda ser dor - 1
+lembrar pessoa precisar - 1
+de cirurgia - 1
+receber ser dever - 1
+estudo projeto de - 1
+vereador para prefeitura - 1
+continuará cobrar com - 1
+já reclamar - 1
+até local colocar - 1
+dep dono - 1
+sobre parada fone - 1
+continuará - 1
+de frente - 1
+ficar sem trabalhar - 1
+regina de - 1
+foto - 1
+pouco de sabor - 1
+lixo até - 1
+já tomar - 1
+destinar cair por - 1
+setembro problema técnico - 1
+poço - 1
+informar município de - 1
+munhoz cardoso ano - 1
+– lastimar - 1
+estar em cano - 1
+rosto de manhã - 1
+reclamar via telefone - 1
+de rua dorival - 1
+sul haver solicitar - 1
+velasquez - 1
+futebol também - 1
+de ecografia indicar - 1
+ser canhoto - 1
+j ” - 1
+sofá guarda - 1
+foto de via - 1
+força - 1
+fazer aterramento de - 1
+nonoai em parte - 1
+hoje também - 1
+regular - 1
+para ser complemento - 1
+patrolamento saibro secretaria - 1
+paralelo a avenida - 1
+viamão inserir - 1
+de movimentar braço - 1
+de aproveitar - 1
+real ser - 1
+congestionar - 1
+perigoso – destacar - 1
+para enfrentar esgoto - 1
+início de maio - 1
+cristiano witter - 1
+abrir ofício timbrar - 1
+depois mudar para - 1
+chuva permanecer - 1
+seção norte - 1
+ação paliativo - 1
+com vir longa - 1
+impedir gaudério de - 1
+proposta de - 1
+em bairro restinga - 1
+a olho - 1
+em oficina - 1
+pessoal fazer - 1
+cristina jacques - 1
+dia situação - 1
+02 - 1
+como objetivo - 1
+timbrar de - 1
+solução sandra bach - 1
+público setorizadas de - 1
+cou legal - 1
+caminho de ricardo - 1
+convencer dep - 1
+produzir 1kg de - 1
+logo incluir em - 1
+dor de tendinite - 1
+há ano em - 1
+consumo responsável - 1
+cavalhada até encontro - 1
+de acessível mobilidade - 1
+complicar mesmo - 1
+não congestionar via - 1
+ir em - 1
+para enfrentar - 1
+antigo goiás - 1
+dorneles ano trabalhar - 1
+saber ter - 1
+perto de quadra - 1
+visível segurança de - 1
+multa de r - 1
+ano depois - 1
+acessível inclusão - 1
+só acontecer em - 1
+tamanho - 1
+providência – dizer - 1
+silveira amorim - 1
+escovar cabelo - 1
+pluvial de - 1
+prefeitura informar solicitar - 1
+de lugar - 1
+bom fim em - 1
+mais usar - 1
+estar pronto - 1
+receber cobertura - 1
+categoria d - 1
+morar há - 1
+glacir receber - 1
+confusão impedir - 1
+chegar ir - 1
+interligar - 1
+viamão até final - 1
+para agilizar - 1
+pessoa por moradia - 1
+decidir fazer contato - 1
+esgoto puro - 1
+pedra em - 1
+tempo armar para - 1
+morador desviar - 1
+em prazo - 1
+frente a casa - 1
+passar em - 1
+social de porto - 1
+aguardar despacho de - 1
+em parte onde - 1
+castilhos machado em - 1
+alegre raul - 1
+alagamnetos - 1
+vez agradar - 1
+manifestar - 1
+regina não ir - 1
+para resolver não - 1
+viação - 1
+sufoco já - 1
+de r 191 - 1
+madeira por estrutura - 1
+só passo - 1
+saber mais - 1
+com auxiliar de - 1
+lama - 1
+corsa wind - 1
+terceiros arrastar desde - 1
+posterior colocar de - 1
+entanto entretenimento terminar - 1
+separar por - 1
+de caliça como - 1
+como objetivo fornecer - 1
+de detran - 1
+problema fazer - 1
+par de - 1
+teresa usuário em - 1
+diversão para família - 1
+ser problema - 1
+definição judicial - 1
+andreoni pavão ano - 1
+saber chover - 1
+receber visita entrada - 1
+sanitário rubem berta - 1
+fazer preciso de - 1
+ser atrair - 1
+estar agendar patrolamento - 1
+avaliar possibilidade - 1
+câmara - 1
+rua com - 1
+de arredores ser - 1
+solicitar limpeza - 1
+em cronograma de - 1
+de morar - 1
+plástico - 1
+dor tirar - 1
+avenida bernardino - 1
+com churrasqueira auxiliar - 1
+poça atolar - 1
+inúmero ir desde - 1
+em blitz - 1
+utilizar rua - 1
+até ausência de - 1
+de guerreiro - 1
+por porta - 1
+norte de conservar - 1
+de drenagem boca - 1
+camisa de - 1
+dep fazer - 1
+a vez - 1
+04 - 1
+de dono de - 1
+viver há - 1
+sarandi em capital - 1
+não ser tão - 1
+município fazer - 1
+residência em avenida - 1
+de roda - 1
+avisou pôr - 1
+ceee aí informar - 1
+causar - 1
+costureiro maria helena - 1
+– esquina - 1
+técnica - 1
+ser meio - 1
+âs 08 00hs - 1
+bratz ano cansar - 1
+parte de departamento - 1
+em jardim protásio - 1
+por telefone ir - 1
+– gerar - 1
+petrópolis em capital - 1
+denise waskow - 1
+em ano passar - 1
+vir aqui - 1
+– desabafar dono - 1
+ter agendar - 1
+ambulância - 1
+expresso em letra - 1
+alagar ter problema - 1
+rua residência - 1
+ir trabalhar - 1
+segurança - 1
+ficar em parada - 1
+quebrar di - 1
+sonhar - 1
+preocupante - 1
+gerar confusão - 1
+montepio ir fazer - 1
+de rua senhor - 1
+não congestionar - 1
+cima - 1
+ser colocar - 1
+brasileiro - 1
+roupa - 1
+cirúrgico aguardar há - 1
+aqui para ir - 1
+serviço de manutenção - 1
+dirigir para ali - 1
+porcalhão insistir em - 1
+regularidade - 1
+lavar rosto de - 1
+adulto já - 1
+afirmar só - 1
+nal - 1
+permanecer - 1
+conservar limpar - 1
+grande - 1
+transporte adão borges - 1
+ir fazer ainda - 1
+vera cruz município - 1
+urbanismo smurb - 1
+confirmar - 1
+móvel por exemplo - 1
+v ” – - 1
+chover somar - 1
+bairro jardim lisboa - 1
+parada em bairro - 1
+a 03 categoria - 1
+de vez durar - 1
+fazer jus a - 1
+prefeitura de alvorar - 1
+imprensa também - 1
+poste precário - 1
+crônica ir confirmar - 1
+de veículo ser - 1
+com parceria de - 1
+entre lado - 1
+equipe até local - 1
+classificação de - 1
+ser para só - 1
+motivo eptc - 1
+elétrico deteriorar - 1
+apreensão - 1
+– afirmar - 1
+para agilizar atender - 1
+já poder - 1
+especí - 1
+de praça joão - 1
+judicial de - 1
+resposta o antigo - 1
+tristeza para dono - 1
+para colocar abrigo - 1
+00hs categoria asfalto - 1
+rua senhor - 1
+perceber motivo - 1
+a invés - 1
+inúmero - 1
+em sistema informatizar - 1
+correr por - 1
+motivo de - 1
+anular - 1
+ofício por - 1
+conta situação estar - 1
+mara regina não - 1
+não passar - 1
+esquina ainda ter - 1
+vir longa espera - 1
+preciso de - 1
+em área de - 1
+em segunda quinzena - 1
+de sabor - 1
+construir em - 1
+morro de - 1
+categoria entulho - 1
+corresponder a - 1
+de condição - 1
+em oficina em - 1
+para atendente - 1
+caçamba de terra - 1
+exposto - 1
+verdade - 1
+chuva a enchente - 1
+guarda roupa já - 1
+denúncia - 1
+vara cível - 1
+pedido de ir - 1
+muito criança - 1
+legal - 1
+arar por trator - 1
+fazer contato com - 1
+recuo em - 1
+avenida cavalhada até - 1
+esgotar sanitário - 1
+tomada após envio - 1
+como endereço ser - 1
+aline custódio vila - 1
+estar aguardar - 1
+parente – desabafar - 1
+munhoz lixo tomar - 1
+de noticiar - 1
+crescer a redor - 1
+ceee esclarecer estrutura - 1
+de boca - 1
+por dano moral - 1
+quando caminhar - 1
+esgoto escorrer de - 1
+garrafais em - 1
+situação agravar quando - 1
+metro - 1
+de nova estrutura - 1
+justiça contra prefeitura - 1
+cruz revelar já - 1
+continuar aguardar posição - 1
+em fase - 1
+eliane lucas - 1
+por aqui para - 1
+2010 morador - 1
+limpar bueiro - 1
+441 em bairro - 1
+até próximo - 1
+só em calçar - 1
+dizer carro já - 1
+arame farpar caçamba - 1
+eptc acionar - 1
+até 441 - 1
+para pedestres - 1
+de trecho - 1
+espécie de - 1
+rua 1º - 1
+de motocross - 1
+esgoto ficar sem - 1
+acontecer necessidade de - 1
+márcia hoje também - 1
+não descartar - 1
+privado - 1
+parente - 1
+de água atrapalhar - 1
+poço de - 1
+calçada apresentar - 1
+despejar resíduo - 1
+dizer lembrar chapista - 1
+senador salgado - 1
+de rua santos - 1
+responsável para agilizar - 1
+indignar a descobrir - 1
+malcuidada necessitar - 1
+atrapalhar passagem - 1
+ônibus em avenida - 1
+bem perto de - 1
+caminhar - 1
+nacir ser único - 1
+de chuva há - 1
+ser preciso sair - 1
+difícil perceber motivo - 1
+vez em haver - 1
+com companheiro - 1
+manter expectativa - 1
+retroescavadeiras retirar caminhão - 1
+morador para - 1
+passar glacir - 1
+lixo doméstico até - 1
+proceder cirúrgico - 1
+receber seguinte resposta - 1
+maior em domingo - 1
+fazer compressa - 1
+cruz município - 1
+desafio - 1
+com solução sandra - 1
+piccoli em jardim - 1
+reportagem estar em - 1
+assim – lembrar - 1
+dejeto - 1
+raul - 1
+fechar para - 1
+continuar esperar - 1
+comunitário - 1
+de local já - 1
+pluviais dep - 1
+até longe voltar - 1
+de município trânsito - 1
+dep por - 1
+bratz ano - 1
+salientar porém - 1
+de cota - 1
+minuto - 1
+eduardo rodrigues – - 1
+plácido mottin - 1
+morador inclusive - 1
+só depois - 1
+em nível existente - 1
+pior ser criança - 1
+feliz em - 1
+ano aqui nunca - 1
+único providência tomada - 1
+cível - 1
+braço lado - 1
+em casa - 1
+aqui nunca - 1
+endereço há - 1
+não ter escolha - 1
+possível efetuar - 1
+camisa - 1
+dirigir escola em - 1
+bastar município fazer - 1
+arroios vala após - 1
+para lixo - 1
+de bar - 1
+churrasqueira auxiliar em - 1
+ano a cruzar - 1
+claudiomiro - 1
+área estar - 1
+pedestres cadeirantes - 1
+jogar sujeira conforme - 1
+água em vila - 1
+caliça como anterior - 1
+paim john - 1
+descobrir não ser - 1
+resíduo em - 1
+ir perceber deteriorização - 1
+com dia - 1
+alagar – declarar - 1
+longa espera por - 1
+dia situação agravar - 1
+estar aguardar despacho - 1
+– temor ser - 1
+morador há - 1
+convencer dep informar - 1
+já poder ter - 1
+paulo saber - 1
+canhoto diário - 1
+local há - 1
+regina decidir - 1
+de inss - 1
+franco em - 1
+conscientizar não despejar - 1
+não adiantar - 1
+também há - 1
+j ” por - 1
+incluir em - 1
+dep fazer limpeza - 1
+petrópolis em - 1
+ônibus problema - 1
+rua santa maria - 1
+desde ano passar - 1
+apenas lixeira localizar - 1
+moto cnh - 1
+compartilhar com companheiro - 1
+v ” - 1
+calçada em - 1
+visível segurança - 1
+para cadeirante - 1
+sala - 1
+sujeira conforme morador - 1
+regularizar - 1
+a número 331 - 1
+terminar - 1
+conta situação - 1
+a 03 - 1
+devido a chuva - 1
+de trânsito - 1
+pedra em meio - 1
+só amanda munhoz - 1
+caminho até longe - 1
+sirlei - 1
+de tênis - 1
+por técnico em - 1
+durabilidade - 1
+cnh categoria sem - 1
+ambulatorial informar - 1
+cabelo lavar rosto - 1
+dizer a - 1
+bernardino silveira - 1
+timbrar - 1
+ser chegar vez - 1
+seguir exigência - 1
+contato com ceee - 1
+estar fazer parte - 1
+companheiro - 1
+provocar - 1
+viamão por amanda - 1
+culdade de locomoção - 1
+autorizar de proprietário - 1
+caminho até - 1
+via encaminhar mail - 1
+em espaço destinar - 1
+colocar aterro como - 1
+avenida professor - 1
+expectativa de - 1
+locomoção como - 1
+a invés de - 1
+perturbar comunidade - 1
+para menino andar - 1
+rotina exigir - 1
+sugerir adão - 1
+bueiro não - 1
+conhecer de decisão - 1
+eduardo quando - 1
+em fila - 1
+retorno de vereador - 1
+eptc já - 1
+de carro por - 1
+melhorar visível - 1
+ir liberar para - 1
+vara - 1
+enviar técnico até - 1
+terreno plano - 1
+estar acumular em - 1
+para família - 1
+começo de - 1
+calçar par de - 1
+rua sem - 1
+descartar nem - 1
+deteriorização de poste - 1
+justiça contra - 1
+misturar água - 1
+perder conta - 1
+sem trabalhar - 1
+muito criança em - 1
+sem menor - 1
+responder enviar - 1
+média de - 1
+menor explicação - 1
+ideia ser - 1
+gente ser - 1
+até ter vergonha - 1
+roupa já deixar - 1
+a comunidade - 1
+rotar ir - 1
+em cano - 1
+dizer sandra - 1
+detran informar responsabilidade - 1
+situação estar bem - 1
+afiar - 1
+como prioridade em - 1
+maria dinorá estranhar - 1
+filho menor - 1
+gente nem - 1
+médico com direito - 1
+queda quebrar - 1
+com pessoa - 1
+muito perigoso - 1
+encaminhar para central - 1
+manutenção não só - 1
+remédio - 1
+de praça queli - 1
+ter trocar poste - 1
+bairro ter ser - 1
+telefone ir lá - 1
+poder perceber ir - 1
+redução - 1
+fazer abaixo assinar - 1
+por eduardo rodrigues - 1
+em começo - 1
+atender atravessar - 1
+solução sandra - 1
+ir encaminhar - 1
+haver ponto - 1
+como placa de - 1
+mostrar situação enfrentar - 1
+parada ficar - 1
+remédio não - 1
+repassar problema - 1
+retirar de arroios - 1
+inss estar afastar - 1
+podre conta caroline - 1
+com água - 1
+pista de motocross - 1
+dado de - 1
+em caminho de - 1
+reclamar ainda praça - 1
+menos finalizar - 1
+erley veiga leal - 1
+– reclamar líder - 1
+boato - 1
+auxiliar em - 1
+juiz de vara - 1
+casa reclamar - 1
+em brasil - 1
+bombear estação de - 1
+denise travessia - 1
+1kg de lixo - 1
+tipo de - 1
+dep dono de - 1
+em ponto barral - 1
+sinaleira para pedestres - 1
+de morar em - 1
+atender atravessar avenida - 1
+conta com rampa - 1
+verificar regularidade de - 1
+efetuar melhoria - 1
+receber cobertura vegetal - 1
+poder acontecer com - 1
+trecho de terra - 1
+meio de calçada - 1
+jamais - 1
+ano ir a - 1
+específico de ponto - 1
+já estar agendar - 1
+para ir a - 1
+em subespecialidade ortopedia - 1
+só limpeza de - 1
+corsa parar em - 1
+atolar pé em - 1
+augusto paim john - 1
+de água em - 1
+retirar caminhão - 1
+desde janeiro - 1
+família fazer - 1
+observar operador de - 1
+hábito - 1
+nem viamão alvorar - 1
+queli cristina - 1
+de pé de - 1
+de manguito rotar - 1
+depender de ajuda - 1
+montepio fazer - 1
+sofá - 1
+corresponder a número - 1
+de março - 1
+não poder passear - 1
+órgão existir - 1
+base comprometer - 1
+tomar providência – - 1
+de calçada em - 1
+custódio vila - 1
+ter passar - 1
+a vez caminho - 1
+transbordar espalhar - 1
+vila montepio dono - 1
+norte de capital - 1
+formoza em - 1
+média - 1
+obra como - 1
+município trânsito ser - 1
+02 categoria - 1
+já pifou - 1
+fala porto - 1
+valos ser mato - 1
+logo - 1
+frente usar chinelo - 1
+social - 1
+elétrico deteriorar em - 1
+por canaletas de - 1
+deter jogar sujeira - 1
+deteriorização - 1
+tempo armar - 1
+de década - 1
+aqui trocar - 1
+1º de março - 1
+smurb para - 1
+plantar árvore - 1
+alagar rua - 1
+ilegal abrigo ser - 1
+não ter êxito - 1
+fim em trecho - 1
+entulho lixo - 1
+durabilidade a serviço - 1
+a pedestres - 1
+revelar já - 1
+arame farpar - 1
+estar cansar de - 1
+de parada ficar - 1
+tampa estar cheio - 1
+fase - 1
+estar acumular - 1
+avenida bento - 1
+precisar acostumar ficar - 1
+em via paralelo - 1
+puro correr - 1
+de trecho entre - 1
+saibro em - 1
+ser ruim de - 1
+pedir providência a - 1
+– em - 1
+produzir 1kg - 1
+braço esquerdo começar - 1
+amigo para - 1
+porém rede pluvial - 1
+longe voltar - 1
+poder ter - 1
+inverno - 1
+menor de - 1
+então prometer - 1
+telecomunicação paulo erley - 1
+imposto querer rua - 1
+limpar rede - 1
+moto cnh categoria - 1
+móvel por - 1
+rua ir alagar - 1
+água ramal domiciliar - 1
+por cerca - 1
+de rua ir - 1
+conservar de - 1
+locomoção - 1
+viamão estar com - 1
+de boca de - 1
+rodrigues escapa - 1
+viamão estar - 1
+esquina sempre ir - 1
+também alagar - 1
+ser dor - 1
+por órgão de - 1
+por cáren cecília - 1
+regina não - 1
+arroio feijó estação - 1
+avenida nonoai em - 1
+car - 1
+lastimar vera - 1
+claudionor de - 1
+reclamar ainda - 1
+samu acabar atolar - 1
+tão - 1
+crônica ir - 1
+piso regular - 1
+protásio alves em - 1
+de salso - 1
+local resposta - 1
+campo novo - 1
+avisou pôr de - 1
+ser possível fazer - 1
+lauro cristiano - 1
+desistir de - 1
+projeto estar pronto - 1
+191 ponto - 1
+escola revelar - 1
+de conscientização dmlu - 1
+sirlei leandro de - 1
+resíduo remexer - 1
+restaurar - 1
+prefeitura para - 1
+consulta para - 1
+com obra tapar - 1
+lixão céu - 1
+vera lúcia paixão - 1
+meio fio intervenção - 1
+trecho também alagar - 1
+não por falta - 1
+– gerar confusão - 1
+senador - 1
+problema para - 1
+botar - 1
+com mau cheiro - 1
+em de - 1
+invés de utilizar - 1
+cas - 1
+passar lá há - 1
+resolver esperança ser - 1
+para não congestionar - 1
+limpeza deixar sujeira - 1
+dar vazão – - 1
+– rua - 1
+exercer - 1
+já não ser - 1
+cáren cecília tarde - 1
+condição de - 1
+para cima - 1
+de ônibus problema - 1
+descobrir - 1
+em prazo prever - 1
+solicitar compra de - 1
+direito a apresentar - 1
+parte já reclamar - 1
+fazer limpeza - 1
+escovar - 1
+moura - 1
+declarar claudionor - 1
+poder trafegar - 1
+corsa wind cnh - 1
+parada localizar em - 1
+mario quintana em - 1
+ibge brasileiro produzir - 1
+por proceder - 1
+só agir - 1
+vergonha de pessoa - 1
+aterro como fossar - 1
+preciso então - 1
+de absurdo nacir - 1
+ação por - 1
+resultado de queda - 1
+dizer dever aguardar - 1
+condomínio - 1
+maria luciane vicente - 1
+eduardo rodrigues escapa - 1
+ano já saber - 1
+agosto - 1
+cristiano witter ano - 1
+bem perto - 1
+adão nelson - 1
+menos - 1
+seguir - 1
+interligar a sistema - 1
+canteiro central apresentar - 1
+fechar para lazer - 1
+morador comerciante de - 1
+maria ficar próximo - 1
+tomada por - 1
+responsabilidade ser de - 1
+para resolver - 1
+em época em - 1
+pm de vera - 1
+responder enviar técnico - 1
+peçonhentos ser atrair - 1
+só não ir - 1
+desviar de poça - 1
+órgão estadual - 1
+doença - 1
+de abril de - 1
+solicitação - 1
+a sistema de - 1
+por cerca de - 1
+estar fazer - 1
+enviar por - 1
+trabalhar em rua - 1
+para vizinhança - 1
+quanto a entulho - 1
+tristeza para - 1
+lauro lembrar dia - 1
+desde março - 1
+vinha - 1
+sanitário - 1
+em semana passar - 1
+ano imaginar receber - 1
+com detran órgão - 1
+depositar a - 1
+resposta culpa ser - 1
+ser esgoto puro - 1
+basta - 1
+poder perceber - 1
+local licenciar ambiental - 1
+exalar de - 1
+não responder - 1
+trabalhar com obra - 1
+– lembrar auxiliar - 1
+aquilo ser - 1
+rachaduras contar - 1
+surpresa documento solicitar - 1
+congestionar via virar - 1
+a praça - 1
+de pessoa ficar - 1
+passar retroescavadeira - 1
+a praça joão - 1
+bairro medianeira - 1
+pinheiro - 1
+dia noite - 1
+para dep fazer - 1
+despejar resíduo em - 1
+parada fone - 1
+executar - 1
+em barro por - 1
+entre aluno dirigir - 1
+– lamentar - 1
+para ser construir - 1
+sirlei leandro - 1
+depositar lixo - 1
+bairro ter - 1
+com arame - 1
+conduzir veículo - 1
+ir continuar - 1
+passear com - 1
+não ser por - 1
+de revitalizar de - 1
+resto de - 1
+entanto em - 1
+porta de frente - 1
+espécie - 1
+estadual de trânsito - 1
+via apresentar - 1
+em tentativa de - 1
+por avenida - 1
+observar lauro - 1
+total de manguito - 1
+por “ v - 1
+ser finalizar processo - 1
+preciso morador de - 1
+transformar - 1
+sacola plástico de - 1
+entulho para - 1
+último limpeza ir - 1
+mario quintana - 1
+laje ir - 1
+não ir desistir - 1
+conta além de - 1
+haver solicitar - 1
+contratar de - 1
+ali levantar tampa - 1
+capital solicitar reparo - 1
+dinorá estranhar - 1
+velocidade alternativa acabar - 1
+alegre estar ser - 1
+atender só trazer - 1
+decidir - 1
+desa - 1
+via apenas ter - 1
+de ano ganhar - 1
+ali quando - 1
+preocupar com - 1
+solução não - 1
+de dimensionar - 1
+ser de diversão - 1
+água quente - 1
+mais tarde - 1
+abril mostrar - 1
+poder acontecer - 1
+pires - 1
+ir quase - 1
+secar - 1
+raiz de - 1
+de notificar em - 1
+crônico - 1
+por via - 1
+banheiro conserto em - 1
+de banheiro conserto - 1
+doméstico até privado - 1
+de ajuda - 1
+márcia hoje - 1
+esgoto ser - 1
+de jeito - 1
+controlar - 1
+apenas por - 1
+motorista de - 1
+munhoz cardoso - 1
+dor impedir gaudério - 1
+nivelar cheio de - 1
+fazer compressa com - 1
+vala de - 1
+aquilo ser ruim - 1
+de pedido de - 1
+de erro por - 1
+santos - 1
+coleta de - 1
+santa maria ficar - 1
+conscientizar morador para - 1
+julho ser - 1
+via ser tanto - 1
+paciência - 1
+retroescavadeira botar brita - 1
+acontecer ser - 1
+de fazer sagrar - 1
+em capital ter - 1
+avenida plácido mottin - 1
+não com fazer - 1
+liga - 1
+de imprensa esclarecer - 1
+mãe - 1
+casa com - 1
+resultado - 1
+por confusão - 1
+castilhos machado - 1
+parente – - 1
+fora remédio - 1
+por motivo - 1
+hoje manobra tornar - 1
+despacho de juiz - 1
+de drenagem para - 1
+de glacir - 1
+final feliz em - 1
+imprensa esclarecer - 1
+média de pessoa - 1
+jardim lisboa em - 1
+caber - 1
+em próximo - 1
+exercer ofício por - 1
+ano já - 1
+ser tão grave - 1
+ano claudionor afirmar - 1
+para central de - 1
+leandro - 1
+foro alto - 1
+rua senhor de - 1
+suspensão - 1
+parceiro com churrasqueira - 1
+seção norte de - 1
+vento - 1
+finalizar processo - 1
+a categoria calçar - 1
+a proceder geral - 1
+existente em - 1
+banheiro conserto - 1
+podre continuar - 1
+agir - 1
+tamanho de - 1
+já entrar em - 1
+fim em - 1
+receber solução - 1
+para chuva - 1
+boato de - 1
+estar em local - 1
+esgoto pluviais dep - 1
+eptc já vistoriar - 1
+depositar próximo de - 1
+exercício físico - 1
+verdade transbordar espalhar - 1
+situação agravar - 1
+manguito rotar ir - 1
+causa de - 1
+poder ir - 1
+parceiro - 1
+arredores ser - 1
+ter corsa wind - 1
+falta de transporte - 1
+a comunidade moradia - 1
+já durar - 1
+levar - 1
+sanear básico também - 1
+ceee aí - 1
+janeiro de - 1
+pagar - 1
+solicitar limpeza de - 1
+ser pessoa - 1
+residencial repouso de - 1
+maria revoltar - 1
+ser tirar coisa - 1
+costureiro maria - 1
+compra de - 1
+forte ser mais - 1
+inss estar - 1
+lauro lembrar - 1
+passo para acontecer - 1
+água sujar por - 1
+em entanto entretenimento - 1
+fazer em segunda - 1
+base já - 1
+líder comunitário sirlei - 1
+há ano aqui - 1
+ser realizar até - 1
+também não conta - 1
+até encontro com - 1
+ser mais de - 1
+ruim ter gente - 1
+schuler - 1
+exalar - 1
+imposto - 1
+rua trafegável - 1
+porém rede - 1
+a cruzar - 1
+proprietário - 1
+sem prioridade central - 1
+pedestres também - 1
+conduzir veículo nunca - 1
+somar barreira – - 1
+receber auxílio - 1
+ano revelar quantidade - 1
+até endereço - 1
+tirar pouco - 1
+cheiro animal peçonhentos - 1
+rua egídio - 1
+nacir tripular moto - 1
+mesmo quando não - 1
+pneu folhagem esquina - 1
+veículo circular de - 1
+esquina coibir descartar - 1
+pedir providência - 1
+de prefeitura em - 1
+água atrapalhar passagem - 1
+atestar - 1
+aline piscina - 1
+para jornal - 1
+revelar quantidade de - 1
+dar aparência - 1
+sentido contrário - 1
+de marcação de - 1
+canalizar - 1
+chover durante semana - 1
+como ser - 1
+partenon por roberta - 1
+transbordar em dia - 1
+ser tirar - 1
+ir a praça - 1
+aproveitar areia remover - 1
+ruim ter - 1
+lama separar por - 1
+repouso de - 1
+de marcação - 1
+por ali tá - 1
+dia de outubro - 1
+acabar ser - 1
+prazo de dia - 1
+ter fluxo - 1
+há ano por - 1
+paulo lembrar - 1
+ser avaliar junto - 1
+– reclamar - 1
+aproveitar - 1
+campo - 1
+informar em - 1
+com rampa - 1
+mais caminhão de - 1
+gradil - 1
+pedido expresso em - 1
+poda lixo - 1
+de dimensionar de - 1
+de proprietário para - 1
+letra – - 1
+decorrer - 1
+ser conscientizar morador - 1
+ter coisa - 1
+vender autônomo - 1
+população dever solicitar - 1
+frequência também - 1
+como resposta - 1
+ir a supermercado - 1
+inclusive por não - 1
+poder passear - 1
+acumular em - 1
+para verificar regularidade - 1
+acenar com solução - 1
+referir município dispor - 1
+de esgotar sanitário - 1
+jogar sujeira - 1
+trafegar em rua - 1
+feliz em alvorar - 1
+havia pedra - 1
+usuário afastar - 1
+único providência - 1
+enchente cidade - 1
+a cruzar via - 1
+cou - 1
+2010 morador de - 1
+bicicleta - 1
+então prometer colocar - 1
+em braço esquerdo - 1
+centro - 1
+sistema informatizar de - 1
+alegre estar - 1
+de comunidade - 1
+“ v ” - 1
+podre conta - 1
+a chuva - 1
+conforme morador - 1
+resposta receber ser - 1
+mãe senhor - 1
+trânsito repassar problema - 1
+resgatar - 1
+rosto de - 1
+rua dorival - 1
+ser finalizar - 1
+ano não conseguir - 1
+região como prioridade - 1
+feijó estação de - 1
+escapar de controlar - 1
+glacir pinheiro - 1
+para ir trabalhar - 1
+caliça resto - 1
+equipe até - 1
+insistir em depositar - 1
+pior de noticiar - 1
+considerar - 1
+seguir exigência técnica - 1
+de rosa - 1
+de sem prioridade - 1
+perder - 1
+década diário - 1
+limpeza ir em - 1
+estação de tratar - 1
+técnico até - 1
+331 até - 1
+cota em subespecialidade - 1
+dimensionar de - 1
+fluxo constante de - 1
+profissão - 1
+de salso passar - 1
+como prioridade - 1
+com companheiro márcia - 1
+ser ruim ter - 1
+conforto de - 1
+desabafar dono - 1
+central de marcação - 1
+de costa marques - 1
+endereço ser paralelo - 1
+energia elétrico em - 1
+válvula de escape - 1
+maior em - 1
+tá nivelar - 1
+como coletor de - 1
+resgatar morador ambulância - 1
+boa - 1
+” – - 1
+moura ano problema - 1
+sarandi por - 1
+salso - 1
+explicação - 1
+rosa ano não - 1
+fluxo constante - 1
+jus a ditar - 1
+ser fazer - 1
+escapar de - 1
+gelo - 1
+de empresa fazer - 1
+trecho entre lado - 1
+poder escovar cabelo - 1
+risco de - 1
+ponto em carteira - 1
+só trazer - 1
+estranhar reagir - 1
+prefeitura mara - 1
+ser só passar - 1
+de conservar limpar - 1
+telefone ir - 1
+jorge augusto - 1
+com classificação de - 1
+casa eliane lucas - 1
+wind cnh categoria - 1
+de ter - 1
+a órgão - 1
+parada pedir socorro - 1
+rua único - 1
+morrer - 1
+prefeitura plantar árvore - 1
+ver - 1
+permanecer empoçada em - 1
+obra de prefeitura - 1
+já saber - 1
+região animar - 1
+tomada após - 1
+situação estar - 1
+prefeitura plantar - 1
+cecília tarde - 1
+pifou não poder - 1
+de rua pedro - 1
+escapar - 1
+veículo circular - 1
+colocar aterro - 1
+coibir descartar de - 1
+com faca - 1
+sacola - 1
+coletivo em sentido - 1
+racional de água - 1
+velocidade - 1
+barreira – - 1
+por menos finalizar - 1
+falar - 1
+caber em - 1
+1kg - 1
+em esquina ainda - 1
+pluviais dep dono - 1
+cra - 1
+morador desviar de - 1
+para execução de - 1
+ausência de coleta - 1
+ser difícil perceber - 1
+via apresentar problema - 1
+mais dizer a - 1
+ser compartilhar com - 1
+leandro de lima - 1
+para lixeira só - 1
+de quadra de - 1
+ajudar glacir a - 1
+sarandi em - 1
+manutenção de - 1
+final água - 1
+afirmar funcionário - 1
+cadeirante ser ruim - 1
+eptc ir até - 1
+bairro formoza em - 1
+de estar - 1
+porto alegre estar - 1
+operador de máquina - 1
+como resultado - 1
+denúncia sobre - 1
+informou - 1
+sonhar com pavimentar - 1
+amar fazer preciso - 1
+cota em - 1
+frequência - 1
+nível existente - 1
+d água - 1
+entre aluno - 1
+enquanto paulo - 1
+meio complicar - 1
+com caroline - 1
+total de - 1
+bernardino - 1
+com grande depósito - 1
+drenagem em momento - 1
+solicitar autorizar - 1
+sistema informatizar - 1
+niemeyer - 1
+madeira há poste - 1
+partenon gesseiro - 1
+condição adequar - 1
+animal morto - 1
+falei com - 1
+escovar cabelo lavar - 1
+rua estar de - 1
+corsa parar - 1
+pedra estar de - 1
+válvula - 1
+piso - 1
+retirar caminhão levar - 1
+escapa - 1
+liga avenida bernardino - 1
+informar material retirar - 1
+por trator - 1
+bateria já pifou - 1
+ainda praça estar - 1
+de locomoção - 1
+fossar resolver - 1
+reparo de - 1
+informar solicitar - 1
+pessoa habitar - 1
+de encaminhar para - 1
+de amar fazer - 1
+não entender - 1
+ambiental - 1
+gesso - 1
+morador de viamão - 1
+transformar em - 1
+resolver coisa - 1
+local em - 1
+solicitar reparo - 1
+problema relatar - 1
+vicente ano - 1
+durante semana - 1
+para ali quando - 1
+restaurar de banheiro - 1
+informar solicitar compra - 1
+a sistema - 1
+galhos de - 1
+segundo avaliar - 1
+frente de casa - 1
+chuva muito - 1
+comunidade moradia aguardar - 1
+licenciar - 1
+semana dezena - 1
+marques - 1
+suficiente em dia - 1
+capital ter corsa - 1
+apresentar condição - 1
+barro – - 1
+de queda quebrar - 1
+saibro com uso - 1
+caminhar por calçada - 1
+ação por dano - 1
+o mercado - 1
+como estar em - 1
+há dia situação - 1
+coibir - 1
+para fazer aterramento - 1
+lado de equipar - 1
+em rua santa - 1
+de utilizar - 1
+ter começar após - 1
+tanto mesmo - 1
+de juiz de - 1
+crescer a - 1
+âs 08 - 1
+estadual de - 1
+conservar de via - 1
+mandar carta dizer - 1
+porto alegre postar - 1
+com autorizar - 1
+vento forte - 1
+ser muito rápida - 1
+também estar - 1
+de lá - 1
+de mara - 1
+semana água - 1
+ajudar glacir - 1
+folhagem esquina - 1
+de viamão até - 1
+ser por falta - 1
+poder ter agendar - 1
+regina de souza - 1
+terçar - 1
+de prefeitura ir - 1
+nelson reclamar em - 1
+carteira - 1
+esquerdo começar bem - 1
+pouco mais a - 1
+semana passar caliça - 1
+casa queli - 1
+rede público setorizadas - 1
+iluminar em local - 1
+bater raiz - 1
+quando não - 1
+rede para interligar - 1
+bar de gaúcho - 1
+local para colocar - 1
+complicar gente sentar - 1
+diário ser compartilhar - 1
+poste inclinar - 1
+então entrar para - 1
+apresentar piso regular - 1
+sacola plástico - 1
+ser mais preocupante - 1
+encaminhar a - 1
+ser direcionar - 1
+não chover - 1
+explicação virar placa - 1
+nacir ingressar - 1
+assim só - 1
+avenida senador salgado - 1
+usar com - 1
+local já - 1
+só limpar - 1
+proteger teresa usuário - 1
+com cra referir - 1
+trafegável - 1
+lado direito também - 1
+ter de conviver - 1
+com fala porto - 1
+avenida com - 1
+passar de - 1
+terçar quinta - 1
+possibilidade - 1
+entanto ficar - 1
+virar só limpar - 1
+souto ano - 1
+pedido por - 1
+como rua - 1
+já reclamar por - 1
+grave quanto esquerdo - 1
+estragar até - 1
+segundo - 1
+de terra depositar - 1
+armadilha até - 1
+bico para cima - 1
+colocar carne em - 1
+ser mais longe - 1
+impregnar casa com - 1
+avaliar acontecer necessidade - 1
+mês para chegada - 1
+de regulação em - 1
+aterro para - 1
+funcionário público - 1
+moro há ano - 1
+de usar tênis - 1
+escola em proximidade - 1
+de banheiro - 1
+em afastar não - 1
+tiago rech âs - 1
+– “ - 1
+nível ser avaliar - 1
+município dispor de - 1
+como anterior - 1
+ainda praça - 1
+ter trocar - 1
+botar brita - 1
+aterro para fazer - 1
+melhorar visível segurança - 1
+soares - 1
+de letra – - 1
+espeto - 1
+franco posterior - 1
+companheiro márcia - 1
+querer rua - 1
+moral em justiça - 1
+morador inclusive por - 1
+inacreditável - 1
+habitar condomínio - 1
+vizinhança porcalhão insistir - 1
+a época eptc - 1
+abrigar passageiro - 1
+como passar de - 1
+quando dirigir a - 1
+haver solicitar limpeza - 1
+pedir protocolo - 1
+regular com problema - 1
+de função profissional - 1
+para lixeira - 1
+2010 - 1
+ganhar água regularizar - 1
+regina decidir fazer - 1
+a 04 - 1
+de encaminhar - 1
+prefeitura depositar caçamba - 1
+ser desa - 1
+haver tanto lixo - 1
+ser contemplar - 1
+com otto - 1
+cabeça para vizinhança - 1
+inexistência de - 1
+abril mostrar situação - 1
+revitalizar de espaço - 1
+para colocar - 1
+resolver em até - 1
+maria dinorá vicente - 1
+amanda munhoz dor - 1
+dezena - 1
+beco paladino em - 1
+de tendinite tomar - 1
+haver substituir - 1
+longa espera - 1
+samu - 1
+de gaúcho - 1
+liga avenida - 1
+localização - 1
+agendar consulta para - 1
+de apreensão - 1
+cecília havia pedra - 1
+maquiar rua - 1
+detran órgão estadual - 1
+resolver não criar - 1
+em bairro jardim - 1
+com dado de - 1
+limite - 1
+resolver em entanto - 1
+por cabeleireiro caroline - 1
+em até - 1
+castro em bairro - 1
+não manifestar - 1
+plano - 1
+ir impregnar casa - 1
+pessoa ficar sem - 1
+informatizar de regulação - 1
+somar barreira - 1
+apresentar problema - 1
+via urbano - 1
+detran informar - 1
+prioridade central - 1
+adão borges - 1
+chover garante - 1
+tarde de - 1
+chover forte - 1
+desde então prometer - 1
+de gesso indicar - 1
+ingressar com - 1
+aí informar pedido - 1
+pronto para - 1
+também ter problema - 1
+a pessoa - 1
+smurb - 1
+de iluminar em - 1
+passageiro de chuva - 1
+maquiar rua não - 1
+chão bater raiz - 1
+nível de laje - 1
+quinta - 1
+problema não - 1
+estação de bombear - 1
+querer rua trafegável - 1
+aguardar há ano - 1
+já desviar de - 1
+ser semelhante troca - 1
+não criar problema - 1
+sem prática de - 1
+pedestres inclusive muito - 1
+remexer em calçada - 1
+moro há - 1
+ir a chão - 1
+necessidade de - 1
+idade escolar – - 1
+cerca com arame - 1
+ortopedia geral - 1
+desde mudar para - 1
+de prefeitura de - 1
+apenas com estrutura - 1
+paladino - 1
+em bairro formoza - 1
+tão grave - 1
+reclamar via - 1
+antes de encaminhar - 1
+avenida senador - 1
+transbordar em - 1
+agendar patrolamento colocar - 1
+em travessia - 1
+popular manter expectativa - 1
+jornal ir continuar - 1
+com pneu folhagem - 1
+justiça - 1
+tratar de ação - 1
+de situação já - 1
+há ano de - 1
+sabor de almoço - 1
+preciso sair por - 1
+solicitar obra de - 1
+de semana água - 1
+apresentar rachaduras contar - 1
+de porte trabalho - 1
+empoçada em rua - 1
+fase de estudo - 1
+terreno - 1
+havia pedra em - 1
+providência quanto - 1
+estar aqui - 1
+falta de condição - 1
+em contato com - 1
+munhoz quando receber - 1
+vala de porto - 1
+mês jorge augusto - 1
+também ter - 1
+mudar para capital - 1
+a chegar ir - 1
+moral - 1
+assessoria jurídico não - 1
+entanto ficar só - 1
+árvore barro - 1
+ditar popular - 1
+bairro mario quintana - 1
+por pequeno - 1
+fechar receber - 1
+desde mudar - 1
+de pedestres inclusive - 1
+a escola - 1
+ainda maior - 1
+em vez em - 1
+água podre continuar - 1
+asfalto - 1
+hábito de década - 1
+resposta culpa - 1
+filho principal - 1
+calçada de - 1
+09 00hs categoria - 1
+ser esgoto - 1
+gente procura escapar - 1
+gonçalves - 1
+trânsito ser - 1
+ponto em - 1
+antigo reivindicar - 1
+com proposta de - 1
+lixeiro - 1
+de dia poder - 1
+paulo só receber - 1
+informar já estar - 1
+aterramento - 1
+baixo - 1
+trafegar em - 1
+momento não há - 1
+dizer lembrar - 1
+além de trecho - 1
+porém em nova - 1
+obra tapar buraco - 1
+com churrasqueira - 1
+ser muito - 1
+seguinte resposta - 1
+corresponder - 1
+medianeira antes - 1
+alegre pedir providência - 1
+de gradil - 1
+contrário dor tirar - 1
+paralelo aposentado informar - 1
+fase de - 1
+parte já - 1
+agilizar - 1
+direita em - 1
+estudo secretário - 1
+de cobertura - 1
+utilizar de caliça - 1
+descartar de material - 1
+edição não responder - 1
+rotina - 1
+deteriorização de - 1
+a lado - 1
+comunidade querer ser - 1
+ibge brasileiro - 1
+domiciliar beneficiar pessoa - 1
+com vicente monteggia - 1
+acontecer em brasil - 1
+problema ser antigo - 1
+conta de recuo - 1
+década diário gaúcho - 1
+a descobrir - 1
+como chão bater - 1
+armar - 1
+ceee esclarecer - 1
+esforço não ter - 1
+chegar momento - 1
+controlar de - 1
+mercado - 1
+seguinte resposta culpa - 1
+em travessia enquanto - 1
+assis - 1
+mais preocupante - 1
+idoso necessitar - 1
+temo poder - 1
+repouso - 1
+fazer sagrar churrasco - 1
+cota - 1
+smurb para verificar - 1
+para vizinhança porcalhão - 1
+deteriorar em - 1
+salgado filho - 1
+rede pluvial de - 1
+remexer - 1
+de recuo - 1
+alvorar maquiar rua - 1
+de urbanismo smurb - 1
+longo de tempo - 1
+limpeza ir - 1
+órgão existir para - 1
+de poda - 1
+porco - 1
+patrola - 1
+anterior não ir - 1
+ser canhoto diário - 1
+entretenimento - 1
+fornecer - 1
+em entanto até - 1
+explicação virar - 1
+habitar condomínio residencial - 1
+empresa não - 1
+com otto niemeyer - 1
+gente sentar - 1
+tênis em nível - 1
+em endereço há - 1
+descartar nem poder - 1
+antigo goiás em - 1
+paulo só - 1
+carro ligar mais - 1
+final patologia crônica - 1
+de órgão - 1
+com ceee - 1
+ligar programar - 1
+de localização prever - 1
+queda quebrar braço - 1
+em morador - 1
+de de julho - 1
+espaço destinar - 1
+prazo de - 1
+de bueiro - 1
+redor formar - 1
+atrair por - 1
+observar lauro lembrar - 1
+maria revoltar com - 1
+como resultado de - 1
+não estar - 1
+casa reclamar de - 1
+inserir paciente - 1
+caliça como - 1
+atolar em barro - 1
+intenso em via - 1
+direcionar - 1
+witter ano a - 1
+amanda munhoz água - 1
+público setorizadas - 1
+basta tempo armar - 1
+braço lado direito - 1
+jorge assegurar - 1
+alvorar não desistir - 1
+morar aqui - 1
+não resolver esperança - 1
+ônibus morro de - 1
+rua não resolver - 1
+ajuda de mãe - 1
+erley veiga - 1
+dirigir para - 1
+senão de - 1
+há local - 1
+cheiro animal - 1
+perícia médico - 1
+fétido exalar de - 1
+de transporte escolar - 1
+conviver com grande - 1
+sempre até próximo - 1
+ter rampa - 1
+exercer ofício - 1
+protocolo ter - 1
+em descer - 1
+morrer ser - 1
+menor dirigir para - 1
+pedaço de concreto - 1
+castilhos - 1
+passar parar pouco - 1
+de manutenção de - 1
+peçonhentos - 1
+ficar só - 1
+problema estar - 1
+a ditar - 1
+lúcia paixão - 1
+conferente de transporte - 1
+trocar de - 1
+constante - 1
+almoço - 1
+de resíduo - 1
+proteger - 1
+carne - 1
+de resposta - 1
+caso específico - 1
+viamão em entanto - 1
+para seguir exigência - 1
+água de - 1
+de tratar - 1
+de substituir de - 1
+mais tarde eptc - 1
+calçar par - 1
+já estar assim - 1
+telefone para prefeitura - 1
+não adiantar virar - 1
+acordo com usuário - 1
+ser único responsável - 1
+o ter - 1
+de concreto em - 1
+ano aqui - 1
+grave - 1
+exemplo há poste - 1
+privado estar acumular - 1
+vir aqui trocar - 1
+espalhar por - 1
+setembro problema - 1
+por moradia - 1
+fossar - 1
+então entrar - 1
+cheio d ’ - 1
+pegar ônibus - 1
+hípica por - 1
+pedestres a longo - 1
+enfrentar por - 1
+ser antigo crônico - 1
+por prefeitura mara - 1
+quando vinha coletivo - 1
+coleta de lixo - 1
+já tomar conhecer - 1
+apenas ter - 1
+revelar já tomar - 1
+em decorrência de - 1
+de valão - 1
+nunca ter em - 1
+prometer ação - 1
+para interligar a - 1
+lixo por dia - 1
+praça queli enganchar - 1
+aguardar definição - 1
+só amanda - 1
+de recolher não - 1
+fazer final - 1
+em programar - 1
+churrasco de família - 1
+a valão - 1
+também ficar - 1
+pedido não ir - 1
+movimentar – com - 1
+de substituir - 1
+imaginar usar cadeira - 1
+quente - 1
+inteiro não - 1
+de pedestres a - 1
+há sistema de - 1
+técnico em - 1
+buraco de - 1
+em até dia - 1
+quando dirigir - 1
+categoria trânsito - 1
+paulo santana - 1
+resultado de - 1
+professor oscar pereira - 1
+difícil perceber - 1
+caminho prefeitura - 1
+em calçada pedra - 1
+domingo rua - 1
+porém em - 1
+hidráulico suficiente em - 1
+entanto em caso - 1
+areia - 1
+quinzena - 1
+de lobo poço - 1
+patrolamento colocar - 1
+tripular moto - 1
+por canaletas - 1
+bateria - 1
+dar vergonha em - 1
+ser provocar desafio - 1
+revelar quantidade - 1
+de área especí - 1
+a supermercado - 1
+a enchente cidade - 1
+rubem berta - 1
+por lixo - 1
+já vistoriar prometer - 1
+terra arar - 1
+alvorar porto alegre - 1
+terminar em frustração - 1
+decorrência de parada - 1
+até geladeira sofá - 1
+reclamar de situação - 1
+acabar ser utilizar - 1
+só agir com - 1
+glacir receber auxílio - 1
+década pegar ônibus - 1
+olho - 1
+praça queli - 1
+cruz revelar - 1
+equipe de departamento - 1
+placa jardim fazer - 1
+de via apresentar - 1
+barro por - 1
+acontecer necessidade - 1
+de barro – - 1
+cardoso - 1
+vala após contaminar - 1
+com pavimentar - 1
+categoria buraco calçamento - 1
+ir pedido - 1
+mais a frente - 1
+prefeitura acenar com - 1
+conscientização por - 1
+casa com mau - 1
+contar apenas - 1
+arrastar há mais - 1
+braço em - 1
+inserir - 1
+de controlar de - 1
+fazer coisa - 1
+estrutura abrigar - 1
+a número - 1
+para cadeirante ser - 1
+por vazar - 1
+não problema - 1
+prever instalação de - 1
+de maio - 1
+ir continuar aguardar - 1
+em avenida professor - 1
+repetir - 1
+prefeitura em - 1
+bom - 1
+medo - 1
+adiantar virar só - 1
+vila ipê - 1
+domingo passar - 1
+paim - 1
+paciente em - 1
+em parada localizar - 1
+hípica por eduardo - 1
+operador - 1
+ser prefeitura - 1
+risco - 1
+parte de arredores - 1
+nunca fazer jus - 1
+em descer de - 1
+colocar abrigo - 1
+lembrança - 1
+a lado de - 1
+realizar trecho - 1
+de escape - 1
+obrigar usuário - 1
+caroline passar dia - 1
+central apresentar - 1
+contato via telefone - 1
+sistema de esgotar - 1
+laje ir a - 1
+fechar de edição - 1
+de ônibus morador - 1
+contato via - 1
+ditar popular manter - 1
+pronto - 1
+rubem - 1
+regularidade de obra - 1
+lixo irregularmente em - 1
+.. história - 1
+paralelo aposentado - 1
+para dono de - 1
+mais dizer - 1
+de glacir pinheiro - 1
+em porto - 1
+direcionar a - 1
+de movimentar - 1
+pessoa ver morar - 1
+apresentar problema morador - 1
+fisioterápicos - 1
+queda - 1
+não ir protocolado - 1
+drenagem para região - 1
+aqui nunca mudar - 1
+minuto ponto - 1
+menino andar de - 1
+ainda não - 1
+de viamão fazer - 1
+mails com fala - 1
+cair por calçada - 1
+bairro partenon por - 1
+parar pouco descartar - 1
+lisboa em - 1
+de avenida cavalhada - 1
+resolver não - 1
+morador esperar - 1
+constante de veículo - 1
+acabar em - 1
+revelar morador - 1
+julho ser para - 1
+limpeza de bueiro - 1
+pm - 1
+com fazer para - 1
+esperar santo alfredo - 1
+brasileiro produzir - 1
+cachorrada fazer - 1
+poste de madeira - 1
+odor fétido exalar - 1
+chover esgoto escorrer - 1
+prazo estabelecer - 1
+depois reportagem - 1
+com vicente - 1
+não fazer efeito - 1
+quintana em porto - 1
+técnico em telecomunicação - 1
+quando abrir - 1
+cadeira de roda - 1
+haver ponto melhorar - 1
+enfermagem vera - 1
+ir pedido por - 1
+já deixar - 1
+nacir antenor - 1
+ficar a - 1
+não recorrer de - 1
+lixo comum - 1
+patologia crônica ir - 1
+semelhante - 1
+como também trabalhar - 1
+de entrada - 1
+montepio dono de - 1
+redução de perda - 1
+sujar por - 1
+lugar agora - 1
+aterramento de - 1
+escolar – - 1
+ser acertar detalhe - 1
+cumprir - 1
+ano problema ser - 1
+visita de rua - 1
+teresa britto ano - 1
+compressa - 1
+realizar por companhia - 1
+inexistência de rede - 1
+em lembrança de - 1
+doméstico - 1
+beco - 1
+segundo assessoria de - 1
+efeito - 1
+segunda quinzena - 1
+rua u antigo - 1
+segundo assessoria - 1
+garagem - 1
+parte de programa - 1
+suportar mau - 1
+lá há dia - 1
+exigência - 1
+amigo para garantir - 1
+viamão fazer - 1
+tomar conta de - 1
+em local em - 1
+velasquez souto ano - 1
+de não - 1
+estar cheio - 1
+por proceder cirúrgico - 1
+lembrar dia de - 1
+crosta de lama - 1
+de material - 1
+de rua sanear - 1
+aluno dirigir escola - 1
+agilizar atender atravessar - 1
+de exercício - 1
+indignar morador - 1
+conscientizar morador - 1
+plano para passar - 1
+escorrer em vila - 1
+de alvorar afirmar - 1
+resposta o - 1
+ricardo em meio - 1
+ser caber - 1
+de sem - 1
+proposta - 1
+cruz informar - 1
+anterior prever - 1
+fazer parte de - 1
+também em - 1
+– dizer sandra - 1
+montepio fazer parte - 1
+gente sentar impotente - 1
+até privado estar - 1
+ir fazer espécie - 1
+limite entre rua - 1
+mottin vila - 1
+avenida bernardino silveira - 1
+com família - 1
+amanda munhoz lixo - 1
+rede público - 1
+– esquina sempre - 1
+cômodo em - 1
+conta haver situação - 1
+sinaleira ser muito - 1
+cidade jamais - 1
+paulo santana ano - 1
+rua 1º de - 1
+simples como ir - 1
+de conservar de - 1
+inundar passar - 1
+alvorar por - 1
+esgoto estar em - 1
+pedestres entre aluno - 1
+parecer trecho de - 1
+entanto até fechar - 1
+ser criança passar - 1
+para cirurgia - 1
+já atolar - 1
+ser impressionante - 1
+de perda - 1
+secretaria de obras - 1
+obras viação - 1
+tá - 1
+sem saída - 1
+regina troca - 1
+novo poste - 1
+pânico - 1
+em julho - 1
+ser brincadeira - 1
+em ano - 1
+em contato - 1
+de perder conta - 1
+trazer - 1
+elétrico em trecho - 1
+recolher sacola plástico - 1
+antenor - 1
+bastar município - 1
+de arroio de - 1
+lixão - 1
+arroio de salso - 1
+escolha - 1
+direção a vila - 1
+– ser - 1
+deter - 1
+muito perigoso – - 1
+ser continuar - 1
+edgar pires de - 1
+com estrutura - 1
+agradar - 1
+rua ficar cheia - 1
+esclarecer seção - 1
+de souza ano - 1
+contratar de empresa - 1
+só limpar bueiro - 1
+arredores - 1
+andar de bicicleta - 1
+pessoa habitar condomínio - 1
+passar lá - 1
+ano depois mudar - 1
+rua mara - 1
+ter tamanho - 1
+rua ir impregnar - 1
+trânsito intenso de - 1
+dever ser trecho - 1
+ano passar parar - 1
+festa - 1
+191 ponto em - 1
+noticiar - 1
+com mau - 1
+inserir paciente em - 1
+rosa - 1
+de barro - 1
+goiás - 1
+decorrência de - 1
+de ibge - 1
+ter em cidade - 1
+feito de - 1
+aguentar cheiro podre - 1
+fechar de - 1
+até dia - 1
+usuário em - 1
+em viamão válvula - 1
+foro alto petrópolis - 1
+categoria alagamnetos esgoto - 1
+para chegada de - 1
+sem canalizar de - 1
+informar município - 1
+ir ali - 1
+separar por canaletas - 1
+passagem - 1
+local para - 1
+ser tanto - 1
+inclusão - 1
+alvorar porto - 1
+acionar secretaria municipal - 1
+cronograma - 1
+classificação de sem - 1
+situação repetir - 1
+arrastar desde - 1
+pra trabalhar em - 1
+esgoto cloacal pluvial - 1
+de ano de - 1
+muito forte - 1
+encontrar - 1
+categoria esgoto problema - 1
+ruptura - 1
+prática - 1
+prefeitura depositar - 1
+sentir como estar - 1
+de trânsito repassar - 1
+bairro medianeira antes - 1
+coletor de - 1
+carro estragar - 1
+em viamão amanda - 1
+vistoria - 1
+conviver com problema - 1
+de terra arar - 1
+passar – garante - 1
+estadual - 1
+trocar poste precário - 1
+difícil - 1
+– em parte - 1
+durabilidade a - 1
+por meio - 1
+ficar próximo - 1
+em pista - 1
+utilizar por veículo - 1
+faca afiar - 1
+sair lixo de - 1
+scola ano - 1
+paladino em - 1
+luciane vicente - 1
+passar terçar quinta - 1
+existir para - 1
+saída – afirmar - 1
+montepio dono - 1
+via importante - 1
+passagem de pedestres - 1
+moradia aguardar - 1
+categoria parada - 1
+brasileiro produzir 1kg - 1
+sem canalizar - 1
+bento gonçalves rua - 1
+– observar lauro - 1
+berta - 1
+como coletor - 1
+via paralelo - 1
+não despejar - 1
+– atestar - 1
+ter começar - 1
+passar dia - 1
+levantar - 1
+garrafais - 1
+saber primeiro passo - 1
+culpa colocar - 1
+obra de iluminar - 1
+muito rápida - 1
+ser enfrentar apenas - 1
+roberta schuler poste - 1
+a 09 - 1
+conferente de - 1
+cavalhada até - 1
+domiciliar beneficiar - 1
+waskow - 1
+08 00hs - 1
+pereira em bairro - 1
+direção a - 1
+ser bastante - 1
+dever solicitar - 1
+de porta - 1
+em bairro medianeira - 1
+com cra - 1
+dia noite liga - 1
+pessoal fazer abaixo - 1
+situação enfrentar - 1
+ambulatorial - 1
+dizer para fazer - 1
+o antigo reivindicar - 1
+garantir - 1
+a chão - 1
+socorro - 1
+rua ser fechar - 1
+quinta sábado aqui - 1
+só limpeza - 1
+conta de - 1
+consumo racional - 1
+de inverno - 1
+sair por porta - 1
+buraco em caminho - 1
+área de lazer - 1
+simples - 1
+exigir cuidado - 1
+como ir - 1
+barral - 1
+com frequência - 1
+jamais visitar - 1
+fazer espécie de - 1
+seguinte - 1
+queli reclamar - 1
+tá nivelar cheio - 1
+almoço típico de - 1
+saber ter de - 1
+continuará cobrar - 1
+posterior - 1
+em capital solicitar - 1
+visitar taxista - 1
+de trabalho garante - 1
+não haver - 1
+direita - 1
+ser logo - 1
+primeiro - 1
+estar bem pior - 1
+empresa fazer - 1
+paixão de moura - 1
+de parada pedir - 1
+como boa - 1
+ano suportar mau - 1
+porte trabalho dever - 1
+trocar de lugar - 1
+grande depósito de - 1
+sem capacete - 1
+seguro para - 1
+esclarecer ainda não - 1
+execução de ligar - 1
+mudar para endereço - 1
+sandra bach de - 1
+andar de - 1
+de bombear - 1
+problema antes ser - 1
+ter assinar - 1
+ter vergonha - 1
+dizer dever - 1
+pequeno ter - 1
+ficar indignar morador - 1
+erro por - 1
+de colocar carne - 1
+encontro com - 1
+prever instalação - 1
+ambulância de samu - 1
+afastar de função - 1
+vergonha de receber - 1
+de decisão - 1
+informatizar de - 1
+iluminar em - 1
+descartar de lixo - 1
+por denise travessia - 1
+augusto paim - 1
+via ser - 1
+passar por aqui - 1
+máquina claudiomiro andreoni - 1
+consertar erro - 1
+mara regina troca - 1
+visitar taxista nacir - 1
+virar lixão céu - 1
+consulta - 1
+direito a - 1
+junto - 1
+rápida – - 1
+por causa - 1
+para ali - 1
+atrair por lixo - 1
+fila - 1
+mês sem menor - 1
+dono teresa amanda - 1
+canalizar de esgoto - 1
+via encaminhar - 1
+para prefeitura de - 1
+ser porco - 1
+em portão - 1
+impossível em rua - 1
+afirmar tratar - 1
+de prazo estabelecer - 1
+canhoto diário ser - 1
+em domingo rua - 1
+entanto entretenimento - 1
+de moura ano - 1
+conforme morador cerca - 1
+de vontade de - 1
+publicar afirmar fazer - 1
+diante de absurdo - 1
+de animal morto - 1
+indicar ruptura total - 1
+sentar - 1
+morador jornal - 1
+não desistir - 1
+cabeleireiro caroline velasquez - 1
+almoço típico - 1
+lembrança de - 1
+de açougueiro - 1
+ter como ficar - 1
+medianeira - 1
+ficarem em rua - 1
+meio de rua - 1
+schuler poste de - 1
+semana atrás - 1
+esquina coibir - 1
+por roberta problema - 1
+incluir em cronograma - 1
+saltar a olho - 1
+abaixo - 1
+ser direcionar a - 1
+resolver coisa para - 1
+só passar - 1
+resto - 1
+para tomar - 1
+dado de ibge - 1
+a solicitação - 1
+escapa de - 1
+farpar - 1
+ser atrair por - 1
+após contaminar - 1
+deslocar - 1
+comunidade moradia - 1
+causa - 1
+em letra - 1
+esquerdo por ser - 1
+fazer com pneu - 1
+rotar ir liberar - 1
+em momento - 1
+único responsável por - 1
+urbano ir até - 1
+nova perícia médico - 1
+nunca mudar - 1
+detalhe para execução - 1
+nova perícia - 1
+depois sair ir - 1
+escape - 1
+raiz - 1
+de parceiro com - 1
+cronograma de troca - 1
+obras ser acertar - 1
+mello a 03 - 1
+menor dirigir - 1
+de mês prefeitura - 1
+tornar ainda - 1
+ser seguro - 1
+impedir instalação - 1
+claudionor afirmar tratar - 1
+resposta automático - 1
+iluminar ser - 1
+hípica zona sul - 1
+nelson dizer - 1
+há local licenciar - 1
+metro de - 1
+em vez - 1
+mais explicar - 1
+lisboa em viamão - 1
+dmlu informar - 1
+de visita de - 1
+faltar - 1
+de arroio feijó - 1
+de bombear estação - 1
+automático - 1
+buracos decorrer - 1
+quanto esquerdo por - 1
+enchente - 1
+verificar rebaixar de - 1
+rampa de lado - 1
+lembrar pessoa - 1
+para passar – - 1
+durar mais de - 1
+de 2012 troca - 1
+autônomo relatar - 1
+pessoa precisar conscientizar - 1
+de vereador poder - 1
+piscina misturar - 1
+acordo com caroline - 1
+semana passar já - 1
+começar bem antes - 1
+em local prefeitura - 1
+podre garante luiz - 1
+esquina com - 1
+haver limpeza - 1
+waskow aqui falta - 1
+formar em dever - 1
+com pneu - 1
+fora remédio não - 1
+vereador para - 1
+pagar imposto - 1
+vicente monteggia - 1
+madeira por - 1
+calçar também em - 1
+queli cristina jacques - 1
+passagem de - 1
+niemeyer ser desa - 1
+perturbar comunidade de - 1
+lavar rosto - 1
+331 - 1
+querer ser - 1
+preciso então entrar - 1
+central de regulação - 1
+porto alegre pedir - 1
+portão sequer poder - 1
+para região - 1
+churrasqueira auxiliar - 1
+aqui há - 1
+fazer festa - 1
+a avenida - 1
+cheia de água - 1
+morrer ser preciso - 1
+mostrar - 1
+de ir - 1
+ano ganhar água - 1
+de parceiro - 1
+de vala transbordar - 1
+profissional - 1
+casa em - 1
+dep explicar não - 1
+dinorá vicente ano - 1
+com final feliz - 1
+fazer ir - 1
+com autorizar de - 1
+tampa estar - 1
+verificar rebaixar - 1
+chuva chegar causar - 1
+ter explicar - 1
+informatizar - 1
+ficarem em - 1
+mercado por exemplo - 1
+aí bastar município - 1
+mato - 1
+efeito garante - 1
+gesso indicar - 1
+britto ano já - 1
+senhor de bom - 1
+prejuízo ser inúmero - 1
+destinar cair - 1
+exame ir - 1
+goulart em frente - 1
+de resgatar morador - 1
+gesso indicar por - 1
+trator - 1
+precisar acostumar - 1
+tênis em - 1
+com usuário de - 1
+hora de colocar - 1
+claudionor afirmar - 1
+teresa britto - 1
+trabalhar com - 1
+munhoz rezar não - 1
+inclusão social - 1
+smov informar já - 1
+achar final água - 1
+morador para não - 1
+empenho - 1
+beneficiar pessoa - 1
+em casa mara - 1
+dia poder - 1
+ter de enfrentar - 1
+cheio de barro - 1
+temo poder acontecer - 1
+válvula de - 1
+vez durar sempre - 1
+por médico atender - 1
+onde prefeitura - 1
+enfrentar esgoto estar - 1
+realizar estudo projeto - 1
+para região como - 1
+sala de - 1
+com água quente - 1
+saibro secretaria - 1
+eptc vir aqui - 1
+água podre escorrer - 1
+chegada de - 1
+taxista - 1
+de magistrado ir - 1
+atravessar avenida - 1
+ligar mais - 1
+década pegar - 1
+ali tá - 1
+poder passear com - 1
+domingo em - 1
+aluno dirigir - 1
+como ir a - 1
+obras ser - 1
+domingo rua ser - 1
+alves em direção - 1
+ir perceber por - 1
+vistoriar prometer - 1
+podre escorrer - 1
+conta caroline - 1
+lugar de - 1
+ser inúmero ir - 1
+– aquilo - 1
+otto - 1
+cruzar via apenas - 1
+rech âs - 1
+de arredores - 1
+estrutura de pé - 1
+ideia ser conscientizar - 1
+líder - 1
+sonhar com - 1
+vistoriar - 1
+de casa maria - 1
+quente gelo - 1
+jamais visitar taxista - 1
+âs - 1
+entrar para - 1
+acionar - 1
+responsabilidade ser - 1
+problema resolver - 1
+pessoa ver - 1
+indicar por - 1
+ser implantar novo - 1
+em morador comerciante - 1
+real ser viver - 1
+não ser difícil - 1
+afinal - 1
+sanear básico - 1
+caminho de - 1
+oscar pereira - 1
+direito também - 1
+em cidade jamais - 1
+participativo - 1
+dimensionar - 1
+fio intervenção impedir - 1
+líder comunitário - 1
+ajuda - 1
+montepio piscina de - 1
+de ligar - 1
+inss - 1
+par de tênis - 1
+a prefeitura para - 1
+assis brasil quando - 1
+por telefone - 1
+para pessoa cruzar - 1
+espera - 1
+até fechar de - 1
+população - 1
+de circular com - 1
+com base comprometer - 1
+nível existente em - 1
+doença de inss - 1
+ramal domiciliar - 1
+consumo racional de - 1
+1557 - 1
+crescer - 1
+goulart como restaurar - 1
+protásio alves - 1
+equipar de drenagem - 1
+em agosto setembro - 1
+alfredo ser bastante - 1
+comum - 1
+esforço - 1
+noticiar por diário - 1
+revoltar com proposta - 1
+informar responsabilidade ser - 1
+situação ir perceber - 1
+morador há ano - 1
+de bico - 1
+dmae esclarecer - 1
+misturar água potável - 1
+setorizadas de - 1
+lixo de acordo - 1
+a avenida senador - 1
+com faca afiar - 1
+fisioterápicos colocar de - 1
+oscar - 1
+chegar momento não - 1
+serviço só não - 1
+dispor - 1
+não convencer dep - 1
+visitar parente – - 1
+agir com autorizar - 1
+cidade enfrentar em - 1
+plácido mottin vila - 1
+instalação de cobertura - 1
+ser meio complicar - 1
+de estudo - 1
+não resolver em - 1
+quadra de futebol - 1
+a serviço a - 1
+época eptc responder - 1
+poço de visita - 1
+drenagem para - 1
+documento maria - 1
+006 metro - 1
+em alvorar maquiar - 1
+com vir - 1
+depender de obra - 1
+haver década pegar - 1
+usar cadeira - 1
+em estudo - 1
+ramal - 1
+ser tão - 1
+inverno teresa - 1
+para passar - 1
+condomínio residencial repouso - 1
+técnico de empresa - 1
+categoria poste - 1
+canaletas de - 1
+melhoria devido - 1
+mail para - 1
+ser último - 1
+abrigo ser colocar - 1
+em carteira - 1
+invés de - 1
+de lama - 1
+judicial - 1
+usar tênis - 1
+em alvorar porto - 1
+estar com - 1
+gaúcho em abril - 1
+como ser tirar - 1
+novo poste de - 1
+abril de - 1
+vera lúcia conta - 1
+vazar - 1
+de sinaleira para - 1
+lima franco posterior - 1
+rua de chão - 1
+falei com técnico - 1
+em espeto - 1
+automático afirmar funcionário - 1
+cristina - 1
+fora de - 1
+rua de - 1
+bastante comprometer - 1
+regina em início - 1
+lavar - 1
+vegetal - 1
+dar resposta - 1
+em viamão por - 1
+ajudar - 1
+morador estar - 1
+ganhar água - 1
+oficina - 1
+setembro de ano - 1
+de esgotar - 1
+cabeça para - 1
+rosa ano - 1
+pedido por órgão - 1
+água atolar - 1
+pedestres inclusive - 1
+fazer manejo - 1
+oficina em - 1
+reparo fazer mais - 1
+pequeno ter de - 1
+a ditar popular - 1
+calçada apresentar condição - 1
+ligar carro ligar - 1
+futebol - 1
+chegar causar quase - 1
+por ser canhoto - 1
+lembrar auxiliar - 1
+de perder - 1
+paralelo a - 1
+ir enviar - 1
+preocupar - 1
+receber auxílio doença - 1
+além de pequeno - 1
+sanitário rubem - 1
+piso regular com - 1
+estar bem - 1
+com direito a - 1
+de acidente - 1
+por aneel para - 1
+mãe senhor de - 1
+piccoli em - 1
+ocorrer – - 1
+sempre até - 1
+tomar lugar de - 1
+já pifou não - 1
+barro por eduardo - 1
+de pessoa por - 1
+alvorar afirmar vir - 1
+situação ir - 1
+aguardar há - 1
+em bairro campo - 1
+morador ter - 1
+empoçada - 1
+começo - 1
+a órgão responsável - 1
+montepio em - 1
+em ocasião - 1
+carne em espeto - 1
+como anterior prever - 1
+rebaixar - 1
+perigoso – - 1
+morto - 1
+casa maria dinorá - 1
+cumprir rotina - 1
+fazer foto de - 1
+gente nem passar - 1
+comunitário sirlei - 1
+a 02 - 1
+em haver tanto - 1
+borges ano - 1
+chegar vez - 1
+família tornar ainda - 1
+projeto estar - 1
+escola revelar morador - 1
+passageiro - 1
+categoria lamaçal - 1
+subespecialidade ortopedia geral - 1
+notificar em prazo - 1
+– lembrar - 1
+técnica de prazo - 1
+gradil sinaleira - 1
+ser de perder - 1
+amanda munhoz faltar - 1
+passar – destacar - 1
+mails com - 1
+poder trafegar em - 1
+em armadilha - 1
+entender - 1
+de ação paliativo - 1
+poder calçar - 1
+– lamentar queli - 1
+odor fétido - 1
+ter corsa - 1
+repassar problema para - 1
+de velocidade - 1
+calçada obrigar - 1
+realizar até final - 1
+de dia de - 1
+lixão céu abrir - 1
+para interligar - 1
+fazer para depender - 1
+local ter - 1
+de vara cível - 1
+tirar pouco de - 1
+de carro - 1
+hípica zona - 1
+filho além - 1
+dia contar - 1
+trocar poste - 1
+regulação ambulatorial - 1
+dezena de - 1
+ser viver há - 1
+escolar – temor - 1
+cra referir - 1
+localização prever - 1
+vila montepio piscina - 1
+impossível - 1
+desabafar filho - 1
+estragar até ausência - 1
+munhoz rezar - 1
+calçada pedra - 1
+água potável redução - 1
+cas para - 1
+entretenimento terminar - 1
+costureiro - 1
+fazer efeito - 1
+acordo com cra - 1
+ser dever - 1
+não descartar nem - 1
+comunidade sonhar - 1
+para dono teresa - 1
+enfrentar por teresa - 1
+departamento salientar porém - 1
+morar em endereço - 1
+criança passar por - 1
+esgoto problema - 1
+de apreensão de - 1
+ano pessoal estar - 1
+providência tomada por - 1
+colocar de meio - 1
+por órgão - 1
+de regulação ambulatorial - 1
+circular de - 1
+espaço destinar cair - 1
+solução via op - 1
+para paciente - 1
+em rua ter - 1
+a serviço - 1
+responder a matéria - 1
+autônomo - 1
+de aterro para - 1
+armadilha - 1
+aqui falta acessível - 1
+com usuário - 1
+ser trecho - 1
+gesseiro lauro cristiano - 1
+dor impedir - 1
+ser fazer em - 1
+como aguentar cheiro - 1
+acessível mobilidade - 1
+lamentar queli - 1
+placa de veículo - 1
+ano achar final - 1
+constar em - 1
+dep informar material - 1
+centro bairro ter - 1
+ser antigo - 1
+terminar em - 1
+obstáculo assim só - 1
+ir fazer final - 1
+04 categoria sem - 1
+roberta morador - 1
+bico - 1
+plástico de - 1
+veículo ser - 1
+saída – - 1
+galhos de árvore - 1
+enganchar tênis em - 1
+de inverno teresa - 1
+carne em - 1
+adão nelson reclamar - 1
+trafegável por - 1
+piscina de - 1
+produzir - 1
+novo caso - 1
+via urbano ir - 1
+ser suficiente - 1
+canhoto - 1
+em segunda - 1
+comunidade querer - 1
+brincadeira - 1
+equipe de - 1
+com grande - 1
+a época - 1
+de canteiro central - 1
+começar após - 1
+desabafar dono de - 1
+mara regina em - 1
+sentir cheiro podre - 1
+com agravar de - 1
+vento forte ser - 1
+complemento - 1
+marcação de porto - 1
+paciente em sistema - 1
+em tentativa - 1
+saída - 1
+precário - 1
+ter assinar documento - 1
+finalizar processo de - 1
+obra tapar - 1
+churrasco de - 1
+ir desde carro - 1
+licenciar ambiental - 1
+único limite - 1
+esperança - 1
+bairro sarandi por - 1
+jardim fazer - 1
+lastimar vera lúcia - 1
+de maquiagem - 1
+em rua em - 1
+sofá guarda roupa - 1
+egídio piccoli - 1
+protásio - 1
+por cabeleireiro - 1
+atravessar fora - 1
+ali imaginar usar - 1
+mesmo para cadeirante - 1
+problema técnico - 1
+dorival castilhos machado - 1
+avenida com frequência - 1
+inverno teresa britto - 1
+usar tênis branco - 1
+via telefone para - 1
+pinheiro soares - 1
+tomar lugar - 1
+prioridade em reunião - 1
+quando receber - 1
+teresa amanda - 1
+tirar coisa - 1
+ser trânsito - 1
+de função - 1
+em dever ser - 1
+sujar - 1
+drenagem em - 1
+ser acertar - 1
+usar com empenho - 1
+441 em - 1
+forte ser - 1
+avaliar acontecer - 1
+frente a valão - 1
+pouco descartar - 1
+sentir como - 1
+responsável para - 1
+cabeça - 1
+ditar - 1
+ter vergonha de - 1
+2012 nacir tripular - 1
+mora trabalhar - 1
+assim só em - 1
+para fazer compressa - 1
+trafegável por menos - 1
+de recuo em - 1
+afirmar só agir - 1
+de família tornar - 1
+maria luciane - 1
+ir possível efetuar - 1
+multa de fazer - 1
+não conta com - 1
+vergonha em zona - 1
+chover rua ficar - 1
+de janeiro de - 1
+ainda por - 1
+agora precisar acostumar - 1
+providência – - 1
+como restaurar - 1
+energia elétrico deteriorar - 1
+ficar só em - 1
+reparo fazer - 1
+faca de corte - 1
+por local - 1
+exercício físico fisioterápicos - 1
+coisa estar - 1
+para lixo comum - 1
+médico atender só - 1
+ano em vila - 1
+ideia - 1
+por menos - 1
+de receber visita - 1
+com ceee aí - 1
+assegurar depois reportagem - 1
+aí informar - 1
+em avenida edgar - 1
+realizar serviço de - 1
+em placa - 1
+comum como - 1
+por vazar consumo - 1
+beco paladino - 1
+escape para - 1
+parada em - 1
+ano suportar - 1
+moura ano - 1
+em trecho entre - 1
+erro por parte - 1
+em 2010 morador - 1
+viamão válvula - 1
+conforto - 1
+afirmar vir - 1
+bernardino silveira amorim - 1
+resposta de detran - 1
+peçonhentos ser - 1
+rubem berta depender - 1
+de coleta de - 1
+formar em - 1
+moro - 1
+queli reclamar ainda - 1
+senhor de ano - 1
+ser único - 1
+maior durabilidade - 1
+profissão de - 1
+depositar caçamba - 1
+em zona norte - 1
+pânico em morador - 1
+ter escolha senão - 1
+via op - 1
+cadeirante ser - 1
+andar - 1
+tipo de di - 1
+pena - 1
+de gradil sinaleira - 1
+ir ilegal abrigo - 1
+tripular - 1
+rua valos ser - 1
+ir a escola - 1
+concreto quebrar di - 1
+ser mato - 1
+de rua estar - 1
+paliativo executar - 1
+procura escapar de - 1
+ser depositar a - 1
+vazar consumo racional - 1
+acertar detalhe para - 1
+patrola dar - 1
+bairro partenon gesseiro - 1
+de chuva alagar - 1
+agir com - 1
+câmara de - 1
+dar vergonha - 1
+também estar ser - 1
+específico de - 1
+com final - 1
+pequeno comércio - 1
+dep também - 1
+d ’ água - 1
+possibilidade de aproveitar - 1
+com obra - 1
+contar problema de - 1
+coisa simples como - 1
+estabelecer por aneel - 1
+ibge - 1
+prefeitura em casa - 1
+matéria publicar afirmar - 1
+garrafais em placa - 1
+para garantir estável - 1
+a frente - 1
+de aterro em - 1
+popular manter - 1
+brasil quando inundar - 1
+judicial de localização - 1
+lima ano - 1
+correr por via - 1
+categoria alagamnetos - 1
+alvorar não - 1
+problema não ser - 1
+quinzena de outubro - 1
+de via urbano - 1
+já vistoriar - 1
+ano afirmar sempre - 1
+ruim de morar - 1
+ir possível - 1
+em reunião com - 1
+contra prefeitura de - 1
+popular - 1
+agilizar atender - 1
+ano de alvorar - 1
+praça estar - 1
+perto - 1
+em rua sem - 1
+lima franco em - 1
+protocolado - 1
+mercado por - 1
+ter fluxo constante - 1
+em letra garrafais - 1
+sentido centro - 1
+decorrer de obra - 1
+passar por falta - 1
+além de amar - 1
+cerca com - 1
+afirmar tratar de - 1
+lado direito - 1
+– “ j - 1
+guarda - 1
+como passar - 1
+de resolver - 1
+atrair - 1
+antenor de rosa - 1
+de filho além - 1
+informar instalação - 1
+centro bairro - 1
+acordo com auxiliar - 1
+expresso em - 1
+decidir fazer - 1
+visível - 1
+ingressar - 1
+proprietário para dep - 1
+dmae esclarecer ainda - 1
+sábado - 1
+limpeza de boca - 1
+souza - 1
+infração gerar multa - 1
+lá pessoal fazer - 1
+gonçalves rua 1º - 1
+faltar pouco - 1
+vila montepio em - 1
+para seguir - 1
+filho principal de - 1
+de prejuízo - 1
+rachaduras - 1
+de ano suportar - 1
+capital solicitar - 1
+ser mato crescer - 1
+roberta morador há - 1
+árvore em ano - 1
+assim pm de - 1
+ano cansar de - 1
+necessidade de nova - 1
+adão borges ano - 1
+por não entrar - 1
+retroescavadeira - 1
+jorge augusto paim - 1
+rua único providência - 1
+providência a - 1
+exigir - 1
+com técnico de - 1
+liberar - 1
+bar - 1
+noite liga avenida - 1
+buraco em - 1
+impedir gaudério - 1
+em frustração - 1
+ter tamanho de - 1
+cruz para - 1
+multado por conduzir - 1
+físico fisioterápicos - 1
+também há poste - 1
+para menino - 1
+achar final - 1
+resposta para - 1
+culdade - 1
+haver tanto - 1
+já estar ser - 1
+de pequeno - 1
+avenida edgar pires - 1
+retorno de pedido - 1
+aqui falta - 1
+marido de filho - 1
+de bom fim - 1
+capital por - 1
+capital ainda ser - 1
+envio de resposta - 1
+por conduzir - 1
+de futebol - 1
+de departamento de - 1
+nelson reclamar - 1
+sabor de - 1
+perceber por - 1
+também não - 1
+ano problema - 1
+estabelecer - 1
+município de vera - 1
+colocar carne - 1
+fazer final patologia - 1
+com uso de - 1
+de urbanismo - 1
+por meio de - 1
+material retirar - 1
+estar malcuidada necessitar - 1
+ano conta situação - 1
+para carro - 1
+detalhe - 1
+confusão impedir motorista - 1
+dor de cabeça - 1
+denise travessia de - 1
+gerar confusão impedir - 1
+precisar ajudar - 1
+região retroescavadeiras retirar - 1
+de veículo dia - 1
+corte desossa chaira - 1
+entrar em contato - 1
+fazer ainda por - 1
+ipê zona norte - 1
+inclusive muito criança - 1
+comerciante de - 1
+em sistema - 1
+até ser - 1
+ter cobrar - 1
+fazer contato via - 1
+veículo dia - 1
+plantar árvore em - 1
+viação smov informar - 1
+vazão - 1
+estar com dia - 1
+prefeitura acenar - 1
+época em - 1
+ficar próximo de - 1
+depois mudar - 1
+direção - 1
+ficar sentir - 1
+abrir ofício - 1
+avenida plácido - 1
+por risco - 1
+191 - 1
+marido filho menor - 1
+munhoz ser para - 1
+suportar mau cheiro - 1
+uso de patrola - 1
+para lazer - 1
+morador em vez - 1
+técnico de - 1
+supermercado visitar parente - 1
+processo - 1
+de revitalizar - 1
+em domingo passar - 1
+canaletas - 1
+parada até semana - 1
+por aline piscina - 1
+de marido - 1
+prejuízo já - 1
+até semana atrás - 1
+medianeira antes ser - 1
+por exemplo há - 1
+dmae informar instalação - 1
+diário gaúcho contar - 1
+obra de dimensionar - 1
+schuler poste - 1
+providência tomada - 1
+tentativa de - 1
+protocolo - 1
+de capital ainda - 1
+movimentar – - 1
+provocar desafio - 1
+por profissão - 1
+limpar rede de - 1
+quando chover esgoto - 1
+esperança ser - 1
+morador em - 1
+viver há ano - 1
+grave quanto - 1
+em afastar - 1
+só não - 1
+de vergonha - 1
+até setembro de - 1
+ser compartilhar - 1
+em direção - 1
+sobre parada - 1
+de laje ir - 1
+estudo secretário de - 1
+motivo de apreensão - 1
+fala porto alegre - 1
+cômodo - 1
+diversão para - 1
+de programa consumo - 1
+não entrar em - 1
+munhoz quando - 1
+ter em - 1
+de 2012 nacir - 1
+de lixo até - 1
+ter gente nem - 1
+receber solução não - 1
+prefeitura informar - 1
+souto - 1
+bratz - 1
+encaminhar a órgão - 1
+salientar - 1
+bem pior de - 1
+detalhe para - 1
+lazer ficar cheia - 1
+travessia enquanto - 1
+caroline velasquez - 1
+desistir nunca fazer - 1
+feito - 1
+aterramento de rua - 1
+– ser meio - 1
+carro estragar até - 1
+inteiro - 1
+passar caliça - 1
+seriar encaminhar para - 1
+john - 1
+com proposta - 1
+a domingo - 1
+veículo dia noite - 1
+para câmara - 1
+rotar - 1
+feito de madeira - 1
+solicitar compra - 1
+amar fazer - 1
+animar - 1
+de pessoa ver - 1
+de década diário - 1
+complicar muito perigoso - 1
+agendar consulta - 1
+departamento salientar - 1
+hora de fazer - 1
+pronto para seguir - 1
+família tornar - 1
+op dep por - 1
+época em 2010 - 1
+acessível por - 1
+informar pedido - 1
+não chover rua - 1
+de aí bastar - 1
+quando inundar - 1
+mara regina decidir - 1
+quase resposta - 1
+acostumar ficar - 1
+por ali imaginar - 1
+abrigar passageiro de - 1
+de juiz para - 1
+matéria - 1
+melhoria caminho - 1
+dizer há sistema - 1
+guerreiro em - 1
+rech a 09 - 1
+exigência técnica - 1
+paixão de - 1
+alegre raul cohen - 1
+acontecer ser prefeitura - 1
+com empenho - 1
+encontro com otto - 1
+em depositar lixo - 1
+surpresa - 1
+de lima ano - 1
+de criança - 1
+dep também avaliar - 1
+pneu - 1
+lixeira localizar - 1
+enfrentar em próximo - 1
+central a longo - 1
+cohen - 1
+ir realizar trecho - 1
+esgoto ficar - 1
+lamaçal - 1
+carta dizer - 1
+vicente ano imaginar - 1
+u antigo - 1
+mottin - 1
+categoria entulho lixo - 1
+alaga rua - 1
+dia de vento - 1
+de velocidade alternativa - 1
+até semana - 1
+informar pedido não - 1
+trabalho dever ser - 1
+caso específico de - 1
+merecer trabalho - 1
+de gaúcho comerciante - 1
+atrapalhar passagem de - 1
+final feliz - 1
+secretaria de - 1
+criança em idade - 1
+coisa estar aqui - 1
+virar lixão - 1
+a matéria publicar - 1
+dorneles - 1
+em proximidade - 1
+’ - 1
+boa parte de - 1
+município emitir multa - 1
+ir para lixo - 1
+agravar quando - 1
+com família fazer - 1
+água atrapalhar - 1
+de corte desossa - 1
+quando vinha - 1
+de decisão de - 1
+munhoz faltar pouco - 1
+informar área estar - 1
+de situação - 1
+como rua santo - 1
+matéria publicar - 1
+rua ter tamanho - 1
+entre rua valos - 1
+simples como - 1
+pifou - 1
+de órgão existir - 1
+atrapalhar - 1
+altura de número - 1
+porto alegre raul - 1
+resíduo em local - 1
+sagrar churrasco - 1
+referir município - 1
+de resgatar - 1
+passar glacir receber - 1
+semana dezena de - 1
+borges - 1
+aguardar seriar encaminhar - 1
+leal - 1
+existente em calçada - 1
+emitir - 1
+próximo o mercado - 1
+parceria - 1
+segurança de área - 1
+foro - 1
+problema como chão - 1
+wind cnh - 1
+acenar com - 1
+avenida edgar - 1
+lucas - 1
+mobilidade a pedestres - 1
+informar instalação de - 1
+augusto - 1
+água ramal - 1
+a vila - 1
+racional de - 1
+autônomo relatar chover - 1
+de programa - 1
+aterro em - 1
+enfrentar esgoto - 1
+receber seguinte - 1
+márcia scola ano - 1
+de ter veículo - 1
+ser gente - 1
+falta de vontade - 1
+após envio - 1
+instalar rede de - 1
+já ir realizar - 1
+denúncia sobre parada - 1
+de ir encaminhar - 1
+shopping estar para - 1
+rápida - 1
+professor - 1
+pluviais ser limpeza - 1
+ser problema perturbar - 1
+barro secar - 1
+ecografia indicar ruptura - 1
+de vereador para - 1
+canalizar de - 1
+jus - 1
+gente procura - 1
+saber mais dizer - 1
+local colocar apenas - 1
+pagar imposto querer - 1
+de ligar programar - 1
+suficiente em - 1
+de orçamento - 1
+malcuidada necessitar de - 1
+reter - 1
+piccoli - 1
+letra garrafais - 1
+pessoal estar cansar - 1
+cano - 1
+urbano - 1
+obstáculo - 1
+de vergonha de - 1
+só passar por - 1
+não ir possível - 1
+estrutura de concreto - 1
+ter ser - 1
+oscar pereira em - 1
+terra arar por - 1
+em garagem - 1
+físico fisioterápicos colocar - 1
+não poder instalar - 1
+também ficar em - 1
+de recolher - 1
+morador jornal ir - 1
+acionar secretaria - 1
+privado estar - 1
+bairro hípica zona - 1
+infração nacir ser - 1
+ter problema não - 1
+passar caliça resto - 1
+desossa chaira já - 1
+por veículo menor - 1
+época eptc - 1
+ser dor de - 1
+apenas placa - 1
+d água atolar - 1
+em armadilha até - 1
+helena dorneles ano - 1
+para sala de - 1
+alagar ter - 1
+utilizar de - 1
+município trânsito - 1
+falei - 1
+com carro - 1
+mail - 1
+contratar - 1
+de viamão inserir - 1
+de chuva permanecer - 1
+salgado filho principal - 1
+parte onde - 1
+caminhar por - 1
+shopping - 1
+com caliça - 1
+preciso sair - 1
+– dizer - 1
+soares ano - 1
+utilizar rua pedro - 1
+lixeira localizar em - 1
+de esperar por - 1
+goiás em vila - 1
+piscina de água - 1
+telecomunicação - 1
+culpa colocar em - 1
+compra - 1
+município emitir - 1
+estar para ser - 1
+base já bastante - 1
+voltar - 1
+concreto em rua - 1
+vinha coletivo em - 1
+coleta caminhão - 1
+valão ficar - 1
+dimensionar de rede - 1
+logo incluir - 1
+para dep - 1
+pouco de - 1
+de resíduo remexer - 1
+de canteiro - 1
+como cadeirantes - 1
+nunca fazer - 1
+esperar por prefeitura - 1
+fazer aterramento - 1
+arar por - 1
+capital ainda - 1
+esquerdo por - 1
+ficar a direita - 1
+dirigir a igreja - 1
+junto a - 1
+necessidade - 1
+segurança de - 1
+eventual nível - 1
+há vida - 1
+vender autônomo relatar - 1
+egídio - 1
+conta com - 1
+história com - 1
+morro - 1
+esgoto pluviais ser - 1
+poder instalar - 1
+pedido expresso - 1
+marido filho - 1
+chegar vez em - 1
+primeiro passo - 1
+não falar - 1
+de rua egídio - 1
+lixo comum como - 1
+restinga - 1
+perder conta além - 1
+lúcia paixão de - 1
+marido de - 1
+fazer mais de - 1
+ser complemento - 1
+cômodo em braço - 1
+salso passar em - 1
+resgatar morador - 1
+de concreto quebrar - 1
+até ter - 1
+marques ano - 1
+amanda munhoz rezar - 1
+quando não chover - 1
+arredores ser ocupar - 1
+vez caminho - 1
+andreoni - 1
+esquerdo começar - 1
+bastante movimentar – - 1
+lá receber - 1
+parecer - 1
+roberta dar pra - 1
+cheiro podre conta - 1
+relatar chover - 1
+farpar caçamba de - 1
+inclinar com pé - 1
+caroline passar - 1
+de queda - 1
+estranhar - 1
+responsável por - 1
+claudiomiro andreoni pavão - 1
+tratar de esgoto - 1
+problema estar em - 1
+santos beco - 1
+para consertar erro - 1
+rech âs 08 - 1
+menino - 1
+vereador poder perceber - 1
+não haver ponto - 1
+para câmara de - 1
+dever aguardar seriar - 1
+com ação por - 1
+nacir ingressar com - 1
+segunda - 1
+ser inacreditável - 1
+cruz município emitir - 1
+revoltar com - 1
+publicar - 1
+acertar detalhe - 1
+santo alfredo em - 1
+de esgoto ficar - 1
+de exercício físico - 1
+por eduardo quando - 1
+carro sob - 1
+ser complemento de - 1
+09 00hs - 1
+ser avaliar - 1
+obra em oficina - 1
+de di - 1
+havia buraco em - 1
+vir realizar serviço - 1
+alves - 1
+receber ser - 1
+de mãe senhor - 1
+mês sem - 1
+animal peçonhentos - 1
+com assis - 1
+principal de município - 1
+caçamba de aterro - 1
+ceee ceee esclarecer - 1
+de esgoto ser - 1
+trabalho garante - 1
+cruz para consertar - 1
+esperar providência - 1
+portão sequer - 1
+constar em programar - 1
+janeiro situação - 1
+pedestres entre - 1
+samu acabar - 1
+custódio vila montepio - 1
+pra trabalhar - 1
+bairro formoza - 1
+quando chover garante - 1
+par - 1
+alaga rua inclusive - 1
+típico - 1
+junto a proceder - 1
+alves em - 1
+ano conta - 1
+apenas com - 1
+de via encaminhar - 1
+possível efetuar melhoria - 1
+rua sanear - 1
+desossa com - 1
+em equipar - 1
+decisão de juiz - 1
+comunidade de - 1
+inteiro não falar - 1
+hoje em reunião - 1
+fone - 1
+em próximo estação - 1
+a entulho - 1
+para surpresa - 1
+remexer em - 1
+programa consumo responsável - 1
+de não recorrer - 1
+tristeza - 1
+máquina - 1
+cadeira - 1
+já saber ter - 1
+em começo de - 1
+idade escolar - 1
+existir para resolver - 1
+alvorar maquiar - 1
+objetivo fornecer de - 1
+não ir fazer - 1
+vila ipê zona - 1
+imaginar receber - 1
+eduardo sair lixo - 1
+por calçada de - 1
+lixeiro bem - 1
+acenar - 1
+também avaliar - 1
+ser chegar - 1
+pedro américo em - 1
+sujeira em frente - 1
+de vez agradar - 1
+rua não - 1
+acontecer com pessoa - 1
+em haver limpeza - 1
+usuário não - 1
+ser ocupar por - 1
+espera por - 1
+para tomar providência - 1
+manhã – - 1
+para trabalho - 1
+john ano conta - 1
+de dono - 1
+pista de - 1
+assim – lastimar - 1
+de empresa não - 1
+como placa - 1
+haver substituir de - 1
+repouso de guerreiro - 1
+apresentar rachaduras - 1
+resto de poda - 1
+redução de - 1
+agravar quando chover - 1
+esgoto estar - 1
+retroescavadeiras retirar - 1
+inclinar - 1
+precisar conscientizar - 1
+câmara de vereador - 1
+concreto em - 1
+meio complicar mesmo - 1
+ser paralelo a - 1
+movimentar braço lado - 1
+dmlu informar área - 1
+usuário de local - 1
+lixo entrada de - 1
+providência a prefeitura - 1
+em agosto - 1
+glacir pinheiro soares - 1
+patrolamento saibro - 1
+o ter tipo - 1
+poder calçar par - 1
+suspensão de carro - 1
+para chegada - 1
+plástico de local - 1
+intervenção impedir - 1
+fazer em - 1
+reagir indignar a - 1
+letra garrafais em - 1
+problema arrastar - 1
+como chão - 1
+local prefeitura depositar - 1
+março de - 1
+com agravar - 1
+em telecomunicação - 1
+prometer ação ir - 1
+ficar em frente - 1
+rua estar - 1
+poder escovar - 1
+concreto quebrar - 1
+total - 1
+poder ir para - 1
+açougueiro - 1
+fornecer de - 1
+veículo reter - 1
+acessível por denise - 1
+havia buraco - 1
+j - 1
+rápida – observar - 1
+com uso - 1
+eptc responder - 1
+folhagem esquina de - 1
+transporte adão - 1
+orçamento - 1
+pavão ano a - 1
+podre garante - 1
+direcionar a comunidade - 1
+correr céu abrir - 1
+coibir descartar - 1
+barreira – desabafar - 1
+veículo menor - 1
+“ j - 1
+antes de - 1
+meio de assessoria - 1
+município de viamão - 1
+nacir ser - 1
+jornal declarar - 1
+armar para chuva - 1
+único responsável - 1
+não criar - 1
+pessoa ficar em - 1
+santana - 1
+lembrar auxiliar de - 1
+shopping estar - 1
+acabar em afastar - 1
+rua ser provocar - 1
+família de - 1
+beneficiar - 1
+dep explicar - 1
+ausência de - 1
+de manhã – - 1
+ser criança - 1
+esperar santo - 1
+pifou não - 1
+vala transbordar - 1
+saber chover forte - 1
+para não descartar - 1
+continuar esperar providência - 1
+calçada em alvorar - 1
+reportagem - 1
+dever ser realizar - 1
+já não - 1
+cotovelo - 1
+manhã – lamentar - 1
+semelhante troca - 1
+ser utilizar rua - 1
+– garante - 1
+órgão afirmar - 1
+006 metro de - 1
+procura - 1
+típico de gaudério - 1
+já bastante comprometer - 1
+sufoco - 1
+de máquina claudiomiro - 1
+dirigir a - 1
+classificação - 1
+jardim lisboa - 1
+silveira - 1
+ser complicar muito - 1
+casa mara regina - 1
+água em - 1
+estar malcuidada - 1
+por veículo - 1
+chaira - 1
+não há local - 1
+2012 com classificação - 1
+mario - 1
+estudo projeto - 1
+dever ser fazer - 1
+desviar de porta - 1
+scola - 1
+nacir tripular - 1
+deteriorar em bairro - 1
+tempo quando dirigir - 1
+quase resposta automático - 1
+de moura - 1
+– declarar claudionor - 1
+avenida nonoai cavalhada - 1
+chover durante - 1
+ônibus morador - 1
+urbanismo - 1
+ano não - 1
+apresentar condição de - 1
+geladeira sofá guarda - 1
+horrível ser ruim - 1
+altura de cotovelo - 1
+executar até ser - 1
+atendente - 1
+cachorrada - 1
+ser logo incluir - 1
+vontade de glacir - 1
+considerar média de - 1
+equipar de exercício - 1
+ali tá nivelar - 1
+ligar carro - 1
+puro - 1
+noite liga - 1
+perceber ir - 1
+complemento de - 1
+raiz de árvore - 1
+para avaliar acontecer - 1
+trabalhar bem - 1
+queli enganchar - 1
+manguito - 1
+dado por prefeitura - 1
+instalar - 1
+ano em - 1
+pereira em - 1
+espera por proceder - 1
+culdade de - 1
+lugar assim - 1
+em braço - 1
+lixo não passar - 1
+falta acessível por - 1
+cáren cecília havia - 1
+publicar afirmar - 1
+bento gonçalves - 1
+a chuva a - 1
+problema como resposta - 1
+eliane - 1
+auxílio doença de - 1
+manutenção de praça - 1
+depois sair - 1
+– aquilo ser - 1
+senador salgado filho - 1
+perceber por técnico - 1
+roda idoso - 1
+irregularmente em - 1
+família de dono - 1
+espalhar por calçada - 1
+afirmar vir realizar - 1
+sujeira dejeto de - 1
+abrigar - 1
+trecho também - 1
+a escola revelar - 1
+material retirar de - 1
+ser hidráulico - 1
+chuva a - 1
+até ser finalizar - 1
+vez durar - 1
+de mãe - 1
+costa marques ano - 1
+perda - 1
+mês jorge - 1
+pessoa cruzar - 1
+em alvorar não - 1
+nível ser - 1
+ser utilizar por - 1
+alegre postar por - 1
+depósito - 1
+esquina sempre - 1
+até endereço para - 1
+passar de prazo - 1
+potável redução - 1
+alto petrópolis - 1
+cecília havia - 1
+nível de - 1
+ano trabalhar - 1
+de equipar - 1
+de exercer ofício - 1
+supermercado - 1
+por técnico - 1
+para lazer ficar - 1
+ter buraco - 1
+branco comprar - 1
+ocasião - 1
+empresa não saber - 1
+para depender - 1
+motorista de circular - 1
+bem recolher sacola - 1
+em idade - 1
+dado por - 1
+dep por meio - 1
+munhoz ser cerca - 1
+com carro sob - 1
+em apenas lixeira - 1
+ocorrer – reclamar - 1
+piscina misturar água - 1
+casa eliane - 1
+falta de coleta - 1
+transformar em armadilha - 1
+cheio d - 1
+visita de prefeitura - 1
+para chuva chegar - 1
+lembrar dia - 1
+fio intervenção - 1
+fossar resolver coisa - 1
+saibro em rua - 1
+lixeiro bem recolher - 1
+separar - 1
+de saibro em - 1
+congestionar via - 1
+de shopping estar - 1
+cidade jamais visitar - 1
+em calçar também - 1
+hábito de - 1
+causar quase - 1
+cobrar multa de - 1
+horrível ser - 1
+transbordar espalhar por - 1
+de rede para - 1
+pé em - 1
+a supermercado visitar - 1
+trabalho dever - 1
+dificuldade - 1
+único limite entre - 1
+bem antes - 1
+ruim de - 1
+de ano pessoal - 1
+elétrico em - 1
+parte onde prefeitura - 1
+mês prefeitura informar - 1
+saúde de parada - 1
+de rosa ano - 1
+até encontro - 1
+pegar ônibus em - 1
+ficar sentir cheiro - 1
+problema morador - 1
+retirar de - 1
+compra de aterro - 1
+goulart em - 1
+garante calçada - 1
+’ água - 1
+proprietário para - 1
+munhoz faltar - 1
+esgoto puro correr - 1
+em equipar de - 1
+ofício timbrar de - 1
+criança em - 1
+em subespecialidade - 1
+ficar exposto a - 1
+fisioterápicos colocar - 1
+caminhão levar - 1
+dizer ceee - 1
+contato com detran - 1
+frente costureiro maria - 1
+avaliar de assessoria - 1
+situação enfrentar por - 1
+de tendinite - 1
+nal de - 1
+aparente - 1
+próximo chuva - 1
+além de prejuízo - 1
+de equipar de - 1
+tanto lixo - 1
+de rua chegar - 1
+hoje em - 1
+em vila santa - 1
+1kg de - 1
+comunidade sonhar com - 1
+novo em zona - 1
+coisa para - 1
+tão grave quanto - 1
+criar - 1
+2012 troca mails - 1
+resposta de - 1
+conhecer - 1
+de corsa parar - 1
+04 categoria - 1
+atolar em - 1
+promessa ser de - 1
+bueiro não resolver - 1
+ser cerca de - 1
+calçada de praça - 1
+lisboa - 1
+problema arrastar há - 1
+de semana passar - 1
+roberta problema arrastar - 1
+para depender de - 1
+mau cheiro animal - 1
+em promessa - 1
+com trânsito - 1
+ser por risco - 1
+prioridade central de - 1
+tendinite - 1
+ter agendar consulta - 1
+caminhão levar sujeira - 1
+em rua ser - 1
+a apresentar - 1
+regina troca calçado - 1
+ser gente ser - 1
+a categoria poste - 1
+rodrigues escapa de - 1
+resolver esperança - 1
+morar em lugar - 1
+partenon gesseiro lauro - 1
+passo por - 1
+seriar - 1
+de tratar de - 1
+lixo passar terçar - 1
+nelson bratz - 1
+até local para - 1
+borges ano afirmar - 1
+semana atrás ser - 1
+em semana - 1
+ausência - 1
+de bom - 1
+em não haver - 1
+até setembro - 1
+garantir estável - 1
+continuar aguardar - 1
+ser fechar receber - 1
+1º - 1
+definição - 1
+remédio não fazer - 1
+03 categoria sem - 1
+de shopping - 1
+médico com - 1
+sagrar - 1
+último limpeza - 1
+forte por - 1
+visita entrada de - 1
+mails - 1
+não só em - 1
+melhoria devido a - 1
+durante semana dezena - 1
+paim john ano - 1
+reclamar em - 1
+controlar de velocidade - 1
+de pedido - 1
+deixar aqui - 1
+casa queli cristina - 1
+para ser de - 1
+até para carro - 1
+também reclamar - 1
+em rua mara - 1
+ir enviar equipe - 1
+de pequeno ter - 1
+segundo morador obra - 1
+comerciante de rua - 1
+aterro em rua - 1
+travessia de - 1
+até privado - 1
+ficar exposto - 1
+ligar programar de - 1
+ir alagar – - 1
+bar de - 1
+ter coisa só - 1
+de pedestres entre - 1
+exame - 1
+por médico - 1
+revitalizar - 1
+de manhã - 1
+machado em - 1
+ser de resolver - 1
+machado - 1
+waskow aqui - 1
+de exercer - 1
+por profissão de - 1
+plantar - 1
+comerciante nelson - 1
+consulta para paciente - 1
+lazer ficar - 1
+viamão em ocasião - 1
+paulo lembrar pessoa - 1
+vir longa - 1
+pedaço - 1
+julho passar - 1
+hoje também precisar - 1
+oficina em altura - 1
+trecho entre avenida - 1
+comprar - 1
+a direita - 1
+ingressar com ação - 1
+sentar impotente – - 1
+motorista mora - 1
+tarde eptc - 1
+necessitar de manutenção - 1
+pôr - 1
+prefeitura ir - 1
+de enfrentar - 1
+ipê zona - 1
+ocupar por pequeno - 1
+realizar serviço - 1
+para só - 1
+ano por - 1
+serviço a invés - 1
+área especí - 1
+agosto setembro - 1
+orçamento participativo op - 1
+aguardar posição - 1
+teresa amanda munhoz - 1
+decisão de magistrado - 1
+invés - 1
+incluir - 1
+nem passar - 1
+por estrutura de - 1
+adiantar - 1
+ocasião responder a - 1
+recolher não ser - 1
+hidráulico - 1
+perto de sinaleira - 1
+auxiliar em hora - 1
+munhoz lixo - 1
+em lugar assim - 1
+alagar rua residência - 1
+afastar não - 1
+por via ser - 1
+por motivo eptc - 1
+em esquina com - 1
+tomar conta - 1
+garante luiz - 1
+de lixo por - 1
+maria helena dorneles - 1
+executar até - 1
+aparência horrível ser - 1
+impedir motorista de - 1
+costa marques - 1
+jornal ir - 1
+ter como aguentar - 1
+coletor de arroio - 1
+função profissional - 1
+ser cerca - 1
+pinheiro soares ano - 1
+montepio em bairro - 1
+canaletas de água - 1
+de lixo de - 1
+ter êxito - 1
+pergunta maria revoltar - 1
+parada até - 1
+cobrar com parceria - 1
+lucas ano - 1
+– rua u - 1
+de absurdo - 1
+em dizer há - 1
+de controlar - 1
+r 191 - 1
+em área - 1
+quando caminhar por - 1
+serviço dever - 1
+calçada obrigar usuário - 1
+de chão - 1
+senão - 1
+secretário de - 1
+ir lá pessoal - 1
+britto ano - 1
+objetivo fornecer - 1
+depósito de - 1
+inexistência - 1
+travessia de pedestres - 1
+pm de - 1
+secretário - 1
+estável - 1
+animar comunidade sonhar - 1
+com base já - 1
+aguentar cheiro - 1
+esclarecer ainda - 1

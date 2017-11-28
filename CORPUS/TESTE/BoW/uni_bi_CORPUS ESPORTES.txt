@@ -1,0 +1,4015 @@
+ser - 91
+ter - 46
+ir - 36
+jogar - 36
+time - 34
+inter - 33
+colorar - 29
+jogo - 29
+estar - 26
+braga - 23
+poder - 21
+kenny braga - 20
+grêmio - 20
+tricolor - 20
+kenny - 20
+fazer - 19
+técnico - 18
+partida - 17
+paixão - 17
+ainda - 17
+cacalo - 16
+futebol - 16
+silveira - 16
+cacalo silveira - 16
+brasileirão - 14
+marcar - 14
+vitória - 14
+grande - 14
+de inter - 14
+campo - 13
+melhor - 13
+domingo - 13
+silveira martins - 13
+martins - 13
+estádio - 12
+vencer - 12
+noite - 11
+vez - 11
+não poder - 11
+gol - 11
+paulo - 11
+equipe - 11
+arena - 10
+haver - 10
+feira - 10
+ficar - 10
+clemer - 9
+momento - 9
+braga paixão - 9
+ser paulo - 9
+não ser - 9
+campeonato - 9
+sempre - 9
+de jogo - 9
+paixão colorar - 9
+em jogo - 9
+hoje - 9
+vila - 8
+paixão tricolor - 8
+copa - 8
+cruzeiro - 8
+disputar - 8
+bem - 8
+levar - 7
+de futebol - 7
+time de - 7
+de grêmio - 7
+ontem - 7
+de brasileirão - 7
+precisar - 7
+querer - 7
+meio - 7
+novo - 7
+dever - 7
+tempo - 7
+próximo - 7
+perder - 6
+forlán - 6
+copa de - 6
+torcer - 6
+dar - 6
+em arena - 6
+hotel - 6
+placar - 6
+primeiro - 6
+ganhar - 6
+depois de - 6
+a noite - 6
+de ser - 6
+de jogar - 6
+parte - 6
+grupo - 6
+vila ventura - 6
+atlético - 6
+brasileiro - 6
+ventura - 6
+forma - 6
+brasil - 6
+adversário - 6
+ano - 6
+colocar - 6
+leandro - 5
+final - 5
+considerar - 5
+parecer - 5
+nova - 5
+obrigação - 5
+de time - 5
+renato - 5
+rodada - 5
+saber - 5
+de partida - 5
+gremista - 5
+bom - 5
+em estádio - 5
+ainda não - 5
+poder ser - 5
+campeão - 5
+de vila - 5
+times - 5
+simples - 5
+título - 5
+decisão - 5
+ponto - 5
+estádio de - 5
+deixar - 5
+sala de - 5
+além de - 5
+estar em - 5
+em domingo - 5
+damião - 5
+leandro damião - 5
+enfrentar - 5
+segunda - 5
+minuto - 5
+seleção - 5
+sala - 5
+antes - 5
+último - 5
+diferente - 5
+tabela - 5
+marcar gol - 5
+dia - 5
+antes de - 5
+d - 5
+santos - 5
+martins paixão - 5
+resultado - 5
+vontade - 4
+roberto - 4
+ocorrer - 4
+competição - 4
+zé roberto - 4
+libertar - 4
+derrota - 4
+segundo - 4
+corinthians - 4
+em brasileirão - 4
+acontecer - 4
+treino - 4
+dunga - 4
+agora - 4
+alessandro - 4
+motivo - 4
+pensar - 4
+fluminense - 4
+de vitória - 4
+rebaixar - 4
+d alessandro - 4
+puro - 4
+parte de - 4
+rio - 4
+zé - 4
+história - 4
+avaliar - 4
+palmo - 4
+de brasil - 4
+profissional - 4
+atual - 4
+preparar - 4
+quase - 4
+valar - 4
+assim - 4
+afinal - 4
+de vencer - 4
+em partida - 4
+sair - 4
+chance - 4
+pior - 4
+hora - 4
+em segunda - 4
+dúvida - 4
+quarta - 4
+além - 4
+inter em - 4
+abel - 4
+em meio - 4
+torcida - 4
+time ter - 4
+dizer - 4
+em último - 4
+piscina - 4
+em competição - 4
+conta - 4
+quarta feira - 4
+passar - 4
+clássico - 4
+lúcio - 4
+forte - 3
+obter - 3
+botafogo - 3
+justificar - 3
+não querer - 3
+sul - 3
+atacar - 3
+volta - 3
+povo - 3
+boa - 3
+entanto - 3
+ver - 3
+fabrício - 3
+desempenho - 3
+importante - 3
+em entanto - 3
+etapa - 3
+lotar - 3
+primeiro tempo - 3
+de copa - 3
+de valar - 3
+gre - 3
+ainda mais - 3
+gre nal - 3
+silveira paixão - 3
+de muito - 3
+para disputar - 3
+vermelho - 3
+busca de - 3
+emoção - 3
+comparação - 3
+em tabela - 3
+série de - 3
+comandar - 3
+adotar - 3
+não estar - 3
+de campo - 3
+vestiário - 3
+principal - 3
+náutico - 3
+dever ser - 3
+derrotar por - 3
+vasco - 3
+em campo - 3
+de seleção - 3
+de técnico - 3
+de vez - 3
+vontade de - 3
+empate - 3
+relação - 3
+caso - 3
+centenário - 3
+de rebaixar - 3
+torcedor - 3
+curitiba - 3
+não ter - 3
+em vida - 3
+definir - 3
+leitor - 3
+suspenso - 3
+puro simples - 3
+de sul - 3
+posição - 3
+pouco - 3
+ir derrotar - 3
+hoje a - 3
+em relação - 3
+frente - 3
+atlético pr - 3
+técnico clemer - 3
+série - 3
+casa - 3
+segunda etapa - 3
+em busca - 3
+medida - 3
+vida - 3
+de fazer - 3
+disputa - 3
+de próximo - 3
+de torcer - 3
+previsão - 3
+preocupar - 3
+entrega - 3
+trazer - 3
+resultados - 3
+fórmula de - 3
+em campeonato - 3
+pênaltis - 3
+abel braga - 3
+jogo em - 3
+conseguir - 3
+interessar - 3
+evitar - 3
+atuação - 3
+de hoje - 3
+jogo de - 3
+levar em - 3
+talvez - 3
+comando - 3
+buscar - 3
+forma de - 3
+apoio - 3
+vermelho em - 3
+delegar - 3
+dentro - 3
+pr - 3
+conquista - 3
+derrotar - 3
+nal - 3
+ter ser - 3
+hora de - 3
+de grande - 3
+atitude - 3
+voltar - 3
+de colorar - 3
+camisa - 3
+em viamão - 3
+melhor time - 3
+qg - 3
+precisar de - 3
+jogar de - 3
+de marcar - 3
+fazer em - 3
+total - 3
+receber - 3
+viamão - 3
+colega - 3
+vir - 3
+lesão - 3
+comando de - 3
+fórmula - 3
+em momento - 3
+situação - 3
+por técnico - 3
+primeira - 3
+fazer grande - 3
+busca - 3
+defender - 3
+último rodada - 3
+ataque - 3
+pernambuco - 3
+recente - 3
+noite em - 3
+indiscutível - 3
+placar de - 3
+seriar - 3
+obrigação de - 3
+noite de - 3
+coisa - 3
+vaga - 3
+pato - 3
+reclamar - 3
+substituir - 3
+caber - 2
+alterar - 2
+empatar - 2
+parcial - 2
+em próximo - 2
+diferente de - 2
+particular - 2
+zagueiro - 2
+juan - 2
+defesa - 2
+com melhor - 2
+quinta - 2
+jogar a - 2
+para vencer - 2
+time por - 2
+ritmo - 2
+jorge henrique - 2
+superar - 2
+preço - 2
+colocar em - 2
+palavra - 2
+físico - 2
+de ontem - 2
+dentro de - 2
+sentido - 2
+tipo - 2
+gerente de - 2
+viver - 2
+a disposição - 2
+inter ainda - 2
+conquista de - 2
+vargas - 2
+partir - 2
+mandar - 2
+de escalação - 2
+campo de - 2
+campanha - 2
+ponto correr - 2
+ontem ir - 2
+ainda em - 2
+maracanã - 2
+de grupo - 2
+jogar bem - 2
+arquibancada - 2
+possibilidade - 2
+em curitiba - 2
+amistoso - 2
+longo de - 2
+imprescindível - 2
+jogar em - 2
+uruguaio - 2
+para ter - 2
+vender - 2
+espaço - 2
+preocupação - 2
+preparar para - 2
+contra vasco - 2
+início de - 2
+escrever - 2
+flamengo em - 2
+apto - 2
+piscina térmico - 2
+gol em - 2
+henrique - 2
+árbitro - 2
+regularidade em - 2
+barros - 2
+alcançar - 2
+baixo - 2
+preciso - 2
+chance de - 2
+bahia - 2
+debate - 2
+solução - 2
+tarde - 2
+para marcar - 2
+diferença - 2
+wianey - 2
+para receber - 2
+tanto - 2
+bola - 2
+grêmio em - 2
+flamengo - 2
+em ano - 2
+jorge - 2
+de primeiro - 2
+ter forte - 2
+comer - 2
+jogo contra - 2
+dia em - 2
+marketing - 2
+ficar de - 2
+derrota para - 2
+colorar obrigação - 2
+semana - 2
+de reclamar - 2
+reforço - 2
+disputa de - 2
+possibilidade de - 2
+final de - 2
+vanderlei luxemburgo - 2
+coritiba - 2
+adequar - 2
+avançar em - 2
+disposição - 2
+de treino - 2
+quarto - 2
+inter ganhar - 2
+caxias - 2
+marcar para - 2
+vitória de - 2
+principal jogar - 2
+acesso a - 2
+augusto barros - 2
+teste - 2
+opinião - 2
+encaminhar - 2
+repetir - 2
+vantagem - 2
+coração - 2
+inteligente - 2
+atrás - 2
+enfim - 2
+de tempo - 2
+lago - 2
+em dia - 2
+previsão sombrio - 2
+aumentar - 2
+melhorar desempenho - 2
+vanderlei - 2
+de povo - 2
+conquistar - 2
+de atuação - 2
+repetir em - 2
+de atual - 2
+como fazer - 2
+ser em - 2
+gremistas - 2
+por cruzeiro - 2
+de forma - 2
+ainda bem - 2
+disputar em - 2
+de título - 2
+só vencer - 2
+olímpico - 2
+direto - 2
+ser grande - 2
+contra flamengo - 2
+em não - 2
+apenas - 2
+treinar - 2
+casa de - 2
+como ir - 2
+de tricolor - 2
+gauchão - 2
+observar - 2
+ser levar - 2
+longo - 2
+hipótese - 2
+quase sempre - 2
+por placar - 2
+equilíbrio - 2
+apesar de - 2
+fácil - 2
+razão - 2
+libertar de - 2
+golear de - 2
+para jogo - 2
+braga em - 2
+bucólica - 2
+aproximar - 2
+ruim - 2
+de ter - 2
+tornar - 2
+esquema - 2
+avaliar não - 2
+anterior - 2
+entrega de - 2
+em hotel - 2
+em sentido - 2
+história de - 2
+logo - 2
+prato - 2
+grêmio ter - 2
+mauricio - 2
+para momento - 2
+estar fora - 2
+apoio de - 2
+mediocridade - 2
+mais de - 2
+nem mesmo - 2
+rumo - 2
+escalação - 2
+utilidade - 2
+manifestar - 2
+lutar por - 2
+prejuízo - 2
+tranquilidade - 2
+cabeça - 2
+domingo contra - 2
+quinta feira - 2
+de melhor - 2
+a inter - 2
+constante - 2
+mostrar - 2
+em quesito - 2
+especial - 2
+recesso - 2
+de estádio - 2
+em pênaltis - 2
+palmo palmo - 2
+colorar ter - 2
+bucólica de - 2
+primeira rodada - 2
+de posição - 2
+de avaliar - 2
+de ponto - 2
+colorar em - 2
+em copa - 2
+realizar - 2
+vitória consistente - 2
+caminho de - 2
+coritiba em - 2
+g4 - 2
+comum - 2
+partida contra - 2
+atuar - 2
+coluna - 2
+partir de - 2
+em vitória - 2
+repetição - 2
+bocha - 2
+continuar - 2
+provavelmente - 2
+ajudar - 2
+parar - 2
+ser hora - 2
+interesse - 2
+recuperar - 2
+retorno - 2
+lugar - 2
+sofrer - 2
+clube - 2
+exceção - 2
+sombrio - 2
+de diminuir - 2
+prejudicar - 2
+desistir de - 2
+entender - 2
+equipe de - 2
+ser melhor - 2
+utilizar - 2
+esperança - 2
+constatar - 2
+silêncio - 2
+argentino - 2
+paisagem - 2
+rebaixar de - 2
+campeonato brasileiro - 2
+função - 2
+de particular - 2
+melhorar - 2
+gaúcho - 2
+em segundo - 2
+de escolher - 2
+com técnico - 2
+esperar - 2
+utilidade de - 2
+objetivo - 2
+ser técnico - 2
+dia de - 2
+paulo autuori - 2
+estar acontecer - 2
+chegar - 2
+de recesso - 2
+perto - 2
+minuto final - 2
+segundo tempo - 2
+japão - 2
+assistir - 2
+somente - 2
+guarda - 2
+guarda chuva - 2
+gerente - 2
+alegria - 2
+sábado - 2
+ir campeão - 2
+feira não - 2
+ilegítimo - 2
+por vitória - 2
+melhor de - 2
+sair de - 2
+passar por - 2
+técnico renato - 2
+lutar - 2
+ter obrigação - 2
+caio - 2
+meio campo - 2
+ser mais - 2
+técnico de - 2
+manifestar interesse - 2
+índio - 2
+inter sempre - 2
+contra coritiba - 2
+acesso - 2
+força - 2
+inteiro - 2
+fora de - 2
+decidir em - 2
+por lesão - 2
+de assunto - 2
+vencer jogo - 2
+ir em - 2
+sub - 2
+mais em - 2
+gruta - 2
+contra ataque - 2
+em noite - 2
+começar - 2
+aguardar - 2
+alan - 2
+coisa em - 2
+portaluppi - 2
+por de - 2
+tabela de - 2
+de equipe - 2
+necessário - 2
+de segundo - 2
+partida de - 2
+indigesto - 2
+possível - 2
+de com - 2
+augusto - 2
+renato portaluppi - 2
+início - 2
+inadiável - 2
+regularidade - 2
+arena de - 2
+duro - 2
+pescaria - 2
+por ter - 2
+ontem a - 2
+ser preciso - 2
+rumo a - 2
+contratar - 2
+caminho - 2
+a invés - 2
+em final - 2
+igual - 2
+escolher - 2
+de preocupação - 2
+consagrar - 2
+grêmio inter - 2
+segunda feira - 2
+camisa de - 2
+térmico - 2
+entrar - 2
+grande equipe - 2
+alemanha - 2
+scocco - 2
+colorar sem - 2
+positivo - 2
+número - 2
+jogar ser - 2
+kleber - 2
+grêmio não - 2
+fato - 2
+com apoio - 2
+avançar - 2
+prato indigesto - 2
+para inter - 2
+ter fé - 2
+rio grande - 2
+com futebol - 2
+provocar - 2
+destaque - 2
+grande partida - 2
+em centenário - 2
+desistir - 2
+de tabela - 2
+chuva - 2
+correr - 2
+golear - 2
+diminuir - 2
+de gauchão - 2
+consistente - 2
+neymar - 2
+de mediocridade - 2
+campeonato de - 2
+ser campeão - 2
+carioca - 2
+certo - 2
+jogo disputar - 2
+colega de - 2
+tomar - 2
+tipo de - 2
+de cruzeiro - 2
+maior - 2
+trocar - 2
+preço de - 2
+atual fórmula - 2
+em arquibancada - 2
+não ir - 2
+próximo quarta - 2
+em placar - 2
+qualidade - 2
+em minuto - 2
+invés de - 2
+contrário - 2
+superior - 2
+de volta - 2
+luxemburgo - 2
+questão - 2
+sonho - 2
+defesa colorar - 2
+titular - 2
+de dunga - 2
+assunto - 2
+de marketing - 2
+em conta - 2
+menos - 2
+de bom - 2
+em frente - 2
+ir de - 2
+caxias de - 2
+mínimo - 2
+dunga ter - 2
+fé - 2
+autuori - 2
+forlán ser - 2
+de comandar - 2
+transformar - 2
+apoiar - 2
+domingo em - 2
+paisagem bucólica - 2
+invés - 2
+para obter - 2
+decidir - 2
+preocupar com - 2
+quesito - 2
+resistir - 2
+josé - 2
+país - 2
+a longo - 2
+josé augusto - 2
+sempre com - 2
+campo bem - 1
+igual a - 1
+exemplo - 1
+inúmero razão - 1
+significado - 1
+até para - 1
+querer em - 1
+escrever em - 1
+indesejado campeonato - 1
+ter de - 1
+resultado interessar - 1
+treinador - 1
+de fórmula - 1
+posicionar de - 1
+rechear grupo - 1
+quando equipe - 1
+ser mágico - 1
+perder ponto - 1
+jogar abdicar - 1
+vencedor - 1
+ataque possuir - 1
+quando grêmio - 1
+melhor esquema - 1
+meio a - 1
+paraná - 1
+brasil de - 1
+para desafio - 1
+cara - 1
+braga zagueiro - 1
+perder dentro - 1
+noruega - 1
+ocorrer breve - 1
+específico - 1
+comprometer - 1
+sucesso - 1
+ampliar - 1
+estar voltar - 1
+agora em - 1
+muito superior - 1
+poder não - 1
+em matéria - 1
+equipe retrair - 1
+escalar - 1
+interior - 1
+colega colocar - 1
+etapa precisar - 1
+começar hoje - 1
+cultivar - 1
+colisão com - 1
+a bastidor - 1
+vice campeão - 1
+a menos - 1
+extinção de - 1
+público - 1
+pereira - 1
+ampliar placar - 1
+escalação porém - 1
+de velho - 1
+mineiro em - 1
+assumir - 1
+zagueiro juan - 1
+obra - 1
+fazer contrário - 1
+g4 fazer - 1
+copa audi - 1
+de apenas - 1
+porém - 1
+onde povo - 1
+margem o - 1
+situação rigoroso - 1
+jogo só - 1
+próximo quinta - 1
+julho aproximar - 1
+domingo a - 1
+momento seleção - 1
+em mira - 1
+brecha - 1
+de riveros - 1
+novembro - 1
+atleta sair - 1
+entanto esperança - 1
+coluna ouvinte - 1
+mostrar colorar - 1
+kleber estar - 1
+buscar marcação - 1
+interior de - 1
+apresentar com - 1
+por não - 1
+ter validade - 1
+brasil nem - 1
+botafogo de - 1
+emocionante - 1
+má pontaria - 1
+para acontecer - 1
+duro de - 1
+acender luz - 1
+prejuízo de - 1
+carregar peso - 1
+airton - 1
+de imprensa - 1
+sombrio de - 1
+hospedar ser - 1
+começar em - 1
+vir a - 1
+aproveitar - 1
+para buscar - 1
+com natureza - 1
+duro conquistar - 1
+esquema adotar - 1
+habilitar - 1
+ter alcançar - 1
+mineiro - 1
+felicidade de - 1
+também em - 1
+tratar de - 1
+galo ter - 1
+chegar a - 1
+de rio - 1
+possibilitar - 1
+tranquilidade além - 1
+josimar jorge - 1
+torço - 1
+por qualidade - 1
+anunciar - 1
+adversário fabrício - 1
+em seguida - 1
+ocupar grande - 1
+caber fazer - 1
+generalizar a - 1
+receio em - 1
+nome participar - 1
+partida já - 1
+futebol casa - 1
+contra santos - 1
+rodada de - 1
+modesto forma - 1
+de retornar - 1
+jamais ameaçar - 1
+candidato a - 1
+troca de - 1
+alemanha para - 1
+carioca já - 1
+rafael - 1
+rádio - 1
+ter observar - 1
+conquista recente - 1
+total ser - 1
+ser grêmio - 1
+ordem - 1
+repercussão comum - 1
+a nivelar - 1
+fonte - 1
+com leitor - 1
+presto - 1
+estrutura de - 1
+perto de - 1
+uruguaio empolgar - 1
+inter vantagem - 1
+rota de - 1
+sem dúvida - 1
+poder ter - 1
+ir marcar - 1
+contato - 1
+ritmo de - 1
+mais distante - 1
+fazer jogo - 1
+escolher gosto - 1
+pedir levar - 1
+paulo corinthians - 1
+flagrar - 1
+braga sem - 1
+consolidar ainda - 1
+acrescento palavra - 1
+silêncio em - 1
+gosto - 1
+em contratar - 1
+análise sobre - 1
+isolar em - 1
+ventura ir - 1
+escancaram - 1
+alex - 1
+com indiscutível - 1
+por conquista - 1
+braga times - 1
+vitória acender - 1
+viveiro de - 1
+finaliza - 1
+também imprescindível - 1
+desesperador - 1
+comandar por - 1
+bom resultados - 1
+índio d - 1
+poder cultivar - 1
+analogia mais - 1
+sentir - 1
+individual por - 1
+máximo - 1
+em com - 1
+2006 - 1
+o pensar - 1
+omissão preguiça - 1
+a jogar - 1
+quando torcida - 1
+correr cacalo - 1
+jogo por - 1
+inapagável em - 1
+seguro - 1
+coirmão enfrentar - 1
+jogo com - 1
+com gremistas - 1
+afastar de - 1
+equipes - 1
+time possível - 1
+providenciar - 1
+fim de - 1
+de de - 1
+com derrota - 1
+vitória em - 1
+rescisão de - 1
+de maracanã - 1
+interessar em - 1
+ansioso por - 1
+largar em - 1
+ser multiuso - 1
+morrer - 1
+encontrar apoiar - 1
+haver mínimo - 1
+decisão ir - 1
+mg - 1
+arara - 1
+ouvir flauta - 1
+de lado - 1
+café piscina - 1
+técnico tite - 1
+ter ir - 1
+diferente viver - 1
+atacante - 1
+brilho de - 1
+grande favorito - 1
+medíocre em - 1
+branquinha - 1
+desde segunda - 1
+ceará muito - 1
+deixar igual - 1
+campeão merecidamente - 1
+parecer estar - 1
+times mesmo - 1
+apupo rugir - 1
+de coração - 1
+campo integrar - 1
+de novo - 1
+muito superioridade - 1
+sem público - 1
+possuir - 1
+ser substituir - 1
+turquia noruega - 1
+botafogo empatar - 1
+juízo - 1
+peso - 1
+inter isolar - 1
+brigar com - 1
+espetáculo coisa - 1
+torcer costumar - 1
+desconto - 1
+lesão agora - 1
+recesso de - 1
+desencantar - 1
+mais importante - 1
+já ser - 1
+futebol brasileiro - 1
+conversar com - 1
+enfrentar atlético - 1
+damião com - 1
+não ficar - 1
+quarto campo - 1
+isolar - 1
+julgar ser - 1
+patinar - 1
+respeito carcará - 1
+hoje surgir - 1
+estádio ajudar - 1
+vencer cruzeiro - 1
+estar apostar - 1
+ter fazer - 1
+de torcida - 1
+gilberto ygor - 1
+ainda paciência - 1
+afinal time - 1
+investir em - 1
+cometer - 1
+direto de - 1
+multiuso casa - 1
+curitiba para - 1
+julgar - 1
+interino - 1
+alessandro leandro - 1
+tão combativo - 1
+não melhorar - 1
+tempo botafogo - 1
+comentário - 1
+formar - 1
+apresentar - 1
+apoiar por - 1
+brasileirão em - 1
+em acesso - 1
+de vaga - 1
+ser tornar - 1
+de atlético - 1
+também ir - 1
+notícia - 1
+ser incentivo - 1
+ocorrer ter - 1
+clemer avançar - 1
+verdadeiro - 1
+baixo aliás - 1
+em caminho - 1
+sertão merecer - 1
+22h - 1
+certeza já - 1
+pretensão tricolor - 1
+para time - 1
+jogo cyber - 1
+merecer - 1
+terceiro - 1
+de largar - 1
+melhor solução - 1
+dúvida antes - 1
+árbitro ordinário - 1
+a estádio - 1
+saber haver - 1
+empolgar - 1
+pênalti duvidoso - 1
+com exceção - 1
+decepções casual - 1
+integrar - 1
+cobrar muito - 1
+preguiça - 1
+cruzeiro em - 1
+inteligente cacalo - 1
+confederações - 1
+melhor para - 1
+a cabeça - 1
+saber verdadeiro - 1
+zona de - 1
+prejudicar inter - 1
+integral de - 1
+corinthians em - 1
+ser para - 1
+horário de - 1
+colorar previsão - 1
+enquanto apupo - 1
+quadrado - 1
+para dentro - 1
+cruzeiro precisar - 1
+libertar para - 1
+integral - 1
+coletivo - 1
+dizer ocorrer - 1
+levar time - 1
+fatídico contra - 1
+paulista - 1
+combativo interessar - 1
+espaço para - 1
+noite para - 1
+menos ficar - 1
+maior ambição - 1
+fred - 1
+acender - 1
+vestiário tricolor - 1
+técnico só - 1
+haver caso - 1
+a série - 1
+sonho de - 1
+ter quase - 1
+clube só - 1
+superar facilmente - 1
+expulso contra - 1
+campanha incompatível - 1
+forma muito - 1
+ano vir - 1
+gauchão já - 1
+em lugar - 1
+jogar bocha - 1
+atrás em - 1
+incrível jogar - 1
+comparação entre - 1
+ser ideal - 1
+haver colega - 1
+em pacaembu - 1
+ajudar em - 1
+campo barco - 1
+pedido de - 1
+clemer entrar - 1
+relativo - 1
+direita joão - 1
+apoiar time - 1
+modesto - 1
+distância em - 1
+pior seriar - 1
+pré - 1
+já estar - 1
+brasileirão domingo - 1
+ano recente - 1
+de sertão - 1
+de análise - 1
+competência - 1
+em ser - 1
+roberto cacalo - 1
+talvez não - 1
+inesquecível - 1
+com certeza - 1
+2007 - 1
+mercê de - 1
+em temporada - 1
+em comparação - 1
+evolução - 1
+ruindade - 1
+fé por - 1
+em posição - 1
+para leitor - 1
+tite - 1
+de obra - 1
+analogia - 1
+unir - 1
+sem emoção - 1
+pior para - 1
+intacto em - 1
+depois para - 1
+segundona - 1
+gosto julgar - 1
+sem principal - 1
+gaúcho ter - 1
+ir punir - 1
+entusiasmar depois - 1
+palpite - 1
+para pescaria - 1
+subir para - 1
+adiantar justificar - 1
+hora dever - 1
+preciso urgente - 1
+não adiantar - 1
+disposição sala - 1
+para previsão - 1
+colorar acertar - 1
+feira quando - 1
+afirmar gerente - 1
+a profissional - 1
+clima - 1
+fator considerar - 1
+lotar estádio - 1
+para ano - 1
+coluna de - 1
+carcará de - 1
+ficar mais - 1
+estrutura - 1
+ir afastar - 1
+em caso - 1
+colorar preço - 1
+união - 1
+resistir a - 1
+por inúmero - 1
+por melhor - 1
+imerecido - 1
+tricolor pergunta - 1
+segundo gol - 1
+subida - 1
+de puro - 1
+craque d - 1
+inacreditável - 1
+confesso - 1
+independente de - 1
+ser definir - 1
+para sair - 1
+sem motivo - 1
+2006 em - 1
+percepção - 1
+biblioteca - 1
+relaxar desde - 1
+medida tomada - 1
+braga já - 1
+para jorge - 1
+gol logo - 1
+trocar gentil - 1
+significado especial - 1
+cyber - 1
+ser fim - 1
+ser pior - 1
+a pouco - 1
+minuto só - 1
+convocar - 1
+ser de - 1
+entre banca - 1
+otávio gilberto - 1
+tomada por - 1
+de chuteira - 1
+novo colorar - 1
+imagino em - 1
+grêmio por - 1
+alta alegria - 1
+relação a - 1
+interesse em - 1
+qualidade de - 1
+academia - 1
+certo ser - 1
+haver em - 1
+estádio couto - 1
+resultados positivo - 1
+significativo para - 1
+time para - 1
+não presto - 1
+fé ter - 1
+ter adotar - 1
+de ordem - 1
+sinal - 1
+com situação - 1
+limite - 1
+salas de - 1
+estar apto - 1
+incapacidade - 1
+torcida torcer - 1
+consciência de - 1
+rádio gaúcha - 1
+tarde de - 1
+nem sempre - 1
+ataque tricolor - 1
+varzeanas de - 1
+time não - 1
+inter hotel - 1
+agora tão - 1
+paulo mandar - 1
+livro - 1
+baixar preço - 1
+colocar habilitar - 1
+de pernambuco - 1
+ter boa - 1
+comentar - 1
+ir utilizar - 1
+ser dar - 1
+ter evitar - 1
+profissional como - 1
+conquistar em - 1
+entrar fácil - 1
+jogo partida - 1
+sentido empate - 1
+atacar permitir - 1
+juízo somente - 1
+concentrar - 1
+incentivar time - 1
+reconhecer por - 1
+interino ser - 1
+definir preparo - 1
+estar conformar - 1
+forlán leandro - 1
+já saber - 1
+recompensa - 1
+decepcionantes em - 1
+de força - 1
+evitar haver - 1
+intuito de - 1
+vitinho scocco - 1
+ultrapassar limite - 1
+futebol não - 1
+com capacidade - 1
+sem neymar - 1
+país inteiro - 1
+força em - 1
+dever estar - 1
+picada - 1
+ser possível - 1
+urgência - 1
+de redação - 1
+paulo ter - 1
+alesandro - 1
+em brasileiro - 1
+já ter - 1
+com vice - 1
+brasileirão de - 1
+coirmão - 1
+escalada para - 1
+goleiro - 1
+pelotas consolo - 1
+lembrar - 1
+vargas marcar - 1
+jogo ter - 1
+querer ocorrer - 1
+receber seleção - 1
+em nova - 1
+grande times - 1
+trabalho - 1
+basta jogar - 1
+animal - 1
+ir amassar - 1
+scocco aguardar - 1
+derrota em - 1
+humor de - 1
+certo brigar - 1
+fim - 1
+complexo com - 1
+chuteira - 1
+em leandro - 1
+urgência tanto - 1
+ponto em - 1
+x - 1
+martins finalmente - 1
+amistoso de - 1
+cometer erro - 1
+conversa - 1
+meio zé - 1
+encaminhar encaminhar - 1
+confirmar reforçar - 1
+tricolor mostrar - 1
+otimista para - 1
+andar muito - 1
+novo fracasso - 1
+empatar virar - 1
+cansar - 1
+frança - 1
+assustar - 1
+muriel - 1
+de sufocar - 1
+ser muito - 1
+scolari - 1
+fácil em - 1
+participar - 1
+paranaense - 1
+inegável meio - 1
+povo tricolor - 1
+pescar - 1
+incrível - 1
+de embarque - 1
+brigar - 1
+conversar - 1
+meio cancha - 1
+fase de - 1
+em trave - 1
+beleza - 1
+promover - 1
+entender pensar - 1
+após vencer - 1
+bem time - 1
+respeito - 1
+22h ter - 1
+de varar - 1
+seleção brasileira - 1
+estádio centenário - 1
+de equipes - 1
+campeonato prezar - 1
+muito bom - 1
+ser infinito - 1
+aguardar nova - 1
+sinal de - 1
+aloísio realizar - 1
+carvalho - 1
+repleto - 1
+sombrio kenny - 1
+querer entregar - 1
+ter chance - 1
+time titular - 1
+incapacidade crônica - 1
+depender de - 1
+enquanto - 1
+fracasso - 1
+a time - 1
+jogo dia - 1
+paulo enquanto - 1
+quilômetro de - 1
+vencer ainda - 1
+retornar a - 1
+assunto relativo - 1
+aproximar de - 1
+disputar palmo - 1
+selecionar - 1
+conhecer futebol - 1
+estrear com - 1
+maioria - 1
+a tarde - 1
+resultado negativo - 1
+depois em - 1
+assistir nova - 1
+parecer com - 1
+infinito melhor - 1
+disposição argentino - 1
+ficar pior - 1
+hotel de - 1
+clássico ser - 1
+rigoroso - 1
+futebol gruta - 1
+sem esmorecer - 1
+qg colorar - 1
+como defender - 1
+viver momento - 1
+próximo semana - 1
+colocar para - 1
+restar caminho - 1
+ir lembrar - 1
+não assustar - 1
+em grêmio - 1
+ganhar perder - 1
+com novo - 1
+possibilitar técnico - 1
+por acaso - 1
+fazer gol - 1
+positivo lutar - 1
+preocupar antes - 1
+lugar de - 1
+parcial resolver - 1
+abel lúcio - 1
+pato seriar - 1
+ventura mauricio - 1
+seedorf não - 1
+de facílima - 1
+profissional técnico - 1
+por ser - 1
+medida inteligente - 1
+café - 1
+de vanderlei - 1
+embarque de - 1
+mediocridade kenny - 1
+por cabeça - 1
+ser diferente - 1
+obrigação inadiável - 1
+superioridade - 1
+tomada - 1
+dar alegria - 1
+acaso - 1
+nivelar por - 1
+segundona mais - 1
+ter pouco - 1
+especial levar - 1
+crítico de - 1
+não haver - 1
+jornada - 1
+achar - 1
+justo - 1
+comporta - 1
+tempo cometer - 1
+dimensão - 1
+oficial hotel - 1
+marcar time - 1
+semana também - 1
+com lesão - 1
+primeiros lugar - 1
+grêmio com - 1
+de espetáculo - 1
+com sobre - 1
+vaga para - 1
+antecipar - 1
+inter baixas - 1
+ocupar - 1
+futebol superar - 1
+poder avançar - 1
+barulhento ruidoso - 1
+valar em - 1
+exótico - 1
+pouco ir - 1
+ser rebaixar - 1
+equipe fazer - 1
+ser lider - 1
+até sábado - 1
+de santos - 1
+jogo medíocre - 1
+administrar como - 1
+resolver - 1
+inter para - 1
+coerência - 1
+torço para - 1
+bastar - 1
+conclusão de - 1
+a arena - 1
+arquibancada de - 1
+melhor times - 1
+placar com - 1
+tricolor ir - 1
+coerência regularidade - 1
+só ter - 1
+ano parcial - 1
+por atitude - 1
+fracasso kenny - 1
+realizar grande - 1
+cuidar - 1
+marcação de - 1
+direito - 1
+embarque - 1
+tônica em - 1
+em atacante - 1
+sétimo em - 1
+atrás já - 1
+desgosto - 1
+ouço - 1
+grande vencer - 1
+paulo ontem - 1
+times brasileiro - 1
+sentido poder - 1
+julho - 1
+esforço para - 1
+merecidamente - 1
+exemplo goleiro - 1
+formação - 1
+afinal botafogo - 1
+cyber café - 1
+atitude racional - 1
+rugir - 1
+ir inaugurar - 1
+acontecer com - 1
+reverter - 1
+feira jogar - 1
+incentivo - 1
+união de - 1
+precisar avaliar - 1
+conformar - 1
+veloz - 1
+disputar ganhar - 1
+martins imagino - 1
+campeonato após - 1
+muito de - 1
+em derrota - 1
+em dicionário - 1
+aloísio - 1
+para gruta - 1
+branco - 1
+experiência - 1
+parabéns a - 1
+santos após - 1
+vender para - 1
+distância - 1
+adotar postura - 1
+resultado de - 1
+novo hamburgo - 1
+golzinho fazer - 1
+atlético mg - 1
+salgueiro de - 1
+tempo ir - 1
+temporada - 1
+gentil camisa - 1
+com respeito - 1
+pensar positivo - 1
+a tom - 1
+ainda talvez - 1
+a olímpico - 1
+evitar eventual - 1
+tricolor ser - 1
+ingrediente - 1
+imaginar - 1
+lúcio entrar - 1
+consolo de - 1
+golzinho - 1
+próximo resultados - 1
+provável - 1
+comporta de - 1
+alegria de - 1
+viamão em - 1
+para bahia - 1
+contato direto - 1
+tite não - 1
+grêmio jogar - 1
+colorar ir - 1
+ponta de - 1
+procurar - 1
+com austrália - 1
+chefe - 1
+antijogo fazer - 1
+já perder - 1
+manhã de - 1
+zona - 1
+para copa - 1
+timão colocar - 1
+o não - 1
+de contra - 1
+muito habilidade - 1
+feliz mudar - 1
+contra time - 1
+ordinário - 1
+audi - 1
+boa qualificar - 1
+bem brasileirão - 1
+problema colocar - 1
+desgosto com - 1
+jogo disputa - 1
+ver obrigar - 1
+de confederações - 1
+real equilíbrio - 1
+em passo - 1
+unir sintonizar - 1
+com título - 1
+ser decidir - 1
+deficiência - 1
+jogar substituir - 1
+ingrediente de - 1
+afonso - 1
+ir campo - 1
+feira por - 1
+de esforço - 1
+pena sonhar - 1
+fluminense só - 1
+imprescindível não - 1
+até de - 1
+de nação - 1
+ambição - 1
+mg sem - 1
+retomar brasileirão - 1
+desfrutar de - 1
+apenas colocar - 1
+gente saber - 1
+de rádio - 1
+assustar partida - 1
+2007 vila - 1
+autuori ir - 1
+para ganhar - 1
+colorar concentrar - 1
+ter significado - 1
+independentemente de - 1
+brasil começar - 1
+vantagem parcial - 1
+pouco conseguir - 1
+externo - 1
+facilmente - 1
+luta por - 1
+medo - 1
+rússia - 1
+estar perto - 1
+defender extinção - 1
+domingo passar - 1
+inter estar - 1
+estar sempre - 1
+lotar arena - 1
+franco - 1
+paciência tranquilidade - 1
+clássico portanto - 1
+qualificar - 1
+felicidade - 1
+em considerar - 1
+mais ponto - 1
+ser jamais - 1
+apto enfrentar - 1
+brasileiro campanha - 1
+a teórico - 1
+lúcio servir - 1
+onde - 1
+calar cacalo - 1
+juan dever - 1
+reclamar também - 1
+trabalhar - 1
+validade - 1
+titular de - 1
+por colorar - 1
+metro quadrado - 1
+renato ter - 1
+poder vir - 1
+além receber - 1
+com incapacidade - 1
+ir direto - 1
+não aumentar - 1
+bom não - 1
+digno de - 1
+sem pato - 1
+entanto dizer - 1
+ceará - 1
+rafael moura - 1
+tricolor decisão - 1
+contra corinthians - 1
+autoconfiança para - 1
+reconhecer - 1
+compor meio - 1
+ouvinte de - 1
+de treiná - 1
+gentileza - 1
+retrancar sonolento - 1
+bom tamanho - 1
+cobrar - 1
+de capital - 1
+luz - 1
+hotel conta - 1
+disputa cruzeiro - 1
+incentivo a - 1
+desempenho de - 1
+competição principal - 1
+não resistir - 1
+substituir suspenso - 1
+colorar vez - 1
+até momento - 1
+em brasil - 1
+medida em - 1
+deixar brecha - 1
+constante sem - 1
+de moledo - 1
+toalha como - 1
+patinar vez - 1
+matéria de - 1
+scolari para - 1
+alexandre pato - 1
+agregar reforço - 1
+ir somente - 1
+seleção além - 1
+alexandre - 1
+de sub - 1
+mauricio até - 1
+entender porquê - 1
+clemer missão - 1
+de atacar - 1
+rodada clássico - 1
+breve - 1
+ser treino - 1
+em ponta - 1
+por caio - 1
+jogar como - 1
+fred vender - 1
+partida inteiro - 1
+tavares - 1
+não faltar - 1
+bem por - 1
+de assistir - 1
+com em - 1
+poder ficar - 1
+novo campo - 1
+marcar primeiro - 1
+página de - 1
+inclusive em - 1
+polônia - 1
+concentrar para - 1
+êxito - 1
+luxemburgo barulhento - 1
+erro trocar - 1
+aquecer indoor - 1
+ter providenciar - 1
+exigência - 1
+tabela após - 1
+estar definir - 1
+o paisagem - 1
+em evolução - 1
+receio - 1
+grupo de - 1
+resistir minuto - 1
+erro - 1
+a brasil - 1
+em coração - 1
+ter a - 1
+muriel gabriel - 1
+motivo justificar - 1
+diminuir prejuízo - 1
+jornalista - 1
+urgente alterar - 1
+ser considerar - 1
+contra carioca - 1
+negativo - 1
+tricolor comparação - 1
+crônica para - 1
+ruidoso - 1
+braga abel - 1
+estivar em - 1
+de novembro - 1
+brasileiro aproximar - 1
+não fazer - 1
+comum em - 1
+abdicar - 1
+por parte - 1
+casual abel - 1
+pensar de - 1
+físico precisar - 1
+juan fabrício - 1
+olímpico de - 1
+biteco - 1
+de estrutura - 1
+índio juan - 1
+de profissional - 1
+não consagrar - 1
+humor - 1
+treinar tipo - 1
+quilômetro - 1
+campo amanhã - 1
+temporada não - 1
+fazer contra - 1
+de zé - 1
+veste camisa - 1
+terceiro gol - 1
+errar parecer - 1
+esperar por - 1
+fundamental em - 1
+número decepcionantes - 1
+campo ter - 1
+estar total - 1
+estádio olímpico - 1
+conseguir jogar - 1
+pr domingo - 1
+por quarto - 1
+turno - 1
+espetáculo - 1
+tricolor teste - 1
+ir especial - 1
+colorar ocupar - 1
+diego - 1
+contra náutico - 1
+gabriel índio - 1
+ruidoso silêncio - 1
+apostar - 1
+comparar grêmio - 1
+a o - 1
+precisar lotar - 1
+forlán para - 1
+atlético kenny - 1
+santa - 1
+para iniciar - 1
+colocar zé - 1
+coxa - 1
+a zona - 1
+quesito ruindade - 1
+significativo - 1
+colorar como - 1
+volante - 1
+vencer utilizar - 1
+etapa equipe - 1
+mancha - 1
+ver ser - 1
+jogar imprescindível - 1
+agradar - 1
+imaginar queixoso - 1
+estar lesionar - 1
+em poder - 1
+atuação para - 1
+intolerância em - 1
+seriar motivo - 1
+confinar a - 1
+imagino - 1
+rodar - 1
+em total - 1
+de nutricionista - 1
+casa tricolor - 1
+de pré - 1
+franco time - 1
+mira - 1
+sequer - 1
+vencer kenny - 1
+paulo de - 1
+náutico grêmio - 1
+importante sedento - 1
+desempenho sob - 1
+inter a - 1
+arara azul - 1
+goiás - 1
+portanto - 1
+martins inegável - 1
+conta em - 1
+sair por - 1
+com perda - 1
+poder atuar - 1
+obrigar atacar - 1
+treinar dirigir - 1
+amostragem - 1
+lista de - 1
+mandante - 1
+trave - 1
+ter felicidade - 1
+lado história - 1
+estrear - 1
+baixar - 1
+campo com - 1
+corinthians quarta - 1
+poder jogar - 1
+hoje com - 1
+nivelar - 1
+assertivo em - 1
+só ficar - 1
+caber clemer - 1
+forte cacalo - 1
+amassar - 1
+encontrar - 1
+pois medida - 1
+ter muito - 1
+dia ser - 1
+relação parte - 1
+marcação - 1
+servir times - 1
+considerar fundamental - 1
+feira em - 1
+duvidoso - 1
+de basta - 1
+com atual - 1
+inclusive - 1
+tático - 1
+poder chegar - 1
+gaúcha - 1
+ter consciência - 1
+com adversário - 1
+campeonato sem - 1
+santos fazer - 1
+partida vitória - 1
+inaugurar feira - 1
+administrar - 1
+para bravatas - 1
+colorar palmo - 1
+ucrânia - 1
+obra enriquecer - 1
+campeão brasileiro - 1
+sem final - 1
+ocioso demais - 1
+claro - 1
+compatriota - 1
+por renato - 1
+feira de - 1
+notícia para - 1
+de derrota - 1
+mundial - 1
+salgueiro - 1
+digno - 1
+timão - 1
+quesito atitude - 1
+racional - 1
+vila não - 1
+branquinha em - 1
+empenhar - 1
+renato colocar - 1
+clássico digno - 1
+por fifa - 1
+cogitar de - 1
+reportagem conseguir - 1
+beira rio - 1
+fe - 1
+verde qg - 1
+para ver - 1
+torcer ser - 1
+baixas contra - 1
+clemer unir - 1
+pernambuco por - 1
+equilíbrio para - 1
+lesionar ficar - 1
+péssima - 1
+conquistar terceiro - 1
+com time - 1
+crítica - 1
+debate em - 1
+qg vermelho - 1
+especial adaptar - 1
+fracassar - 1
+piscina até - 1
+talvez esperar - 1
+já hospedar - 1
+porte - 1
+goiás em - 1
+cabeça hipótese - 1
+caso em - 1
+conta de - 1
+primeira divisão - 1
+ser passar - 1
+tédio - 1
+acrescento - 1
+sub estrear - 1
+comparação a - 1
+físico adequar - 1
+fabrício ceará - 1
+principal em - 1
+iniciar - 1
+falar de - 1
+título mundial - 1
+clemer eliminar - 1
+direito sagrar - 1
+técnico paulo - 1
+nova mais - 1
+treino reportagem - 1
+tricolor onde - 1
+ir para - 1
+com ar - 1
+assertivo - 1
+grande proeza - 1
+de animal - 1
+frente marcar - 1
+em maior - 1
+por resultado - 1
+histórico vencedor - 1
+de rescisão - 1
+ser ser - 1
+contra grêmio - 1
+entanto só - 1
+resolver problema - 1
+para ser - 1
+austrália portugal - 1
+noruega rússia - 1
+ilegítimo cbf - 1
+momento em - 1
+antijogo - 1
+análise - 1
+poder sofrer - 1
+armadilha para - 1
+direita - 1
+justificar d - 1
+terceiros vez - 1
+máximo de - 1
+vez em - 1
+em baixar - 1
+ar - 1
+miopia - 1
+sempre a - 1
+possível em - 1
+em técnico - 1
+a cogitar - 1
+de recopa - 1
+de defesa - 1
+mercê - 1
+frente adversário - 1
+pretender - 1
+de quinta - 1
+combativo - 1
+inegável - 1
+menos rechear - 1
+próximo ano - 1
+sem futebol - 1
+inter fazer - 1
+maracanã inter - 1
+como achar - 1
+times fazer - 1
+para mostrar - 1
+clemer kenny - 1
+toalha - 1
+matheus - 1
+biografia ser - 1
+baixo de - 1
+embora - 1
+querer atacar - 1
+grande parte - 1
+tom crítico - 1
+ney - 1
+como arara - 1
+portanto com - 1
+nutricionista - 1
+moledo - 1
+paulo em - 1
+tempo anunciar - 1
+missão - 1
+fazer estreia - 1
+tratar - 1
+de euforia - 1
+imprensa com - 1
+mesmo já - 1
+cogitar - 1
+vez mudo - 1
+tanto ser - 1
+time almejar - 1
+forte contra - 1
+time colorar - 1
+ter piscina - 1
+restaurante sala - 1
+falência - 1
+verdadeiro ser - 1
+colocar atleta - 1
+lesionar - 1
+de atitude - 1
+pacaembu - 1
+sonolento sem - 1
+tático função - 1
+o série - 1
+santa fe - 1
+sufocar - 1
+colher - 1
+assim em - 1
+ameaçar - 1
+voltar ter - 1
+comandar vestiário - 1
+a primeiros - 1
+existir - 1
+competir comparação - 1
+crer - 1
+muito ruim - 1
+motivo mais - 1
+dátolo - 1
+fatídico - 1
+por miopia - 1
+pedido - 1
+crônica - 1
+deus - 1
+negativo de - 1
+opinião ser - 1
+wianey carlet - 1
+vida estar - 1
+salvar vasco - 1
+noite poder - 1
+vida de - 1
+redação - 1
+recopa - 1
+palmo kenny - 1
+mesmo bola - 1
+salvo - 1
+beleza de - 1
+dar muito - 1
+macaco - 1
+mágico - 1
+a simples - 1
+inapagável - 1
+manhã - 1
+momento com - 1
+ser questão - 1
+por objetivo - 1
+de exigência - 1
+pacaembu com - 1
+vitória gremista - 1
+iniciativa - 1
+internacional em - 1
+mais ir - 1
+decepcionantes - 1
+ir sempre - 1
+poder negar - 1
+por base - 1
+competência vontade - 1
+dizer há - 1
+pontaria ser - 1
+carcará - 1
+com vontade - 1
+tricolor falência - 1
+atenuar - 1
+para ucrânia - 1
+adversário salgueiro - 1
+branco preta - 1
+zagueiro lúcio - 1
+xingar - 1
+colorar deixar - 1
+ir sofrer - 1
+ontem em - 1
+em fluminense - 1
+generalizar - 1
+de curitiba - 1
+ser ilegítimo - 1
+ser momento - 1
+não considerar - 1
+aprontar - 1
+entregar - 1
+rodada antes - 1
+maracanã precisar - 1
+centenário ter - 1
+em país - 1
+amenizar - 1
+receber inter - 1
+roberto de - 1
+não crer - 1
+por destaque - 1
+sem tipo - 1
+cera - 1
+faltar - 1
+de consagrar - 1
+chamar - 1
+calar - 1
+portugal - 1
+agressão - 1
+haver jogar - 1
+esperar vitória - 1
+viamão josé - 1
+de libertar - 1
+inaugurar - 1
+fabrício quando - 1
+falar - 1
+alessandro não - 1
+jogar torcer - 1
+hoje estar - 1
+de minuto - 1
+passo de - 1
+buscar reforço - 1
+de recuperar - 1
+sempre responsável - 1
+lesão em - 1
+equipe desistir - 1
+de clássico - 1
+ouço comentário - 1
+generoso - 1
+luta - 1
+ufanismo para - 1
+aguardar em - 1
+tricolor time - 1
+atingir objetivo - 1
+noite contra - 1
+para retomar - 1
+permitir - 1
+tempo razoável - 1
+único - 1
+lugar por - 1
+teste diferente - 1
+contra bahia - 1
+de só - 1
+validade haver - 1
+palavra ainda - 1
+repetição integral - 1
+dar por - 1
+ser sinal - 1
+ufanismo - 1
+provocar varzeanas - 1
+delegar rumo - 1
+forlán também - 1
+escalações - 1
+em maracanã - 1
+amassar por - 1
+liberdade - 1
+compor - 1
+tornar puro - 1
+jogar adversário - 1
+vencer em - 1
+mesmo hoje - 1
+ir reconhecer - 1
+marketing de - 1
+confesso ficar - 1
+ser cuidar - 1
+de delegar - 1
+estádio estimular - 1
+penso - 1
+futebol ganhar - 1
+libertar ser - 1
+merecidamente atingir - 1
+preparar retorno - 1
+náutico domingo - 1
+polônia já - 1
+tranqulidade - 1
+em analogia - 1
+mês - 1
+josimar - 1
+preocupação constante - 1
+quando ir - 1
+couto pereira - 1
+reclamar colega - 1
+receber delegar - 1
+jogo ajudar - 1
+colorar inter - 1
+desqualificar - 1
+ótimo treinador - 1
+ser noite - 1
+trabalhar com - 1
+dúvida utilidade - 1
+cintia carvalho - 1
+bravatas - 1
+depender - 1
+de deficiência - 1
+reforço vender - 1
+por generoso - 1
+resultados estar - 1
+omissão - 1
+constante também - 1
+novo título - 1
+justo contra - 1
+g4 não - 1
+campanha em - 1
+permitir a - 1
+trabalho coletivo - 1
+inter trabalhar - 1
+ainda ter - 1
+brasileirão começar - 1
+barros vermelho - 1
+clemer assumir - 1
+rechear - 1
+pergunta - 1
+x inter - 1
+desafio aguardar - 1
+inalcançável em - 1
+furacão aprontar - 1
+de programa - 1
+programa - 1
+dátolo rafael - 1
+história repetir - 1
+multiuso - 1
+ordinário prejudicar - 1
+só restar - 1
+desempenho melhor - 1
+felipe - 1
+mauricio tavares - 1
+alimentar - 1
+de fluminense - 1
+cuidar de - 1
+parcial de - 1
+hoje clemer - 1
+rescisão - 1
+só defender - 1
+prezar - 1
+desejar - 1
+de ainda - 1
+ritmo mesmo - 1
+azar de - 1
+destino de - 1
+função dia - 1
+ter marcar - 1
+grupo ter - 1
+ser claro - 1
+azul - 1
+atingir - 1
+vencedor só - 1
+brasil estar - 1
+diferença como - 1
+substituto - 1
+volta quando - 1
+arena lotar - 1
+acertar - 1
+restante de - 1
+de livro - 1
+amistoso com - 1
+incentivar - 1
+relação o - 1
+2014 - 1
+necessário para - 1
+de diferença - 1
+considerar por - 1
+apoio total - 1
+superior a - 1
+restar - 1
+nova chance - 1
+desde rodar - 1
+certeza - 1
+leitor de - 1
+apupo - 1
+atacar não - 1
+surgir boa - 1
+pr grêmio - 1
+pensar diferente - 1
+reunião - 1
+brasileirão por - 1
+esforço - 1
+vontade para - 1
+relaxar - 1
+sair em - 1
+fonte nova - 1
+ser leandro - 1
+natureza - 1
+equilíbrio ser - 1
+em atuação - 1
+exigência de - 1
+argentino fazer - 1
+ir noite - 1
+alcançar recompensa - 1
+medíocre - 1
+passo - 1
+considerar desesperador - 1
+em pensar - 1
+ter número - 1
+ser torcida - 1
+específico tomar - 1
+somar - 1
+poder mais - 1
+demissão de - 1
+diego forlán - 1
+exótico como - 1
+discordar de - 1
+willians - 1
+esquema tático - 1
+time partida - 1
+com japão - 1
+futebol em - 1
+momento não - 1
+com paisagem - 1
+diferença ser - 1
+com resultados - 1
+lago em - 1
+sempre ser - 1
+para comemorar - 1
+fifa para - 1
+formar por - 1
+total clemer - 1
+fe quando - 1
+marcar em - 1
+apesar jogar - 1
+equipe seguir - 1
+como escrever - 1
+vitinho - 1
+pernambuco índio - 1
+de ano - 1
+gramado - 1
+surgir - 1
+ser último - 1
+ventura preparar - 1
+competição fluminense - 1
+hipótese de - 1
+sob comando - 1
+último morrer - 1
+lider por - 1
+ser tônica - 1
+estar com - 1
+apartar - 1
+fazer time - 1
+discordar - 1
+ouvir - 1
+para comentar - 1
+defender a - 1
+já haver - 1
+biografia - 1
+vaga em - 1
+enfim há - 1
+bem inclusive - 1
+interessar quando - 1
+deixo para - 1
+real - 1
+clemer ir - 1
+de campeonato - 1
+literatura - 1
+chance aumentar - 1
+adversário em - 1
+deus querer - 1
+vencer não - 1
+reclamar sem - 1
+lider - 1
+enfrentar domingo - 1
+decepções - 1
+cbf haver - 1
+chegar hora - 1
+indiscutível camisa - 1
+pernambucano - 1
+seriar adequar - 1
+êxito em - 1
+ficar muito - 1
+de pênalti - 1
+aproximar trazer - 1
+d alesandro - 1
+ficar parar - 1
+capanema em - 1
+quando chance - 1
+portuguesa agora - 1
+então a - 1
+preparo físico - 1
+sobre avenida - 1
+mísero - 1
+tricolor quase - 1
+técnico abel - 1
+lá estivar - 1
+seguir em - 1
+conversa com - 1
+questão físico - 1
+trave atenuar - 1
+baixas - 1
+subir - 1
+repleto de - 1
+de tranqulidade - 1
+retomar - 1
+treino para - 1
+vitória quase - 1
+carreira - 1
+limite de - 1
+alemanha frança - 1
+vez para - 1
+sertão - 1
+repetição de - 1
+curitiba atlético - 1
+consolidar - 1
+de golear - 1
+viveiro - 1
+de agora - 1
+também não - 1
+diferente cacalo - 1
+eliminar dúvida - 1
+bahia por - 1
+preocupante ainda - 1
+por principal - 1
+braga jogo - 1
+estádio não - 1
+de parte - 1
+pato convocar - 1
+torcedor gremista - 1
+mudar de - 1
+bastidor de - 1
+de leitor - 1
+jogar toalha - 1
+decisão de - 1
+domingo de - 1
+picada estar - 1
+afirmar - 1
+de perto - 1
+times de - 1
+jogar ir - 1
+assistir jogo - 1
+investir - 1
+de torcedor - 1
+voltar jogar - 1
+kleber vargas - 1
+pois - 1
+eventual - 1
+entusiasmo - 1
+time parecer - 1
+varar ser - 1
+pernambuco trazer - 1
+empate duro - 1
+vez contra - 1
+amanhã - 1
+volta em - 1
+lá - 1
+equipe ainda - 1
+provocar crítica - 1
+de agregar - 1
+aquecer - 1
+com botafogo - 1
+último ano - 1
+não comer - 1
+a torcedor - 1
+hotel vila - 1
+empatar em - 1
+avaliar futebol - 1
+momento de - 1
+tempo inter - 1
+veste - 1
+forma como - 1
+de 2006 - 1
+confundir tranquilidade - 1
+conta conquista - 1
+domingo querer - 1
+de pelotas - 1
+miopia congênito - 1
+ser desclassifcado - 1
+comentar futebol - 1
+afinal má - 1
+função bem - 1
+infinito - 1
+hotel investir - 1
+muito parelho - 1
+mesmo vaga - 1
+diminuir distância - 1
+sempre estar - 1
+posicionar - 1
+chuva previsão - 1
+duvidoso para - 1
+martins primeira - 1
+em libertar - 1
+logo time - 1
+para reverter - 1
+de baixo - 1
+martins depois - 1
+capacidade - 1
+fifa - 1
+estádio repleto - 1
+ter provocar - 1
+assumir semana - 1
+perigoso - 1
+apenas observar - 1
+para jornalista - 1
+restrição - 1
+simples vontade - 1
+não comporta - 1
+grande campanha - 1
+grupo grêmio - 1
+substituir por - 1
+forlán dátolo - 1
+gabriel - 1
+decisão por - 1
+decisão cacalo - 1
+perdurar - 1
+lago para - 1
+macaco entre - 1
+reforçar - 1
+armadilha - 1
+cardápio de - 1
+salas - 1
+de interior - 1
+levar capa - 1
+alesandro forlán - 1
+indigesto não - 1
+bem definir - 1
+de colocar - 1
+campeonato estadual - 1
+de país - 1
+virar - 1
+de mês - 1
+dúvida ótimo - 1
+ficar preocupar - 1
+pré selecionar - 1
+superar em - 1
+vaia - 1
+animal exótico - 1
+não imaginar - 1
+terça feira - 1
+negar - 1
+considerar além - 1
+indoor sala - 1
+gremistas entusiasmar - 1
+domingo acontecer - 1
+henrique d - 1
+sequer a - 1
+atuação de - 1
+emoção constante - 1
+bastar quando - 1
+riveros - 1
+time perder - 1
+capa guarda - 1
+expressão ser - 1
+vez caber - 1
+mostrar força - 1
+rússia polônia - 1
+objetivo para - 1
+de colisão - 1
+amostragem de - 1
+consolo - 1
+coração de - 1
+mais jogar - 1
+domingo sem - 1
+de pau - 1
+de paz - 1
+euforia - 1
+parecer jogar - 1
+moledo fred - 1
+cabeça de - 1
+acertar em - 1
+feliz - 1
+grêmio voltar - 1
+técnico encaminhar - 1
+não entender - 1
+queixoso estar - 1
+próximo de - 1
+para ocorrer - 1
+substituto para - 1
+força de - 1
+de gol - 1
+renato grêmio - 1
+suborno - 1
+continuar em - 1
+quando delegar - 1
+para ainda - 1
+transformar em - 1
+diário - 1
+tornar indesejado - 1
+histórico - 1
+anterior em - 1
+entre restaurante - 1
+sem agressão - 1
+finalmente - 1
+ir empate - 1
+contrato - 1
+hotel já - 1
+grêmio estar - 1
+scocco fazer - 1
+campo volante - 1
+em amistoso - 1
+em clima - 1
+baderneiros poder - 1
+necessário a - 1
+tecnicamente falar - 1
+confederações inter - 1
+barco - 1
+segurança autoconfiança - 1
+de êxito - 1
+barulhento - 1
+contra atlético - 1
+fluminense domingo - 1
+de provocar - 1
+partida clássico - 1
+pr técnico - 1
+por contrário - 1
+nação tricolor - 1
+inteiro hipótese - 1
+com omissão - 1
+jogar técnico - 1
+de g4 - 1
+por motivo - 1
+clima de - 1
+entregar mesmo - 1
+em início - 1
+caio otávio - 1
+engraçar para - 1
+a péssima - 1
+técnico dunga - 1
+ser não - 1
+grêmio ser - 1
+ocioso - 1
+paulista trazer - 1
+camisa com - 1
+jogo sem - 1
+torcida colorar - 1
+alcançar por - 1
+transformar campeonato - 1
+seguida - 1
+lembrar correto - 1
+jogar sempre - 1
+portaluppi pretender - 1
+há emoção - 1
+estadual a - 1
+em gre - 1
+ganhar entusiasmo - 1
+ansioso - 1
+não jogar - 1
+ingresso ser - 1
+assunto ontem - 1
+inter dever - 1
+mandar embora - 1
+importante fácil - 1
+claro de - 1
+imprescindível de - 1
+comemorar - 1
+não há - 1
+mediocridade a - 1
+cruzeiro para - 1
+sedento - 1
+colorar apoio - 1
+para conversar - 1
+recente de - 1
+saber simples - 1
+em disputa - 1
+por ontem - 1
+com bola - 1
+sobre competir - 1
+de 2014 - 1
+dar margem - 1
+sedento de - 1
+andar - 1
+destaque individual - 1
+disputar vaga - 1
+direto com - 1
+de ampliar - 1
+de corinthians - 1
+pena - 1
+de coerência - 1
+não dizer - 1
+partida ter - 1
+de chamar - 1
+há espaço - 1
+fundamental - 1
+gol facilitar - 1
+ter equipe - 1
+equipe ir - 1
+oficial - 1
+dever ter - 1
+amplo - 1
+público lotar - 1
+como mandante - 1
+delegar subir - 1
+enfim futebol - 1
+dentro fora - 1
+estar otimista - 1
+para rio - 1
+acordo - 1
+em história - 1
+time gremista - 1
+de repercussão - 1
+sábado quando - 1
+colorar procurar - 1
+joão afonso - 1
+henrique forlán - 1
+torcer ansioso - 1
+ser jogar - 1
+participar de - 1
+entrega mala - 1
+quando veste - 1
+salvo situação - 1
+qg quilômetro - 1
+sintonizar em - 1
+para internacional - 1
+retrair desistir - 1
+deu a - 1
+suborno em - 1
+atuação anterior - 1
+só dar - 1
+acordar - 1
+indiscutível talento - 1
+complexo - 1
+demonstração de - 1
+bola andar - 1
+fabrício airton - 1
+de história - 1
+frente fazer - 1
+extinção - 1
+em qg - 1
+expressão - 1
+chamar torcedor - 1
+restrição generalizar - 1
+brecha para - 1
+ter haver - 1
+para horário - 1
+muito chance - 1
+entusiasmo de - 1
+sonho em - 1
+arena ir - 1
+jogar trocar - 1
+a subida - 1
+prejuízo lutar - 1
+pênaltis depois - 1
+ser golear - 1
+escancaram utilidade - 1
+provavelmente história - 1
+escalações deixo - 1
+dicionário - 1
+talento - 1
+haver de - 1
+segundo mauricio - 1
+medo de - 1
+brasileira com - 1
+continuar intacto - 1
+embora ney - 1
+fato confirmar - 1
+de deixar - 1
+nome - 1
+parecer retrancar - 1
+em sétimo - 1
+em precisar - 1
+emoção em - 1
+academia sala - 1
+seleção em - 1
+generoso seguro - 1
+braga lúcio - 1
+ideal para - 1
+apto veloz - 1
+primeiro deus - 1
+de seedorf - 1
+beira - 1
+em razão - 1
+sentir assistir - 1
+martins como - 1
+candidato - 1
+faltar competência - 1
+mais específico - 1
+de branquinha - 1
+botafogo ontem - 1
+paz dentro - 1
+sul em - 1
+dever empenhar - 1
+assim evitar - 1
+mancha inapagável - 1
+treino até - 1
+para manhã - 1
+para próximo - 1
+portuguesa - 1
+palmo com - 1
+congênito - 1
+de precisar - 1
+hoje técnico - 1
+proeza - 1
+de possibilidade - 1
+retorno a - 1
+internacional - 1
+pouco emoção - 1
+inter fracassar - 1
+lotar em - 1
+gruta ter - 1
+com titulares - 1
+comparando tricolor - 1
+apartar complexo - 1
+gilberto - 1
+solução ser - 1
+com grupo - 1
+habilidade equilíbrio - 1
+ter acesso - 1
+ser necessário - 1
+empenhar para - 1
+bom humor - 1
+semana comando - 1
+quase adotar - 1
+permanente - 1
+ventura em - 1
+cbf - 1
+costumar incentivar - 1
+damião desencantar - 1
+mala - 1
+terceiros - 1
+intolerância - 1
+ir disputar - 1
+portugal não - 1
+com piscina - 1
+habilitar para - 1
+demonstrar - 1
+amplo possibilidade - 1
+após empate - 1
+querer comer - 1
+mandante inter - 1
+bom momento - 1
+em vestiário - 1
+satisfazer - 1
+escalação ser - 1
+fazer parte - 1
+pato ainda - 1
+habilidade - 1
+deixar jogar - 1
+realizar de - 1
+não vir - 1
+mísero golzinho - 1
+estreia - 1
+positivo como - 1
+por trabalho - 1
+dicionário de - 1
+enfrentar em - 1
+de classificação - 1
+pergunta não - 1
+também ser - 1
+pescaria bocha - 1
+ygor estar - 1
+particular penso - 1
+inter ir - 1
+jogo fatídico - 1
+futebol colorar - 1
+como conquistar - 1
+recuperar kenny - 1
+direção - 1
+sem maior - 1
+sempre ultrapassar - 1
+vaga com - 1
+quadrado de - 1
+logo em - 1
+gol de - 1
+hamburgo - 1
+expulso - 1
+título de - 1
+almejar - 1
+de vaia - 1
+horário - 1
+em desconto - 1
+de único - 1
+motivo de - 1
+selecionar por - 1
+azul macaco - 1
+cruzeiro ir - 1
+domingo pato - 1
+disputar libertar - 1
+dominar jogo - 1
+querer calar - 1
+adotar por - 1
+verde - 1
+precisar marcar - 1
+com cruzeiro - 1
+para pretensão - 1
+profissional caber - 1
+colher bom - 1
+saber novo - 1
+haver entrega - 1
+vez desde - 1
+baderneiros - 1
+em grande - 1
+crer situação - 1
+facílima - 1
+azar - 1
+ano sempre - 1
+até poder - 1
+euforia ufanismo - 1
+porém time - 1
+grande espaço - 1
+em recuperar - 1
+destino - 1
+exagerar - 1
+sem vitória - 1
+inter enfrentar - 1
+fazer cera - 1
+pescar em - 1
+queixoso - 1
+após conquista - 1
+mando de - 1
+só torcida - 1
+autoconfiança - 1
+destaque para - 1
+ter em - 1
+para não - 1
+costumar - 1
+com vestiário - 1
+ney franco - 1
+vez a - 1
+afastar - 1
+banca parar - 1
+partida comparar - 1
+em dúvida - 1
+de paulo - 1
+aliás ser - 1
+feira marcar - 1
+considerar até - 1
+distante de - 1
+brasileirão inter - 1
+brasileirão perder - 1
+tranquilidade com - 1
+obter santos - 1
+por amostragem - 1
+em modesto - 1
+de domingo - 1
+basta - 1
+jogar apto - 1
+paulo estar - 1
+posição deixar - 1
+matheus biteco - 1
+quando vargas - 1
+ter azar - 1
+muito por - 1
+imortal inesquecível - 1
+mínimo de - 1
+alan expulso - 1
+tarefa de - 1
+desconto por - 1
+vender jogar - 1
+braga time - 1
+razão de - 1
+de ouvir - 1
+sem ter - 1
+alterar forma - 1
+adversário por - 1
+menor - 1
+evitar suborno - 1
+por náutico - 1
+facilitar - 1
+total perder - 1
+somente debate - 1
+vantagem clube - 1
+durante minuto - 1
+de reunião - 1
+atenuar fraco - 1
+parar vez - 1
+simples desqualificar - 1
+péssima fase - 1
+para enfrentar - 1
+carregar - 1
+matéria - 1
+pensar em - 1
+facílima percepção - 1
+vez atlético - 1
+desencantar inter - 1
+forte adversário - 1
+tamanho - 1
+rodada entrega - 1
+motivo mísero - 1
+título clemer - 1
+apesar - 1
+time a - 1
+mais menos - 1
+a g4 - 1
+inter preparar - 1
+buscar resultado - 1
+direção em - 1
+recente viver - 1
+campeonato poder - 1
+agradar em - 1
+apostar sem - 1
+deu - 1
+justificar em - 1
+cansar beleza - 1
+atleta - 1
+recopa 2007 - 1
+feira a - 1
+em mínimo - 1
+a ser - 1
+santos sem - 1
+diferente o - 1
+passar em - 1
+exceção de - 1
+mudo - 1
+mais ter - 1
+em rota - 1
+definir para - 1
+distante - 1
+boa notícia - 1
+de qg - 1
+meio de - 1
+dar demonstração - 1
+luiz - 1
+dúvida dar - 1
+nova casa - 1
+individual - 1
+dizer diferente - 1
+de ingresso - 1
+xingar de - 1
+carlet exagerar - 1
+titulares também - 1
+só ir - 1
+facilmente literatura - 1
+finalmente arena - 1
+agressão de - 1
+gol ainda - 1
+ir ficar - 1
+por muito - 1
+corinthians x - 1
+nação - 1
+dirigir para - 1
+anunciar noite - 1
+como esperança - 1
+além ser - 1
+de opinião - 1
+alta - 1
+particular brilho - 1
+finaliza preparar - 1
+fato interessar - 1
+adversário paranaense - 1
+simples promover - 1
+por mudança - 1
+capital - 1
+providenciar substituto - 1
+praticar antijogo - 1
+ontem gostar - 1
+tranqulidade colorar - 1
+indesejado - 1
+divisão de - 1
+inesquecível em - 1
+obrigação imperioso - 1
+trazer início - 1
+teórico - 1
+comparar - 1
+observar tédio - 1
+sintonizar - 1
+sim - 1
+térmico piscina - 1
+nova vitória - 1
+para contra - 1
+jogar tecnicamente - 1
+seguro defesa - 1
+penso renato - 1
+não dever - 1
+superior compor - 1
+técnica ser - 1
+morrer continuar - 1
+missão de - 1
+ser direito - 1
+carlet - 1
+santos hoje - 1
+aproveitar de - 1
+esmorecer - 1
+voltar enfrentar - 1
+ataque formar - 1
+ter fator - 1
+de segurança - 1
+partida quando - 1
+técnica - 1
+furacão - 1
+primeiros - 1
+suspenso em - 1
+integrar time - 1
+demissão - 1
+santos tomar - 1
+em medida - 1
+nutricionista de - 1
+ser disputar - 1
+ter menor - 1
+fracassar em - 1
+pau - 1
+puro contato - 1
+a brasileirão - 1
+de porte - 1
+mudança em - 1
+consistente de - 1
+pênalti - 1
+ter por - 1
+segurança - 1
+otávio - 1
+jogo estar - 1
+sonhar - 1
+em constatar - 1
+preocupante - 1
+em restante - 1
+atlético mineiro - 1
+contra portuguesa - 1
+em ritmo - 1
+tricolor medida - 1
+conformar com - 1
+por baixo - 1
+em rio - 1
+viver grêmio - 1
+pênaltis ser - 1
+negar fato - 1
+também discordar - 1
+consciência - 1
+para salvar - 1
+torcer preocupar - 1
+porte de - 1
+ser preocupante - 1
+confirmar - 1
+em 78 - 1
+futebol preocupar - 1
+nal melhor - 1
+eventual entrega - 1
+jogar motivo - 1
+sempre ter - 1
+em alta - 1
+ser alcançar - 1
+talvez com - 1
+final voltar - 1
+em coxa - 1
+gostar - 1
+até lago - 1
+atacar deixar - 1
+seedorf - 1
+como estádio - 1
+desclassifcado - 1
+já poder - 1
+ponto importante - 1
+fazer vantagem - 1
+por copa - 1
+colorar novo - 1
+ocorrer ser - 1
+coisa assim - 1
+técnico ser - 1
+mês ser - 1
+joão - 1
+vida profissional - 1
+estar de - 1
+inúmero - 1
+comentário não - 1
+escalar jogar - 1
+com destaque - 1
+japão alemanha - 1
+marcar não - 1
+de contrato - 1
+competição não - 1
+poder constatar - 1
+couto - 1
+com colega - 1
+servir - 1
+número escancaram - 1
+ultrapassar - 1
+em tarde - 1
+quando querer - 1
+gremista atuar - 1
+flauta - 1
+engraçar - 1
+pênaltis em - 1
+verdade - 1
+varar - 1
+muito como - 1
+escolher melhor - 1
+preocupação de - 1
+damião caio - 1
+ter sair - 1
+razoável - 1
+parar por - 1
+indoor - 1
+para realizar - 1
+clemer em - 1
+final sem - 1
+alimentar de - 1
+estar ser - 1
+relevante fazer - 1
+capa - 1
+amenizar duro - 1
+superioridade em - 1
+valar levar - 1
+só conhecer - 1
+leitor tarefa - 1
+brasil contra - 1
+craque - 1
+brasileirão dar - 1
+para goiás - 1
+único jogar - 1
+não passar - 1
+gol colorar - 1
+derrota recente - 1
+metro - 1
+velho - 1
+para melhorar - 1
+mudo destino - 1
+ir a - 1
+austrália - 1
+parte dizer - 1
+de primeira - 1
+coletivo por - 1
+emprego - 1
+incompatível com - 1
+terça - 1
+time dominar - 1
+luiz felipe - 1
+de furacão - 1
+tédio transformar - 1
+por luiz - 1
+capanema - 1
+mudança - 1
+em novo - 1
+já manifestar - 1
+ir agora - 1
+suspenso não - 1
+grande título - 1
+acontecer time - 1
+dever puro - 1
+para caxias - 1
+feira inter - 1
+alterar decisão - 1
+resultado igual - 1
+errar - 1
+ser candidato - 1
+torcedor precisar - 1
+em pernambuco - 1
+almejar coisa - 1
+em lago - 1
+de sonho - 1
+com depois - 1
+abdicar de - 1
+futebol gaúcho - 1
+previsão de - 1
+responsável por - 1
+haver ser - 1
+correto em - 1
+melhor jogar - 1
+a paraná - 1
+filme inter - 1
+sofrer gol - 1
+de carreira - 1
+retorno de - 1
+para partida - 1
+dunga cobrar - 1
+alessandro ir - 1
+ser mancha - 1
+ouvinte - 1
+treiná coisa - 1
+ter ter - 1
+atuar de - 1
+vez por - 1
+por alan - 1
+campo carregar - 1
+marcar neymar - 1
+sul com - 1
+não acrescento - 1
+mala branco - 1
+atual meio - 1
+margem - 1
+desafio - 1
+tecnicamente - 1
+caminhada - 1
+provavelmente colorar - 1
+então - 1
+tarefa - 1
+dizer pior - 1
+de aquecer - 1
+desqualificar opinião - 1
+povo gremista - 1
+recompensa de - 1
+jogar d - 1
+colorar só - 1
+externo salas - 1
+lado - 1
+sempre saber - 1
+fora por - 1
+fraco jornada - 1
+somente por - 1
+chefe grupo - 1
+presto para - 1
+casual - 1
+equipes colher - 1
+mais emocionante - 1
+jogo tricolor - 1
+obter resultado - 1
+parecer ser - 1
+estar a - 1
+torcida carioca - 1
+divisão - 1
+barco kleber - 1
+subida em - 1
+deixar inalcançável - 1
+teste treinar - 1
+perder alan - 1
+situação perdurar - 1
+gol para - 1
+melhor página - 1
+de vitinho - 1
+falência de - 1
+agora tratar - 1
+fazer boa - 1
+utilizar em - 1
+gaúcha wianey - 1
+largar - 1
+aprontar em - 1
+estivar - 1
+ficar em - 1
+empate dar - 1
+martins ontem - 1
+independentemente - 1
+de dizer - 1
+em resultado - 1
+não bastar - 1
+para relaxar - 1
+preparar com - 1
+responsável - 1
+ter arena - 1
+ruim time - 1
+fazer contratar - 1
+porquê - 1
+muito próximo - 1
+satisfazer praticar - 1
+por satisfazer - 1
+barros jogar - 1
+como mais - 1
+ser partir - 1
+time sair - 1
+a escalada - 1
+partida estar - 1
+rodar atrás - 1
+atual de - 1
+substituir errar - 1
+estimular - 1
+time forte - 1
+verdade ruim - 1
+jogar pescar - 1
+de árbitro - 1
+bravatas antecipar - 1
+exagerar a - 1
+preta - 1
+filme - 1
+flauta de - 1
+agregar - 1
+qualificar há - 1
+povo encontrar - 1
+sábado possibilitar - 1
+adotar posicionar - 1
+sem receio - 1
+time durante - 1
+já preparar - 1
+proeza de - 1
+colisão - 1
+78 novo - 1
+amanhã contra - 1
+pedir - 1
+corinthians santos - 1
+não seriar - 1
+experiência ter - 1
+caso de - 1
+grande de - 1
+má - 1
+bastidor - 1
+acontecer fato - 1
+ficar abater - 1
+anterior com - 1
+equipe não - 1
+ponta - 1
+tricolor com - 1
+maioria não - 1
+minuto como - 1
+brasileirão como - 1
+a mercê - 1
+ir domingo - 1
+justificar forma - 1
+menor dúvida - 1
+leitor vez - 1
+momento diferente - 1
+correto - 1
+gentil - 1
+contra santa - 1
+recuperar de - 1
+tônica - 1
+perda de - 1
+conseguir superar - 1
+comer em - 1
+cultivar intolerância - 1
+restaurante - 1
+pretensão - 1
+recente em - 1
+ganhar saber - 1
+com aproveitar - 1
+adequar ritmo - 1
+com qualidade - 1
+imprensa - 1
+também zagueiro - 1
+inalcançável - 1
+ser superior - 1
+pelotas - 1
+salvar - 1
+escrever tanto - 1
+excepcional - 1
+fácil de - 1
+rugir em - 1
+simples estádio - 1
+tricolor zé - 1
+argentino scocco - 1
+caminhada rumo - 1
+de uruguaio - 1
+formação muriel - 1
+de acordo - 1
+adaptar pedido - 1
+por campeonato - 1
+estadual - 1
+página - 1
+poder contar - 1
+qualidade técnica - 1
+classificar para - 1
+ter ainda - 1
+gol poder - 1
+sub por - 1
+acordo com - 1
+ter vontade - 1
+ser forma - 1
+pereira tricolor - 1
+palavra sequer - 1
+vaia xingar - 1
+ingresso - 1
+demonstração - 1
+japão disputar - 1
+ser indiscutível - 1
+perder conta - 1
+de picada - 1
+rio colorar - 1
+gauchão para - 1
+maior cara - 1
+já pensar - 1
+cardápio - 1
+dunga considerar - 1
+adaptar - 1
+classificar - 1
+inteligente de - 1
+jogar resistir - 1
+chuteira passar - 1
+enriquecer biblioteca - 1
+para colorar - 1
+há série - 1
+somar ponto - 1
+razão estar - 1
+ir continuar - 1
+hospedar - 1
+em caminhada - 1
+bocha para - 1
+turquia - 1
+piscina externo - 1
+comandar sub - 1
+consagrar ficar - 1
+braga copa - 1
+conclusão - 1
+a equipe - 1
+trazer de - 1
+de estrela - 1
+reunião viveiro - 1
+fazer diferença - 1
+tomar por - 1
+reportagem - 1
+braga nome - 1
+retornar - 1
+ajudar time - 1
+mais vez - 1
+em verde - 1
+meio metro - 1
+disputar clássico - 1
+vila capanema - 1
+ainda estar - 1
+intacto - 1
+existir em - 1
+técnico permanente - 1
+turno não - 1
+classificação - 1
+abater com - 1
+contar - 1
+futebol ser - 1
+a de - 1
+dirigir - 1
+futebol dever - 1
+de diego - 1
+em coluna - 1
+otimista - 1
+cruzeiro atlético - 1
+grande jogar - 1
+em vila - 1
+teórico ser - 1
+iniciar hoje - 1
+fraco - 1
+campeão de - 1
+jogar futebol - 1
+ontem antes - 1
+promover retorno - 1
+obrigar - 1
+preciso equipe - 1
+volta de - 1
+felipe scolari - 1
+inter jogar - 1
+desfrutar - 1
+cruzeiro somar - 1
+reforçar ainda - 1
+ideal - 1
+lúcio kenny - 1
+inteiro sem - 1
+deixo - 1
+jamais - 1
+hotel quarto - 1
+demonstrar muito - 1
+brasileirão não - 1
+intuito - 1
+liberdade de - 1
+indigesto de - 1
+equipe titular - 1
+mais desgosto - 1
+para teste - 1
+merecer de - 1
+banca - 1
+dominar - 1
+tomar iniciativa - 1
+ter amplo - 1
+escalada - 1
+por pernambucano - 1
+em alemanha - 1
+nova função - 1
+estrela - 1
+não parecer - 1
+espaço em - 1
+adequar em - 1
+ver em - 1
+vestiário academia - 1
+a grupo - 1
+igual em - 1
+paz - 1
+problema - 1
+enfrentar corinthians - 1
+mira de - 1
+ser perigoso - 1
+fator - 1
+eliminar - 1
+obter mais - 1
+posição defender - 1
+momento agradar - 1
+estimular time - 1
+de gramado - 1
+resultado desejar - 1
+seriar jogo - 1
+há restrição - 1
+até por - 1
+partida anterior - 1
+centenário apesar - 1
+grêmio demonstrar - 1
+novo esquema - 1
+comemorar vitória - 1
+perigoso armadilha - 1
+imperioso inadiável - 1
+alex jogar - 1
+indiscutível de - 1
+competir - 1
+ir muito - 1
+arena pernambuco - 1
+enfrentar adversário - 1
+retrair - 1
+diário gaúcho - 1
+levar primeiro - 1
+perda - 1
+de 22h - 1
+independente - 1
+treiná - 1
+antecipar de - 1
+ser comprometer - 1
+gostar de - 1
+seleção manifestar - 1
+ser hoje - 1
+de mando - 1
+vitória imerecido - 1
+rota - 1
+muito decisão - 1
+contratar significativo - 1
+ser ocioso - 1
+não buscar - 1
+em primeiro - 1
+profissional de - 1
+de hotel - 1
+boa partida - 1
+vasco em - 1
+fazer equipe - 1
+estrela de - 1
+sucesso profissional - 1
+pontaria - 1
+veloz para - 1
+ser comum - 1
+de coluna - 1
+por forlán - 1
+bem em - 1
+galo - 1
+adversário ver - 1
+comparando - 1
+fase - 1
+prejudicar por - 1
+frança turquia - 1
+dar máximo - 1
+vitória ocorrer - 1
+preparo - 1
+poder confundir - 1
+jogar suspenso - 1
+razoável quando - 1
+não ganhar - 1
+arena fonte - 1
+estreia em - 1
+abater - 1
+provável formação - 1
+goleiro clemer - 1
+a clube - 1
+repercussão - 1
+carreira marcar - 1
+luz vermelho - 1
+emocionante decisão - 1
+comparação cacalo - 1
+empolgar compatriota - 1
+em maioria - 1
+precisar levar - 1
+atitude de - 1
+parabéns - 1
+momento para - 1
+de expressão - 1
+ameaçar por - 1
+ocorrer logo - 1
+cruzeiro consolidar - 1
+neymar pouco - 1
+bem antes - 1
+brilho - 1
+a primeira - 1
+de terceiros - 1
+com número - 1
+com medo - 1
+nal poder - 1
+contar com - 1
+martins em - 1
+sim gre - 1
+por volta - 1
+técnico vanderlei - 1
+para campo - 1
+imperioso - 1
+seguida domingo - 1
+fluminense confinar - 1
+grêmio histórico - 1
+noite imortal - 1
+tão - 1
+em timão - 1
+em lista - 1
+urgente - 1
+em luta - 1
+vencer fluminense - 1
+retrancar - 1
+volante matheus - 1
+sonolento - 1
+gremista para - 1
+crítico - 1
+nal de - 1
+em por - 1
+cancha gremista - 1
+grêmio quase - 1
+ganhar jogo - 1
+em prato - 1
+placar inacreditável - 1
+para acordar - 1
+comer querer - 1
+novo apartar - 1
+afinal decidir - 1
+cintia - 1
+velho filme - 1
+de sábado - 1
+roberto estar - 1
+conhecer - 1
+por direção - 1
+willians kleber - 1
+ser obter - 1
+de gentileza - 1
+como técnico - 1
+tom - 1
+final vencer - 1
+aliás - 1
+não dar - 1
+restante - 1
+trocar alex - 1
+inter cintia - 1
+neymar não - 1
+muito jogar - 1
+parte ser - 1
+ótimo - 1
+em beira - 1
+questão relevante - 1
+minuto para - 1
+título por - 1
+moura - 1
+muito bem - 1
+avenida - 1
+palpite feliz - 1
+arena grêmio - 1
+tarde em - 1
+inter empatar - 1
+por fabrício - 1
+poder patinar - 1
+de nova - 1
+reverter placar - 1
+cara de - 1
+hoje disputa - 1
+quase vencer - 1
+a santos - 1
+programa sala - 1
+para libertar - 1
+esperança ser - 1
+varzeanas - 1
+confinar - 1
+de chefe - 1
+futebol prejudicar - 1
+bem parecer - 1
+ponto necessário - 1
+em a - 1
+seguir - 1
+titulares - 1
+crítica de - 1
+sem exceção - 1
+favorito - 1
+já tornar - 1
+constatar ir - 1
+agora estar - 1
+cancha - 1
+peso de - 1
+afonso suspenso - 1
+haver prejuízo - 1
+possuir jogar - 1
+querer ver - 1
+vestiário cansar - 1
+78 - 1
+gruta com - 1
+colorar conseguir - 1
+ser caso - 1
+para troca - 1
+de hora - 1
+não apresentar - 1
+posição ser - 1
+sagrar - 1
+por frente - 1
+em desfrutar - 1
+braga depois - 1
+imortal - 1
+de wianey - 1
+com desempenho - 1
+incompatível - 1
+enriquecer - 1
+não existir - 1
+árbitro ir - 1
+vitória tricolor - 1
+em terça - 1
+com dimensão - 1
+em caxias - 1
+importante ser - 1
+chance para - 1
+bola em - 1
+demais - 1
+para conversa - 1
+clube paulista - 1
+estar atrás - 1
+ventura para - 1
+valar pena - 1
+de repetição - 1
+tanto vez - 1
+a sucesso - 1
+talento em - 1
+observar entender - 1
+esperança de - 1
+relativo a - 1
+desclassifcado buscar - 1
+de biografia - 1
+dimensão oficial - 1
+lista - 1
+domingo transformar - 1
+ser verdade - 1
+seleção uruguaio - 1
+time comandar - 1
+em comando - 1
+ar puro - 1
+para treinar - 1
+jogar colorar - 1
+de gremistas - 1
+capacidade para - 1
+primeiro gol - 1
+jogo amistoso - 1
+trazer para - 1
+conta gerente - 1
+segundo turno - 1
+braga derrota - 1
+airton josimar - 1
+empate ficar - 1
+ir repetição - 1
+ir mandar - 1
+com ingrediente - 1
+ygor - 1
+disputar quarta - 1
+ficar depender - 1
+ser justo - 1
+punir com - 1
+em decisão - 1
+vice - 1
+mandar campo - 1
+alegria a - 1
+etapa time - 1
+flagrar craque - 1
+encaminhar time - 1
+relevante - 1
+deixar torcer - 1
+confundir - 1
+alessandro jogar - 1
+utilizar ataque - 1
+constatar indiscutível - 1
+mesmo em - 1
+base - 1
+muito inteligente - 1
+como grande - 1
+placar em - 1
+situação atual - 1
+achar melhor - 1
+em silêncio - 1
+simples conclusão - 1
+ser administrar - 1
+perder emprego - 1
+conseguir flagrar - 1
+para avaliar - 1
+convocar por - 1
+entrar em - 1
+inacreditável em - 1
+vasco dunga - 1
+adiantar - 1
+grêmio escrever - 1
+primeiro jogo - 1
+inter não - 1
+assim com - 1
+estar marcar - 1
+futebol também - 1
+rigoroso excepcional - 1
+ser campeonato - 1
+colorar perder - 1
+punir - 1
+saber ser - 1
+ser apoiar - 1
+entusiasmar - 1
+brasileira - 1
+facilitar por - 1
+debate já - 1
+time dever - 1
+livro lá - 1
+inadiável kenny - 1
+ainda justificar - 1
+postura - 1
+há questão - 1
+pretender escalar - 1
+atacante aloísio - 1
+gente - 1
+wianey não - 1
+treino marcar - 1
+copa afirmar - 1
+paciência - 1
+mudar - 1
+sétimo - 1
+troca - 1
+praticar - 1
+brasileirão alterar - 1
+parelho - 1
+base náutico - 1
+procurar reclamar - 1
+aumentar em - 1
+com partida - 1
+ir evitar - 1
+marcar vez - 1
+coxa direita - 1
+mínimo engraçar - 1
+vez repetir - 1
+estar classificar - 1
+literatura com - 1
