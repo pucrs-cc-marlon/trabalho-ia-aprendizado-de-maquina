@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cb835f7-a1be-4469-a0c1-0391ae40aa80" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.vscode/settings.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram_bigram.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram_bigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram_bigram_trigram.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/All/all_unigram_bigram_trigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_CORPUS SEU PROBLEMA E NOSSO.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_CORPUS SEU PROBLEMA E NOSSO.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/BoW/uni_bi_tri_CORPUS SEU PROBLEMA E NOSSO.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TESTE/CORPUS SEU PROBLEMA E NOSSO.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/All/all_unigram.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/All/all_unigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/All/all_unigram_bigram.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/All/all_unigram_bigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/All/all_unigram_bigram_trigram.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/All/all_unigram_bigram_trigram.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_CORPUS SEU PROBLEMA E NOSSO.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_CORPUS SEU PROBLEMA E NOSSO.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/BoW/uni_bi_tri_CORPUS SEU PROBLEMA E NOSSO.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPACO DO TRABALHADOR.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPACO DO TRABALHADOR.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPORTES.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS ESPORTES.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS POLICIA.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS POLICIA.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS SEU PROBLEMA E NOSSO.txt" afterPath="$PROJECT_DIR$/CORPUS/TREINO/CORPUS SEU PROBLEMA E NOSSO.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/marlon_baptista_eurico_neto.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wekafiles/teste.arff" afterPath="$PROJECT_DIR$/Wekafiles/teste.arff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wekafiles/treino.arff" afterPath="$PROJECT_DIR$/Wekafiles/treino.arff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/criar_weka_files.py" afterPath="$PROJECT_DIR$/criar_weka_files.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/experimentos_py.txt" afterPath="$PROJECT_DIR$/experimentos_py.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pre_processamento.py" afterPath="$PROJECT_DIR$/pre_processamento.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,7 +17,21 @@
     <SUITE FILE_PATH="coverage/Trabalho_III$criar_weka_files.coverage" NAME="criar_weka_files Coverage Results" MODIFIED="1511886768511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="80">
+                <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,9 +63,9 @@
         <option value="$PROJECT_DIR$/Wekafiles/treino.arff" />
         <option value="$PROJECT_DIR$/Wekafiles/teste.arff" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/criar_weka_files.py" />
         <option value="$PROJECT_DIR$/experimentos_py.txt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -107,7 +76,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
+    <option name="x" value="-1367" />
     <option name="y" value="-11" />
     <option name="width" value="1368" />
     <option name="height" value="780" />
@@ -233,7 +202,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1" y="-11" width="1368" height="780" extended-state="6" />
+    <frame x="-1367" y="-11" width="1368" height="780" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968652" sideWeight="0.50455236" order="7" side_tool="true" content_ui="tabs" />
@@ -241,7 +211,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.4969651" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19954476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19954476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -504,17 +474,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="208">
-            <caret line="13" column="51" lean-forward="true" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="64">
@@ -549,6 +508,17 @@
         <state relative-caret-position="128">
           <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="80">
+            <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

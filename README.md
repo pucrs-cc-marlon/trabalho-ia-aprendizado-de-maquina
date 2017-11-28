@@ -1,5 +1,7 @@
 # Trabalho de Inteligência Artificial
 
+## Código Fonte: https://github.com/pucrs-cc-marlon/trabalho-ia-aprendizado-de-maquina
+
 ## Alunos
 - Marlon Baptista de Quadros
 - Eurico Saldanha Lemos
