@@ -1,0 +1,1718 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.functions.MultilayerPerceptron -- -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a
+Relation:     Arquivo
+Instances:    267
+Attributes:   51
+              kenny_braga
+              cacalo_silveira
+              eduardo_torre
+              silveira_martins
+              postar_por
+              de_casa
+              em_bairro
+              de_rua
+              copa_de
+              em_local
+              de_homicídio
+              a_categoria
+              de_tráfico
+              de_inter
+              de_crime
+              brigar_militar
+              de_ano
+              de_time
+              em_rua
+              paixão_tricolor
+              amanda_munhoz
+              carolina_rocha
+              morador_de
+              ir_encontrar
+              de_grêmio
+              time_de
+              em_jogo
+              braga_paixão
+              estar_em
+              tiro_em
+              de_lixo
+              dono_de
+              em_frente
+              paixão_colorar
+              de_técnico
+              martins_paixão
+              de_bala
+              não_ser
+              não_ter
+              ir_morto
+              bala_em
+              por_tiago
+              tiago_rech
+              delegacia_de
+              de_brasileirão
+              rech_a
+              em_cara
+              de_clube
+              cecília_categoria
+              dia_de
+              classe
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -0.4932424397211453
+    Node 4    0.17992268886230198
+    Node 5    0.44936058681414376
+    Node 6    1.0588064888192568
+    Node 7    -1.1254400199355235
+    Node 8    2.1594579984964812
+    Node 9    0.2118624898910555
+    Node 10    0.16033805965959663
+    Node 11    0.4523288802069396
+    Node 12    -4.308144045653971
+    Node 13    -0.8598545607763469
+    Node 14    -0.2528034123356224
+    Node 15    0.3931627526131567
+    Node 16    -2.0239506310376885
+    Node 17    0.23324140933025453
+    Node 18    -3.4053841803265588
+    Node 19    1.8608787639592443
+    Node 20    0.23643567903417353
+    Node 21    1.7815409144918508
+    Node 22    2.1911989147334463
+    Node 23    -3.0918771655314106
+    Node 24    -2.897101455046315
+    Node 25    1.2753847437486994
+    Node 26    -3.4300018107360963
+    Node 27    -3.571029119955658
+    Node 28    4.631427317311484
+    Node 29    0.24768899441287284
+    Node 30    0.8314485843865451
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -1.3254441814516793
+    Node 4    -0.9043118309073037
+    Node 5    -0.8549440562865378
+    Node 6    0.77325768145385
+    Node 7    0.6232105410101446
+    Node 8    -1.1667469437432643
+    Node 9    -0.9536822237844973
+    Node 10    -2.546491486633873
+    Node 11    -0.6537189133353762
+    Node 12    0.07080377900747767
+    Node 13    2.8090682055966067
+    Node 14    -1.9839424144983633
+    Node 15    -2.2614492298792275
+    Node 16    -3.3839114028731694
+    Node 17    -3.6405252648216218
+    Node 18    4.659073487219417
+    Node 19    -2.7662051814766
+    Node 20    -1.083785656900168
+    Node 21    -1.2156251459868952
+    Node 22    -1.6145186796454971
+    Node 23    1.2326229399302477
+    Node 24    -1.839749576278625
+    Node 25    1.5985291088228306
+    Node 26    0.8367931415647141
+    Node 27    -1.9614373097250664
+    Node 28    -0.9186472171198505
+    Node 29    -0.7537791445949007
+    Node 30    -0.7553523776878743
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -1.363803259717147
+    Node 4    -0.28888106979730643
+    Node 5    -0.7971006424700676
+    Node 6    0.750357370882503
+    Node 7    0.774056575124825
+    Node 8    -1.6595556991396578
+    Node 9    -1.118806295144453
+    Node 10    -1.2328482030339416
+    Node 11    -0.3019948900891125
+    Node 12    -0.23085721539882514
+    Node 13    -3.306653672801597
+    Node 14    -2.675804898336523
+    Node 15    1.106646610673395
+    Node 16    4.083714212568522
+    Node 17    -2.827515710642557
+    Node 18    -4.242974708850567
+    Node 19    3.8797799945722007
+    Node 20    -0.48808594342910994
+    Node 21    0.30328580461417604
+    Node 22    0.7694402377665686
+    Node 23    1.1206242244053273
+    Node 24    0.6542708095358615
+    Node 25    -3.7527215232287237
+    Node 26    0.862794446363083
+    Node 27    -0.5559476842512697
+    Node 28    -1.4333924378650584
+    Node 29    -0.2567464251043286
+    Node 30    -0.9845068149585088
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -2.807781603815001
+    Node 4    -0.016953869385773965
+    Node 5    -0.05516503254797253
+    Node 6    -3.086870793313903
+    Node 7    -2.955473239846429
+    Node 8    -0.7529143432833625
+    Node 9    0.6279843349373195
+    Node 10    1.1392795071897717
+    Node 11    -0.12713090458712348
+    Node 12    1.7352038071944962
+    Node 13    1.3828977397518483
+    Node 14    -0.08987761992577797
+    Node 15    -0.919700638183209
+    Node 16    -1.1088151358779217
+    Node 17    1.5478019729087762
+    Node 18    2.562255307720064
+    Node 19    -2.622326650053493
+    Node 20    0.16088601260262164
+    Node 21    -1.9588846897107135
+    Node 22    -2.359469312962079
+    Node 23    -3.21534349783672
+    Node 24    3.5055280436536
+    Node 25    -1.356136417362924
+    Node 26    -2.843371690215912
+    Node 27    4.125885284183082
+    Node 28    -4.669957973377651
+    Node 29    -0.1281122289874771
+    Node 30    0.2791093141208843
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    -0.063305037853021
+    Attrib kenny_braga    0.0031352545694726883
+    Attrib cacalo_silveira    0.021062646683866357
+    Attrib eduardo_torre    0.00844042282429451
+    Attrib silveira_martins    -0.03145291990737868
+    Attrib postar_por    -0.4895341873741968
+    Attrib de_casa    0.3147826703660702
+    Attrib em_bairro    0.6485207989140834
+    Attrib de_rua    0.10542863547680463
+    Attrib copa_de    -0.03120356920347136
+    Attrib em_local    0.20003174153321854
+    Attrib de_homicídio    0.26398066890961935
+    Attrib a_categoria    -0.01290623084141146
+    Attrib de_tráfico    0.13854943134339678
+    Attrib de_inter    0.2934884120407661
+    Attrib de_crime    0.11051027664885173
+    Attrib brigar_militar    -8.908563066324232E-4
+    Attrib de_ano    0.07373038002952575
+    Attrib de_time    0.038991615179485795
+    Attrib em_rua    0.21173321428192982
+    Attrib paixão_tricolor    -0.008210929448645692
+    Attrib amanda_munhoz    -0.03753018619785492
+    Attrib carolina_rocha    0.03195366664961033
+    Attrib morador_de    0.19727869105155296
+    Attrib ir_encontrar    0.3231304053341464
+    Attrib de_grêmio    -0.031079434672273278
+    Attrib time_de    -0.004662087895176317
+    Attrib em_jogo    0.07970995845748033
+    Attrib braga_paixão    -0.005101238017014731
+    Attrib estar_em    -0.36611643581472386
+    Attrib tiro_em    0.23128962802130645
+    Attrib de_lixo    0.4314348524869896
+    Attrib dono_de    0.17315297184329292
+    Attrib em_frente    -0.1852008484930094
+    Attrib paixão_colorar    -0.04708546583918647
+    Attrib de_técnico    -0.12872585064746
+    Attrib martins_paixão    0.03644850733884698
+    Attrib de_bala    0.06857435535709618
+    Attrib não_ser    0.1417597790389592
+    Attrib não_ter    -0.26652231202418525
+    Attrib ir_morto    0.174265529134137
+    Attrib bala_em    -1.1004457200079754E-4
+    Attrib por_tiago    0.0357672688073437
+    Attrib tiago_rech    0.043403376496146936
+    Attrib delegacia_de    0.08026307862430829
+    Attrib de_brasileirão    0.03774080197480238
+    Attrib rech_a    0.025930472885065656
+    Attrib em_cara    0.012283099349259106
+    Attrib de_clube    0.06191013838468128
+    Attrib cecília_categoria    -0.04607545106458655
+    Attrib dia_de    -0.03016532636185766
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    0.011301973680219077
+    Attrib kenny_braga    -0.04266094390247363
+    Attrib cacalo_silveira    -0.006585806443827703
+    Attrib eduardo_torre    0.009738731578471348
+    Attrib silveira_martins    -0.02064915524811133
+    Attrib postar_por    0.015409548248974989
+    Attrib de_casa    0.9645379390025514
+    Attrib em_bairro    1.0375223373450686
+    Attrib de_rua    -0.07376046073821044
+    Attrib copa_de    0.04556775564627284
+    Attrib em_local    0.12320907834950634
+    Attrib de_homicídio    0.6483466706515181
+    Attrib a_categoria    -0.2885163599278429
+    Attrib de_tráfico    0.3966938086371416
+    Attrib de_inter    0.5952054530377234
+    Attrib de_crime    0.09441222189716458
+    Attrib brigar_militar    0.034556086635772296
+    Attrib de_ano    -0.09988649878286422
+    Attrib de_time    -0.07366456657697294
+    Attrib em_rua    0.18163480988661287
+    Attrib paixão_tricolor    -0.1395754889079296
+    Attrib amanda_munhoz    -0.02668863989367981
+    Attrib carolina_rocha    0.009015607072630508
+    Attrib morador_de    1.4493564157370307
+    Attrib ir_encontrar    0.8439440903590307
+    Attrib de_grêmio    -0.04099022341170623
+    Attrib time_de    -0.5606352951699436
+    Attrib em_jogo    -0.29327803179756856
+    Attrib braga_paixão    -0.04956014312503709
+    Attrib estar_em    -0.8081166875645337
+    Attrib tiro_em    0.5879865160701248
+    Attrib de_lixo    0.6201895801540055
+    Attrib dono_de    0.09306461465953492
+    Attrib em_frente    -0.5613060785260094
+    Attrib paixão_colorar    0.03974659116905993
+    Attrib de_técnico    -0.5429160237942776
+    Attrib martins_paixão    0.029892072298709174
+    Attrib de_bala    0.02618293225078316
+    Attrib não_ser    -0.3711614111561089
+    Attrib não_ter    -0.14463252258684614
+    Attrib ir_morto    0.5618486960272213
+    Attrib bala_em    -0.027005699291631248
+    Attrib por_tiago    -0.026259243376479148
+    Attrib tiago_rech    0.002234788211849671
+    Attrib delegacia_de    0.0637017692743134
+    Attrib de_brasileirão    7.396172241606463E-4
+    Attrib rech_a    0.01863674544901167
+    Attrib em_cara    0.028823333220062156
+    Attrib de_clube    -0.08188564996262149
+    Attrib cecília_categoria    -0.028546766160204896
+    Attrib dia_de    -1.1127025330005755
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    0.3746592648954853
+    Attrib kenny_braga    -0.03232309525320096
+    Attrib cacalo_silveira    0.031934750950584595
+    Attrib eduardo_torre    -0.01256168678854254
+    Attrib silveira_martins    0.007574859833005064
+    Attrib postar_por    1.1235374254248633
+    Attrib de_casa    -0.4745310059030552
+    Attrib em_bairro    -0.2949068619891691
+    Attrib de_rua    -0.44609060501955405
+    Attrib copa_de    -0.046050325498696365
+    Attrib em_local    -0.12161223451912709
+    Attrib de_homicídio    2.2719251986688547
+    Attrib a_categoria    -0.6331688105222744
+    Attrib de_tráfico    1.5322320157724683
+    Attrib de_inter    0.774341344697374
+    Attrib de_crime    0.2275862474097465
+    Attrib brigar_militar    0.004969639784595671
+    Attrib de_ano    -0.5574198394664814
+    Attrib de_time    -0.3583828796051352
+    Attrib em_rua    0.015660442727062275
+    Attrib paixão_tricolor    -0.5201896265482017
+    Attrib amanda_munhoz    1.4952409216553025E-4
+    Attrib carolina_rocha    -0.0064313350221092
+    Attrib morador_de    0.5661708259564521
+    Attrib ir_encontrar    2.2314252016696354
+    Attrib de_grêmio    0.023659338911139624
+    Attrib time_de    -1.25753289281596
+    Attrib em_jogo    -0.9268886805094504
+    Attrib braga_paixão    -0.0377262828890079
+    Attrib estar_em    -0.4133616857757167
+    Attrib tiro_em    1.374014889508144
+    Attrib de_lixo    0.22558725195354798
+    Attrib dono_de    -0.001208891163279281
+    Attrib em_frente    0.5207881659152259
+    Attrib paixão_colorar    0.00928594949511611
+    Attrib de_técnico    -0.9740398185561966
+    Attrib martins_paixão    -0.02250739385312214
+    Attrib de_bala    -0.22937216069425695
+    Attrib não_ser    0.9049728983152435
+    Attrib não_ter    0.7018680983914785
+    Attrib ir_morto    1.0948635072749422
+    Attrib bala_em    0.03314196727231582
+    Attrib por_tiago    0.006453721443118468
+    Attrib tiago_rech    0.0035864177053827745
+    Attrib delegacia_de    -0.2883421864061432
+    Attrib de_brasileirão    0.02325350569834539
+    Attrib rech_a    -0.021469096896561568
+    Attrib em_cara    -0.04450137660865505
+    Attrib de_clube    -0.4130227193967082
+    Attrib cecília_categoria    -0.04560061864779341
+    Attrib dia_de    -0.22360123058775006
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    0.14074049234607106
+    Attrib kenny_braga    0.03834777753721989
+    Attrib cacalo_silveira    0.010451906671889534
+    Attrib eduardo_torre    -0.04983593732702583
+    Attrib silveira_martins    -0.033153940274708735
+    Attrib postar_por    2.8846435548141653
+    Attrib de_casa    0.6719478332681197
+    Attrib em_bairro    0.26609555005923113
+    Attrib de_rua    -0.2053110027874224
+    Attrib copa_de    -0.028992642954101845
+    Attrib em_local    0.2794022642485101
+    Attrib de_homicídio    0.4225486642946978
+    Attrib a_categoria    -0.1795182757801688
+    Attrib de_tráfico    0.5161092691363341
+    Attrib de_inter    0.4101454205226952
+    Attrib de_crime    -0.038957481718856525
+    Attrib brigar_militar    0.037512613065152994
+    Attrib de_ano    -0.279111805278881
+    Attrib de_time    -0.1345180846673562
+    Attrib em_rua    0.2599822139036011
+    Attrib paixão_tricolor    -0.21644824445059452
+    Attrib amanda_munhoz    0.019660473829186065
+    Attrib carolina_rocha    -0.039165487939524304
+    Attrib morador_de    0.6761702848149987
+    Attrib ir_encontrar    0.5330492758887709
+    Attrib de_grêmio    0.020690565281952206
+    Attrib time_de    -0.7030961630814191
+    Attrib em_jogo    -0.4457481637552977
+    Attrib braga_paixão    -0.022764201888077575
+    Attrib estar_em    -0.8665820855359743
+    Attrib tiro_em    0.5680866089970182
+    Attrib de_lixo    0.5943586358469355
+    Attrib dono_de    0.27212882613337697
+    Attrib em_frente    0.6363651911805073
+    Attrib paixão_colorar    -0.007421447558533245
+    Attrib de_técnico    -0.22317950823419946
+    Attrib martins_paixão    -0.047416028044297946
+    Attrib de_bala    -0.026206522075742453
+    Attrib não_ser    -0.40474545310864063
+    Attrib não_ter    -0.9256166234185542
+    Attrib ir_morto    0.3547673560754847
+    Attrib bala_em    -0.015900351523490112
+    Attrib por_tiago    -0.04933592025603927
+    Attrib tiago_rech    -0.004682715406935947
+    Attrib delegacia_de    0.0025591128933517534
+    Attrib de_brasileirão    0.03216342198564941
+    Attrib rech_a    0.039462963011093186
+    Attrib em_cara    -0.008473906688543621
+    Attrib de_clube    -0.1582965495623482
+    Attrib cecília_categoria    -0.040525384913407896
+    Attrib dia_de    -0.21731068805191212
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    0.05555379953927671
+    Attrib kenny_braga    -0.014956717296595388
+    Attrib cacalo_silveira    0.017224488190533543
+    Attrib eduardo_torre    0.018950842285448383
+    Attrib silveira_martins    -0.012826103117104248
+    Attrib postar_por    -3.111386255039169
+    Attrib de_casa    -0.35698413007382773
+    Attrib em_bairro    -0.766920686024888
+    Attrib de_rua    0.11203843262942904
+    Attrib copa_de    0.013221703039662039
+    Attrib em_local    -0.07659649036652624
+    Attrib de_homicídio    1.4258701484643126
+    Attrib a_categoria    -0.637052034934957
+    Attrib de_tráfico    0.8857809325157827
+    Attrib de_inter    0.4345608774370832
+    Attrib de_crime    0.309108884969392
+    Attrib brigar_militar    0.011035160387387069
+    Attrib de_ano    -0.301043722307825
+    Attrib de_time    -0.07513556697786622
+    Attrib em_rua    0.07813267663015044
+    Attrib paixão_tricolor    -0.47175294555428127
+    Attrib amanda_munhoz    0.01579067543752065
+    Attrib carolina_rocha    0.008355186726490514
+    Attrib morador_de    -0.657051506547315
+    Attrib ir_encontrar    1.3156178037222188
+    Attrib de_grêmio    0.045918224941375305
+    Attrib time_de    -1.7438421923342828
+    Attrib em_jogo    -0.6308978972827398
+    Attrib braga_paixão    -0.006195217621604944
+    Attrib estar_em    1.2255216348817328
+    Attrib tiro_em    0.7950741285562475
+    Attrib de_lixo    -0.2069177768004906
+    Attrib dono_de    1.1673082636825096
+    Attrib em_frente    -0.21994413299181514
+    Attrib paixão_colorar    0.026614859944732644
+    Attrib de_técnico    -1.9219583667043942
+    Attrib martins_paixão    0.006222652733500332
+    Attrib de_bala    0.0015157810691598269
+    Attrib não_ser    -1.0231314442279713
+    Attrib não_ter    -2.3443789838493125
+    Attrib ir_morto    1.03666441276519
+    Attrib bala_em    0.016278425385201495
+    Attrib por_tiago    0.017764267125924882
+    Attrib tiago_rech    -0.02259321438263928
+    Attrib delegacia_de    0.008992378553846705
+    Attrib de_brasileirão    0.010546588367478946
+    Attrib rech_a    0.003202863307315805
+    Attrib em_cara    0.04543736536511571
+    Attrib de_clube    -0.06933955636642133
+    Attrib cecília_categoria    -0.004867024267373496
+    Attrib dia_de    0.9564054243699175
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    0.051944808510617245
+    Attrib kenny_braga    0.048590582622701495
+    Attrib cacalo_silveira    -0.004993221975007622
+    Attrib eduardo_torre    0.021374736952674153
+    Attrib silveira_martins    -0.026535141732882184
+    Attrib postar_por    -1.271206619505259
+    Attrib de_casa    0.44692682730611305
+    Attrib em_bairro    -0.05829890930264008
+    Attrib de_rua    0.021399851876483043
+    Attrib copa_de    0.028324564010398942
+    Attrib em_local    -0.055356873553950685
+    Attrib de_homicídio    0.7677438143209967
+    Attrib a_categoria    -0.07501310668689029
+    Attrib de_tráfico    0.31627977216508135
+    Attrib de_inter    0.5456051724173543
+    Attrib de_crime    0.23599352535625343
+    Attrib brigar_militar    0.00968712592096379
+    Attrib de_ano    -0.04113224391369569
+    Attrib de_time    -0.06121039951679619
+    Attrib em_rua    0.0025339388470028506
+    Attrib paixão_tricolor    -0.18808309008539642
+    Attrib amanda_munhoz    0.04973465515711889
+    Attrib carolina_rocha    0.01636625180824655
+    Attrib morador_de    0.24867301313568368
+    Attrib ir_encontrar    0.8458107501997603
+    Attrib de_grêmio    0.02131769679759686
+    Attrib time_de    -0.40101021679813537
+    Attrib em_jogo    -0.031919271369356544
+    Attrib braga_paixão    -0.012660435925407013
+    Attrib estar_em    0.49751279618729155
+    Attrib tiro_em    0.5144756476326128
+    Attrib de_lixo    0.0077218529492819755
+    Attrib dono_de    0.48860177975411134
+    Attrib em_frente    0.17535294992691175
+    Attrib paixão_colorar    0.02974935064675907
+    Attrib de_técnico    -0.4281916473101137
+    Attrib martins_paixão    -0.03595340075026441
+    Attrib de_bala    -0.010031942549191236
+    Attrib não_ser    0.39311926157125293
+    Attrib não_ter    0.4791267177925813
+    Attrib ir_morto    0.6989449488219808
+    Attrib bala_em    0.0237388824933962
+    Attrib por_tiago    0.04377539031633915
+    Attrib tiago_rech    0.032960627300086975
+    Attrib delegacia_de    0.002508502474297592
+    Attrib de_brasileirão    -0.03445673096119598
+    Attrib rech_a    0.016184161755414136
+    Attrib em_cara    -0.04045272120775707
+    Attrib de_clube    -0.04215750918228204
+    Attrib cecília_categoria    0.022671885832039745
+    Attrib dia_de    0.008456566487065763
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    0.2318456142801925
+    Attrib kenny_braga    0.007589253843834666
+    Attrib cacalo_silveira    -0.015543921693123387
+    Attrib eduardo_torre    -0.04307534550907556
+    Attrib silveira_martins    0.0038427644862212076
+    Attrib postar_por    -2.1952012717812437
+    Attrib de_casa    0.5857307236303141
+    Attrib em_bairro    -0.1288757541261492
+    Attrib de_rua    -0.1283562441222258
+    Attrib copa_de    -0.013863454817805425
+    Attrib em_local    -0.18396695091637372
+    Attrib de_homicídio    0.36864696340805125
+    Attrib a_categoria    0.5902078608333073
+    Attrib de_tráfico    -0.2616071721351601
+    Attrib de_inter    0.2543769941589398
+    Attrib de_crime    0.006358079761459199
+    Attrib brigar_militar    0.020820145033087573
+    Attrib de_ano    0.5017177089057157
+    Attrib de_time    -0.30040368093238656
+    Attrib em_rua    -0.056259304881434005
+    Attrib paixão_tricolor    -0.36598852258990605
+    Attrib amanda_munhoz    -0.002704550262388958
+    Attrib carolina_rocha    0.005305145812787369
+    Attrib morador_de    -0.7773968324039163
+    Attrib ir_encontrar    0.5190647853708817
+    Attrib de_grêmio    0.02683806700143722
+    Attrib time_de    0.48944546748175666
+    Attrib em_jogo    0.6099263256342902
+    Attrib braga_paixão    0.04523460323689292
+    Attrib estar_em    0.7834733129022698
+    Attrib tiro_em    0.11690619314111866
+    Attrib de_lixo    -0.25014019762381473
+    Attrib dono_de    0.37419495106806494
+    Attrib em_frente    0.179150957526426
+    Attrib paixão_colorar    0.03721291410199079
+    Attrib de_técnico    -0.35555339161238425
+    Attrib martins_paixão    -0.04243969606114317
+    Attrib de_bala    -0.07629113276132901
+    Attrib não_ser    0.8949122945634114
+    Attrib não_ter    0.8127511305192991
+    Attrib ir_morto    0.4644430224985334
+    Attrib bala_em    0.005567463080790723
+    Attrib por_tiago    -0.028595268129031293
+    Attrib tiago_rech    0.011757129401772079
+    Attrib delegacia_de    -0.16559996593757645
+    Attrib de_brasileirão    -0.03541396309272306
+    Attrib rech_a    0.007324041054005172
+    Attrib em_cara    -0.01776598684086511
+    Attrib de_clube    -0.2601463403528101
+    Attrib cecília_categoria    0.043748991798823786
+    Attrib dia_de    2.5383662001045493
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    -0.10281768893136238
+    Attrib kenny_braga    0.01042474596168478
+    Attrib cacalo_silveira    -0.023060522140987718
+    Attrib eduardo_torre    3.361848097499856E-4
+    Attrib silveira_martins    -0.014505574274310422
+    Attrib postar_por    -0.4227269880827331
+    Attrib de_casa    0.35587237693833895
+    Attrib em_bairro    0.482175574527332
+    Attrib de_rua    0.09320563006003577
+    Attrib copa_de    -0.0351125198849061
+    Attrib em_local    0.1188687233458214
+    Attrib de_homicídio    0.6172072543408341
+    Attrib a_categoria    -0.07528885193851355
+    Attrib de_tráfico    0.3845356262916237
+    Attrib de_inter    0.42056922966795246
+    Attrib de_crime    0.22242257380114522
+    Attrib brigar_militar    -0.01762065946648441
+    Attrib de_ano    2.2118606895323985E-4
+    Attrib de_time    0.06411746981561177
+    Attrib em_rua    0.2290070854420608
+    Attrib paixão_tricolor    -0.05020531092751982
+    Attrib amanda_munhoz    -0.030569868369969735
+    Attrib carolina_rocha    0.0033529472622731427
+    Attrib morador_de    0.2772005118572949
+    Attrib ir_encontrar    0.5933962847524833
+    Attrib de_grêmio    0.008574810624102591
+    Attrib time_de    -0.3082328497103475
+    Attrib em_jogo    -0.05957316022817445
+    Attrib braga_paixão    0.04405311950808133
+    Attrib estar_em    -0.610109532031122
+    Attrib tiro_em    0.41495360950290416
+    Attrib de_lixo    0.21403411156306387
+    Attrib dono_de    0.11228139788174356
+    Attrib em_frente    -0.08116405995516324
+    Attrib paixão_colorar    -0.00391819510575888
+    Attrib de_técnico    -0.23263990784377356
+    Attrib martins_paixão    -0.01109169368348406
+    Attrib de_bala    0.12052687071689691
+    Attrib não_ser    -0.1197335127484382
+    Attrib não_ter    -0.103820592239175
+    Attrib ir_morto    0.4193611963733911
+    Attrib bala_em    -0.017182049203055827
+    Attrib por_tiago    0.020929252747273808
+    Attrib tiago_rech    0.032153144861536406
+    Attrib delegacia_de    0.14585428789401453
+    Attrib de_brasileirão    0.025309851409705514
+    Attrib rech_a    0.023184557691336954
+    Attrib em_cara    0.032323248168846075
+    Attrib de_clube    0.026866006467960918
+    Attrib cecília_categoria    0.005508315185416959
+    Attrib dia_de    -0.34682301193537657
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    -0.49375959420808396
+    Attrib kenny_braga    -0.022689136506733057
+    Attrib cacalo_silveira    0.024514716787820107
+    Attrib eduardo_torre    0.019136650651400286
+    Attrib silveira_martins    -0.018993494992989125
+    Attrib postar_por    3.8570131406536845
+    Attrib de_casa    -2.1161489830444182
+    Attrib em_bairro    0.2055505901816237
+    Attrib de_rua    0.4886291645644555
+    Attrib copa_de    0.008446885642786783
+    Attrib em_local    -0.012222517070084224
+    Attrib de_homicídio    0.12345079974200857
+    Attrib a_categoria    1.277361681535298
+    Attrib de_tráfico    0.49603120687777125
+    Attrib de_inter    -0.01939360454522396
+    Attrib de_crime    0.4916972935286375
+    Attrib brigar_militar    0.015220020007687463
+    Attrib de_ano    1.234214024267606
+    Attrib de_time    0.47806241127606497
+    Attrib em_rua    -0.07733820470877911
+    Attrib paixão_tricolor    0.5384232077344301
+    Attrib amanda_munhoz    -0.02721056666118088
+    Attrib carolina_rocha    0.019133860748761305
+    Attrib morador_de    0.7372766000840446
+    Attrib ir_encontrar    -0.47966302833626806
+    Attrib de_grêmio    -0.049002076912374626
+    Attrib time_de    0.8715916672270355
+    Attrib em_jogo    0.1389185077257465
+    Attrib braga_paixão    -0.02759422472561255
+    Attrib estar_em    2.382503750324622
+    Attrib tiro_em    0.24486951228839712
+    Attrib de_lixo    -0.4202674600350235
+    Attrib dono_de    0.3763082634249378
+    Attrib em_frente    -0.7776719033035606
+    Attrib paixão_colorar    0.03284212272501212
+    Attrib de_técnico    0.5113466293818483
+    Attrib martins_paixão    0.020263820578316966
+    Attrib de_bala    0.5414972878628143
+    Attrib não_ser    -4.037459170131487
+    Attrib não_ter    -2.6555726803437056
+    Attrib ir_morto    0.19994144537716474
+    Attrib bala_em    0.01844892078796044
+    Attrib por_tiago    -0.0436370098525571
+    Attrib tiago_rech    -0.0033841282491076236
+    Attrib delegacia_de    0.4426258060792248
+    Attrib de_brasileirão    -0.04902676655102435
+    Attrib rech_a    0.003113424815962121
+    Attrib em_cara    0.045131246152042934
+    Attrib de_clube    0.4984971963699209
+    Attrib cecília_categoria    0.034698276539883346
+    Attrib dia_de    2.0023042507125246
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    -0.36531041908023004
+    Attrib kenny_braga    0.0013186847604970478
+    Attrib cacalo_silveira    -0.02938360866672899
+    Attrib eduardo_torre    0.030081142419855905
+    Attrib silveira_martins    0.03374548634922726
+    Attrib postar_por    -0.46637347780623456
+    Attrib de_casa    -0.33482434392891636
+    Attrib em_bairro    0.18881465908284073
+    Attrib de_rua    0.4303576049272479
+    Attrib copa_de    0.03333189475916118
+    Attrib em_local    0.05139675007823403
+    Attrib de_homicídio    -0.5983504166303755
+    Attrib a_categoria    1.0819577636304047
+    Attrib de_tráfico    -0.3491135294895734
+    Attrib de_inter    0.121451815718491
+    Attrib de_crime    0.06943283959808547
+    Attrib brigar_militar    0.03762587144226595
+    Attrib de_ano    0.7491510698579917
+    Attrib de_time    0.37932980753554424
+    Attrib em_rua    -0.01283457167770624
+    Attrib paixão_tricolor    0.5484040235745079
+    Attrib amanda_munhoz    -0.041064610861084754
+    Attrib carolina_rocha    -0.01818353966697237
+    Attrib morador_de    -1.0077632056298178
+    Attrib ir_encontrar    -0.404574475840871
+    Attrib de_grêmio    0.03796141451321321
+    Attrib time_de    2.0211446363475556
+    Attrib em_jogo    1.3198365129974317
+    Attrib braga_paixão    -0.010141709240483895
+    Attrib estar_em    -0.24508058285819462
+    Attrib tiro_em    -0.14280120572119087
+    Attrib de_lixo    -0.6057073982235323
+    Attrib dono_de    -1.1433159941218483
+    Attrib em_frente    -0.29592927155747717
+    Attrib paixão_colorar    -0.047786927532818824
+    Attrib de_técnico    1.3898363416073676
+    Attrib martins_paixão    0.014944244029467174
+    Attrib de_bala    0.3283817394536125
+    Attrib não_ser    2.815136762116753
+    Attrib não_ter    3.6764043477217014
+    Attrib ir_morto    -0.07068856311187374
+    Attrib bala_em    0.008879224373075242
+    Attrib por_tiago    0.02551282510833333
+    Attrib tiago_rech    -0.04794589800178717
+    Attrib delegacia_de    0.32463990170528195
+    Attrib de_brasileirão    -0.03324278325395377
+    Attrib rech_a    -0.04377881680675882
+    Attrib em_cara    -0.02708955958276016
+    Attrib de_clube    0.37049741436838773
+    Attrib cecília_categoria    0.02545460855196137
+    Attrib dia_de    -0.604044688022544
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    -0.09218138995857418
+    Attrib kenny_braga    0.04447402599490899
+    Attrib cacalo_silveira    -0.0350468967770934
+    Attrib eduardo_torre    0.022161661904508648
+    Attrib silveira_martins    0.01707815148496379
+    Attrib postar_por    -2.8584305120763926
+    Attrib de_casa    0.4711457303646145
+    Attrib em_bairro    -0.19619844822520274
+    Attrib de_rua    0.3627605829776919
+    Attrib copa_de    0.017129809691063314
+    Attrib em_local    -0.21263627242667335
+    Attrib de_homicídio    0.20032471974020694
+    Attrib a_categoria    0.5903670665218402
+    Attrib de_tráfico    -0.25743196092690307
+    Attrib de_inter    0.5505156866311809
+    Attrib de_crime    0.3556908653410747
+    Attrib brigar_militar    0.025550506530299485
+    Attrib de_ano    0.4440960847209628
+    Attrib de_time    0.16767757912901535
+    Attrib em_rua    -0.2554101717326886
+    Attrib paixão_tricolor    0.10228825294841513
+    Attrib amanda_munhoz    0.04202876030255624
+    Attrib carolina_rocha    -0.005903593006299598
+    Attrib morador_de    -0.6057335726254475
+    Attrib ir_encontrar    0.19423561657250588
+    Attrib de_grêmio    -0.003341108371491451
+    Attrib time_de    0.9114474767284493
+    Attrib em_jogo    0.7182259337910591
+    Attrib braga_paixão    0.036349705754946685
+    Attrib estar_em    -0.5907497582635725
+    Attrib tiro_em    -0.062032981169332625
+    Attrib de_lixo    -0.44019813699479465
+    Attrib dono_de    0.37701316160590054
+    Attrib em_frente    0.07509265256059233
+    Attrib paixão_colorar    -0.042439792469211514
+    Attrib de_técnico    0.4914617829651033
+    Attrib martins_paixão    0.01719542318974522
+    Attrib de_bala    0.19978928279428707
+    Attrib não_ser    0.11973990196286088
+    Attrib não_ter    0.6007228372405429
+    Attrib ir_morto    0.28894574437836423
+    Attrib bala_em    -0.02562312057236893
+    Attrib por_tiago    0.0326122573233127
+    Attrib tiago_rech    -0.04665966567462526
+    Attrib delegacia_de    0.15419018519412983
+    Attrib de_brasileirão    0.021240294198583712
+    Attrib rech_a    0.028967267519557693
+    Attrib em_cara    0.04461199666871489
+    Attrib de_clube    0.10511409850956241
+    Attrib cecília_categoria    0.009016133471921053
+    Attrib dia_de    0.3087053661214017
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    0.2786039159311597
+    Attrib kenny_braga    -0.028224954973757533
+    Attrib cacalo_silveira    0.042037220615188664
+    Attrib eduardo_torre    -0.015848145382199023
+    Attrib silveira_martins    -0.03909262546651873
+    Attrib postar_por    -0.4327288108625839
+    Attrib de_casa    2.323478289568403
+    Attrib em_bairro    0.9911373180270808
+    Attrib de_rua    -0.23328321651011527
+    Attrib copa_de    -0.009819950887176167
+    Attrib em_local    1.0760198664963243
+    Attrib de_homicídio    -0.13046688601602638
+    Attrib a_categoria    -0.24080669611782843
+    Attrib de_tráfico    -0.18941839933856508
+    Attrib de_inter    -0.2655474338467189
+    Attrib de_crime    -0.18556390604378392
+    Attrib brigar_militar    -0.03990466606129988
+    Attrib de_ano    -0.2635843513285581
+    Attrib de_time    -0.2629379448151947
+    Attrib em_rua    1.0147700462307363
+    Attrib paixão_tricolor    -0.22178368204184426
+    Attrib amanda_munhoz    0.02652658541784468
+    Attrib carolina_rocha    -0.04880001251588976
+    Attrib morador_de    -0.09831782304928792
+    Attrib ir_encontrar    -0.09876986976981639
+    Attrib de_grêmio    0.0325112166534257
+    Attrib time_de    -0.3764728396446933
+    Attrib em_jogo    -0.20216124515392567
+    Attrib braga_paixão    0.029148653230814878
+    Attrib estar_em    -0.28926413652304445
+    Attrib tiro_em    -0.1269150422428572
+    Attrib de_lixo    2.6454819550285724
+    Attrib dono_de    0.3128457153611204
+    Attrib em_frente    1.8778696960177255
+    Attrib paixão_colorar    -0.03727851671725194
+    Attrib de_técnico    -0.3814518009019875
+    Attrib martins_paixão    0.03900548885285586
+    Attrib de_bala    -0.183371289904076
+    Attrib não_ser    0.583584513343612
+    Attrib não_ter    -0.5666066487740846
+    Attrib ir_morto    -0.222615588479343
+    Attrib bala_em    -0.013606436880239194
+    Attrib por_tiago    0.01351700297810797
+    Attrib tiago_rech    0.033277152696378515
+    Attrib delegacia_de    -0.17699667482863268
+    Attrib de_brasileirão    -0.020651916781719317
+    Attrib rech_a    -0.03326619836481557
+    Attrib em_cara    0.03487601701653702
+    Attrib de_clube    -0.25138762231907974
+    Attrib cecília_categoria    -0.026446200579284675
+    Attrib dia_de    -1.2493202302765662
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    0.4010750367519538
+    Attrib kenny_braga    0.0409821739483293
+    Attrib cacalo_silveira    0.018769367453613864
+    Attrib eduardo_torre    -0.043624404390287544
+    Attrib silveira_martins    0.04356312223638416
+    Attrib postar_por    2.8381593381268098
+    Attrib de_casa    3.0490351026116
+    Attrib em_bairro    3.9008356146691963
+    Attrib de_rua    -0.6450097604494937
+    Attrib copa_de    -0.009719214760523419
+    Attrib em_local    1.5465837945575707
+    Attrib de_homicídio    -0.44615863424889235
+    Attrib a_categoria    -0.43486975129854144
+    Attrib de_tráfico    -0.46317148572199635
+    Attrib de_inter    -0.5426401464718104
+    Attrib de_crime    -0.4069462047368858
+    Attrib brigar_militar    -0.04046473938658285
+    Attrib de_ano    -0.4531637960475376
+    Attrib de_time    -0.3914686577007821
+    Attrib em_rua    1.5089029749896552
+    Attrib paixão_tricolor    -0.40910857680522794
+    Attrib amanda_munhoz    -0.01920353448492699
+    Attrib carolina_rocha    -0.048733383856156956
+    Attrib morador_de    1.2586152214732091
+    Attrib ir_encontrar    -0.45553055962910394
+    Attrib de_grêmio    0.030998878385978465
+    Attrib time_de    -0.5072601849463749
+    Attrib em_jogo    -0.39945635340341834
+    Attrib braga_paixão    -0.02190442831470605
+    Attrib estar_em    1.3301640341201881
+    Attrib tiro_em    -0.4808635273849174
+    Attrib de_lixo    3.4503927843626125
+    Attrib dono_de    0.24149785982371805
+    Attrib em_frente    1.8880784496020033
+    Attrib paixão_colorar    -0.030588074143298838
+    Attrib de_técnico    -0.4484494776065778
+    Attrib martins_paixão    0.013299309154474998
+    Attrib de_bala    -0.4200595040609891
+    Attrib não_ser    0.8872131616803661
+    Attrib não_ter    0.892450362358091
+    Attrib ir_morto    -0.4474560860608725
+    Attrib bala_em    0.04409061459189982
+    Attrib por_tiago    0.041863026124028105
+    Attrib tiago_rech    0.024114329419816755
+    Attrib delegacia_de    -0.3657349269191756
+    Attrib de_brasileirão    -0.0013361526689815578
+    Attrib rech_a    -0.04216895595462024
+    Attrib em_cara    -0.008773323423956071
+    Attrib de_clube    -0.4412349748510918
+    Attrib cecília_categoria    0.0030981901729952993
+    Attrib dia_de    -0.5789381122990004
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    0.13536646435003316
+    Attrib kenny_braga    -0.048063588514688275
+    Attrib cacalo_silveira    0.04167027394342901
+    Attrib eduardo_torre    -0.015071501884021676
+    Attrib silveira_martins    0.037530745633800766
+    Attrib postar_por    -3.799395721073514
+    Attrib de_casa    0.08580369451233107
+    Attrib em_bairro    4.6566747446667733E-4
+    Attrib de_rua    -0.10721361533747575
+    Attrib copa_de    0.007630414803502808
+    Attrib em_local    -0.10389428817307303
+    Attrib de_homicídio    -0.16143371905377374
+    Attrib a_categoria    0.48844660256609485
+    Attrib de_tráfico    -0.43905331068943587
+    Attrib de_inter    -0.09831789045857739
+    Attrib de_crime    -0.0759948198345019
+    Attrib brigar_militar    -0.01930150803922827
+    Attrib de_ano    0.23734250354491412
+    Attrib de_time    -0.11270263811377157
+    Attrib em_rua    -0.11910118719268359
+    Attrib paixão_tricolor    -0.15072647122343802
+    Attrib amanda_munhoz    -0.01209950941585338
+    Attrib carolina_rocha    0.01978937214859662
+    Attrib morador_de    -0.3950341839104699
+    Attrib ir_encontrar    -0.17799384488316136
+    Attrib de_grêmio    0.0028210059037050844
+    Attrib time_de    0.6403800653842867
+    Attrib em_jogo    0.8513166026571553
+    Attrib braga_paixão    -6.212719676687573E-4
+    Attrib estar_em    0.22976312721725972
+    Attrib tiro_em    -0.3830885481079159
+    Attrib de_lixo    -0.07547531234554601
+    Attrib dono_de    0.12201763596004112
+    Attrib em_frente    -0.2490242947006827
+    Attrib paixão_colorar    -0.0068432399302985475
+    Attrib de_técnico    0.28578741108664857
+    Attrib martins_paixão    0.04618391029818751
+    Attrib de_bala    -0.07655238216515522
+    Attrib não_ser    0.08227515003295433
+    Attrib não_ter    -0.20331979318440793
+    Attrib ir_morto    -0.08898997285290212
+    Attrib bala_em    -0.011801198354152595
+    Attrib por_tiago    0.009568283577889025
+    Attrib tiago_rech    -0.026847015674332522
+    Attrib delegacia_de    -0.07588264144711016
+    Attrib de_brasileirão    -0.019019615046348217
+    Attrib rech_a    -0.01845819051363847
+    Attrib em_cara    0.040484952737481636
+    Attrib de_clube    -0.11910656764122723
+    Attrib cecília_categoria    -0.041008774802073544
+    Attrib dia_de    0.4905144195499825
+Sigmoid Node 18
+    Inputs    Weights
+    Threshold    -1.2597190508599072
+    Attrib kenny_braga    -0.022579062506717297
+    Attrib cacalo_silveira    -0.046459336277065166
+    Attrib eduardo_torre    0.0020896327541071943
+    Attrib silveira_martins    0.03520002717912567
+    Attrib postar_por    0.8583307377764743
+    Attrib de_casa    -5.803984194280942
+    Attrib em_bairro    0.24378131728072397
+    Attrib de_rua    1.1898690606139364
+    Attrib copa_de    -0.027852634379715826
+    Attrib em_local    1.0473772349451125
+    Attrib de_homicídio    -2.873322150047757
+    Attrib a_categoria    1.5674186806017913
+    Attrib de_tráfico    -1.1568639292314544
+    Attrib de_inter    0.289525123596543
+    Attrib de_crime    0.7348265679596735
+    Attrib brigar_militar    0.007343610517391408
+    Attrib de_ano    1.3131204863442552
+    Attrib de_time    1.246703743802643
+    Attrib em_rua    0.578755485430344
+    Attrib paixão_tricolor    1.4114945774400334
+    Attrib amanda_munhoz    -0.012750256737513732
+    Attrib carolina_rocha    0.04072591510407991
+    Attrib morador_de    -5.5744896341774615
+    Attrib ir_encontrar    -3.2295154032272353
+    Attrib de_grêmio    0.017385885094022266
+    Attrib time_de    3.219659310615999
+    Attrib em_jogo    1.791833081724295
+    Attrib braga_paixão    -0.01499598808830157
+    Attrib estar_em    2.5811492170824835
+    Attrib tiro_em    -1.484791601062985
+    Attrib de_lixo    -1.852009343606296
+    Attrib dono_de    -2.0671743113367995
+    Attrib em_frente    -4.440509872736663
+    Attrib paixão_colorar    0.03908181240802708
+    Attrib de_técnico    2.3872870112728877
+    Attrib martins_paixão    -0.043856047221741884
+    Attrib de_bala    1.081764735592419
+    Attrib não_ser    0.9779070762579197
+    Attrib não_ter    -1.324359701143159
+    Attrib ir_morto    -1.1731403958276998
+    Attrib bala_em    -0.011566829257989977
+    Attrib por_tiago    -0.04187525049218236
+    Attrib tiago_rech    -0.01975418061485792
+    Attrib delegacia_de    1.0269888284678046
+    Attrib de_brasileirão    -0.03986482594645744
+    Attrib rech_a    -0.02871726321899534
+    Attrib em_cara    0.003866895036092187
+    Attrib de_clube    1.294488424704441
+    Attrib cecília_categoria    -0.004500454467666962
+    Attrib dia_de    -0.3633913015052287
+Sigmoid Node 19
+    Inputs    Weights
+    Threshold    0.3042643196235105
+    Attrib kenny_braga    0.01687934837703367
+    Attrib cacalo_silveira    -0.030484224501287616
+    Attrib eduardo_torre    0.04563085926419766
+    Attrib silveira_martins    -0.01056068188326631
+    Attrib postar_por    4.321743226820492
+    Attrib de_casa    2.5008272130308598
+    Attrib em_bairro    0.4121098894373022
+    Attrib de_rua    -0.42191174707886925
+    Attrib copa_de    0.042100472908888395
+    Attrib em_local    0.40140223704341893
+    Attrib de_homicídio    0.03396072486425749
+    Attrib a_categoria    -0.3114250842677085
+    Attrib de_tráfico    -0.069025522807302
+    Attrib de_inter    -0.4117088084771452
+    Attrib de_crime    -0.08402868950717794
+    Attrib brigar_militar    -0.011972583751529306
+    Attrib de_ano    -0.3576365835200996
+    Attrib de_time    -0.3042039561522049
+    Attrib em_rua    0.3149586950154455
+    Attrib paixão_tricolor    -0.4024586847330153
+    Attrib amanda_munhoz    0.004080880829519448
+    Attrib carolina_rocha    0.043216987792061054
+    Attrib morador_de    -1.434970315308418
+    Attrib ir_encontrar    -0.2893919342368716
+    Attrib de_grêmio    0.009042787362984327
+    Attrib time_de    -0.5351597064994366
+    Attrib em_jogo    -0.3256382519172596
+    Attrib braga_paixão    -0.009996762133407298
+    Attrib estar_em    -0.9268815107757884
+    Attrib tiro_em    -0.3191370303567623
+    Attrib de_lixo    1.121861625574692
+    Attrib dono_de    2.4212819994576456
+    Attrib em_frente    1.3921368088156836
+    Attrib paixão_colorar    -0.006354872754265203
+    Attrib de_técnico    -0.5118347226699917
+    Attrib martins_paixão    0.0072003881628179625
+    Attrib de_bala    -0.28357032954334455
+    Attrib não_ser    4.172096119560183
+    Attrib não_ter    3.942699187606049
+    Attrib ir_morto    -0.49023893913967176
+    Attrib bala_em    0.030698596695696703
+    Attrib por_tiago    0.04035917822536479
+    Attrib tiago_rech    0.04585573047894903
+    Attrib delegacia_de    -0.35488926273174914
+    Attrib de_brasileirão    -0.03808837647158173
+    Attrib rech_a    0.027586434975396576
+    Attrib em_cara    -0.0066923933892658605
+    Attrib de_clube    -0.3290492080635682
+    Attrib cecília_categoria    0.04497324895561869
+    Attrib dia_de    -1.3806354205962732
+Sigmoid Node 20
+    Inputs    Weights
+    Threshold    0.05195568060942012
+    Attrib kenny_braga    -0.02121232020841043
+    Attrib cacalo_silveira    0.007600658839037447
+    Attrib eduardo_torre    0.019301884420390963
+    Attrib silveira_martins    -0.012171262832913053
+    Attrib postar_por    -0.8603154734390319
+    Attrib de_casa    0.664197839224464
+    Attrib em_bairro    0.5845447363096233
+    Attrib de_rua    0.019125365170664436
+    Attrib copa_de    -0.0207035395667752
+    Attrib em_local    0.09426001028667773
+    Attrib de_homicídio    0.3967917351437073
+    Attrib a_categoria    -0.1056686887755726
+    Attrib de_tráfico    0.22624863131585587
+    Attrib de_inter    0.3151726134748492
+    Attrib de_crime    0.09751730797456497
+    Attrib brigar_militar    0.021263008043933773
+    Attrib de_ano    0.009977635455343031
+    Attrib de_time    -0.07465946357307979
+    Attrib em_rua    0.15779715958022159
+    Attrib paixão_tricolor    -0.13973341006776047
+    Attrib amanda_munhoz    -0.039176697168135516
+    Attrib carolina_rocha    -0.041946717431806516
+    Attrib morador_de    0.28010658716947917
+    Attrib ir_encontrar    0.38330347166332074
+    Attrib de_grêmio    -0.010957640776199276
+    Attrib time_de    -0.17858222043836838
+    Attrib em_jogo    -0.05144224967438655
+    Attrib braga_paixão    0.026964393082829982
+    Attrib estar_em    0.025972884826489205
+    Attrib tiro_em    0.19965941055630676
+    Attrib de_lixo    0.45875012461304276
+    Attrib dono_de    0.6174846105885916
+    Attrib em_frente    0.10271344747070808
+    Attrib paixão_colorar    0.029939512893493878
+    Attrib de_técnico    -0.26821338113592064
+    Attrib martins_paixão    -0.00884614710784639
+    Attrib de_bala    -0.021882956176448875
+    Attrib não_ser    -0.10756857989283847
+    Attrib não_ter    0.4935404580747604
+    Attrib ir_morto    0.2856741022024991
+    Attrib bala_em    -0.04705547592500392
+    Attrib por_tiago    -0.03531169285457857
+    Attrib tiago_rech    -0.023107707959795543
+    Attrib delegacia_de    0.053115689528938595
+    Attrib de_brasileirão    -0.009527716481883143
+    Attrib rech_a    0.03870565564025766
+    Attrib em_cara    0.0329294316797694
+    Attrib de_clube    -0.048592736434164015
+    Attrib cecília_categoria    0.025864652895307247
+    Attrib dia_de    -0.0320365762570352
+Sigmoid Node 21
+    Inputs    Weights
+    Threshold    0.17044921526415568
+    Attrib kenny_braga    -0.043600761356953205
+    Attrib cacalo_silveira    0.04649847470362273
+    Attrib eduardo_torre    -0.037838065652860325
+    Attrib silveira_martins    0.0026255691493604766
+    Attrib postar_por    -0.8870979615874505
+    Attrib de_casa    2.217491685189408
+    Attrib em_bairro    2.1138502375557393
+    Attrib de_rua    -0.2296754468681925
+    Attrib copa_de    0.03307619514734793
+    Attrib em_local    0.23855610273787667
+    Attrib de_homicídio    0.3437343158541572
+    Attrib a_categoria    -0.44312821547846387
+    Attrib de_tráfico    0.15146984940182304
+    Attrib de_inter    -0.057534504108178
+    Attrib de_crime    -0.0702842648667923
+    Attrib brigar_militar    -0.03926623076987136
+    Attrib de_ano    -0.3058336081987533
+    Attrib de_time    -0.17350590121672244
+    Attrib em_rua    0.2974161888182172
+    Attrib paixão_tricolor    -0.2886980684225688
+    Attrib amanda_munhoz    -0.009277201243936453
+    Attrib carolina_rocha    -0.040103823960143295
+    Attrib morador_de    1.7335572690768672
+    Attrib ir_encontrar    0.3810287019004064
+    Attrib de_grêmio    -0.03549939974566525
+    Attrib time_de    -0.7428748321145799
+    Attrib em_jogo    -0.40994463690446525
+    Attrib braga_paixão    0.03220868529280965
+    Attrib estar_em    0.2715810602761959
+    Attrib tiro_em    0.21071130993390547
+    Attrib de_lixo    1.333982989307246
+    Attrib dono_de    1.1422205774256364
+    Attrib em_frente    0.7854823639697877
+    Attrib paixão_colorar    0.028052135404537715
+    Attrib de_técnico    -0.5171566183845866
+    Attrib martins_paixão    0.007550632447414975
+    Attrib de_bala    -0.165835140239485
+    Attrib não_ser    -1.1967592409022576
+    Attrib não_ter    1.1726272007464842
+    Attrib ir_morto    0.04935223843521402
+    Attrib bala_em    -0.022268460276863012
+    Attrib por_tiago    0.01381517032213049
+    Attrib tiago_rech    0.011736638836828815
+    Attrib delegacia_de    -0.22649993099563892
+    Attrib de_brasileirão    -0.004243119232688275
+    Attrib rech_a    -0.04540530615201978
+    Attrib em_cara    0.03263662535343513
+    Attrib de_clube    -0.2573788203236137
+    Attrib cecília_categoria    0.022501525657134702
+    Attrib dia_de    -1.2148878436745325
+Sigmoid Node 22
+    Inputs    Weights
+    Threshold    0.2920215791208429
+    Attrib kenny_braga    -0.02737378936629971
+    Attrib cacalo_silveira    -0.0168247924495925
+    Attrib eduardo_torre    5.356341621952226E-4
+    Attrib silveira_martins    -0.049598636781153366
+    Attrib postar_por    -0.7458122336830412
+    Attrib de_casa    2.420919854492013
+    Attrib em_bairro    2.4017805449463374
+    Attrib de_rua    -0.32029377504660167
+    Attrib copa_de    -0.041523984521753
+    Attrib em_local    0.3296577235556198
+    Attrib de_homicídio    0.050442337486362836
+    Attrib a_categoria    -0.49424267381898285
+    Attrib de_tráfico    -0.11717355513740238
+    Attrib de_inter    -0.2359352997557051
+    Attrib de_crime    -0.1942353010804812
+    Attrib brigar_militar    -0.042453289041813703
+    Attrib de_ano    -0.431122166585422
+    Attrib de_time    -0.31085460640556584
+    Attrib em_rua    0.2675896237058863
+    Attrib paixão_tricolor    -0.33829466413597503
+    Attrib amanda_munhoz    0.04088499811658457
+    Attrib carolina_rocha    -0.009758878458929754
+    Attrib morador_de    2.3614047496464514
+    Attrib ir_encontrar    0.15575358972405495
+    Attrib de_grêmio    0.03691676807580688
+    Attrib time_de    -0.8167926019018341
+    Attrib em_jogo    -0.508234297959796
+    Attrib braga_paixão    0.013496893311561148
+    Attrib estar_em    0.9281493438816478
+    Attrib tiro_em    0.011723257607469206
+    Attrib de_lixo    1.384931068663069
+    Attrib dono_de    1.9500153239697662
+    Attrib em_frente    1.0377775933344187
+    Attrib paixão_colorar    -0.0011659095092664967
+    Attrib de_técnico    -0.544454415087208
+    Attrib martins_paixão    -0.02985750999854968
+    Attrib de_bala    -0.26333940947582235
+    Attrib não_ser    -0.7933882615062671
+    Attrib não_ter    1.699595720297399
+    Attrib ir_morto    -0.11529996918084885
+    Attrib bala_em    -0.046933679763129205
+    Attrib por_tiago    0.028396618333276655
+    Attrib tiago_rech    -0.020625149952231636
+    Attrib delegacia_de    -0.32580478126699763
+    Attrib de_brasileirão    -0.027629902875584478
+    Attrib rech_a    -0.032688253794767114
+    Attrib em_cara    0.039793472652759024
+    Attrib de_clube    -0.3070263284468526
+    Attrib cecília_categoria    -0.010127463575066983
+    Attrib dia_de    -1.1773492042888294
+Sigmoid Node 23
+    Inputs    Weights
+    Threshold    0.006092263425359462
+    Attrib kenny_braga    -0.03599330060254169
+    Attrib cacalo_silveira    -0.03618071018357372
+    Attrib eduardo_torre    0.04013300778200583
+    Attrib silveira_martins    -0.04653936512939604
+    Attrib postar_por    2.592871278042553
+    Attrib de_casa    0.6286386290229764
+    Attrib em_bairro    0.441039328578728
+    Attrib de_rua    -0.1831254863494845
+    Attrib copa_de    0.02696177324618157
+    Attrib em_local    0.2842361611256926
+    Attrib de_homicídio    -0.15418983546191495
+    Attrib a_categoria    0.08233743157345721
+    Attrib de_tráfico    0.10017601788065618
+    Attrib de_inter    -0.08699465411197642
+    Attrib de_crime    -0.09362165677331859
+    Attrib brigar_militar    0.031232147530846174
+    Attrib de_ano    -0.11408404172721955
+    Attrib de_time    -0.05995879644592705
+    Attrib em_rua    0.14502848239755628
+    Attrib paixão_tricolor    -0.005991780391804762
+    Attrib amanda_munhoz    0.026541302013375942
+    Attrib carolina_rocha    0.03078189070945768
+    Attrib morador_de    0.7019792430208134
+    Attrib ir_encontrar    -0.17127051252021497
+    Attrib de_grêmio    -0.03913569541312587
+    Attrib time_de    -0.24670332987413104
+    Attrib em_jogo    -0.24852541093066585
+    Attrib braga_paixão    0.034356382902088256
+    Attrib estar_em    0.39543947322462314
+    Attrib tiro_em    -0.059805327512860405
+    Attrib de_lixo    0.4693948267701054
+    Attrib dono_de    0.17750227102963817
+    Attrib em_frente    0.40370108421218137
+    Attrib paixão_colorar    -0.016367460293309023
+    Attrib de_técnico    0.27212571061642593
+    Attrib martins_paixão    -0.04130150801911493
+    Attrib de_bala    -0.060154811006933005
+    Attrib não_ser    -0.08834295713176084
+    Attrib não_ter    0.3723248400297933
+    Attrib ir_morto    -0.1721939614307786
+    Attrib bala_em    -0.016327959954154973
+    Attrib por_tiago    -0.04445658034712065
+    Attrib tiago_rech    0.0199407469753108
+    Attrib delegacia_de    -0.07525826520323185
+    Attrib de_brasileirão    -0.014550303467603797
+    Attrib rech_a    -0.04122247334596102
+    Attrib em_cara    -0.027835842040928007
+    Attrib de_clube    -0.0035590870247715865
+    Attrib cecília_categoria    0.02431545122386944
+    Attrib dia_de    1.0002439261337324
+Sigmoid Node 24
+    Inputs    Weights
+    Threshold    0.4358995405878744
+    Attrib kenny_braga    0.01036507737135993
+    Attrib cacalo_silveira    -0.040269856081275174
+    Attrib eduardo_torre    -0.0332816254978419
+    Attrib silveira_martins    0.028683279238420137
+    Attrib postar_por    0.2715100989958627
+    Attrib de_casa    1.8383275974289628
+    Attrib em_bairro    -0.344741602888615
+    Attrib de_rua    -0.43221230860126647
+    Attrib copa_de    0.004586366792482199
+    Attrib em_local    0.16899386475879905
+    Attrib de_homicídio    -0.9446002510966892
+    Attrib a_categoria    -0.18291931084284024
+    Attrib de_tráfico    -1.1612183386854942
+    Attrib de_inter    -0.752348225192679
+    Attrib de_crime    -0.5679386114340114
+    Attrib brigar_militar    0.008909779012171756
+    Attrib de_ano    -0.2612453408206888
+    Attrib de_time    -0.4237206413060465
+    Attrib em_rua    0.07758086119135454
+    Attrib paixão_tricolor    -0.24571766632324513
+    Attrib amanda_munhoz    0.04647594954438074
+    Attrib carolina_rocha    -0.04974918884942099
+    Attrib morador_de    -0.7801721339875264
+    Attrib ir_encontrar    -0.7388859073078468
+    Attrib de_grêmio    -0.018826913055542627
+    Attrib time_de    1.1693800772458214
+    Attrib em_jogo    0.2562346222152262
+    Attrib braga_paixão    -0.018699835658448252
+    Attrib estar_em    -2.4970114401238863
+    Attrib tiro_em    -1.2107434866588904
+    Attrib de_lixo    0.9875959159794545
+    Attrib dono_de    3.716065195644464
+    Attrib em_frente    2.705790215324388
+    Attrib paixão_colorar    -0.04577984642343165
+    Attrib de_técnico    0.2163722141150121
+    Attrib martins_paixão    0.02583876901601849
+    Attrib de_bala    -0.4201824756142089
+    Attrib não_ser    3.6376823086450343
+    Attrib não_ter    5.594674585554968
+    Attrib ir_morto    -0.7246639019698311
+    Attrib bala_em    0.04638004102878181
+    Attrib por_tiago    -0.010824972027645006
+    Attrib tiago_rech    -0.026813036707528104
+    Attrib delegacia_de    -0.514056056629223
+    Attrib de_brasileirão    -0.013193555776923174
+    Attrib rech_a    -0.03234435011574817
+    Attrib em_cara    0.014336080202855955
+    Attrib de_clube    -0.4050921214108286
+    Attrib cecília_categoria    0.016755564246902194
+    Attrib dia_de    -2.1992816411571603
+Sigmoid Node 25
+    Inputs    Weights
+    Threshold    0.4461230222327871
+    Attrib kenny_braga    0.022774780606179476
+    Attrib cacalo_silveira    0.03196935615755725
+    Attrib eduardo_torre    -0.015063560612995186
+    Attrib silveira_martins    -0.02286921650873627
+    Attrib postar_por    -2.589052240652421
+    Attrib de_casa    -0.6499061288197023
+    Attrib em_bairro    -1.4110757656867579
+    Attrib de_rua    -0.10807458972984196
+    Attrib copa_de    0.0025602705245912905
+    Attrib em_local    -0.5119584539489676
+    Attrib de_homicídio    2.370125371907364
+    Attrib a_categoria    -0.7715932741817912
+    Attrib de_tráfico    1.1239653415047093
+    Attrib de_inter    2.8896380971581155
+    Attrib de_crime    0.07124110023130162
+    Attrib brigar_militar    0.011579869503600404
+    Attrib de_ano    -0.5761624418410914
+    Attrib de_time    -0.49306488769340906
+    Attrib em_rua    -0.12360465234332793
+    Attrib paixão_tricolor    -0.8209130696307572
+    Attrib amanda_munhoz    -0.03863920755286985
+    Attrib carolina_rocha    0.03837544536887755
+    Attrib morador_de    3.566591191695468
+    Attrib ir_encontrar    2.50428231807125
+    Attrib de_grêmio    0.044474141546809065
+    Attrib time_de    -1.6346847778611033
+    Attrib em_jogo    -0.7531286430992425
+    Attrib braga_paixão    0.03929553473983251
+    Attrib estar_em    0.15974309707814488
+    Attrib tiro_em    1.1668326253796577
+    Attrib de_lixo    -0.552827576261137
+    Attrib dono_de    0.840605440595913
+    Attrib em_frente    1.6545710101401514
+    Attrib paixão_colorar    0.004275610371224106
+    Attrib de_técnico    -1.3769221032919552
+    Attrib martins_paixão    -0.03364313271315518
+    Attrib de_bala    -0.29104790597749386
+    Attrib não_ser    1.7619119586457122
+    Attrib não_ter    -0.31744566848932354
+    Attrib ir_morto    1.058923756084605
+    Attrib bala_em    -0.010039286972847797
+    Attrib por_tiago    0.04697015286403798
+    Attrib tiago_rech    0.01670499511901588
+    Attrib delegacia_de    -0.3336245155507948
+    Attrib de_brasileirão    -0.016713466538559797
+    Attrib rech_a    0.023651035957436173
+    Attrib em_cara    -0.030079194279734357
+    Attrib de_clube    -0.46191674535468713
+    Attrib cecília_categoria    0.006742718180985562
+    Attrib dia_de    1.9525360418893192
+Sigmoid Node 26
+    Inputs    Weights
+    Threshold    -0.008517825397326196
+    Attrib kenny_braga    -0.01961359758548661
+    Attrib cacalo_silveira    0.016992161115539056
+    Attrib eduardo_torre    0.019515627822175474
+    Attrib silveira_martins    0.022170424091406446
+    Attrib postar_por    2.858625132940917
+    Attrib de_casa    0.43879022748570795
+    Attrib em_bairro    0.04608784004320406
+    Attrib de_rua    -0.2063052178961092
+    Attrib copa_de    0.009353390997023182
+    Attrib em_local    0.08485408322460981
+    Attrib de_homicídio    -0.3111586615607864
+    Attrib a_categoria    0.05136623242840192
+    Attrib de_tráfico    0.03601868923724496
+    Attrib de_inter    -0.13323077114815673
+    Attrib de_crime    -0.07956259976747011
+    Attrib brigar_militar    -0.003377615163279793
+    Attrib de_ano    -0.1141182152593214
+    Attrib de_time    -0.0025032553665495917
+    Attrib em_rua    -0.005928600544870371
+    Attrib paixão_tricolor    -0.033222802089509194
+    Attrib amanda_munhoz    -0.010691070052076347
+    Attrib carolina_rocha    0.006495624542687373
+    Attrib morador_de    1.3853543939177402
+    Attrib ir_encontrar    -0.2832376809372934
+    Attrib de_grêmio    0.04396981771996654
+    Attrib time_de    -0.059124216525529454
+    Attrib em_jogo    -0.30052468687515793
+    Attrib braga_paixão    0.024773420592453715
+    Attrib estar_em    0.29949689246768607
+    Attrib tiro_em    -0.14756396447876066
+    Attrib de_lixo    0.18153701750612342
+    Attrib dono_de    0.26973513213426303
+    Attrib em_frente    0.1899044434087676
+    Attrib paixão_colorar    0.005479799572481479
+    Attrib de_técnico    0.20023693688516517
+    Attrib martins_paixão    0.04421530388952066
+    Attrib de_bala    -0.006171265201472666
+    Attrib não_ser    0.029972351298044434
+    Attrib não_ter    -0.17880976181398564
+    Attrib ir_morto    -0.22930185473961473
+    Attrib bala_em    -0.021104722082620854
+    Attrib por_tiago    -0.04075081594721656
+    Attrib tiago_rech    0.04933305238026632
+    Attrib delegacia_de    -0.011814101832887471
+    Attrib de_brasileirão    0.03056394532497679
+    Attrib rech_a    -0.038465956182246554
+    Attrib em_cara    0.03943291127610003
+    Attrib de_clube    -0.04549031158340518
+    Attrib cecília_categoria    0.006305618557118378
+    Attrib dia_de    1.2461611113594655
+Sigmoid Node 27
+    Inputs    Weights
+    Threshold    -0.05687106381550252
+    Attrib kenny_braga    0.012536303880092109
+    Attrib cacalo_silveira    -0.007111219697094787
+    Attrib eduardo_torre    -0.04675645494903072
+    Attrib silveira_martins    -0.00805042357777367
+    Attrib postar_por    -2.0143414521656946
+    Attrib de_casa    0.18825750274857228
+    Attrib em_bairro    0.015064527385414571
+    Attrib de_rua    0.008727348496696454
+    Attrib copa_de    -0.0237586838224223
+    Attrib em_local    0.06721385014585816
+    Attrib de_homicídio    -1.378253009282037
+    Attrib a_categoria    2.110049734830838
+    Attrib de_tráfico    -0.6593036720856773
+    Attrib de_inter    -0.13591234238923225
+    Attrib de_crime    -0.6825793628783937
+    Attrib brigar_militar    -0.019487585037732624
+    Attrib de_ano    1.2814996741365876
+    Attrib de_time    0.08851219793720508
+    Attrib em_rua    2.1547457007620708E-4
+    Attrib paixão_tricolor    0.4880628180582376
+    Attrib amanda_munhoz    0.016734452029963334
+    Attrib carolina_rocha    -0.04857634362890473
+    Attrib morador_de    -1.8331302849322282
+    Attrib ir_encontrar    -0.8014556262363369
+    Attrib de_grêmio    -0.01134608123301354
+    Attrib time_de    3.5920075092406485
+    Attrib em_jogo    2.311700528210648
+    Attrib braga_paixão    0.042864409058024744
+    Attrib estar_em    0.4392903321852944
+    Attrib tiro_em    -0.7463098536172861
+    Attrib de_lixo    0.06630787762889957
+    Attrib dono_de    -0.864428147644567
+    Attrib em_frente    -0.004053140493890272
+    Attrib paixão_colorar    0.04502616430307056
+    Attrib de_técnico    3.228316449216439
+    Attrib martins_paixão    -0.02501154468744723
+    Attrib de_bala    -0.0014627446218795526
+    Attrib não_ser    2.9625767612234783
+    Attrib não_ter    0.03982475966805143
+    Attrib ir_morto    -0.7196628520133544
+    Attrib bala_em    0.024574341965210078
+    Attrib por_tiago    -0.034999957133584114
+    Attrib tiago_rech    0.01702761077978676
+    Attrib delegacia_de    -0.006346538711164715
+    Attrib de_brasileirão    -0.01576855216506956
+    Attrib rech_a    0.002071756845600882
+    Attrib em_cara    0.023270846665940273
+    Attrib de_clube    0.06414034559775338
+    Attrib cecília_categoria    0.02488810760007394
+    Attrib dia_de    -2.08764632499446
+Sigmoid Node 28
+    Inputs    Weights
+    Threshold    0.4532771404705526
+    Attrib kenny_braga    -0.04642072286270327
+    Attrib cacalo_silveira    -0.0020053812286938283
+    Attrib eduardo_torre    -0.02399651693357723
+    Attrib silveira_martins    -0.020919652061893026
+    Attrib postar_por    -2.295731774160872
+    Attrib de_casa    -1.433509923879973
+    Attrib em_bairro    -0.5279564385518588
+    Attrib de_rua    -0.2416091900223306
+    Attrib copa_de    0.010392668643347688
+    Attrib em_local    -0.46411573601718303
+    Attrib de_homicídio    3.1722199615438225
+    Attrib a_categoria    -0.7349630950199927
+    Attrib de_tráfico    1.8990526631173386
+    Attrib de_inter    -0.0932507661143084
+    Attrib de_crime    -0.1365249978648843
+    Attrib brigar_militar    -0.04820268600524838
+    Attrib de_ano    -0.5713223913392635
+    Attrib de_time    -0.4671774994784574
+    Attrib em_rua    -0.08429919823869303
+    Attrib paixão_tricolor    -0.7605754693996363
+    Attrib amanda_munhoz    0.020468099051229788
+    Attrib carolina_rocha    0.047288304850824775
+    Attrib morador_de    0.49787094749520333
+    Attrib ir_encontrar    3.8732936516673218
+    Attrib de_grêmio    -0.033775039928434086
+    Attrib time_de    -1.4914077998510364
+    Attrib em_jogo    -0.755971148023872
+    Attrib braga_paixão    0.002272243895683368
+    Attrib estar_em    0.2935348670415193
+    Attrib tiro_em    2.0179203963574204
+    Attrib de_lixo    -0.5047967409135695
+    Attrib dono_de    1.8363734188504566
+    Attrib em_frente    0.4607025171350129
+    Attrib paixão_colorar    -0.02854294919307554
+    Attrib de_técnico    -1.2462519549260462
+    Attrib martins_paixão    -0.027917901708491257
+    Attrib de_bala    -0.30740073119620936
+    Attrib não_ser    2.5560898778879055
+    Attrib não_ter    0.7440654252058649
+    Attrib ir_morto    1.5248779294762806
+    Attrib bala_em    -3.926416356055257E-4
+    Attrib por_tiago    0.03785238493730092
+    Attrib tiago_rech    -0.04146935386612182
+    Attrib delegacia_de    -0.2694760794111225
+    Attrib de_brasileirão    0.0065639443213708765
+    Attrib rech_a    -0.015264059000106002
+    Attrib em_cara    0.014693572155022289
+    Attrib de_clube    -0.46061084872448593
+    Attrib cecília_categoria    0.04666670711796021
+    Attrib dia_de    0.9152609703351766
+Sigmoid Node 29
+    Inputs    Weights
+    Threshold    -0.04369216634535319
+    Attrib kenny_braga    -0.0022636365150703885
+    Attrib cacalo_silveira    0.032959342292543437
+    Attrib eduardo_torre    -0.003507647163030002
+    Attrib silveira_martins    -0.02550378237397909
+    Attrib postar_por    -0.39471129874399175
+    Attrib de_casa    0.3782574822696683
+    Attrib em_bairro    0.5245075201127761
+    Attrib de_rua    0.10617494333239635
+    Attrib copa_de    -0.04147998647647008
+    Attrib em_local    0.14288480608871623
+    Attrib de_homicídio    0.3136688044301493
+    Attrib a_categoria    -0.04328702272505032
+    Attrib de_tráfico    0.26214818308509064
+    Attrib de_inter    0.2957788168416319
+    Attrib de_crime    0.0919520461986836
+    Attrib brigar_militar    -0.04256092518795954
+    Attrib de_ano    -0.014526695890991275
+    Attrib de_time    0.03564328350088585
+    Attrib em_rua    0.14992169662487512
+    Attrib paixão_tricolor    0.03614485979024636
+    Attrib amanda_munhoz    0.010099427472281028
+    Attrib carolina_rocha    0.004902729853361529
+    Attrib morador_de    0.1748341356052186
+    Attrib ir_encontrar    0.33311950595530837
+    Attrib de_grêmio    -0.0020693374578005935
+    Attrib time_de    -0.05815652942557103
+    Attrib em_jogo    0.031957148875322264
+    Attrib braga_paixão    0.027137651020276196
+    Attrib estar_em    -0.46040325765412793
+    Attrib tiro_em    0.24408879172400716
+    Attrib de_lixo    0.49392115915232826
+    Attrib dono_de    0.22591085676612915
+    Attrib em_frente    -0.05450526720471073
+    Attrib paixão_colorar    -0.037750954134011805
+    Attrib de_técnico    -0.11385516292991615
+    Attrib martins_paixão    -0.020997007666257783
+    Attrib de_bala    0.11947883759260822
+    Attrib não_ser    0.04180008396061783
+    Attrib não_ter    -0.1541557994455468
+    Attrib ir_morto    0.2729951898368139
+    Attrib bala_em    0.04868758898294527
+    Attrib por_tiago    0.03549466449323872
+    Attrib tiago_rech    -0.04289940487561903
+    Attrib delegacia_de    0.033903294161779556
+    Attrib de_brasileirão    -0.02733313271576389
+    Attrib rech_a    0.010452387819928077
+    Attrib em_cara    -0.01639006641182901
+    Attrib de_clube    0.09572826070621601
+    Attrib cecília_categoria    0.01300767466207979
+    Attrib dia_de    -0.1794260033049011
+Sigmoid Node 30
+    Inputs    Weights
+    Threshold    -0.010296850855027127
+    Attrib kenny_braga    -0.04073297673575831
+    Attrib cacalo_silveira    0.003953781130758768
+    Attrib eduardo_torre    -0.00935877677602822
+    Attrib silveira_martins    -0.037476353493511944
+    Attrib postar_por    -0.6650884100012266
+    Attrib de_casa    0.6780597159468924
+    Attrib em_bairro    0.6841354478819024
+    Attrib de_rua    0.03312175719860512
+    Attrib copa_de    0.035531238151517416
+    Attrib em_local    0.07637687469568051
+    Attrib de_homicídio    1.035460098485805
+    Attrib a_categoria    -0.26284222525326806
+    Attrib de_tráfico    0.47008160713922337
+    Attrib de_inter    0.7184651330462926
+    Attrib de_crime    0.20084326884918047
+    Attrib brigar_militar    0.004980121074772512
+    Attrib de_ano    -0.12704264236964435
+    Attrib de_time    -0.05101921261894868
+    Attrib em_rua    0.1929217571198688
+    Attrib paixão_tricolor    -0.21810405687828643
+    Attrib amanda_munhoz    -0.015764178233626962
+    Attrib carolina_rocha    -0.01152955472687911
+    Attrib morador_de    1.574245477899769
+    Attrib ir_encontrar    1.063930242893058
+    Attrib de_grêmio    0.03951218745795829
+    Attrib time_de    -0.6163354911549936
+    Attrib em_jogo    -0.28732700218960594
+    Attrib braga_paixão    1.467448488392739E-4
+    Attrib estar_em    -0.4828123723936528
+    Attrib tiro_em    0.6759992843774307
+    Attrib de_lixo    0.34381358926516603
+    Attrib dono_de    0.09614905436304401
+    Attrib em_frente    -0.40200847295142783
+    Attrib paixão_colorar    -0.011875732008598719
+    Attrib de_técnico    -0.6491147483180248
+    Attrib martins_paixão    0.03017024118523752
+    Attrib de_bala    0.07507950970961758
+    Attrib não_ser    -0.3443102459220885
+    Attrib não_ter    -0.19968903773879648
+    Attrib ir_morto    0.6924619061233142
+    Attrib bala_em    0.02551390801035662
+    Attrib por_tiago    -0.03685421453021596
+    Attrib tiago_rech    0.03342541904694493
+    Attrib delegacia_de    0.05470491555299818
+    Attrib de_brasileirão    0.0324733823728143
+    Attrib rech_a    -0.03999875874718323
+    Attrib em_cara    0.021786396037165784
+    Attrib de_clube    -0.056047081986771635
+    Attrib cecília_categoria    0.03553784161845412
+    Attrib dia_de    -1.0730766614916032
+Class corpus_policia
+    Input
+    Node 0
+Class corpus_espaco_do_trabalhador
+    Input
+    Node 1
+Class corpus_seu_problema_e_nosso
+    Input
+    Node 2
+Class corpus_esportes
+    Input
+    Node 3
+
+Attribute mappings:
+
+Model attributes             	    Incoming attributes
+-----------------------------	    ----------------
+(numeric) kenny_braga        	--> 1 (numeric) kenny_braga
+(numeric) cacalo_silveira    	--> 2 (numeric) cacalo_silveira
+(numeric) eduardo_torre      	--> 13 (numeric) eduardo_torre
+(numeric) silveira_martins   	--> 5 (numeric) silveira_martins
+(numeric) postar_por         	--> 3 (numeric) postar_por
+(numeric) de_casa            	--> 16 (numeric) de_casa
+(numeric) em_bairro          	--> 4 (numeric) em_bairro
+(numeric) de_rua             	--> 17 (numeric) de_rua
+(numeric) copa_de            	--> 14 (numeric) copa_de
+(numeric) em_local           	--> 31 (numeric) em_local
+(numeric) de_homicídio       	--> - missing (no match)
+(numeric) a_categoria        	--> 6 (numeric) a_categoria
+(numeric) de_tráfico         	--> - missing (no match)
+(numeric) de_inter           	--> 15 (numeric) de_inter
+(numeric) de_crime           	--> - missing (no match)
+(numeric) brigar_militar     	--> 7 (numeric) brigar_militar
+(numeric) de_ano             	--> 18 (numeric) de_ano
+(numeric) de_time            	--> - missing (no match)
+(numeric) em_rua             	--> - missing (no match)
+(numeric) paixão_tricolor    	--> 33 (numeric) paixão_tricolor
+(numeric) amanda_munhoz      	--> 34 (numeric) amanda_munhoz
+(numeric) carolina_rocha     	--> 11 (numeric) carolina_rocha
+(numeric) morador_de         	--> - missing (no match)
+(numeric) ir_encontrar       	--> 24 (numeric) ir_encontrar
+(numeric) de_grêmio          	--> 30 (numeric) de_grêmio
+(numeric) time_de            	--> 28 (numeric) time_de
+(numeric) em_jogo            	--> - missing (no match)
+(numeric) braga_paixão       	--> 23 (numeric) braga_paixão
+(numeric) estar_em           	--> - missing (no match)
+(numeric) tiro_em            	--> - missing (no match)
+(numeric) de_lixo            	--> - missing (no match)
+(numeric) dono_de            	--> 32 (numeric) dono_de
+(numeric) em_frente          	--> - missing (no match)
+(numeric) paixão_colorar     	--> 22 (numeric) paixão_colorar
+(numeric) de_técnico         	--> - missing (no match)
+(numeric) martins_paixão     	--> - missing (no match)
+(numeric) de_bala            	--> - missing (no match)
+(numeric) não_ser            	--> - missing (no match)
+(numeric) não_ter            	--> 26 (numeric) não_ter
+(numeric) ir_morto           	--> - missing (no match)
+(numeric) bala_em            	--> - missing (no match)
+(numeric) por_tiago          	--> 42 (numeric) por_tiago
+(numeric) tiago_rech         	--> 36 (numeric) tiago_rech
+(numeric) delegacia_de       	--> - missing (no match)
+(numeric) de_brasileirão     	--> - missing (no match)
+(numeric) rech_a             	--> 39 (numeric) rech_a
+(numeric) em_cara            	--> - missing (no match)
+(numeric) de_clube           	--> - missing (no match)
+(numeric) cecília_categoria  	--> - missing (no match)
+(numeric) dia_de             	--> 50 (numeric) dia_de
+(nominal) classe             	--> 51 (nominal) classe
+
+
+Time taken to build model: 3.47 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.02 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          48               70.5882 %
+Incorrectly Classified Instances        20               29.4118 %
+Kappa statistic                          0.6073
+Mean absolute error                      0.1597
+Root mean squared error                  0.3764
+Relative absolute error                 42.703  %
+Root relative squared error             87.044  %
+Total Number of Instances               68     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,260    0,581      1,000    0,735      0,655    0,953     0,864     corpus_policia
+                 0,875    0,115    0,700      0,875    0,778      0,707    0,910     0,652     corpus_espaco_do_trabalhador
+                 0,600    0,019    0,900      0,600    0,720      0,680    0,925     0,759     corpus_seu_problema_e_nosso
+                 0,368    0,000    1,000      0,368    0,538      0,544    0,890     0,754     corpus_esportes
+Weighted Avg.    0,706    0,100    0,796      0,706    0,687      0,642    0,919     0,760     
+
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+ 18  0  0  0 |  a = corpus_policia
+  1 14  1  0 |  b = corpus_espaco_do_trabalhador
+  0  6  9  0 |  c = corpus_seu_problema_e_nosso
+ 12  0  0  7 |  d = corpus_esportes
+

@@ -1,0 +1,461 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.bayes.NaiveBayes
+Relation:     Arquivo
+Instances:    267
+Attributes:   51
+              cacalo_silveira_martins
+              kenny_braga_paixão
+              braga_paixão_colorar
+              silveira_martins_paixão
+              copa_de_brasil
+              postar_por_cáren
+              martins_paixão_tricolor
+              dono_de_casa
+              por_tiago_rech
+              postar_por_tiago
+              tiago_rech_a
+              bala_em_cara
+              cáren_cecília_categoria
+              de_copa_de
+              r_inscrições_www
+              rech_a_categoria
+              em_frente_a
+              em_manhã_de
+              de_acordo_com
+              de_bala_em
+              de_tráfico_em
+              tráfico_de_droga
+              maria_de_conceição
+              postar_por_michele
+              michele_vaz_pradella
+              cáren_cecília_baldo
+              vaz_pradella_a
+              por_michele_vaz
+              ano_ir_morto
+              rech_tiago_categoria
+              secretaria_municipal_de
+              vila_maria_de
+              zona_norte_de
+              tiago_rech_tiago
+              acordo_com_delegado
+              de_homicídio_de
+              com_inscrição_aberta
+              em_dia_de
+              boca_de_fumo
+              pradella_a_categoria
+              r_r_inscrições
+              de_terça_feira
+              salários_de_r
+              cecília_categoria_vaga
+              morador_de_rua
+              ir_morto_com
+              em_função_de
+              em_zona_norte
+              técnico_renato_portaluppi
+              assessoria_de_imprensa
+              classe
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+Naive Bayes Classifier
+
+                                                   Class
+Attribute                                 corpus_policia corpus_espaco_do_trabalhador              corpus_esportes  corpus_seu_problema_e_nosso
+                                                  (0.27)                       (0.23)                       (0.28)                       (0.22)
+================================================================================================================================================
+cacalo_silveira_martins
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+kenny_braga_paixão
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+braga_paixão_colorar
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+silveira_martins_paixão
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+copa_de_brasil
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+postar_por_cáren
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+martins_paixão_tricolor
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+dono_de_casa
+  mean                                             0.0282                            0                            0                       0.2881
+  std. dev.                                        0.1667                       0.1667                       0.1667                       0.4529
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+por_tiago_rech
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+postar_por_tiago
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+tiago_rech_a
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+bala_em_cara
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+cáren_cecília_categoria
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+de_copa_de
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+r_inscrições_www
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+rech_a_categoria
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+em_frente_a
+  mean                                             0.0563                       0.0323                            0                       0.2373
+  std. dev.                                        0.2306                       0.1767                       0.1667                       0.4254
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+em_manhã_de
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+de_acordo_com
+  mean                                             0.4085                       0.1452                         0.04                       0.2373
+  std. dev.                                        0.4915                       0.3523                        0.196                       0.4254
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+de_bala_em
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+de_tráfico_em
+  mean                                             0.0423                            0                            0                            0
+  std. dev.                                        0.2012                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+tráfico_de_droga
+  mean                                             0.1408                            0                            0                            0
+  std. dev.                                        0.3479                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+maria_de_conceição
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+postar_por_michele
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+michele_vaz_pradella
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+cáren_cecília_baldo
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+vaz_pradella_a
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+por_michele_vaz
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+ano_ir_morto
+  mean                                             0.0141                            0                            0                            0
+  std. dev.                                        0.1667                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+rech_tiago_categoria
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+secretaria_municipal_de
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+vila_maria_de
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+zona_norte_de
+  mean                                             0.0141                            0                            0                            0
+  std. dev.                                        0.1667                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+tiago_rech_tiago
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+acordo_com_delegado
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+de_homicídio_de
+  mean                                             0.0704                            0                            0                            0
+  std. dev.                                        0.2559                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+com_inscrição_aberta
+  mean                                                  0                       0.1613                            0                            0
+  std. dev.                                        0.1667                       0.3678                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+em_dia_de
+  mean                                                  0                            0                            0                       0.0847
+  std. dev.                                        0.1667                       0.1667                       0.1667                       0.2785
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+boca_de_fumo
+  mean                                             0.0845                            0                            0                            0
+  std. dev.                                        0.2781                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+pradella_a_categoria
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+r_r_inscrições
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+de_terça_feira
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+salários_de_r
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+cecília_categoria_vaga
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+morador_de_rua
+  mean                                             0.0141                            0                            0                            0
+  std. dev.                                        0.1667                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+ir_morto_com
+  mean                                             0.1127                            0                            0                            0
+  std. dev.                                        0.3162                       0.1667                       0.1667                       0.1667
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+em_função_de
+  mean                                                  0                       0.0161                       0.0133                       0.1356
+  std. dev.                                        0.1667                       0.1667                       0.1667                       0.3424
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+em_zona_norte
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+técnico_renato_portaluppi
+  mean                                                  0                            0                            0                            0
+  std. dev.                                        0.0017                       0.0017                       0.0017                       0.0017
+  weight sum                                           71                           62                           75                           59
+  precision                                          0.01                         0.01                         0.01                         0.01
+
+assessoria_de_imprensa
+  mean                                             0.0282                            0                            0                       0.1695
+  std. dev.                                        0.1667                       0.1667                       0.1667                       0.3752
+  weight sum                                           71                           62                           75                           59
+  precision                                             1                            1                            1                            1
+
+
+Attribute mappings:
+
+Model attributes                     	    Incoming attributes
+-------------------------------------	    ----------------
+(numeric) cacalo_silveira_martins    	--> 1 (numeric) cacalo_silveira_martins
+(numeric) kenny_braga_paixão         	--> 3 (numeric) kenny_braga_paixão
+(numeric) braga_paixão_colorar       	--> 4 (numeric) braga_paixão_colorar
+(numeric) silveira_martins_paixão    	--> 22 (numeric) silveira_martins_paixão
+(numeric) copa_de_brasil             	--> 13 (numeric) copa_de_brasil
+(numeric) postar_por_cáren           	--> 8 (numeric) postar_por_cáren
+(numeric) martins_paixão_tricolor    	--> 23 (numeric) martins_paixão_tricolor
+(numeric) dono_de_casa               	--> 11 (numeric) dono_de_casa
+(numeric) por_tiago_rech             	--> 9 (numeric) por_tiago_rech
+(numeric) postar_por_tiago           	--> 10 (numeric) postar_por_tiago
+(numeric) tiago_rech_a               	--> 7 (numeric) tiago_rech_a
+(numeric) bala_em_cara               	--> - missing (no match)
+(numeric) cáren_cecília_categoria    	--> 18 (numeric) cáren_cecília_categoria
+(numeric) de_copa_de                 	--> 31 (numeric) de_copa_de
+(numeric) r_inscrições_www           	--> - missing (no match)
+(numeric) rech_a_categoria           	--> 12 (numeric) rech_a_categoria
+(numeric) em_frente_a                	--> - missing (no match)
+(numeric) em_manhã_de                	--> 15 (numeric) em_manhã_de
+(numeric) de_acordo_com              	--> - missing (no match)
+(numeric) de_bala_em                 	--> - missing (no match)
+(numeric) de_tráfico_em              	--> - missing (no match)
+(numeric) tráfico_de_droga           	--> - missing (no match)
+(numeric) maria_de_conceição         	--> - missing (no match)
+(numeric) postar_por_michele         	--> 40 (numeric) postar_por_michele
+(numeric) michele_vaz_pradella       	--> - missing (no match)
+(numeric) cáren_cecília_baldo        	--> 21 (numeric) cáren_cecília_baldo
+(numeric) vaz_pradella_a             	--> 46 (numeric) vaz_pradella_a
+(numeric) por_michele_vaz            	--> - missing (no match)
+(numeric) ano_ir_morto               	--> - missing (no match)
+(numeric) rech_tiago_categoria       	--> - missing (no match)
+(numeric) secretaria_municipal_de    	--> 20 (numeric) secretaria_municipal_de
+(numeric) vila_maria_de              	--> - missing (no match)
+(numeric) zona_norte_de              	--> - missing (no match)
+(numeric) tiago_rech_tiago           	--> - missing (no match)
+(numeric) acordo_com_delegado        	--> - missing (no match)
+(numeric) de_homicídio_de            	--> - missing (no match)
+(numeric) com_inscrição_aberta       	--> 47 (numeric) com_inscrição_aberta
+(numeric) em_dia_de                  	--> 30 (numeric) em_dia_de
+(numeric) boca_de_fumo               	--> - missing (no match)
+(numeric) pradella_a_categoria       	--> - missing (no match)
+(numeric) r_r_inscrições             	--> - missing (no match)
+(numeric) de_terça_feira             	--> 29 (numeric) de_terça_feira
+(numeric) salários_de_r              	--> - missing (no match)
+(numeric) cecília_categoria_vaga     	--> - missing (no match)
+(numeric) morador_de_rua             	--> - missing (no match)
+(numeric) ir_morto_com               	--> - missing (no match)
+(numeric) em_função_de               	--> - missing (no match)
+(numeric) em_zona_norte              	--> - missing (no match)
+(numeric) técnico_renato_portaluppi  	--> - missing (no match)
+(numeric) assessoria_de_imprensa     	--> - missing (no match)
+(nominal) classe                     	--> 51 (nominal) classe
+
+
+Time taken to build model: 0.02 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.02 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          30               44.1176 %
+Incorrectly Classified Instances        38               55.8824 %
+Kappa statistic                          0.2355
+Mean absolute error                      0.3112
+Root mean squared error                  0.4019
+Relative absolute error                 83.2285 %
+Root relative squared error             92.9594 %
+Total Number of Instances               68     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0,000    0,000    0,000      0,000    0,000      0,000    0,560     0,291     corpus_policia
+                 0,250    0,000    1,000      0,250    0,400      0,451    0,690     0,453     corpus_espaco_do_trabalhador
+                 1,000    0,735    0,345      1,000    0,514      0,303    0,633     0,345     corpus_esportes
+                 0,467    0,038    0,778      0,467    0,583      0,525    0,736     0,510     corpus_seu_problema_e_nosso
+Weighted Avg.    0,441    0,214    0,503      0,441    0,366      0,306    0,650     0,393     
+
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+  0  0 16  2 |  a = corpus_policia
+  0  4 12  0 |  b = corpus_espaco_do_trabalhador
+  0  0 19  0 |  c = corpus_esportes
+  0  0  8  7 |  d = corpus_seu_problema_e_nosso
+

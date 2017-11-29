@@ -1,0 +1,1718 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.misc.InputMappedClassifier -I -trim -W weka.classifiers.functions.MultilayerPerceptron -- -L 0.3 -M 0.2 -N 500 -V 0 -S 0 -E 20 -H a
+Relation:     Arquivo
+Instances:    267
+Attributes:   51
+              cacalo_silveira_martins
+              kenny_braga_paixão
+              braga_paixão_colorar
+              silveira_martins_paixão
+              copa_de_brasil
+              postar_por_cáren
+              martins_paixão_tricolor
+              dono_de_casa
+              por_tiago_rech
+              postar_por_tiago
+              tiago_rech_a
+              bala_em_cara
+              cáren_cecília_categoria
+              de_copa_de
+              r_inscrições_www
+              rech_a_categoria
+              em_frente_a
+              em_manhã_de
+              de_acordo_com
+              de_bala_em
+              de_tráfico_em
+              tráfico_de_droga
+              maria_de_conceição
+              postar_por_michele
+              michele_vaz_pradella
+              cáren_cecília_baldo
+              vaz_pradella_a
+              por_michele_vaz
+              ano_ir_morto
+              rech_tiago_categoria
+              secretaria_municipal_de
+              vila_maria_de
+              zona_norte_de
+              tiago_rech_tiago
+              acordo_com_delegado
+              de_homicídio_de
+              com_inscrição_aberta
+              em_dia_de
+              boca_de_fumo
+              pradella_a_categoria
+              r_r_inscrições
+              de_terça_feira
+              salários_de_r
+              cecília_categoria_vaga
+              morador_de_rua
+              ir_morto_com
+              em_função_de
+              em_zona_norte
+              técnico_renato_portaluppi
+              assessoria_de_imprensa
+              classe
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+InputMappedClassifier:
+
+Sigmoid Node 0
+    Inputs    Weights
+    Threshold    -1.9549536419511
+    Node 4    0.32771725983588107
+    Node 5    -0.6503656783186562
+    Node 6    1.29345002971987
+    Node 7    1.6435776401219193
+    Node 8    0.7612382756787501
+    Node 9    0.9742423877039538
+    Node 10    1.3983676212417122
+    Node 11    5.694970262725731
+    Node 12    2.8097043473301313
+    Node 13    -0.8308518603752175
+    Node 14    -1.8837356937517795
+    Node 15    -1.1800990420289441
+    Node 16    -1.6920218941885674
+    Node 17    0.027928179398739858
+    Node 18    -0.4470395104182536
+    Node 19    0.5075529133333644
+    Node 20    -0.13952140964091075
+    Node 21    1.7248814687975034
+    Node 22    -2.267113664280409
+    Node 23    -1.0696487664032646
+    Node 24    -1.1268739314968703
+    Node 25    1.190993869384567
+    Node 26    -0.606824427887386
+    Node 27    1.6357820028326695
+    Node 28    1.380741809579619
+    Node 29    -0.8249192364115214
+    Node 30    0.3800522945344304
+Sigmoid Node 1
+    Inputs    Weights
+    Threshold    -0.5395795447356347
+    Node 4    -1.3027259474374182
+    Node 5    -0.5538741043487311
+    Node 6    -0.59749651543275
+    Node 7    -0.6164638124901388
+    Node 8    -0.7987663790982673
+    Node 9    -0.7906673869168384
+    Node 10    0.06377233227106033
+    Node 11    -3.0705788180509037
+    Node 12    -1.333803122200822
+    Node 13    -1.3020565779589286
+    Node 14    3.482975614056359
+    Node 15    -0.6245012867248555
+    Node 16    -0.00867185669785624
+    Node 17    -1.6069670449277684
+    Node 18    -0.29375595315725817
+    Node 19    -0.6377557549629566
+    Node 20    -1.1030562070132026
+    Node 21    -2.2129178153365117
+    Node 22    -1.3597741972441455
+    Node 23    -0.8179462868048156
+    Node 24    -0.7335528383240709
+    Node 25    -1.0901371125010777
+    Node 26    2.3618439419543837
+    Node 27    -0.5090718551058734
+    Node 28    -0.4448434808108635
+    Node 29    0.28634773654483686
+    Node 30    -0.2853654334963598
+Sigmoid Node 2
+    Inputs    Weights
+    Threshold    -0.12752598340426335
+    Node 4    -0.9477743984567845
+    Node 5    -0.9472262661176506
+    Node 6    -0.15933034407080998
+    Node 7    0.2578982263369133
+    Node 8    -0.5145447574159484
+    Node 9    0.034393206107990806
+    Node 10    -2.669461252421259
+    Node 11    -3.9477831253421054
+    Node 12    -1.5474435357118168
+    Node 13    -1.2535450366687677
+    Node 14    -2.5456459673220446
+    Node 15    -0.9972409273881705
+    Node 16    -0.6954366263984492
+    Node 17    -1.39154379201999
+    Node 18    -0.9349572575745496
+    Node 19    -0.3388583016560311
+    Node 20    -0.8989816334509668
+    Node 21    -1.8451971060691184
+    Node 22    -1.7054033689751271
+    Node 23    -0.8726857526128923
+    Node 24    -1.037129895935014
+    Node 25    -0.33426617708718803
+    Node 26    -1.9810271717811838
+    Node 27    -1.2949562777522674
+    Node 28    0.15043193577126707
+    Node 29    -1.228429487176496
+    Node 30    -0.4764256124186735
+Sigmoid Node 3
+    Inputs    Weights
+    Threshold    -2.242941602623932
+    Node 4    0.3600352159015097
+    Node 5    1.0201278350178866
+    Node 6    -3.5401453074710454
+    Node 7    -1.3475467552607352
+    Node 8    -0.9070057561366633
+    Node 9    -0.64969948437947
+    Node 10    1.4557498915776175
+    Node 11    -2.6084732411564473
+    Node 12    -2.2026292406196775
+    Node 13    0.8155285315670932
+    Node 14    -0.6190719436964663
+    Node 15    1.2755450602597285
+    Node 16    1.9011849259379046
+    Node 17    0.5056688015197721
+    Node 18    0.36650241403976846
+    Node 19    -0.12289306880850771
+    Node 20    0.6781076336004163
+    Node 21    2.043926832651805
+    Node 22    2.5437749833195644
+    Node 23    1.3579549681336307
+    Node 24    1.5625151622876794
+    Node 25    -1.4233101258981755
+    Node 26    -1.1402337493157741
+    Node 27    -1.2394943980664264
+    Node 28    -1.180402678275161
+    Node 29    0.027090790124890636
+    Node 30    -0.4937070918890076
+Sigmoid Node 4
+    Inputs    Weights
+    Threshold    0.22938114704358206
+    Attrib cacalo_silveira_martins    0.0031352545694726883
+    Attrib kenny_braga_paixão    0.021062646683866357
+    Attrib braga_paixão_colorar    0.00844042282429451
+    Attrib silveira_martins_paixão    -0.03145291990737868
+    Attrib copa_de_brasil    -0.03513062798443162
+    Attrib postar_por_cáren    -0.03814571254217375
+    Attrib martins_paixão_tricolor    0.01525403050590203
+    Attrib dono_de_casa    1.5432113130566503
+    Attrib por_tiago_rech    -0.03120356920347136
+    Attrib postar_por_tiago    0.03149804207835803
+    Attrib tiago_rech_a    -0.012144831135174824
+    Attrib bala_em_cara    -0.005599425938753476
+    Attrib cáren_cecília_categoria    -0.03257634462133361
+    Attrib de_copa_de    -0.02401183049107103
+    Attrib r_inscrições_www    -0.007749845357316057
+    Attrib rech_a_categoria    -8.908563066324232E-4
+    Attrib em_frente_a    -0.03266415525274639
+    Attrib em_manhã_de    0.010727593745498011
+    Attrib de_acordo_com    0.2942074563772162
+    Attrib de_bala_em    0.009902826138571075
+    Attrib de_tráfico_em    0.1791323780286283
+    Attrib tráfico_de_droga    0.059979638319179004
+    Attrib maria_de_conceição    0.0437850527617947
+    Attrib postar_por_michele    0.029158604359352927
+    Attrib michele_vaz_pradella    -0.031079434672273278
+    Attrib cáren_cecília_baldo    -0.0036886927348640103
+    Attrib vaz_pradella_a    0.03914794372378923
+    Attrib por_michele_vaz    -0.005101238017014731
+    Attrib ano_ir_morto    0.07331036331129466
+    Attrib rech_tiago_categoria    0.037381499737567464
+    Attrib secretaria_municipal_de    0.01566213323556645
+    Attrib vila_maria_de    -0.024995410003562757
+    Attrib zona_norte_de    -0.054648817396326516
+    Attrib tiago_rech_tiago    -0.04708546583918647
+    Attrib acordo_com_delegado    -0.025107231019751198
+    Attrib de_homicídio_de    0.1309618426957948
+    Attrib com_inscrição_aberta    -0.6206554870708318
+    Attrib em_dia_de    0.40403188906822785
+    Attrib boca_de_fumo    -0.0046087751606377755
+    Attrib pradella_a_categoria    -0.0460908028651367
+    Attrib r_r_inscrições    -1.1004457200079754E-4
+    Attrib de_terça_feira    0.0357672688073437
+    Attrib salários_de_r    0.043403376496146936
+    Attrib cecília_categoria_vaga    0.010513318467402034
+    Attrib morador_de_rua    0.5501878986047405
+    Attrib ir_morto_com    0.3623657317706114
+    Attrib em_função_de    0.2577271410287774
+    Attrib em_zona_norte    0.016201207388893524
+    Attrib técnico_renato_portaluppi    -0.04607545106458655
+    Attrib assessoria_de_imprensa    1.6758169667683969
+Sigmoid Node 5
+    Inputs    Weights
+    Threshold    -0.10814144279502884
+    Attrib cacalo_silveira_martins    -0.04266094390247363
+    Attrib kenny_braga_paixão    -0.006585806443827703
+    Attrib braga_paixão_colorar    0.009738731578471348
+    Attrib silveira_martins_paixão    -0.02064915524811133
+    Attrib copa_de_brasil    -0.0162411591590282
+    Attrib postar_por_cáren    0.028723176639808987
+    Attrib martins_paixão_tricolor    -2.7177877738824435E-4
+    Attrib dono_de_casa    0.9145570486444898
+    Attrib por_tiago_rech    0.04556775564627284
+    Attrib postar_por_tiago    -0.020766098081923968
+    Attrib tiago_rech_a    -0.030883073178995538
+    Attrib bala_em_cara    -0.018722534925896504
+    Attrib cáren_cecília_categoria    -0.021473930774067996
+    Attrib de_copa_de    0.024004757063985777
+    Attrib r_inscrições_www    -0.007678542290495749
+    Attrib rech_a_categoria    0.034556086635772296
+    Attrib em_frente_a    1.6531131603133205
+    Attrib em_manhã_de    -0.009798293424595851
+    Attrib de_acordo_com    -0.09463548556462231
+    Attrib de_bala_em    0.013419713909038636
+    Attrib de_tráfico_em    0.05829100391778145
+    Attrib tráfico_de_droga    -0.15627156668843964
+    Attrib maria_de_conceição    0.0218667042638378
+    Attrib postar_por_michele    0.02865991435453384
+    Attrib michele_vaz_pradella    -0.04099022341170623
+    Attrib cáren_cecília_baldo    -0.015670891004047074
+    Attrib vaz_pradella_a    -0.025702575847352527
+    Attrib por_michele_vaz    -0.04956014312503709
+    Attrib ano_ir_morto    0.006708453216915462
+    Attrib rech_tiago_categoria    0.04740888162550268
+    Attrib secretaria_municipal_de    -0.0056546289869964655
+    Attrib vila_maria_de    -0.005920579883251065
+    Attrib zona_norte_de    -0.05629605630516154
+    Attrib tiago_rech_tiago    0.03974659116905993
+    Attrib acordo_com_delegado    -0.04510546379179018
+    Attrib de_homicídio_de    -0.009963749216845383
+    Attrib com_inscrição_aberta    0.19324322619008416
+    Attrib em_dia_de    1.0700960815882121
+    Attrib boca_de_fumo    0.012085999422232369
+    Attrib pradella_a_categoria    0.04879651834626263
+    Attrib r_r_inscrições    -0.027005699291631248
+    Attrib de_terça_feira    -0.026259243376479148
+    Attrib salários_de_r    0.002234788211849671
+    Attrib cecília_categoria_vaga    0.045211328893615094
+    Attrib morador_de_rua    -0.460133243882694
+    Attrib ir_morto_com    0.008236080831304749
+    Attrib em_função_de    1.1082598036478237
+    Attrib em_zona_norte    -0.03209914704900138
+    Attrib técnico_renato_portaluppi    -0.028546766160204896
+    Attrib assessoria_de_imprensa    1.318986380359837
+Sigmoid Node 6
+    Inputs    Weights
+    Threshold    -0.44565284455369253
+    Attrib cacalo_silveira_martins    -0.03232309525320096
+    Attrib kenny_braga_paixão    0.031934750950584595
+    Attrib braga_paixão_colorar    -0.01256168678854254
+    Attrib silveira_martins_paixão    0.007574859833005064
+    Attrib copa_de_brasil    0.03375698134119287
+    Attrib postar_por_cáren    0.046280905633721905
+    Attrib martins_paixão_tricolor    -0.008277667429086775
+    Attrib dono_de_casa    0.004412230972554231
+    Attrib por_tiago_rech    -0.046050325498696365
+    Attrib postar_por_tiago    -0.005717517701489795
+    Attrib tiago_rech_a    0.04763867307773166
+    Attrib bala_em_cara    0.01905864522774174
+    Attrib cáren_cecília_categoria    0.01603920000687617
+    Attrib de_copa_de    -0.03589043738281265
+    Attrib r_inscrições_www    -0.012579879900444214
+    Attrib rech_a_categoria    0.004969639784595671
+    Attrib em_frente_a    -1.3757390799416636
+    Attrib em_manhã_de    0.02308047466651833
+    Attrib de_acordo_com    0.09257285128241419
+    Attrib de_bala_em    0.026097944837123202
+    Attrib de_tráfico_em    0.5827964757385213
+    Attrib tráfico_de_droga    2.3211195100746664
+    Attrib maria_de_conceição    -5.146097697238949E-4
+    Attrib postar_por_michele    0.026160617594710583
+    Attrib michele_vaz_pradella    0.023659338911139624
+    Attrib cáren_cecília_baldo    0.0065311422016651535
+    Attrib vaz_pradella_a    -0.023061089166635365
+    Attrib por_michele_vaz    -0.0377262828890079
+    Attrib ano_ir_morto    0.2583032611888969
+    Attrib rech_tiago_categoria    0.012550437021989602
+    Attrib secretaria_municipal_de    -0.01790352397127054
+    Attrib vila_maria_de    -0.021474790924712363
+    Attrib zona_norte_de    0.4765858532816305
+    Attrib tiago_rech_tiago    0.00928594949511611
+    Attrib acordo_com_delegado    -0.048355637426241105
+    Attrib de_homicídio_de    0.8780260300571551
+    Attrib com_inscrição_aberta    1.2551923449762328
+    Attrib em_dia_de    -1.6358427816479522
+    Attrib boca_de_fumo    0.834765297479382
+    Attrib pradella_a_categoria    0.03156021230734665
+    Attrib r_r_inscrições    0.03314196727231582
+    Attrib de_terça_feira    0.006453721443118468
+    Attrib salários_de_r    0.0035864177053827745
+    Attrib cecília_categoria_vaga    -0.04666778546864068
+    Attrib morador_de_rua    2.8206569180118115
+    Attrib ir_morto_com    0.4334197434967757
+    Attrib em_função_de    -1.7322053645749638
+    Attrib em_zona_norte    -0.04374568191408554
+    Attrib técnico_renato_portaluppi    -0.04560061864779341
+    Attrib assessoria_de_imprensa    -1.434989069140437
+Sigmoid Node 7
+    Inputs    Weights
+    Threshold    0.43219230026193395
+    Attrib cacalo_silveira_martins    0.03834777753721989
+    Attrib kenny_braga_paixão    0.010451906671889534
+    Attrib braga_paixão_colorar    -0.04983593732702583
+    Attrib silveira_martins_paixão    -0.033153940274708735
+    Attrib copa_de_brasil    0.03446875782921442
+    Attrib postar_por_cáren    -0.029020339818167963
+    Attrib martins_paixão_tricolor    0.01680125719900394
+    Attrib dono_de_casa    0.8136499358192782
+    Attrib por_tiago_rech    -0.028992642954101845
+    Attrib postar_por_tiago    0.024049499730135288
+    Attrib tiago_rech_a    -0.010328756264284769
+    Attrib bala_em_cara    -0.043744672073792894
+    Attrib cáren_cecília_categoria    -0.015495777863921166
+    Attrib de_copa_de    -0.047145898942977715
+    Attrib r_inscrições_www    -0.03347705219599467
+    Attrib rech_a_categoria    0.037512613065152994
+    Attrib em_frente_a    -0.44362023315920407
+    Attrib em_manhã_de    -0.020952558738263394
+    Attrib de_acordo_com    0.197006785994613
+    Attrib de_bala_em    -0.032193141753832616
+    Attrib de_tráfico_em    0.8837844090532236
+    Attrib tráfico_de_droga    1.0950379127709968
+    Attrib maria_de_conceição    -0.036241657765149406
+    Attrib postar_por_michele    0.0082309709440751
+    Attrib michele_vaz_pradella    0.020690565281952206
+    Attrib cáren_cecília_baldo    -0.047494041421521874
+    Attrib vaz_pradella_a    0.04967745560340543
+    Attrib por_michele_vaz    -0.022764201888077575
+    Attrib ano_ir_morto    1.1722211035130512
+    Attrib rech_tiago_categoria    0.037511813826741125
+    Attrib secretaria_municipal_de    -0.040563821434938065
+    Attrib vila_maria_de    0.028676887650590316
+    Attrib zona_norte_de    0.9338055124049217
+    Attrib tiago_rech_tiago    -0.007421447558533245
+    Attrib acordo_com_delegado    -0.009615938263523936
+    Attrib de_homicídio_de    0.4501450925363014
+    Attrib com_inscrição_aberta    -0.6834931312031551
+    Attrib em_dia_de    -0.8931421994867338
+    Attrib boca_de_fumo    0.5027237428949461
+    Attrib pradella_a_categoria    0.04185080068545266
+    Attrib r_r_inscrições    -0.015900351523490112
+    Attrib de_terça_feira    -0.04933592025603927
+    Attrib salários_de_r    -0.004682715406935947
+    Attrib cecília_categoria_vaga    0.04939061384531526
+    Attrib morador_de_rua    1.7981525886288605
+    Attrib ir_morto_com    0.8794715959854125
+    Attrib em_função_de    -1.123267897882408
+    Attrib em_zona_norte    -0.04897479837682454
+    Attrib técnico_renato_portaluppi    -0.040525384913407896
+    Attrib assessoria_de_imprensa    -0.6129315526692997
+Sigmoid Node 8
+    Inputs    Weights
+    Threshold    0.20979570881916018
+    Attrib cacalo_silveira_martins    -0.014956717296595388
+    Attrib kenny_braga_paixão    0.017224488190533543
+    Attrib braga_paixão_colorar    0.018950842285448383
+    Attrib silveira_martins_paixão    -0.012826103117104248
+    Attrib copa_de_brasil    -0.023895937855774
+    Attrib postar_por_cáren    0.042130656786678114
+    Attrib martins_paixão_tricolor    -0.048431672818032456
+    Attrib dono_de_casa    -0.07474821640879094
+    Attrib por_tiago_rech    0.013221703039662039
+    Attrib postar_por_tiago    0.04604162810362551
+    Attrib tiago_rech_a    -0.04208980297231166
+    Attrib bala_em_cara    -0.01879557779536506
+    Attrib cáren_cecília_categoria    0.011646789402706505
+    Attrib de_copa_de    -0.03052379685540887
+    Attrib r_inscrições_www    0.028258415518080296
+    Attrib rech_a_categoria    0.011035160387387069
+    Attrib em_frente_a    0.1822354968742178
+    Attrib em_manhã_de    0.03416375878022265
+    Attrib de_acordo_com    0.9446760025289931
+    Attrib de_bala_em    0.04388932564197148
+    Attrib de_tráfico_em    0.788023787458894
+    Attrib tráfico_de_droga    1.4118431670243121
+    Attrib maria_de_conceição    0.0020569911913307926
+    Attrib postar_por_michele    0.0219572643451926
+    Attrib michele_vaz_pradella    0.045918224941375305
+    Attrib cáren_cecília_baldo    0.022925858235491245
+    Attrib vaz_pradella_a    -0.04052987521715859
+    Attrib por_michele_vaz    -0.006195217621604944
+    Attrib ano_ir_morto    0.4689085328315726
+    Attrib rech_tiago_categoria    -0.03090966959251701
+    Attrib secretaria_municipal_de    0.01880089212197615
+    Attrib vila_maria_de    -0.03476154630017193
+    Attrib zona_norte_de    0.6434314850276251
+    Attrib tiago_rech_tiago    0.026614859944732644
+    Attrib acordo_com_delegado    -0.033237745180602477
+    Attrib de_homicídio_de    0.7501642576420104
+    Attrib com_inscrição_aberta    -0.5134968472942527
+    Attrib em_dia_de    -0.3671271845613783
+    Attrib boca_de_fumo    0.7646853217061735
+    Attrib pradella_a_categoria    0.03553715488496355
+    Attrib r_r_inscrições    0.016278425385201495
+    Attrib de_terça_feira    0.017764267125924882
+    Attrib salários_de_r    -0.02259321438263928
+    Attrib cecília_categoria_vaga    -0.003631930487970378
+    Attrib morador_de_rua    0.16958623343675464
+    Attrib ir_morto_com    0.926371851760192
+    Attrib em_função_de    -0.4698974292403506
+    Attrib em_zona_norte    0.01190375090640846
+    Attrib técnico_renato_portaluppi    -0.004867024267373496
+    Attrib assessoria_de_imprensa    -0.25086312274631145
+Sigmoid Node 9
+    Inputs    Weights
+    Threshold    0.16460969902279923
+    Attrib cacalo_silveira_martins    0.048590582622701495
+    Attrib kenny_braga_paixão    -0.004993221975007622
+    Attrib braga_paixão_colorar    0.021374736952674153
+    Attrib silveira_martins_paixão    -0.026535141732882184
+    Attrib copa_de_brasil    0.01202372645509784
+    Attrib postar_por_cáren    -0.045343432337837386
+    Attrib martins_paixão_tricolor    -0.033512895377267905
+    Attrib dono_de_casa    0.49917165792387136
+    Attrib por_tiago_rech    0.028324564010398942
+    Attrib postar_por_tiago    -0.0010030853127451778
+    Attrib tiago_rech_a    -0.04486409616413456
+    Attrib bala_em_cara    0.0012466087249499574
+    Attrib cáren_cecília_categoria    -0.00392625963417309
+    Attrib de_copa_de    -0.009820604182286675
+    Attrib r_inscrições_www    -0.03252916844326218
+    Attrib rech_a_categoria    0.00968712592096379
+    Attrib em_frente_a    -0.46998606703118445
+    Attrib em_manhã_de    0.00931232933367504
+    Attrib de_acordo_com    0.4450550657858472
+    Attrib de_bala_em    0.00753668553267417
+    Attrib de_tráfico_em    0.8351763256264111
+    Attrib tráfico_de_droga    0.8706003503566906
+    Attrib maria_de_conceição    0.03618834113204858
+    Attrib postar_por_michele    0.005261847857598589
+    Attrib michele_vaz_pradella    0.02131769679759686
+    Attrib cáren_cecília_baldo    -0.02916991213037942
+    Attrib vaz_pradella_a    0.0012348122926191252
+    Attrib por_michele_vaz    -0.012660435925407013
+    Attrib ano_ir_morto    0.7868876354564901
+    Attrib rech_tiago_categoria    0.047624224987252314
+    Attrib secretaria_municipal_de    0.03177054960649488
+    Attrib vila_maria_de    -0.025464364416238963
+    Attrib zona_norte_de    0.5178306972826969
+    Attrib tiago_rech_tiago    0.02974935064675907
+    Attrib acordo_com_delegado    -0.025519324475425743
+    Attrib de_homicídio_de    0.41355262539420284
+    Attrib com_inscrição_aberta    -0.6629425905120903
+    Attrib em_dia_de    -0.29053448383074476
+    Attrib boca_de_fumo    0.5304677007463858
+    Attrib pradella_a_categoria    0.0482709982441417
+    Attrib r_r_inscrições    0.0237388824933962
+    Attrib de_terça_feira    0.04377539031633915
+    Attrib salários_de_r    0.032960627300086975
+    Attrib cecília_categoria_vaga    -0.02911379546616071
+    Attrib morador_de_rua    0.9286740186042408
+    Attrib ir_morto_com    0.7326653654024223
+    Attrib em_função_de    -0.5307075871339654
+    Attrib em_zona_norte    -0.0038079080224525455
+    Attrib técnico_renato_portaluppi    0.022671885832039745
+    Attrib assessoria_de_imprensa    0.2809074284796765
+Sigmoid Node 10
+    Inputs    Weights
+    Threshold    1.3940133943581499
+    Attrib cacalo_silveira_martins    0.007589253843834666
+    Attrib kenny_braga_paixão    -0.015543921693123387
+    Attrib braga_paixão_colorar    -0.04307534550907556
+    Attrib silveira_martins_paixão    0.0038427644862212076
+    Attrib copa_de_brasil    -9.277822228786065E-4
+    Attrib postar_por_cáren    0.04723305110683933
+    Attrib martins_paixão_tricolor    0.024314867640334067
+    Attrib dono_de_casa    0.137041920847718
+    Attrib por_tiago_rech    -0.013863454817805425
+    Attrib postar_por_tiago    0.02278381148664055
+    Attrib tiago_rech_a    -0.029939786794669822
+    Attrib bala_em_cara    0.008212495303882315
+    Attrib cáren_cecília_categoria    0.007442748623851456
+    Attrib de_copa_de    0.038138865920795115
+    Attrib r_inscrições_www    -0.025979866607433524
+    Attrib rech_a_categoria    0.020820145033087573
+    Attrib em_frente_a    4.277351047517528
+    Attrib em_manhã_de    -0.018763345851272286
+    Attrib de_acordo_com    3.378464031133894
+    Attrib de_bala_em    0.018799457276027484
+    Attrib de_tráfico_em    0.1425081870150046
+    Attrib tráfico_de_droga    0.8297170545120273
+    Attrib maria_de_conceição    0.023005295423922045
+    Attrib postar_por_michele    -0.027886625419233226
+    Attrib michele_vaz_pradella    0.02683806700143722
+    Attrib cáren_cecília_baldo    0.03379285161549897
+    Attrib vaz_pradella_a    -0.03575565217893248
+    Attrib por_michele_vaz    0.04523460323689292
+    Attrib ano_ir_morto    0.58160828932545
+    Attrib rech_tiago_categoria    0.024940412124693903
+    Attrib secretaria_municipal_de    -0.0045561126074057795
+    Attrib vila_maria_de    0.025519220155423336
+    Attrib zona_norte_de    -0.38891896373603746
+    Attrib tiago_rech_tiago    0.03721291410199079
+    Attrib acordo_com_delegado    -0.004000167032676562
+    Attrib de_homicídio_de    -0.5631741114305236
+    Attrib com_inscrição_aberta    -1.9761858166992878
+    Attrib em_dia_de    -0.9538615816929795
+    Attrib boca_de_fumo    -0.38946567383106884
+    Attrib pradella_a_categoria    0.024888143045906627
+    Attrib r_r_inscrições    0.005567463080790723
+    Attrib de_terça_feira    -0.028595268129031293
+    Attrib salários_de_r    0.011757129401772079
+    Attrib cecília_categoria_vaga    -0.049049967912604034
+    Attrib morador_de_rua    -1.2676296466132928
+    Attrib ir_morto_com    0.6214852973436379
+    Attrib em_função_de    -0.6392223029310862
+    Attrib em_zona_norte    -0.043755988618708996
+    Attrib técnico_renato_portaluppi    0.043748991798823786
+    Attrib assessoria_de_imprensa    1.9675142741255403
+Sigmoid Node 11
+    Inputs    Weights
+    Threshold    2.2701639335318036
+    Attrib cacalo_silveira_martins    0.01042474596168478
+    Attrib kenny_braga_paixão    -0.023060522140987718
+    Attrib braga_paixão_colorar    3.361848097499856E-4
+    Attrib silveira_martins_paixão    -0.014505574274310422
+    Attrib copa_de_brasil    -0.008466815264407679
+    Attrib postar_por_cáren    -0.00917031060339113
+    Attrib martins_paixão_tricolor    0.04283164578599234
+    Attrib dono_de_casa    -1.8726117080762181
+    Attrib por_tiago_rech    -0.0351125198849061
+    Attrib postar_por_tiago    -0.0058392453575106945
+    Attrib tiago_rech_a    -0.010681742943826053
+    Attrib bala_em_cara    0.008274976090445717
+    Attrib cáren_cecília_categoria    -0.01775650915923973
+    Attrib de_copa_de    -0.038529954621113915
+    Attrib r_inscrições_www    0.0018345762087415216
+    Attrib rech_a_categoria    -0.01762065946648441
+    Attrib em_frente_a    0.6445702376165732
+    Attrib em_manhã_de    0.01409132973725942
+    Attrib de_acordo_com    0.9818881015865353
+    Attrib de_bala_em    -0.030713962594375643
+    Attrib de_tráfico_em    3.9851686866081515
+    Attrib tráfico_de_droga    3.8616713188440666
+    Attrib maria_de_conceição    -0.04640103436073924
+    Attrib postar_por_michele    -0.024443446392799606
+    Attrib michele_vaz_pradella    0.008574810624102591
+    Attrib cáren_cecília_baldo    -0.04204164319746415
+    Attrib vaz_pradella_a    0.013210819608792751
+    Attrib por_michele_vaz    0.04405311950808133
+    Attrib ano_ir_morto    3.823062332598942
+    Attrib rech_tiago_categoria    -0.02643884209202183
+    Attrib secretaria_municipal_de    -0.024668308316075173
+    Attrib vila_maria_de    -0.0241459850876571
+    Attrib zona_norte_de    2.0349351216143354
+    Attrib tiago_rech_tiago    -0.00391819510575888
+    Attrib acordo_com_delegado    0.04151734892115297
+    Attrib de_homicídio_de    2.333673524933697
+    Attrib com_inscrição_aberta    -2.8648013246188726
+    Attrib em_dia_de    -2.6764039913844044
+    Attrib boca_de_fumo    1.9978654346709168
+    Attrib pradella_a_categoria    -0.04464184972899449
+    Attrib r_r_inscrições    -0.017182049203055827
+    Attrib de_terça_feira    0.020929252747273808
+    Attrib salários_de_r    0.032153144861536406
+    Attrib cecília_categoria_vaga    0.01892937541295049
+    Attrib morador_de_rua    -2.163784745703637
+    Attrib ir_morto_com    3.9683508017362423
+    Attrib em_função_de    -2.685581208735768
+    Attrib em_zona_norte    -0.037361199283845584
+    Attrib técnico_renato_portaluppi    0.005508315185416959
+    Attrib assessoria_de_imprensa    -2.828980753550724
+Sigmoid Node 12
+    Inputs    Weights
+    Threshold    0.5809732155577321
+    Attrib cacalo_silveira_martins    -0.022689136506733057
+    Attrib kenny_braga_paixão    0.024514716787820107
+    Attrib braga_paixão_colorar    0.019136650651400286
+    Attrib silveira_martins_paixão    -0.018993494992989125
+    Attrib copa_de_brasil    0.03544932182594117
+    Attrib postar_por_cáren    0.0015405304375921275
+    Attrib martins_paixão_tricolor    -0.011043580367156122
+    Attrib dono_de_casa    -0.462199283400758
+    Attrib por_tiago_rech    0.008446885642786783
+    Attrib postar_por_tiago    -0.00767848523355804
+    Attrib tiago_rech_a    -0.04092217432740113
+    Attrib bala_em_cara    -0.04380323722533618
+    Attrib cáren_cecília_categoria    -0.0022075560258088198
+    Attrib de_copa_de    0.04462165026848003
+    Attrib r_inscrições_www    -0.02626176063185505
+    Attrib rech_a_categoria    0.015220020007687463
+    Attrib em_frente_a    2.6471167788201493
+    Attrib em_manhã_de    -0.03081255527877416
+    Attrib de_acordo_com    3.018491357880717
+    Attrib de_bala_em    0.03700254840130007
+    Attrib de_tráfico_em    0.9653445497529465
+    Attrib tráfico_de_droga    2.482154543582313
+    Attrib maria_de_conceição    0.01341770519000099
+    Attrib postar_por_michele    -0.04198912873052161
+    Attrib michele_vaz_pradella    -0.049002076912374626
+    Attrib cáren_cecília_baldo    0.01536458982310733
+    Attrib vaz_pradella_a    0.04788476450812565
+    Attrib por_michele_vaz    -0.02759422472561255
+    Attrib ano_ir_morto    0.1723493864153369
+    Attrib rech_tiago_categoria    0.02023307355367847
+    Attrib secretaria_municipal_de    0.03665419575057835
+    Attrib vila_maria_de    -0.007428723519953252
+    Attrib zona_norte_de    1.585399806773959
+    Attrib tiago_rech_tiago    0.03284212272501212
+    Attrib acordo_com_delegado    -0.008175438823420679
+    Attrib de_homicídio_de    1.6276614936455345
+    Attrib com_inscrição_aberta    -0.7922318534236658
+    Attrib em_dia_de    -0.8589583744566922
+    Attrib boca_de_fumo    1.631559296484135
+    Attrib pradella_a_categoria    -0.033230261819439735
+    Attrib r_r_inscrições    0.01844892078796044
+    Attrib de_terça_feira    -0.0436370098525571
+    Attrib salários_de_r    -0.0033841282491076236
+    Attrib cecília_categoria_vaga    -0.044912036253520284
+    Attrib morador_de_rua    -0.4650165919389684
+    Attrib ir_morto_com    1.4832444336810038
+    Attrib em_função_de    -0.8420944235974027
+    Attrib em_zona_norte    0.01615884895033988
+    Attrib técnico_renato_portaluppi    0.034698276539883346
+    Attrib assessoria_de_imprensa    -1.6607240080989647
+Sigmoid Node 13
+    Inputs    Weights
+    Threshold    0.14204232066186856
+    Attrib cacalo_silveira_martins    0.0013186847604970478
+    Attrib kenny_braga_paixão    -0.02938360866672899
+    Attrib braga_paixão_colorar    0.030081142419855905
+    Attrib silveira_martins_paixão    0.03374548634922726
+    Attrib copa_de_brasil    0.0320111624656587
+    Attrib postar_por_cáren    -0.048946921255814735
+    Attrib martins_paixão_tricolor    -0.012599383095135357
+    Attrib dono_de_casa    2.1173999872649114
+    Attrib por_tiago_rech    0.03333189475916118
+    Attrib postar_por_tiago    -0.026564459970696997
+    Attrib tiago_rech_a    -0.003175250803584294
+    Attrib bala_em_cara    -0.029134675576939297
+    Attrib cáren_cecília_categoria    -0.013042402317631062
+    Attrib de_copa_de    0.03976812226233849
+    Attrib r_inscrições_www    0.04704762108749398
+    Attrib rech_a_categoria    0.03762587144226595
+    Attrib em_frente_a    1.4242830271128697
+    Attrib em_manhã_de    0.01200582070409889
+    Attrib de_acordo_com    0.3768549789960405
+    Attrib de_bala_em    -0.03638879725890196
+    Attrib de_tráfico_em    0.0809314745815055
+    Attrib tráfico_de_droga    -0.354093731656047
+    Attrib maria_de_conceição    -0.013871953088568867
+    Attrib postar_por_michele    -0.04136310202324098
+    Attrib michele_vaz_pradella    0.03796141451321321
+    Attrib cáren_cecília_baldo    0.021848575543466794
+    Attrib vaz_pradella_a    0.03030637653151437
+    Attrib por_michele_vaz    -0.010141709240483895
+    Attrib ano_ir_morto    -0.03457383027163852
+    Attrib rech_tiago_categoria    -0.0013833562652493248
+    Attrib secretaria_municipal_de    -9.650532173771653E-5
+    Attrib vila_maria_de    -0.0022512772784314197
+    Attrib zona_norte_de    -0.0664336590354218
+    Attrib tiago_rech_tiago    -0.047786927532818824
+    Attrib acordo_com_delegado    -0.044625128155229725
+    Attrib de_homicídio_de    -0.03450810095351302
+    Attrib com_inscrição_aberta    -0.4698960490915639
+    Attrib em_dia_de    1.143894713249664
+    Attrib boca_de_fumo    -0.1039148938521363
+    Attrib pradella_a_categoria    -0.007861252763427494
+    Attrib r_r_inscrições    0.008879224373075242
+    Attrib de_terça_feira    0.02551282510833333
+    Attrib salários_de_r    -0.04794589800178717
+    Attrib cecília_categoria_vaga    0.02124863035305384
+    Attrib morador_de_rua    -0.8941456902806104
+    Attrib ir_morto_com    0.05416580548886606
+    Attrib em_função_de    1.0645465996637689
+    Attrib em_zona_norte    -0.008523734901578747
+    Attrib técnico_renato_portaluppi    0.02545460855196137
+    Attrib assessoria_de_imprensa    1.3880429786135822
+Sigmoid Node 14
+    Inputs    Weights
+    Threshold    -0.33982599873413794
+    Attrib cacalo_silveira_martins    0.04447402599490899
+    Attrib kenny_braga_paixão    -0.0350468967770934
+    Attrib braga_paixão_colorar    0.022161661904508648
+    Attrib silveira_martins_paixão    0.01707815148496379
+    Attrib copa_de_brasil    -0.04502925160623035
+    Attrib postar_por_cáren    -0.03547703666533025
+    Attrib martins_paixão_tricolor    -0.04276089379241065
+    Attrib dono_de_casa    0.6889680294458839
+    Attrib por_tiago_rech    0.017129809691063314
+    Attrib postar_por_tiago    0.02433761962027571
+    Attrib tiago_rech_a    0.02224305873481011
+    Attrib bala_em_cara    0.008835230289604298
+    Attrib cáren_cecília_categoria    0.01147082523584194
+    Attrib de_copa_de    -0.019178711335550738
+    Attrib r_inscrições_www    -0.006981809482332915
+    Attrib rech_a_categoria    0.025550506530299485
+    Attrib em_frente_a    0.13222608843643693
+    Attrib em_manhã_de    0.0488210621254911
+    Attrib de_acordo_com    0.8599007687377226
+    Attrib de_bala_em    -0.04277742274140021
+    Attrib de_tráfico_em    -0.07430428035835024
+    Attrib tráfico_de_droga    -0.35667006294596865
+    Attrib maria_de_conceição    -0.02805534682938489
+    Attrib postar_por_michele    0.03757147752190171
+    Attrib michele_vaz_pradella    -0.003341108371491451
+    Attrib cáren_cecília_baldo    0.01844605670224872
+    Attrib vaz_pradella_a    -0.03894361357367542
+    Attrib por_michele_vaz    0.036349705754946685
+    Attrib ano_ir_morto    -0.05861955985708539
+    Attrib rech_tiago_categoria    -0.04486222586973696
+    Attrib secretaria_municipal_de    -0.01696501748862317
+    Attrib vila_maria_de    -0.0023717716680832918
+    Attrib zona_norte_de    -0.4115011432790842
+    Attrib tiago_rech_tiago    -0.042439792469211514
+    Attrib acordo_com_delegado    0.034193434959052235
+    Attrib de_homicídio_de    -0.3378841431171194
+    Attrib com_inscrição_aberta    4.702486530224214
+    Attrib em_dia_de    0.5276452445917926
+    Attrib boca_de_fumo    -0.22168296544102514
+    Attrib pradella_a_categoria    0.00932229853011516
+    Attrib r_r_inscrições    -0.02562312057236893
+    Attrib de_terça_feira    0.0326122573233127
+    Attrib salários_de_r    -0.04665966567462526
+    Attrib cecília_categoria_vaga    -0.003161387783259792
+    Attrib morador_de_rua    0.09375125181715255
+    Attrib ir_morto_com    -0.3074434208217275
+    Attrib em_função_de    0.6520798020557304
+    Attrib em_zona_norte    -0.02346890312533281
+    Attrib técnico_renato_portaluppi    0.009016133471921053
+    Attrib assessoria_de_imprensa    0.7019915038519537
+Sigmoid Node 15
+    Inputs    Weights
+    Threshold    -0.014647110219369323
+    Attrib cacalo_silveira_martins    -0.028224954973757533
+    Attrib kenny_braga_paixão    0.042037220615188664
+    Attrib braga_paixão_colorar    -0.015848145382199023
+    Attrib silveira_martins_paixão    -0.03909262546651873
+    Attrib copa_de_brasil    -0.023865716670412585
+    Attrib postar_por_cáren    0.03522027489463911
+    Attrib martins_paixão_tricolor    -0.03751715674070064
+    Attrib dono_de_casa    2.313291140158174
+    Attrib por_tiago_rech    -0.009819950887176167
+    Attrib postar_por_tiago    0.018879759057924717
+    Attrib tiago_rech_a    -0.033855068429570284
+    Attrib bala_em_cara    0.0480696860927073
+    Attrib cáren_cecília_categoria    -0.043694720894122255
+    Attrib de_copa_de    -0.013648951442539824
+    Attrib r_inscrições_www    0.003301500366448565
+    Attrib rech_a_categoria    -0.03990466606129988
+    Attrib em_frente_a    1.433105203310887
+    Attrib em_manhã_de    -0.026150173358003362
+    Attrib de_acordo_com    0.1802480348645191
+    Attrib de_bala_em    0.04166616449187813
+    Attrib de_tráfico_em    -0.03378123319072396
+    Attrib tráfico_de_droga    -0.515864835545456
+    Attrib maria_de_conceição    -0.014018422470612489
+    Attrib postar_por_michele    -0.03155080757696436
+    Attrib michele_vaz_pradella    0.0325112166534257
+    Attrib cáren_cecília_baldo    -0.008702242697560016
+    Attrib vaz_pradella_a    0.03629902074803171
+    Attrib por_michele_vaz    0.029148653230814878
+    Attrib ano_ir_morto    -0.10893172463390001
+    Attrib rech_tiago_categoria    -0.003382918222290386
+    Attrib secretaria_municipal_de    0.033263619295096636
+    Attrib vila_maria_de    -0.036044746097291594
+    Attrib zona_norte_de    -0.17201502659413848
+    Attrib tiago_rech_tiago    -0.03727851671725194
+    Attrib acordo_com_delegado    -0.04830087382166162
+    Attrib de_homicídio_de    -0.1147562188857751
+    Attrib com_inscrição_aberta    0.14541508990723337
+    Attrib em_dia_de    1.775322288124071
+    Attrib boca_de_fumo    -0.14217441625385477
+    Attrib pradella_a_categoria    -0.018115379647298223
+    Attrib r_r_inscrições    -0.013606436880239194
+    Attrib de_terça_feira    0.01351700297810797
+    Attrib salários_de_r    0.033277152696378515
+    Attrib cecília_categoria_vaga    0.04080450364206904
+    Attrib morador_de_rua    -1.2193542604860061
+    Attrib ir_morto_com    -0.19064309937912047
+    Attrib em_função_de    0.97530037654654
+    Attrib em_zona_norte    -0.022939820861806237
+    Attrib técnico_renato_portaluppi    -0.026446200579284675
+    Attrib assessoria_de_imprensa    1.2548822496793137
+Sigmoid Node 16
+    Inputs    Weights
+    Threshold    -0.3902145751893812
+    Attrib cacalo_silveira_martins    0.0409821739483293
+    Attrib kenny_braga_paixão    0.018769367453613864
+    Attrib braga_paixão_colorar    -0.043624404390287544
+    Attrib silveira_martins_paixão    0.04356312223638416
+    Attrib copa_de_brasil    0.03400210640907794
+    Attrib postar_por_cáren    -0.02469937023005745
+    Attrib martins_paixão_tricolor    0.0030043703590382775
+    Attrib dono_de_casa    2.3228150539471186
+    Attrib por_tiago_rech    -0.009719214760523419
+    Attrib postar_por_tiago    -0.039804917072139616
+    Attrib tiago_rech_a    0.04703889605084603
+    Attrib bala_em_cara    -0.024247087392723077
+    Attrib cáren_cecília_categoria    -0.046929639173773546
+    Attrib de_copa_de    -0.0022108880107618023
+    Attrib r_inscrições_www    0.03368598144873622
+    Attrib rech_a_categoria    -0.04046473938658285
+    Attrib em_frente_a    0.3568571270413867
+    Attrib em_manhã_de    0.00776189539024548
+    Attrib de_acordo_com    -0.32116111360796373
+    Attrib de_bala_em    -0.0033087789184098187
+    Attrib de_tráfico_em    -0.5708137595336672
+    Attrib tráfico_de_droga    -0.9440531366372441
+    Attrib maria_de_conceição    -0.0044547345144647504
+    Attrib postar_por_michele    0.016674817176684634
+    Attrib michele_vaz_pradella    0.030998878385978465
+    Attrib cáren_cecília_baldo    0.009060992563172332
+    Attrib vaz_pradella_a    0.036941226637925664
+    Attrib por_michele_vaz    -0.02190442831470605
+    Attrib ano_ir_morto    -0.4346104129694661
+    Attrib rech_tiago_categoria    -0.02539478090645755
+    Attrib secretaria_municipal_de    -0.03397795656375744
+    Attrib vila_maria_de    -0.007783770858861637
+    Attrib zona_norte_de    -0.3720606376640385
+    Attrib tiago_rech_tiago    -0.030588074143298838
+    Attrib acordo_com_delegado    0.026125812057991735
+    Attrib de_homicídio_de    -0.36608773251804866
+    Attrib com_inscrição_aberta    0.6471494511012983
+    Attrib em_dia_de    2.2501945558441774
+    Attrib boca_de_fumo    -0.35446616747230786
+    Attrib pradella_a_categoria    0.010264801251495093
+    Attrib r_r_inscrições    0.04409061459189982
+    Attrib de_terça_feira    0.041863026124028105
+    Attrib salários_de_r    0.024114329419816755
+    Attrib cecília_categoria_vaga    0.031875164212651144
+    Attrib morador_de_rua    -1.6804672470027924
+    Attrib ir_morto_com    -0.8009645512957895
+    Attrib em_função_de    3.617382366926702
+    Attrib em_zona_norte    -0.040207248666519126
+    Attrib técnico_renato_portaluppi    0.0030981901729952993
+    Attrib assessoria_de_imprensa    0.128801449038302
+Sigmoid Node 17
+    Inputs    Weights
+    Threshold    0.3091853756608828
+    Attrib cacalo_silveira_martins    -0.048063588514688275
+    Attrib kenny_braga_paixão    0.04167027394342901
+    Attrib braga_paixão_colorar    -0.015071501884021676
+    Attrib silveira_martins_paixão    0.037530745633800766
+    Attrib copa_de_brasil    -0.007143030843201878
+    Attrib postar_por_cáren    -0.028138431617608664
+    Attrib martins_paixão_tricolor    0.04313988312689185
+    Attrib dono_de_casa    2.233502438945421
+    Attrib por_tiago_rech    0.007630414803502808
+    Attrib postar_por_tiago    0.025615262801286273
+    Attrib tiago_rech_a    0.0026374348879689147
+    Attrib bala_em_cara    0.03515328698953482
+    Attrib cáren_cecília_categoria    0.04128248017014047
+    Attrib de_copa_de    -0.04191936551538457
+    Attrib r_inscrições_www    -0.0406982579673446
+    Attrib rech_a_categoria    -0.01930150803922827
+    Attrib em_frente_a    0.7967730540448853
+    Attrib em_manhã_de    0.043228802776376
+    Attrib de_acordo_com    0.3639881612369479
+    Attrib de_bala_em    -0.034171408608703754
+    Attrib de_tráfico_em    0.028348398919538012
+    Attrib tráfico_de_droga    -0.47700841897699925
+    Attrib maria_de_conceição    0.04084882966696547
+    Attrib postar_por_michele    0.021596230245821954
+    Attrib michele_vaz_pradella    0.0028210059037050844
+    Attrib cáren_cecília_baldo    0.015326661291569593
+    Attrib vaz_pradella_a    0.012853949619117164
+    Attrib por_michele_vaz    -6.212719676687573E-4
+    Attrib ano_ir_morto    -0.17167620668463823
+    Attrib rech_tiago_categoria    -0.04145230488074436
+    Attrib secretaria_municipal_de    0.04698723175376836
+    Attrib vila_maria_de    -0.0014757449320249236
+    Attrib zona_norte_de    -0.2955082552087387
+    Attrib tiago_rech_tiago    -0.0068432399302985475
+    Attrib acordo_com_delegado    0.024432369258851366
+    Attrib de_homicídio_de    -0.11538403245462758
+    Attrib com_inscrição_aberta    -0.6836671915757985
+    Attrib em_dia_de    1.4653173863070545
+    Attrib boca_de_fumo    -0.27158903888513114
+    Attrib pradella_a_categoria    -0.02869334115974135
+    Attrib r_r_inscrições    -0.011801198354152595
+    Attrib de_terça_feira    0.009568283577889025
+    Attrib salários_de_r    -0.026847015674332522
+    Attrib cecília_categoria_vaga    0.02893418993093297
+    Attrib morador_de_rua    -0.3851572100961719
+    Attrib ir_morto_com    0.008563248809330544
+    Attrib em_função_de    0.6250672688172975
+    Attrib em_zona_norte    0.004467957884605342
+    Attrib técnico_renato_portaluppi    -0.041008774802073544
+    Attrib assessoria_de_imprensa    1.8427574156712583
+Sigmoid Node 18
+    Inputs    Weights
+    Threshold    -0.1362267944495166
+    Attrib cacalo_silveira_martins    -0.022579062506717297
+    Attrib kenny_braga_paixão    -0.046459336277065166
+    Attrib braga_paixão_colorar    0.0020896327541071943
+    Attrib silveira_martins_paixão    0.03520002717912567
+    Attrib copa_de_brasil    0.02411815703190666
+    Attrib postar_por_cáren    -0.035805048681571576
+    Attrib martins_paixão_tricolor    -0.048293187962079404
+    Attrib dono_de_casa    0.4267356368738401
+    Attrib por_tiago_rech    -0.027852634379715826
+    Attrib postar_por_tiago    -0.004620693866153949
+    Attrib tiago_rech_a    0.002190785501281614
+    Attrib bala_em_cara    -4.126038849847219E-4
+    Attrib cáren_cecília_categoria    -0.02577111402111102
+    Attrib de_copa_de    0.02275384157610552
+    Attrib r_inscrições_www    -0.037129389349679943
+    Attrib rech_a_categoria    0.007343610517391408
+    Attrib em_frente_a    1.1051980275784945
+    Attrib em_manhã_de    -0.039098632909802034
+    Attrib de_acordo_com    0.14068820149089797
+    Attrib de_bala_em    -0.009356079599917147
+    Attrib de_tráfico_em    0.13273575289239867
+    Attrib tráfico_de_droga    0.0674418787625288
+    Attrib maria_de_conceição    0.032927926420219675
+    Attrib postar_por_michele    -0.015130128887934212
+    Attrib michele_vaz_pradella    0.017385885094022266
+    Attrib cáren_cecília_baldo    0.02886185152173748
+    Attrib vaz_pradella_a    0.031061161748145757
+    Attrib por_michele_vaz    -0.01499598808830157
+    Attrib ano_ir_morto    0.03945048966538609
+    Attrib rech_tiago_categoria    -0.015291780715410853
+    Attrib secretaria_municipal_de    -0.01050550864505706
+    Attrib vila_maria_de    -0.02107955360025331
+    Attrib zona_norte_de    0.010661037466383737
+    Attrib tiago_rech_tiago    0.03908181240802708
+    Attrib acordo_com_delegado    0.020441405992482148
+    Attrib de_homicídio_de    -0.02878113009620932
+    Attrib com_inscrição_aberta    0.6055371971834825
+    Attrib em_dia_de    0.3849754817287947
+    Attrib boca_de_fumo    0.01966507982488848
+    Attrib pradella_a_categoria    -0.03940737501146742
+    Attrib r_r_inscrições    -0.011566829257989977
+    Attrib de_terça_feira    -0.04187525049218236
+    Attrib salários_de_r    -0.01975418061485792
+    Attrib cecília_categoria_vaga    -0.007364484840441686
+    Attrib morador_de_rua    -0.12662555287030572
+    Attrib ir_morto_com    0.011314663198149246
+    Attrib em_função_de    0.606945250036079
+    Attrib em_zona_norte    0.036988065847592344
+    Attrib técnico_renato_portaluppi    -0.004500454467666962
+    Attrib assessoria_de_imprensa    1.0811821285702568
+Sigmoid Node 19
+    Inputs    Weights
+    Threshold    -0.06896252931987669
+    Attrib cacalo_silveira_martins    0.01687934837703367
+    Attrib kenny_braga_paixão    -0.030484224501287616
+    Attrib braga_paixão_colorar    0.04563085926419766
+    Attrib silveira_martins_paixão    -0.01056068188326631
+    Attrib copa_de_brasil    0.03763425138421782
+    Attrib postar_por_cáren    0.031108423389284753
+    Attrib martins_paixão_tricolor    -0.01717806783841285
+    Attrib dono_de_casa    0.5179956794494469
+    Attrib por_tiago_rech    0.042100472908888395
+    Attrib postar_por_tiago    0.04729296175014841
+    Attrib tiago_rech_a    0.005704180352578324
+    Attrib bala_em_cara    0.007970361338197021
+    Attrib cáren_cecília_categoria    0.02994951694072885
+    Attrib de_copa_de    0.015902225058541664
+    Attrib r_inscrições_www    0.010115783377458484
+    Attrib rech_a_categoria    -0.011972583751529306
+    Attrib em_frente_a    -0.0745943478655048
+    Attrib em_manhã_de    0.028404065090265537
+    Attrib de_acordo_com    0.3840628576732647
+    Attrib de_bala_em    -0.006129693602438223
+    Attrib de_tráfico_em    0.42705754484438474
+    Attrib tráfico_de_droga    0.46821257073336403
+    Attrib maria_de_conceição    0.018585983745398563
+    Attrib postar_por_michele    0.04178630944420331
+    Attrib michele_vaz_pradella    0.009042787362984327
+    Attrib cáren_cecília_baldo    0.0172572197599557
+    Attrib vaz_pradella_a    0.0492942029654652
+    Attrib por_michele_vaz    -0.009996762133407298
+    Attrib ano_ir_morto    0.38502241701547985
+    Attrib rech_tiago_categoria    0.008690270975727318
+    Attrib secretaria_municipal_de    -0.012981781422260329
+    Attrib vila_maria_de    -0.03571272547349102
+    Attrib zona_norte_de    0.29784480461821616
+    Attrib tiago_rech_tiago    -0.006354872754265203
+    Attrib acordo_com_delegado    -0.023096699208971318
+    Attrib de_homicídio_de    0.30020843287945304
+    Attrib com_inscrição_aberta    -0.14068283967688153
+    Attrib em_dia_de    0.1970233139015579
+    Attrib boca_de_fumo    0.3300452450416483
+    Attrib pradella_a_categoria    0.04353142219244226
+    Attrib r_r_inscrições    0.030698596695696703
+    Attrib de_terça_feira    0.04035917822536479
+    Attrib salários_de_r    0.04585573047894903
+    Attrib cecília_categoria_vaga    -0.029862492440667267
+    Attrib morador_de_rua    0.5093542900286869
+    Attrib ir_morto_com    0.44960205764588806
+    Attrib em_função_de    0.034014654992556397
+    Attrib em_zona_norte    0.0035301928348002026
+    Attrib técnico_renato_portaluppi    0.04497324895561869
+    Attrib assessoria_de_imprensa    0.5632916252530213
+Sigmoid Node 20
+    Inputs    Weights
+    Threshold    0.2017906740817039
+    Attrib cacalo_silveira_martins    -0.02121232020841043
+    Attrib kenny_braga_paixão    0.007600658839037447
+    Attrib braga_paixão_colorar    0.019301884420390963
+    Attrib silveira_martins_paixão    -0.012171262832913053
+    Attrib copa_de_brasil    -0.020734329928161134
+    Attrib postar_por_cáren    -0.01837302779924639
+    Attrib martins_paixão_tricolor    0.00826136048207484
+    Attrib dono_de_casa    1.6470943899674027
+    Attrib por_tiago_rech    -0.0207035395667752
+    Attrib postar_por_tiago    -0.019449302038311713
+    Attrib tiago_rech_a    -0.02529450468306578
+    Attrib bala_em_cara    -0.0443912538976877
+    Attrib cáren_cecília_categoria    0.01969689113428985
+    Attrib de_copa_de    5.595162917265487E-4
+    Attrib r_inscrições_www    -0.048248997151494825
+    Attrib rech_a_categoria    0.021263008043933773
+    Attrib em_frente_a    0.8137061365868827
+    Attrib em_manhã_de    -0.036745317309650416
+    Attrib de_acordo_com    0.32439293091462296
+    Attrib de_bala_em    -0.04280823201700632
+    Attrib de_tráfico_em    0.19819535178092146
+    Attrib tráfico_de_droga    -0.21560194166628424
+    Attrib maria_de_conceição    -0.047067916586423765
+    Attrib postar_por_michele    -0.021145687957051143
+    Attrib michele_vaz_pradella    -0.010957640776199276
+    Attrib cáren_cecília_baldo    -0.028597583878789957
+    Attrib vaz_pradella_a    -0.04845961008100128
+    Attrib por_michele_vaz    0.026964393082829982
+    Attrib ano_ir_morto    0.030345051861879573
+    Attrib rech_tiago_categoria    -0.024089852206879692
+    Attrib secretaria_municipal_de    0.0010919890947699296
+    Attrib vila_maria_de    0.04192967533625819
+    Attrib zona_norte_de    0.03740490451223363
+    Attrib tiago_rech_tiago    0.029939512893493878
+    Attrib acordo_com_delegado    -0.01990999886992899
+    Attrib de_homicídio_de    0.08656771402378587
+    Attrib com_inscrição_aberta    -0.6874792752012623
+    Attrib em_dia_de    0.7828375512945742
+    Attrib boca_de_fumo    0.07511660421779505
+    Attrib pradella_a_categoria    -8.870972641150249E-4
+    Attrib r_r_inscrições    -0.04705547592500392
+    Attrib de_terça_feira    -0.03531169285457857
+    Attrib salários_de_r    -0.023107707959795543
+    Attrib cecília_categoria_vaga    0.030995875764881442
+    Attrib morador_de_rua    -0.26693275346983963
+    Attrib ir_morto_com    0.36297141213722245
+    Attrib em_função_de    0.6021971742018389
+    Attrib em_zona_norte    -0.03404544305972793
+    Attrib técnico_renato_portaluppi    0.025864652895307247
+    Attrib assessoria_de_imprensa    1.1668456475857578
+Sigmoid Node 21
+    Inputs    Weights
+    Threshold    0.3481032886384035
+    Attrib cacalo_silveira_martins    -0.043600761356953205
+    Attrib kenny_braga_paixão    0.04649847470362273
+    Attrib braga_paixão_colorar    -0.037838065652860325
+    Attrib silveira_martins_paixão    0.0026255691493604766
+    Attrib copa_de_brasil    0.048316478753149275
+    Attrib postar_por_cáren    0.003798750387003093
+    Attrib martins_paixão_tricolor    -0.013948830403506807
+    Attrib dono_de_casa    3.039218410931712
+    Attrib por_tiago_rech    0.03307619514734793
+    Attrib postar_por_tiago    -0.027934338574191
+    Attrib tiago_rech_a    -0.006488885091329832
+    Attrib bala_em_cara    0.009042354726466327
+    Attrib cáren_cecília_categoria    0.03609911840660775
+    Attrib de_copa_de    0.034090381673899314
+    Attrib r_inscrições_www    -0.009803569748721354
+    Attrib rech_a_categoria    -0.03926623076987136
+    Attrib em_frente_a    -0.6357422660021121
+    Attrib em_manhã_de    0.04887711778148335
+    Attrib de_acordo_com    -0.4710668414264612
+    Attrib de_bala_em    -0.025916031415917154
+    Attrib de_tráfico_em    -0.013777767467297941
+    Attrib tráfico_de_droga    -0.8529030615818296
+    Attrib maria_de_conceição    -0.010318397094324715
+    Attrib postar_por_michele    -0.04998950027846349
+    Attrib michele_vaz_pradella    -0.03549939974566525
+    Attrib cáren_cecília_baldo    -0.042885577811945255
+    Attrib vaz_pradella_a    0.03323547614273363
+    Attrib por_michele_vaz    0.03220868529280965
+    Attrib ano_ir_morto    -0.14431259835774837
+    Attrib rech_tiago_categoria    0.017250793455679675
+    Attrib secretaria_municipal_de    0.03154877090850254
+    Attrib vila_maria_de    -0.005429435007873705
+    Attrib zona_norte_de    -0.29044936322595255
+    Attrib tiago_rech_tiago    0.028052135404537715
+    Attrib acordo_com_delegado    -0.04576091437425467
+    Attrib de_homicídio_de    -0.26177539923928594
+    Attrib com_inscrição_aberta    -0.7870447576846759
+    Attrib em_dia_de    2.5172341769917654
+    Attrib boca_de_fumo    -0.38681825243978724
+    Attrib pradella_a_categoria    -0.002376767747497857
+    Attrib r_r_inscrições    -0.022268460276863012
+    Attrib de_terça_feira    0.01381517032213049
+    Attrib salários_de_r    0.011736638836828815
+    Attrib cecília_categoria_vaga    -0.04373829707353284
+    Attrib morador_de_rua    0.4655758536486941
+    Attrib ir_morto_com    -0.1079178267796123
+    Attrib em_função_de    0.4611709263719039
+    Attrib em_zona_norte    -0.043470542367725254
+    Attrib técnico_renato_portaluppi    0.022501525657134702
+    Attrib assessoria_de_imprensa    2.787576978191914
+Sigmoid Node 22
+    Inputs    Weights
+    Threshold    0.1721563569806555
+    Attrib cacalo_silveira_martins    -0.02737378936629971
+    Attrib kenny_braga_paixão    -0.0168247924495925
+    Attrib braga_paixão_colorar    5.356341621952226E-4
+    Attrib silveira_martins_paixão    -0.049598636781153366
+    Attrib copa_de_brasil    0.03295508288903154
+    Attrib postar_por_cáren    0.0017399057330424322
+    Attrib martins_paixão_tricolor    -0.04590250406480672
+    Attrib dono_de_casa    3.556078405250827
+    Attrib por_tiago_rech    -0.041523984521753
+    Attrib postar_por_tiago    0.03349203084834128
+    Attrib tiago_rech_a    -0.047241011815044504
+    Attrib bala_em_cara    0.04758697995063188
+    Attrib cáren_cecília_categoria    -0.04209346793984012
+    Attrib de_copa_de    0.03400153193447518
+    Attrib r_inscrições_www    -0.008553626759952693
+    Attrib rech_a_categoria    -0.042453289041813703
+    Attrib em_frente_a    1.5359409215047084
+    Attrib em_manhã_de    0.014041754198593229
+    Attrib de_acordo_com    0.26024813725978546
+    Attrib de_bala_em    0.019887646842623785
+    Attrib de_tráfico_em    -0.004065595468468013
+    Attrib tráfico_de_droga    -0.989326787210356
+    Attrib maria_de_conceição    0.03593540983101949
+    Attrib postar_por_michele    -0.028907570906327642
+    Attrib michele_vaz_pradella    0.03691676807580688
+    Attrib cáren_cecília_baldo    -0.04747127078245997
+    Attrib vaz_pradella_a    0.02805500461899338
+    Attrib por_michele_vaz    0.013496893311561148
+    Attrib ano_ir_morto    -0.16332872138791782
+    Attrib rech_tiago_categoria    0.0013127089236777412
+    Attrib secretaria_municipal_de    -0.025318286346890918
+    Attrib vila_maria_de    0.04303282144247039
+    Attrib zona_norte_de    -0.2613629008438729
+    Attrib tiago_rech_tiago    -0.0011659095092664967
+    Attrib acordo_com_delegado    -0.0041622764276029595
+    Attrib de_homicídio_de    -0.263987465830139
+    Attrib com_inscrição_aberta    -0.5515452551265879
+    Attrib em_dia_de    3.4059574128191477
+    Attrib boca_de_fumo    -0.29681398105665596
+    Attrib pradella_a_categoria    0.030016720778711495
+    Attrib r_r_inscrições    -0.046933679763129205
+    Attrib de_terça_feira    0.028396618333276655
+    Attrib salários_de_r    -0.020625149952231636
+    Attrib cecília_categoria_vaga    -0.031750391331149805
+    Attrib morador_de_rua    -2.1429367907737102
+    Attrib ir_morto_com    -0.1485480247331295
+    Attrib em_função_de    1.0870819711694484
+    Attrib em_zona_norte    0.012319446425087421
+    Attrib técnico_renato_portaluppi    -0.010127463575066983
+    Attrib assessoria_de_imprensa    1.3821939058662804
+Sigmoid Node 23
+    Inputs    Weights
+    Threshold    -0.14777424626830735
+    Attrib cacalo_silveira_martins    -0.03599330060254169
+    Attrib kenny_braga_paixão    -0.03618071018357372
+    Attrib braga_paixão_colorar    0.04013300778200583
+    Attrib silveira_martins_paixão    -0.04653936512939604
+    Attrib copa_de_brasil    0.027114046762969718
+    Attrib postar_por_cáren    0.00459771523557799
+    Attrib martins_paixão_tricolor    0.027268125722671413
+    Attrib dono_de_casa    2.3060619711878854
+    Attrib por_tiago_rech    0.02696177324618157
+    Attrib postar_por_tiago    0.017548059847745018
+    Attrib tiago_rech_a    0.024771958477840667
+    Attrib bala_em_cara    -0.0322221927237584
+    Attrib cáren_cecília_categoria    0.044385820894360994
+    Attrib de_copa_de    -0.04271945398829661
+    Attrib r_inscrições_www    0.0030271106694655173
+    Attrib rech_a_categoria    0.031232147530846174
+    Attrib em_frente_a    1.2180672132786492
+    Attrib em_manhã_de    -0.021139403844695395
+    Attrib de_acordo_com    0.18236215559372368
+    Attrib de_bala_em    0.02991823377118398
+    Attrib de_tráfico_em    0.002898244497438042
+    Attrib tráfico_de_droga    -0.4295239936173469
+    Attrib maria_de_conceição    0.021711192571663956
+    Attrib postar_por_michele    -0.016519757646494514
+    Attrib michele_vaz_pradella    -0.03913569541312587
+    Attrib cáren_cecília_baldo    0.0037324991279472225
+    Attrib vaz_pradella_a    -0.04818853455004386
+    Attrib por_michele_vaz    0.034356382902088256
+    Attrib ano_ir_morto    -0.026138836939508442
+    Attrib rech_tiago_categoria    0.017170119032892922
+    Attrib secretaria_municipal_de    -0.02766439414744114
+    Attrib vila_maria_de    -0.011535874445392905
+    Attrib zona_norte_de    -0.07232355853436545
+    Attrib tiago_rech_tiago    -0.016367460293309023
+    Attrib acordo_com_delegado    0.040357601249981626
+    Attrib de_homicídio_de    -0.06096806894425496
+    Attrib com_inscrição_aberta    -0.5152667774065086
+    Attrib em_dia_de    2.1130456944750917
+    Attrib boca_de_fumo    -0.08744569941580166
+    Attrib pradella_a_categoria    -0.0443870947186537
+    Attrib r_r_inscrições    -0.016327959954154973
+    Attrib de_terça_feira    -0.04445658034712065
+    Attrib salários_de_r    0.0199407469753108
+    Attrib cecília_categoria_vaga    -0.036500251675670316
+    Attrib morador_de_rua    -1.2265145526265249
+    Attrib ir_morto_com    -0.11162306179975999
+    Attrib em_função_de    0.7549501420584999
+    Attrib em_zona_norte    0.04331048850440446
+    Attrib técnico_renato_portaluppi    0.02431545122386944
+    Attrib assessoria_de_imprensa    1.0231238180615458
+Sigmoid Node 24
+    Inputs    Weights
+    Threshold    -0.010902757979022815
+    Attrib cacalo_silveira_martins    0.01036507737135993
+    Attrib kenny_braga_paixão    -0.040269856081275174
+    Attrib braga_paixão_colorar    -0.0332816254978419
+    Attrib silveira_martins_paixão    0.028683279238420137
+    Attrib copa_de_brasil    -0.013615872179167647
+    Attrib postar_por_cáren    -0.013169659058438747
+    Attrib martins_paixão_tricolor    -0.04701607561367467
+    Attrib dono_de_casa    2.5644266479537823
+    Attrib por_tiago_rech    0.004586366792482199
+    Attrib postar_por_tiago    0.011202720505066668
+    Attrib tiago_rech_a    -0.03406494758925785
+    Attrib bala_em_cara    6.252555014952116E-4
+    Attrib cáren_cecília_categoria    0.01547064502599707
+    Attrib de_copa_de    0.03316112828854176
+    Attrib r_inscrições_www    -0.00958709368469305
+    Attrib rech_a_categoria    0.008909779012171756
+    Attrib em_frente_a    1.2034884168696347
+    Attrib em_manhã_de    0.022965386679088026
+    Attrib de_acordo_com    0.10162944733574455
+    Attrib de_bala_em    -0.020214027069423737
+    Attrib de_tráfico_em    0.07424832711190432
+    Attrib tráfico_de_droga    -0.5550459018354993
+    Attrib maria_de_conceição    5.151666095433369E-4
+    Attrib postar_por_michele    0.014112348110067854
+    Attrib michele_vaz_pradella    -0.018826913055542627
+    Attrib cáren_cecília_baldo    0.002054927980543131
+    Attrib vaz_pradella_a    -0.011109256315112781
+    Attrib por_michele_vaz    -0.018699835658448252
+    Attrib ano_ir_morto    -0.09500779109540669
+    Attrib rech_tiago_categoria    -0.03794202687528177
+    Attrib secretaria_municipal_de    0.035886193385682816
+    Attrib vila_maria_de    0.0017106440942962556
+    Attrib zona_norte_de    -0.13833956315477838
+    Attrib tiago_rech_tiago    -0.04577984642343165
+    Attrib acordo_com_delegado    -0.005397344215981557
+    Attrib de_homicídio_de    -0.06311687846093855
+    Attrib com_inscrição_aberta    -0.33965212370482495
+    Attrib em_dia_de    2.293889243638635
+    Attrib boca_de_fumo    -0.12585333529140397
+    Attrib pradella_a_categoria    -0.04498059896513711
+    Attrib r_r_inscrições    0.04638004102878181
+    Attrib de_terça_feira    -0.010824972027645006
+    Attrib salários_de_r    -0.026813036707528104
+    Attrib cecília_categoria_vaga    -0.0476046702399757
+    Attrib morador_de_rua    -1.3769428436030187
+    Attrib ir_morto_com    -0.0744991824186808
+    Attrib em_função_de    0.7073252380938686
+    Attrib em_zona_norte    -0.018734217808863106
+    Attrib técnico_renato_portaluppi    0.016755564246902194
+    Attrib assessoria_de_imprensa    1.0114164203642466
+Sigmoid Node 25
+    Inputs    Weights
+    Threshold    0.44275594020770603
+    Attrib cacalo_silveira_martins    0.022774780606179476
+    Attrib kenny_braga_paixão    0.03196935615755725
+    Attrib braga_paixão_colorar    -0.015063560612995186
+    Attrib silveira_martins_paixão    -0.02286921650873627
+    Attrib copa_de_brasil    -0.03436237390384428
+    Attrib postar_por_cáren    -0.03545907344986378
+    Attrib martins_paixão_tricolor    0.002284965141004111
+    Attrib dono_de_casa    -0.2951669120956963
+    Attrib por_tiago_rech    0.0025602705245912905
+    Attrib postar_por_tiago    -0.04824984940013003
+    Attrib tiago_rech_a    0.01967231406339051
+    Attrib bala_em_cara    0.018678630585707942
+    Attrib cáren_cecília_categoria    0.03827498808932467
+    Attrib de_copa_de    -0.027177905655377445
+    Attrib r_inscrições_www    0.024499075726554548
+    Attrib rech_a_categoria    0.011579869503600404
+    Attrib em_frente_a    3.431646133559634E-4
+    Attrib em_manhã_de    -0.019216101792362873
+    Attrib de_acordo_com    0.8123850015122815
+    Attrib de_bala_em    0.02946484334164949
+    Attrib de_tráfico_em    1.1295206126098027
+    Attrib tráfico_de_droga    2.030346053607986
+    Attrib maria_de_conceição    -0.014470193100880414
+    Attrib postar_por_michele    -0.015760143147675675
+    Attrib michele_vaz_pradella    0.044474141546809065
+    Attrib cáren_cecília_baldo    -0.034495842819305726
+    Attrib vaz_pradella_a    -0.03946774927585837
+    Attrib por_michele_vaz    0.03929553473983251
+    Attrib ano_ir_morto    1.1809458277508826
+    Attrib rech_tiago_categoria    0.021422021473496117
+    Attrib secretaria_municipal_de    0.012563352159856322
+    Attrib vila_maria_de    0.004315129846776032
+    Attrib zona_norte_de    0.9211433551556016
+    Attrib tiago_rech_tiago    0.004275610371224106
+    Attrib acordo_com_delegado    -0.005163507866256002
+    Attrib de_homicídio_de    0.8823945531387828
+    Attrib com_inscrição_aberta    -0.7193240067995832
+    Attrib em_dia_de    -0.814502305584629
+    Attrib boca_de_fumo    0.7809215717610423
+    Attrib pradella_a_categoria    -0.02210177713056597
+    Attrib r_r_inscrições    -0.010039286972847797
+    Attrib de_terça_feira    0.04697015286403798
+    Attrib salários_de_r    0.01670499511901588
+    Attrib cecília_categoria_vaga    -0.007059868824409531
+    Attrib morador_de_rua    0.06205522961170581
+    Attrib ir_morto_com    1.3303082836503146
+    Attrib em_função_de    -0.9982760270517889
+    Attrib em_zona_norte    -0.02794568194287114
+    Attrib técnico_renato_portaluppi    0.006742718180985562
+    Attrib assessoria_de_imprensa    -0.6961221598089599
+Sigmoid Node 26
+    Inputs    Weights
+    Threshold    -0.21493789519576967
+    Attrib cacalo_silveira_martins    -0.01961359758548661
+    Attrib kenny_braga_paixão    0.016992161115539056
+    Attrib braga_paixão_colorar    0.019515627822175474
+    Attrib silveira_martins_paixão    0.022170424091406446
+    Attrib copa_de_brasil    -0.022783431152013058
+    Attrib postar_por_cáren    -0.028228199111282316
+    Attrib martins_paixão_tricolor    -0.01131644601333507
+    Attrib dono_de_casa    -0.07438790146133561
+    Attrib por_tiago_rech    0.009353390997023182
+    Attrib postar_por_tiago    0.010524071325460682
+    Attrib tiago_rech_a    -0.03113486058107472
+    Attrib bala_em_cara    0.04709658872849795
+    Attrib cáren_cecília_categoria    0.010339486798490428
+    Attrib de_copa_de    0.005643968920995682
+    Attrib r_inscrições_www    0.001826263468886001
+    Attrib rech_a_categoria    -0.003377615163279793
+    Attrib em_frente_a    0.8438226288504459
+    Attrib em_manhã_de    0.02827890389562246
+    Attrib de_acordo_com    0.7722395474486
+    Attrib de_bala_em    -0.02278195231049378
+    Attrib de_tráfico_em    0.15521384930062374
+    Attrib tráfico_de_droga    0.2188075627723812
+    Attrib maria_de_conceição    0.04639171058720404
+    Attrib postar_por_michele    0.027783246171309617
+    Attrib michele_vaz_pradella    0.04396981771996654
+    Attrib cáren_cecília_baldo    0.04855952211643462
+    Attrib vaz_pradella_a    0.014443893723873905
+    Attrib por_michele_vaz    0.024773420592453715
+    Attrib ano_ir_morto    0.0835247777185452
+    Attrib rech_tiago_categoria    9.644251630708256E-4
+    Attrib secretaria_municipal_de    0.02012741199514169
+    Attrib vila_maria_de    0.002572834749577979
+    Attrib zona_norte_de    -0.16607574835787597
+    Attrib tiago_rech_tiago    0.005479799572481479
+    Attrib acordo_com_delegado    -0.04607709236738943
+    Attrib de_homicídio_de    -0.10132859955750304
+    Attrib com_inscrição_aberta    4.105894880634624
+    Attrib em_dia_de    -0.040245114341020696
+    Attrib boca_de_fumo    0.03376792678427222
+    Attrib pradella_a_categoria    -0.02438392723791426
+    Attrib r_r_inscrições    -0.021104722082620854
+    Attrib de_terça_feira    -0.04075081594721656
+    Attrib salários_de_r    0.04933305238026632
+    Attrib cecília_categoria_vaga    0.03954469356390658
+    Attrib morador_de_rua    0.27593321493493306
+    Attrib ir_morto_com    -0.026242691633697805
+    Attrib em_função_de    -0.13017209991529133
+    Attrib em_zona_norte    0.0030101731042403643
+    Attrib técnico_renato_portaluppi    0.006305618557118378
+    Attrib assessoria_de_imprensa    0.07650079832933195
+Sigmoid Node 27
+    Inputs    Weights
+    Threshold    0.16017828268339174
+    Attrib cacalo_silveira_martins    0.012536303880092109
+    Attrib kenny_braga_paixão    -0.007111219697094787
+    Attrib braga_paixão_colorar    -0.04675645494903072
+    Attrib silveira_martins_paixão    -0.00805042357777367
+    Attrib copa_de_brasil    -0.024782994545259698
+    Attrib postar_por_cáren    -0.012394808579973979
+    Attrib martins_paixão_tricolor    0.01689608380071203
+    Attrib dono_de_casa    -0.23430084082612276
+    Attrib por_tiago_rech    -0.0237586838224223
+    Attrib postar_por_tiago    0.033353765095669424
+    Attrib tiago_rech_a    -0.045646254177157654
+    Attrib bala_em_cara    -0.025140699035507776
+    Attrib cáren_cecília_categoria    0.01021389432018592
+    Attrib de_copa_de    -0.02317764783296136
+    Attrib r_inscrições_www    0.027849429217918623
+    Attrib rech_a_categoria    -0.019487585037732624
+    Attrib em_frente_a    2.0811320167658405
+    Attrib em_manhã_de    0.04203196456517028
+    Attrib de_acordo_com    2.291638383351917
+    Attrib de_bala_em    -0.018569526919196132
+    Attrib de_tráfico_em    0.693471895947485
+    Attrib tráfico_de_droga    1.272670057382674
+    Attrib maria_de_conceição    -0.03715475166711181
+    Attrib postar_por_michele    -0.03616482308235534
+    Attrib michele_vaz_pradella    -0.01134608123301354
+    Attrib cáren_cecília_baldo    -0.028508430442071797
+    Attrib vaz_pradella_a    -0.017489829107888065
+    Attrib por_michele_vaz    0.042864409058024744
+    Attrib ano_ir_morto    0.25519710578963595
+    Attrib rech_tiago_categoria    -0.03160392000050177
+    Attrib secretaria_municipal_de    0.029996420353466682
+    Attrib vila_maria_de    -0.037017081190949735
+    Attrib zona_norte_de    1.150944454886851
+    Attrib tiago_rech_tiago    0.04502616430307056
+    Attrib acordo_com_delegado    0.04216616112398629
+    Attrib de_homicídio_de    0.8245494708025489
+    Attrib com_inscrição_aberta    -0.22297295177700516
+    Attrib em_dia_de    -0.37574679150780577
+    Attrib boca_de_fumo    1.1640905334312774
+    Attrib pradella_a_categoria    -0.02978676113584773
+    Attrib r_r_inscrições    0.024574341965210078
+    Attrib de_terça_feira    -0.034999957133584114
+    Attrib salários_de_r    0.01702761077978676
+    Attrib cecília_categoria_vaga    0.02449346198311267
+    Attrib morador_de_rua    -0.07875587681182278
+    Attrib ir_morto_com    0.8923021561486615
+    Attrib em_função_de    -0.37423189952842567
+    Attrib em_zona_norte    -0.014172904736369618
+    Attrib técnico_renato_portaluppi    0.02488810760007394
+    Attrib assessoria_de_imprensa    -0.9970586612371135
+Sigmoid Node 28
+    Inputs    Weights
+    Threshold    0.2257454496719955
+    Attrib cacalo_silveira_martins    -0.04642072286270327
+    Attrib kenny_braga_paixão    -0.0020053812286938283
+    Attrib braga_paixão_colorar    -0.02399651693357723
+    Attrib silveira_martins_paixão    -0.020919652061893026
+    Attrib copa_de_brasil    -0.049856575800164574
+    Attrib postar_por_cáren    0.04129580447063684
+    Attrib martins_paixão_tricolor    0.011216086560615138
+    Attrib dono_de_casa    0.8274470673448617
+    Attrib por_tiago_rech    0.010392668643347688
+    Attrib postar_por_tiago    -0.022457977661088004
+    Attrib tiago_rech_a    0.04655042706220969
+    Attrib bala_em_cara    0.030890332899921727
+    Attrib cáren_cecília_categoria    0.04114848447780449
+    Attrib de_copa_de    -0.007437327554779147
+    Attrib r_inscrições_www    -0.0050612242270706015
+    Attrib rech_a_categoria    -0.04820268600524838
+    Attrib em_frente_a    -0.3296620739315707
+    Attrib em_manhã_de    -0.00936785451061637
+    Attrib de_acordo_com    0.2307679546970119
+    Attrib de_bala_em    0.04487320714455946
+    Attrib de_tráfico_em    0.6983928849837888
+    Attrib tráfico_de_droga    1.0749441585744774
+    Attrib maria_de_conceição    -0.03895388642823973
+    Attrib postar_por_michele    -0.014397719746659043
+    Attrib michele_vaz_pradella    -0.033775039928434086
+    Attrib cáren_cecília_baldo    -0.022368911883942133
+    Attrib vaz_pradella_a    0.0044398961615697355
+    Attrib por_michele_vaz    0.002272243895683368
+    Attrib ano_ir_morto    0.6821178469581407
+    Attrib rech_tiago_categoria    0.001604550774341587
+    Attrib secretaria_municipal_de    0.008923553422776495
+    Attrib vila_maria_de    0.026763172347699038
+    Attrib zona_norte_de    0.6314282950424209
+    Attrib tiago_rech_tiago    -0.02854294919307554
+    Attrib acordo_com_delegado    0.0039281019259582856
+    Attrib de_homicídio_de    0.39206464290430926
+    Attrib com_inscrição_aberta    -0.2954639762190604
+    Attrib em_dia_de    -0.6505222634942914
+    Attrib boca_de_fumo    0.4797775497332098
+    Attrib pradella_a_categoria    0.035578284369167795
+    Attrib r_r_inscrições    -3.926416356055257E-4
+    Attrib de_terça_feira    0.03785238493730092
+    Attrib salários_de_r    -0.04146935386612182
+    Attrib cecília_categoria_vaga    0.03390293687375255
+    Attrib morador_de_rua    1.7386686309480215
+    Attrib ir_morto_com    0.513336517229712
+    Attrib em_função_de    -0.8743165302223974
+    Attrib em_zona_norte    -0.03271882645723777
+    Attrib técnico_renato_portaluppi    0.04666670711796021
+    Attrib assessoria_de_imprensa    -0.3655057564365291
+Sigmoid Node 29
+    Inputs    Weights
+    Threshold    -0.060748136440859586
+    Attrib cacalo_silveira_martins    -0.0022636365150703885
+    Attrib kenny_braga_paixão    0.032959342292543437
+    Attrib braga_paixão_colorar    -0.003507647163030002
+    Attrib silveira_martins_paixão    -0.02550378237397909
+    Attrib copa_de_brasil    -0.023131955006533547
+    Attrib postar_por_cáren    0.006874347520716681
+    Attrib martins_paixão_tricolor    -0.025872676607548353
+    Attrib dono_de_casa    0.5410480318784555
+    Attrib por_tiago_rech    -0.04147998647647008
+    Attrib postar_por_tiago    -0.02156482037352907
+    Attrib tiago_rech_a    -0.002057382298333209
+    Attrib bala_em_cara    -0.018576080468722604
+    Attrib cáren_cecília_categoria    0.03023741315527681
+    Attrib de_copa_de    -0.017729012210492938
+    Attrib r_inscrições_www    -0.039421041290541636
+    Attrib rech_a_categoria    -0.04256092518795954
+    Attrib em_frente_a    1.0848182265227058
+    Attrib em_manhã_de    -0.004562093275501479
+    Attrib de_acordo_com    0.3245637528289156
+    Attrib de_bala_em    0.045424127216382004
+    Attrib de_tráfico_em    0.0059516188442253985
+    Attrib tráfico_de_droga    -0.16430475741113998
+    Attrib maria_de_conceição    0.00462621819892782
+    Attrib postar_por_michele    0.013255692524572205
+    Attrib michele_vaz_pradella    -0.0020693374578005935
+    Attrib cáren_cecília_baldo    0.02959133558901339
+    Attrib vaz_pradella_a    0.024796174768922707
+    Attrib por_michele_vaz    0.027137651020276196
+    Attrib ano_ir_morto    -0.10283357533754456
+    Attrib rech_tiago_categoria    0.0032854682749925285
+    Attrib secretaria_municipal_de    0.042756739602249974
+    Attrib vila_maria_de    0.010302091209924348
+    Attrib zona_norte_de    -0.1391674246528022
+    Attrib tiago_rech_tiago    -0.037750954134011805
+    Attrib acordo_com_delegado    0.016967735444762377
+    Attrib de_homicídio_de    -0.17887719350432196
+    Attrib com_inscrição_aberta    2.0147094067818183
+    Attrib em_dia_de    0.45082071202859014
+    Attrib boca_de_fumo    -0.11590400608662713
+    Attrib pradella_a_categoria    0.017408465230495315
+    Attrib r_r_inscrições    0.04868758898294527
+    Attrib de_terça_feira    0.03549466449323872
+    Attrib salários_de_r    -0.04289940487561903
+    Attrib cecília_categoria_vaga    -0.04846743999350509
+    Attrib morador_de_rua    -0.27123000967353955
+    Attrib ir_morto_com    -0.13095253209645036
+    Attrib em_função_de    0.3251778298306027
+    Attrib em_zona_norte    0.040257752492187285
+    Attrib técnico_renato_portaluppi    0.01300767466207979
+    Attrib assessoria_de_imprensa    1.1452316637207207
+Sigmoid Node 30
+    Inputs    Weights
+    Threshold    -0.13115505520801313
+    Attrib cacalo_silveira_martins    -0.04073297673575831
+    Attrib kenny_braga_paixão    0.003953781130758768
+    Attrib braga_paixão_colorar    -0.00935877677602822
+    Attrib silveira_martins_paixão    -0.037476353493511944
+    Attrib copa_de_brasil    -0.025872446895571867
+    Attrib postar_por_cáren    0.0375131310586691
+    Attrib martins_paixão_tricolor    -0.010583483748951836
+    Attrib dono_de_casa    0.30508641153838784
+    Attrib por_tiago_rech    0.035531238151517416
+    Attrib postar_por_tiago    0.0052361521271560366
+    Attrib tiago_rech_a    0.035907329986095846
+    Attrib bala_em_cara    -0.007791925292918979
+    Attrib cáren_cecília_categoria    -0.010862882301298116
+    Attrib de_copa_de    -0.04182934598971571
+    Attrib r_inscrições_www    -0.01297483405272374
+    Attrib rech_a_categoria    0.004980121074772512
+    Attrib em_frente_a    0.34763796850667256
+    Attrib em_manhã_de    2.380252621650633E-4
+    Attrib de_acordo_com    0.7629233474294204
+    Attrib de_bala_em    -0.02884390897573923
+    Attrib de_tráfico_em    0.3806219644430902
+    Attrib tráfico_de_droga    0.4821448424752351
+    Attrib maria_de_conceição    0.0358050568545695
+    Attrib postar_por_michele    0.014160379776803594
+    Attrib michele_vaz_pradella    0.03951218745795829
+    Attrib cáren_cecília_baldo    0.04833912921108839
+    Attrib vaz_pradella_a    -0.0210428316213648
+    Attrib por_michele_vaz    1.467448488392739E-4
+    Attrib ano_ir_morto    0.3728537428353465
+    Attrib rech_tiago_categoria    0.04988590442646092
+    Attrib secretaria_municipal_de    -0.0015851602086751487
+    Attrib vila_maria_de    0.03228521440579092
+    Attrib zona_norte_de    0.2812332921871527
+    Attrib tiago_rech_tiago    -0.011875732008598719
+    Attrib acordo_com_delegado    0.010368220204865254
+    Attrib de_homicídio_de    0.34005197861079767
+    Attrib com_inscrição_aberta    0.2315513059921831
+    Attrib em_dia_de    0.03012960124361795
+    Attrib boca_de_fumo    0.3155799241587593
+    Attrib pradella_a_categoria    -0.026099721374699538
+    Attrib r_r_inscrições    0.02551390801035662
+    Attrib de_terça_feira    -0.03685421453021596
+    Attrib salários_de_r    0.03342541904694493
+    Attrib cecília_categoria_vaga    -0.011429649317331633
+    Attrib morador_de_rua    0.504605482760574
+    Attrib ir_morto_com    0.31558370925062285
+    Attrib em_função_de    -0.048664274803102335
+    Attrib em_zona_norte    -0.024514389316044684
+    Attrib técnico_renato_portaluppi    0.03553784161845412
+    Attrib assessoria_de_imprensa    0.03318266030961049
+Class corpus_policia
+    Input
+    Node 0
+Class corpus_espaco_do_trabalhador
+    Input
+    Node 1
+Class corpus_esportes
+    Input
+    Node 2
+Class corpus_seu_problema_e_nosso
+    Input
+    Node 3
+
+Attribute mappings:
+
+Model attributes                     	    Incoming attributes
+-------------------------------------	    ----------------
+(numeric) cacalo_silveira_martins    	--> 1 (numeric) cacalo_silveira_martins
+(numeric) kenny_braga_paixão         	--> 3 (numeric) kenny_braga_paixão
+(numeric) braga_paixão_colorar       	--> 4 (numeric) braga_paixão_colorar
+(numeric) silveira_martins_paixão    	--> 22 (numeric) silveira_martins_paixão
+(numeric) copa_de_brasil             	--> 13 (numeric) copa_de_brasil
+(numeric) postar_por_cáren           	--> 8 (numeric) postar_por_cáren
+(numeric) martins_paixão_tricolor    	--> 23 (numeric) martins_paixão_tricolor
+(numeric) dono_de_casa               	--> 11 (numeric) dono_de_casa
+(numeric) por_tiago_rech             	--> 9 (numeric) por_tiago_rech
+(numeric) postar_por_tiago           	--> 10 (numeric) postar_por_tiago
+(numeric) tiago_rech_a               	--> 7 (numeric) tiago_rech_a
+(numeric) bala_em_cara               	--> - missing (no match)
+(numeric) cáren_cecília_categoria    	--> 18 (numeric) cáren_cecília_categoria
+(numeric) de_copa_de                 	--> 31 (numeric) de_copa_de
+(numeric) r_inscrições_www           	--> - missing (no match)
+(numeric) rech_a_categoria           	--> 12 (numeric) rech_a_categoria
+(numeric) em_frente_a                	--> - missing (no match)
+(numeric) em_manhã_de                	--> 15 (numeric) em_manhã_de
+(numeric) de_acordo_com              	--> - missing (no match)
+(numeric) de_bala_em                 	--> - missing (no match)
+(numeric) de_tráfico_em              	--> - missing (no match)
+(numeric) tráfico_de_droga           	--> - missing (no match)
+(numeric) maria_de_conceição         	--> - missing (no match)
+(numeric) postar_por_michele         	--> 40 (numeric) postar_por_michele
+(numeric) michele_vaz_pradella       	--> - missing (no match)
+(numeric) cáren_cecília_baldo        	--> 21 (numeric) cáren_cecília_baldo
+(numeric) vaz_pradella_a             	--> 46 (numeric) vaz_pradella_a
+(numeric) por_michele_vaz            	--> - missing (no match)
+(numeric) ano_ir_morto               	--> - missing (no match)
+(numeric) rech_tiago_categoria       	--> - missing (no match)
+(numeric) secretaria_municipal_de    	--> 20 (numeric) secretaria_municipal_de
+(numeric) vila_maria_de              	--> - missing (no match)
+(numeric) zona_norte_de              	--> - missing (no match)
+(numeric) tiago_rech_tiago           	--> - missing (no match)
+(numeric) acordo_com_delegado        	--> - missing (no match)
+(numeric) de_homicídio_de            	--> - missing (no match)
+(numeric) com_inscrição_aberta       	--> 47 (numeric) com_inscrição_aberta
+(numeric) em_dia_de                  	--> 30 (numeric) em_dia_de
+(numeric) boca_de_fumo               	--> - missing (no match)
+(numeric) pradella_a_categoria       	--> - missing (no match)
+(numeric) r_r_inscrições             	--> - missing (no match)
+(numeric) de_terça_feira             	--> 29 (numeric) de_terça_feira
+(numeric) salários_de_r              	--> - missing (no match)
+(numeric) cecília_categoria_vaga     	--> - missing (no match)
+(numeric) morador_de_rua             	--> - missing (no match)
+(numeric) ir_morto_com               	--> - missing (no match)
+(numeric) em_função_de               	--> - missing (no match)
+(numeric) em_zona_norte              	--> - missing (no match)
+(numeric) técnico_renato_portaluppi  	--> - missing (no match)
+(numeric) assessoria_de_imprensa     	--> - missing (no match)
+(nominal) classe                     	--> 51 (nominal) classe
+
+
+Time taken to build model: 3.62 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 0.01 seconds
+
+=== Summary ===
+
+Correctly Classified Instances          20               29.4118 %
+Incorrectly Classified Instances        48               70.5882 %
+Kappa statistic                          0.0417
+Mean absolute error                      0.356 
+Root mean squared error                  0.5899
+Relative absolute error                 95.2179 %
+Root relative squared error            136.4224 %
+Total Number of Instances               68     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1,000    0,960    0,273      1,000    0,429      0,104    0,562     0,291     corpus_policia
+                 0,000    0,000    0,000      0,000    0,000      0,000    0,690     0,453     corpus_espaco_do_trabalhador
+                 0,000    0,000    0,000      0,000    0,000      0,000    0,633     0,345     corpus_esportes
+                 0,133    0,000    1,000      0,133    0,235      0,327    0,738     0,532     corpus_seu_problema_e_nosso
+Weighted Avg.    0,294    0,254    0,293      0,294    0,165      0,100    0,651     0,398     
+
+=== Confusion Matrix ===
+
+  a  b  c  d   <-- classified as
+ 18  0  0  0 |  a = corpus_policia
+ 16  0  0  0 |  b = corpus_espaco_do_trabalhador
+ 19  0  0  0 |  c = corpus_esportes
+ 13  0  0  2 |  d = corpus_seu_problema_e_nosso
+

@@ -102,6 +102,20 @@ class EstruturarTextos:
             for k, v in words:
                 new_arq.write("{} - {}\n".format(k, v))
 
+        with open('CORPUS/TREINO/BoW/All/all_bigram.txt', 'w') as new_arq:
+            words = [(k, self.bag_of_words_treino['bigram'][k]) for k in sorted(self.bag_of_words_treino['bigram'],
+                                                                                 key=self.bag_of_words_treino[
+                                                                                     'bigram'].get, reverse=True)]
+            for k, v in words:
+                new_arq.write("{} - {}\n".format(k, v))
+
+        with open('CORPUS/TREINO/BoW/All/all_trigram.txt', 'w') as new_arq:
+            words = [(k, self.bag_of_words_treino['trigram'][k]) for k in sorted(self.bag_of_words_treino['trigram'],
+                                                                                 key=self.bag_of_words_treino[
+                                                                                     'trigram'].get, reverse=True)]
+            for k, v in words:
+                new_arq.write("{} - {}\n".format(k, v))
+
         with open('CORPUS/TREINO/BoW/All/all_unigram_bigram.txt', 'w') as new_arq:
             bow_treino_uni_bi = {**self.bag_of_words_treino['unigram'], **self.bag_of_words_treino['bigram']}
             words = [(k, bow_treino_uni_bi[k]) for k in sorted(bow_treino_uni_bi,
@@ -121,6 +135,20 @@ class EstruturarTextos:
             words = [(k, self.bag_of_words_teste['unigram'][k]) for k in sorted(self.bag_of_words_teste['unigram'],
                                                                                 key=self.bag_of_words_teste[
                                                                                     'unigram'].get, reverse=True)]
+            for k, v in words:
+                new_arq.write("{} - {}\n".format(k, v))
+
+        with open('CORPUS/TESTE/BoW/All/all_bigram.txt', 'w') as new_arq:
+            words = [(k, self.bag_of_words_teste['bigram'][k]) for k in sorted(self.bag_of_words_teste['bigram'],
+                                                                                key=self.bag_of_words_teste[
+                                                                                    'bigram'].get, reverse=True)]
+            for k, v in words:
+                new_arq.write("{} - {}\n".format(k, v))
+
+        with open('CORPUS/TESTE/BoW/All/all_trigram.txt', 'w') as new_arq:
+            words = [(k, self.bag_of_words_teste['trigram'][k]) for k in sorted(self.bag_of_words_teste['trigram'],
+                                                                                key=self.bag_of_words_teste[
+                                                                                    'trigram'].get, reverse=True)]
             for k, v in words:
                 new_arq.write("{} - {}\n".format(k, v))
 

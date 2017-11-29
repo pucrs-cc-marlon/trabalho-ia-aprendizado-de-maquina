@@ -21,10 +21,10 @@ class CriarWekaFiles:
         directory_bow_teste = os.path.join(BASE_DIR, 'CORPUS', 'TESTE', 'BoW', 'All')
         # glob("{}/*.txt".format(directory_bow_treino))
         # Modificar o nome do arquivo que deseja usar da Bag of Words
-        bow_treino_filenames = [os.path.join(directory_bow_treino, 'all_unigram_bigram_trigram.txt')]
+        bow_treino_filenames = [os.path.join(directory_bow_treino, 'all_trigram.txt')]
         # glob("{}/*.txt".format(directory_bow_teste))
         # Modificar o nome do arquivo que deseja usar da Bag of Words
-        bow_teste_filenames = [os.path.join(directory_bow_teste, 'all_unigram_bigram_trigram.txt')]
+        bow_teste_filenames = [os.path.join(directory_bow_teste, 'all_trigram.txt')]
 
         self.textos_teste = {}
         self.textos_treino = {}
@@ -96,7 +96,7 @@ class CriarWekaFiles:
                 lines.append(tmp_string)
 
         # Modificar o nome do arquivo que deseja salvar do .arff
-        with open("Wekafiles/uni_bi_tri_teste.arff", 'w') as arq:
+        with open("Wekafiles/tri_teste.arff", 'w') as arq:
             for line in lines:
                 arq.write(line)
 
@@ -123,7 +123,7 @@ class CriarWekaFiles:
                 tmp_string += "{}\n".format(arq.lower().replace(" ", "_").replace(".txt", ""))
                 lines.append(tmp_string)
         # Modificar o nome do arquivo que deseja salvar do .arff
-        with open("Wekafiles/uni_bi_tri_treino.arff", 'w') as arq:
+        with open("Wekafiles/tri_treino.arff", 'w') as arq:
             for line in lines:
                 arq.write(line)
 
